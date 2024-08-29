@@ -4,7 +4,7 @@
         {
             "name": "meat-inspection-csv",
             "type":"table",
-            "path": "https://data.blv.admin.ch/ogd/meat-inspection/meat-inspection.csv",
+            "path": "https://www.data.blv.admin.ch/ogd/statistics_on_meat_inspection/meat-inspection.csv",
             "scheme": "file",
             "profile": "tabular-data-resource",
             "schema": {
