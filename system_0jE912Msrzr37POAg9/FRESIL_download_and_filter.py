@@ -290,7 +290,7 @@ for file in os.listdir(input_directory):
     if file.endswith('.csv'):
         # Generate input and output paths
         input_path = os.path.join(input_directory, file)
-        output_path = os.path.join(output_directory, f'filtered-{file}')
+        output_path = os.path.join(output_directory, f'early_detection_for_food_safety_{file}')
 
         # Run the prep_data function for each CSV file
         df = prep_data(input_path, output_path)
