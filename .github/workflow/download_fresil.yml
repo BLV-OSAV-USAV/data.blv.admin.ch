@@ -1,0 +1,39 @@
+name: download FRESIL
+
+on: 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout repo content
+        uses: actions/checkout@v3 # checkout the repository content to github runner.
+        
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' #install the python needed
+
+      - name: install python packages
+        run: |
+          pip install -r system_0jE912Msrzr37POAg9/requirements.txt
+          
+      - name: execute py script
+        env:
+          FTP_PASS: ${{ secrets.FTP_PASS }}
+        run: python system_0jE912Msrzr37POAg9/FRESIL_download_and_filter.py
+     
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git commit -m "update" -a --allow-empty
+          
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
