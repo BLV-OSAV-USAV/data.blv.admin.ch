@@ -272,7 +272,11 @@ def prep_data(input_path, output_path):
             if column in file.columns:
                 file = func(file, column)
 
-        file.to_csv(output_path, sep='Ð', index=False, encoding='utf-8-sig')
+        if input_path == f'./{local_directory}/ad_publikation_detail.csv':
+            return file.to_csv(output_path, sep='|', quotechar='"', index=False, encoding='utf-8-sig')
+        else:
+            return file.to_csv(output_path, sep='#', quotechar='`', index=False, encoding='utf-8-sig')
+        #file.to_csv(output_path, sep='Ð', index=False, encoding='utf-8-sig')
 
     except pd.errors.EmptyDataError:
         print(f"Warning: {input_path} is empty. Skipping.")
