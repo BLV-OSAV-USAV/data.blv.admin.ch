@@ -13,7 +13,8 @@ needed_files = ['ad_bereich.csv','ad_document.csv','ad_gefahr.csv','ad_meldung.c
                 'ad_publikation_detail.csv','ad_publikation.csv', 'ad_steckbrief.csv',
                 'ad_treiber.csv','ad_matrix.csv','ad_meldung_ad_bereich.csv','ad_meldung_ad_gefahr.csv',
                 'ad_meldung_ad_matrix.csv','ad_meldung_ad_steckbrief.csv','ad_meldung_ad_treiber.csv',
-                'ad_steckbrief_ad_bereich.csv','ad_steckbrief_ad_gefahr.csv','ad_steckbrief_ad_matrix.csv']
+                'ad_steckbrief_ad_bereich.csv','ad_steckbrief_ad_gefahr.csv','ad_steckbrief_ad_matrix.csv',
+                 'ad_log.csv']
 
 # GitHub secret
 FTP_PASS = os.environ["FTP_PASS"]
