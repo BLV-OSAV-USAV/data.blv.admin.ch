@@ -1,4 +1,4 @@
-name: download FRESIL
+name: early detection for food safety update
 
 on: 
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "update" -a --allow-empty
+          git commit -m "early detection for food safety update" -a --allow-empty
           
       - name: push changes
         uses: ad-m/github-push-action@master
