@@ -2,6 +2,8 @@ name: download FRESIL
 
 on: 
   workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * *" #runs at 03:00
 
 jobs:
   build:
@@ -18,12 +20,12 @@ jobs:
 
       - name: install python packages
         run: |
-          pip install -r system_0jE912Msrzr37POAg9/requirements.txt
+          pip install -r system_0jE912Msrzr37POAg9/early_detection_for_food_safety_requirements.txt
           
       - name: execute py script
         env:
           FTP_PASS: ${{ secrets.FTP_PASS }}
-        run: python system_0jE912Msrzr37POAg9/FRESIL_download_and_filter.py
+        run: python system_0jE912Msrzr37POAg9/early_detection_for_food_safety_download_and_filter.py
      
       - name: Commit files
         run: |
