@@ -73,7 +73,10 @@ def count_gefahr(timeFilter, bereichName, lg):
     # Save the result to a CSV file
     if bereichName == 'Betrug / Täuschung':
         bereichName = 'BetrugTauschung'
-    gefahr_counts.to_csv(f'./ogd/early_detection_for_food_safety/base/{bereichName}/gefahr_counts_{timeFilter}.csv', index=False)
+
+    output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/gefahr_counts_{timeFilter}.csv'
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    gefahr_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXgefahr, treiberXmeldung, on='meldung_id')
@@ -88,7 +91,9 @@ def count_gefahr(timeFilter, bereichName, lg):
         result_df_gefahr = pd.DataFrame(columns=['gefahr_id'] + list(treiber_mapping.values()))
 
     # Save the result to a CSV file
-    result_df_gefahr.to_csv(f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/gefahr_treiber_counts_{lg}_{timeFilter}.csv', index=False)
+    output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/gefahr_treiber_counts_{lg}_{timeFilter}.csv'
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    result_df_gefahr.to_csv(output_file_path, index=False)
 
 
 def count_matrix(timeFilter, bereichName, lg):
@@ -159,7 +164,10 @@ def count_matrix(timeFilter, bereichName, lg):
     # Save the result to a CSV file
     if bereichName == 'Betrug / Täuschung':
         bereichName = 'BetrugTauschung'
-    matrix_counts.to_csv(f'./ogd/early_detection_for_food_safety/base/{bereichName}/matrix_counts_{timeFilter}.csv', index=False)
+
+    output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/matrix_counts_{timeFilter}.csv'
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    matrix_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXmatrix, treiberXmeldung, on='meldung_id')
@@ -173,8 +181,10 @@ def count_matrix(timeFilter, bereichName, lg):
     else: 
         result_df_matrix = pd.DataFrame(columns=['matrix_id'] + list(treiber_mapping.values()))
 
-    # Save the result to a CSV file
-    result_df_matrix.to_csv(f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/matrix_treiber_counts_{lg}_{timeFilter}.csv', index=False)
+    # Save the result to a CSV file   
+    output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/matrix_treiber_counts_{lg}_{timeFilter}.csv'
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    result_df_matrix.to_csv(output_file_path, index=False)
 
 def count_steckbrief(timeFilter, bereichName, lg):
     """
@@ -256,7 +266,11 @@ def count_steckbrief(timeFilter, bereichName, lg):
     # Save the result to a CSV file
     if bereichName == 'Betrug / Täuschung':
         bereichName = 'BetrugTauschung'
-    steckbrief_counts.to_csv(f'./ogd/early_detection_for_food_safety/base/{bereichName}/steckbrief_counts_{timeFilter}.csv', index=False)
+
+    output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/steckbrief_counts_{timeFilter}.csv'
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+    steckbrief_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXsteckbrief, treiberXmeldung, on='meldung_id')
@@ -271,8 +285,13 @@ def count_steckbrief(timeFilter, bereichName, lg):
         # If result_df_steckbrief is empty, create an empty DataFrame with columns from treiber
         result_df_steckbrief = pd.DataFrame(columns=['steckbrief_id'] + list(treiber_mapping.values()))
 
+    output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/steckbrief_treiber_counts_{lg}_{timeFilter}.csv'
+
+    # Create the directory if it doesn't exist
+    os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
     # Save the result to a CSV file
-    result_df_steckbrief.to_csv(f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/steckbrief_treiber_counts_{lg}_{timeFilter}.csv', index=False)
+    result_df_steckbrief.to_csv(output_file_path, index=False)
 
 
 def list_meldung_pro_Gefahr(id):
