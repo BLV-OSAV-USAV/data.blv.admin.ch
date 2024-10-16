@@ -121,7 +121,7 @@ def count_matrix(timeFilter, bereichName, lg):
     # Apply time filter
     if timeFilter != 'all':
         meldung['erfDate'] = pd.to_datetime(meldung['erf_date']).dt.date
-        today = pd.to_datetime('2023-11-28')
+        today = date.today()
         
         if timeFilter == 'week':
             start = (today - pd.DateOffset(weeks=1)).date()
@@ -212,7 +212,7 @@ def count_steckbrief(timeFilter, bereichName, lg):
     # Apply time filter
     if timeFilter != 'all':
         meldung['erfDate'] = pd.to_datetime(meldung['erf_date']).dt.date
-        today = pd.to_datetime('2023-11-28')
+        today = date.today()
 
         if timeFilter == 'week':
             start = (today - pd.DateOffset(weeks=1)).date()
