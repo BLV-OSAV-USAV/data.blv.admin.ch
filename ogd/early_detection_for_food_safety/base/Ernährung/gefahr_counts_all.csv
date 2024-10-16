@@ -1,0 +1,89 @@
+id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+165,8,Cadmium,Cadmium,Cadmio,Cadmium,1.38,"[1095, 263, 1290, 750, 392, 532, 989, 1689]"
+125,7,Mikroplastik,microplastiques,microplastica,microplastics,1.29,"[524, 1030, 310, 453, 1362, 1235, 1314]"
+167,6,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[321, 1095, 750, 273, 532, 1689]"
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[908, 552, 1126, 952, 852]"
+45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.6,"[809, 813, 602, 691, 938]"
+187,5,Arsen,Arsenic,Arsenico,Arsenic,1.2,"[1095, 750, 392, 532, 659]"
+102,5,Blei,Plomb,Piombo,Lead,1.2,"[263, 1290, 750, 701, 1689]"
+80,5,Salz,sel,sale,salt,1.4,"[1119, 1612, 1367, 1580, 1437]"
+91,4,Pestizide,pesticides,pesticidi,pesticide,1.5,"[417, 524, 798, 1511]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.5,"[533, 263, 392, 783]"
+79,4,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1123, 712, 846]"
+197,4,Nitrite,Nitrite,Nitrito,Nitrite,1.75,"[226, 316, 259, 750]"
+363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
+246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.33,"[458, 1639, 718]"
+273,3,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374]"
+92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
+122,3,Diabetes,diabète,diabete,diabetes,1.33,"[1578, 448, 94]"
+145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.33,"[1208, 1664, 76]"
+180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[295, 1628, 1136]"
+49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1273]"
+243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
+341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
+185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
+51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[210, 54]"
+316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.5,"[1177, 263]"
+378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
+66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
+227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
+338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
+335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[708]
+219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
+142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[912]
+221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[534]
+62,1,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,2.0,[524]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[438]
+236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[413]
+370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
+81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
+373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
+20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
+369,1,leucin,leucine,leucina,leucine,1.0,[1157]
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[386]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1653]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+274,1,Baikiain,Baikiain,Baikiain,Baikiain,3.0,[637]
+374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
+368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]
+307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
+367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[750]
+169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
+359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
+258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
+259,1,furfural,furfural,furfurale,furfural,1.0,[537]
+103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
+398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
+301,1,Metalle der Seltenen Erden (REE),Terre rare (REE),Terre rare (REE),rare earth elements (REE),2.0,[749]
+108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[38]
+233,1,Glutaminsäure,Acide glutamique,Acido glutammico,Glutamic acid,1.0,[381]
+202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,2.0,[424]
+290,1,Saccharin,Saccharine,Saccarina,Saccharin,2.0,[691]
+260,1,benzaldehyd,benzaldéhyde,Benzaldeide,benzaldehyde,1.0,[537]
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+174,1,Fungizid,Fongicide,Fungicida,Fungicide,2.0,[377]
+297,1,Gluten,gluten,glutine,gluten,1.0,[725]
+311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),2.0,[377]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[989]
+261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[989]
+396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
+306,1,Furan,Furane,Furano,Furan,1.0,[1411]
+225,1,Barium,Baryum,Bario,Barium,1.0,[1689]
+326,1,Isoleucin,Isoleucine,Isoleucina,Isoleucine,1.0,[958]
+389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
+413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
+436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
+402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1689]
+431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
