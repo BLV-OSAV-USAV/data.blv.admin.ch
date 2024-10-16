@@ -4,6 +4,7 @@
 import pandas as pd
 import numpy as np
 from datetime import date
+import os
 
 def count_gefahr(timeFilter, bereichName, lg):
     """
