@@ -1,23 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-1,6,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.83,"[288, 984, 984, 1151, 1339, 1558]"
-58,5,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.8,"[984, 1373, 1404, 621, 1525]"
-6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[230, 1209]"
-99,2,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,"[1190, 621]"
-65,2,Eier,Oeufs,Uova,Egg,1.5,"[526, 1209]"
-39,2,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.5,"[186, 621]"
-100,2,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.5,"[739, 621]"
-98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[327]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[238]
-61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",1.0,[258]
-80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",2.0,[648]
-32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,1.0,[755]
-114,1,Nicht spezifizierte sowie gemischte Brote und Dauerbackwaren,Pains et biscottes non spécifiés ou mélangés,Pane e articoli di biscotteria non specificati e misti,Unclassified Or Mixed Breads And Rusks,1.0,[474]
-33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",2.0,[344]
-35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[939]
+1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.8,"[984, 984, 1151, 1339, 1558]"
+58,4,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,2.0,"[984, 1373, 1404, 1525]"
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[937]
+35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[939]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[1173]
 23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),2.0,[1087]
-18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,2.0,[634]
+99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[1190]
+6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,2.0,[1209]
+65,1,Eier,Oeufs,Uova,Egg,2.0,[1209]
 133,1,Honig,Miel,Miele,Honey,2.0,[1558]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[1646]
 138,1,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,[1656]
