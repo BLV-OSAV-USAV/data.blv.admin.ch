@@ -1,98 +1,99 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,83,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.34,"[17, 45, 37, 87, 260, 530, 278, 603, 531, 956, 975, 970, 942, 1351, 420, 568, 990, 1115, 1175, 1218, 1281, 1375, 1498, 1376, 1493, 1490, 1573, 1524, 132, 332, 395, 985, 1055, 578, 1120, 1282, 1559, 1006, 1619, 1513, 859, 1049, 1205, 1603, 1536, 705, 164, 702, 888, 1078, 1469, 1144, 1572, 222, 545, 1494, 1390, 1657, 9, 110, 159, 294, 805, 889, 806, 934, 927, 920, 1054, 1196, 1212, 465, 492, 1040, 1358, 1278, 1424, 1382, 1139, 1357, 1569, 1654, 1655]"
-26,70,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.59,"[92, 314, 303, 811, 987, 828, 1068, 960, 970, 1010, 1032, 173, 420, 990, 1185, 1115, 410, 1266, 1349, 1364, 1368, 1485, 267, 253, 223, 763, 935, 1120, 1453, 1676, 1697, 1694, 24, 254, 979, 968, 1049, 1121, 1347, 1205, 1677, 164, 888, 1057, 1469, 1144, 242, 222, 1422, 1528, 101, 126, 148, 449, 893, 927, 920, 943, 1024, 1099, 989, 75, 195, 194, 356, 1244, 1419, 1599, 1629, 1654]"
-1,50,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.48,"[28, 193, 239, 278, 723, 876, 897, 970, 1021, 1037, 1032, 1143, 1065, 1153, 1165, 1414, 1333, 1343, 1351, 1380, 23, 875, 1213, 1044, 1201, 1660, 1619, 892, 1049, 201, 164, 513, 1093, 1469, 1144, 1610, 22, 31, 234, 380, 640, 805, 922, 971, 1106, 1196, 1295, 1366, 1382, 1139]"
+93,87,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.32,"[17, 45, 37, 87, 260, 530, 278, 603, 531, 956, 975, 970, 942, 1351, 420, 568, 990, 1115, 1175, 1218, 1281, 1375, 1498, 1376, 1493, 1490, 1573, 1524, 1728, 132, 332, 395, 985, 1055, 578, 1120, 1282, 1559, 1006, 1619, 1513, 859, 1049, 1205, 1603, 1536, 705, 164, 702, 888, 1078, 1469, 1144, 1572, 222, 545, 1494, 1390, 9, 110, 159, 294, 805, 889, 806, 934, 927, 920, 1054, 1196, 1212, 465, 492, 1040, 1358, 1278, 1424, 1382, 1139, 1357, 1569, 1654, 1655, 1723, 1733, 1718, 1657]"
+26,71,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.58,"[92, 314, 303, 811, 987, 828, 1068, 960, 970, 1010, 1032, 173, 420, 990, 1185, 1115, 410, 1266, 1349, 1364, 1368, 1485, 267, 253, 223, 763, 935, 1120, 1453, 1676, 1694, 24, 254, 979, 968, 1049, 1121, 1347, 1205, 1732, 1677, 164, 888, 1057, 1469, 1144, 222, 1422, 1528, 101, 126, 148, 449, 893, 927, 920, 943, 1024, 1099, 989, 75, 195, 194, 356, 1244, 1419, 1599, 1629, 1654, 242, 1697]"
+1,51,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.47,"[28, 193, 239, 278, 723, 876, 897, 970, 1021, 1037, 1032, 1143, 1065, 1153, 1165, 1414, 1333, 1343, 1351, 1380, 23, 875, 1213, 1044, 1201, 1619, 892, 1049, 201, 164, 513, 1093, 1469, 1144, 1610, 22, 31, 234, 380, 640, 805, 922, 971, 1106, 1196, 1295, 1366, 1382, 1139, 1718, 1660]"
 19,40,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.6,"[37, 723, 347, 515, 528, 503, 795, 897, 816, 970, 1113, 1115, 1281, 1246, 1399, 1515, 1490, 1524, 23, 683, 854, 1513, 1082, 888, 1081, 800, 1348, 1561, 22, 125, 563, 889, 876, 920, 1106, 194, 357, 1436, 1479, 1627]"
-244,30,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.3,"[1647, 919, 1168, 707, 1414, 1333, 1354, 1579, 1228, 1452, 487, 923, 1660, 1327, 1340, 545, 827, 1657, 1659, 454, 544, 930, 1262, 463, 732, 1366, 1393, 1650, 1706, 1707]"
+244,31,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.29,"[1647, 919, 1168, 707, 1414, 1333, 1354, 1579, 1650, 1735, 1228, 1452, 487, 923, 1327, 1340, 545, 827, 1659, 454, 544, 930, 1262, 463, 732, 1366, 1393, 1706, 1707, 1660, 1657]"
 99,27,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.63,"[20, 278, 502, 777, 940, 1073, 1296, 1519, 1503, 558, 903, 1507, 626, 1327, 1555, 705, 1469, 789, 1691, 434, 741, 841, 995, 1275, 174, 1072, 1139]"
-86,26,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.73,"[87, 610, 970, 1073, 990, 1214, 1281, 1399, 1490, 27, 670, 709, 758, 992, 705, 1469, 998, 1059, 1674, 5, 103, 372, 1196, 189, 355, 1074]"
-63,26,Antibiotika,antibiotiques,antibiotici,antibiotics,1.58,"[879, 74, 407, 438, 919, 1090, 133, 307, 376, 707, 1065, 1333, 1354, 1376, 923, 139, 201, 292, 1429, 1501, 73, 1647, 203, 930, 279, 823]"
+63,26,Antibiotika,antibiotiques,antibiotici,antibiotics,1.58,"[879, 74, 407, 438, 919, 1090, 133, 307, 376, 707, 1065, 1333, 1354, 1376, 923, 139, 201, 292, 1429, 1501, 73, 203, 930, 279, 823, 1647]"
+86,26,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.73,"[87, 610, 970, 1073, 990, 1214, 1281, 1399, 1490, 27, 670, 709, 758, 992, 705, 1469, 998, 1059, 5, 103, 372, 1196, 189, 355, 1074, 1674]"
 111,19,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.63,"[218, 256, 869, 682, 1562, 577, 1619, 973, 475, 1463, 838, 1558, 120, 699, 1169, 1259, 352, 583, 1626]"
+119,19,Norovirus,Norovirus,Norovirus,Norovirus,1.26,"[78, 305, 95, 774, 947, 1051, 1281, 1091, 1399, 42, 734, 1683, 358, 1390, 1722, 920, 943, 1635, 1718]"
 106,18,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.28,"[37, 1667, 239, 857, 912, 1184, 1150, 1268, 1571, 1049, 505, 1144, 769, 918, 1211, 1287, 194, 851]"
-119,17,Norovirus,Norovirus,Norovirus,Norovirus,1.29,"[78, 305, 95, 774, 947, 1051, 1281, 1091, 1635, 1399, 42, 734, 1683, 358, 1390, 920, 943]"
 9,14,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.21,"[239, 476, 1168, 1184, 160, 1490, 1469, 862, 1422, 694, 950, 766, 1382, 1594]"
-87,14,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.57,"[609, 1214, 847, 990, 758, 992, 1534, 1674, 5, 372, 1181, 1074, 1583, 1704]"
+87,14,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.57,"[609, 1214, 847, 990, 758, 992, 1534, 5, 372, 1181, 1074, 1583, 1704, 1674]"
 90,11,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.64,"[7, 113, 105, 970, 40, 11, 348, 1371, 649, 306, 1569]"
-88,10,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.4,"[990, 1175, 758, 1045, 1674, 5, 372, 1074, 1583, 1704]"
+88,10,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.4,"[990, 1175, 758, 1045, 5, 372, 1074, 1583, 1704, 1674]"
+2,9,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.89,"[484, 774, 1091, 61, 834, 1726, 13, 1247, 1679]"
 35,9,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.78,"[35, 87, 280, 52, 705, 63, 83, 455, 1353]"
 94,9,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,"[1573, 1498, 123, 9, 294, 465, 715, 1424, 1709]"
 89,8,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.5,"[7, 886, 719, 1068, 11, 1120, 1478, 716]"
-261,8,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.5,"[1354, 540, 703, 805, 927, 1084, 989, 595]"
+176,8,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,1.5,"[1004, 1495, 1006, 1469, 442, 1382, 1617, 1739]"
 20,8,EHEC,EHEC,EHEC,EHEC,1.88,"[1246, 222, 1561, 118, 234, 920, 329, 357]"
-2,8,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.88,"[484, 774, 1091, 61, 834, 13, 1247, 1679]"
+261,8,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.5,"[1354, 540, 703, 805, 927, 1084, 989, 595]"
 238,7,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.43,"[502, 741, 777, 1519, 1555, 434, 1275]"
-176,7,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,1.57,"[1004, 1495, 1006, 1469, 442, 1382, 1617]"
 181,7,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.57,"[1323, 1536, 116, 1335, 432, 1313, 1406]"
-121,6,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.67,"[774, 1032, 1091, 42, 165, 112]"
 112,6,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,1.5,"[1073, 1469, 829, 1084, 1072, 1139]"
+121,6,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.67,"[774, 1032, 1091, 42, 165, 112]"
 10,6,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.67,"[144, 52, 753, 248, 1114, 1332]"
 333,5,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,"[1066, 1268, 1108, 1227, 1287]"
 114,5,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.4,"[278, 1530, 1536, 1088, 1382]"
-256,5,Parasiten,Parasites,Parassiti,Parasites,1.2,"[681, 520, 1711, 1304, 578]"
 189,5,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.6,"[1019, 203, 1007, 1279, 1270]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[523, 524, 878, 1558]"
+256,5,Parasiten,Parasites,Parassiti,Parasites,1.2,"[681, 520, 1711, 1304, 578]"
 101,4,Brucella spp.,Brucella spp.,Brucella spp.,Brucella spp.,2.0,"[25, 730, 1469, 581]"
-195,4,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),2.25,"[224, 420, 439, 251]"
-287,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[1217, 1498, 949, 1394]"
-365,4,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.25,"[1151, 1540, 1193, 1304]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[523, 524, 878, 1558]"
 8,4,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.5,"[774, 1051, 1045, 920]"
+251,4,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,"[486, 1398, 1638, 1730]"
+365,4,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.25,"[1151, 1540, 1193, 1304]"
+287,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[1217, 1498, 949, 1394]"
 28,4,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.25,"[37, 1073, 249, 652]"
 202,4,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,2.0,"[233, 919, 424, 696]"
 123,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.25,"[45, 676, 702, 294]"
-147,3,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.67,"[970, 1133, 1098]"
+195,4,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),2.25,"[224, 420, 439, 251]"
 107,3,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.33,"[951, 106, 1134]"
-255,3,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.67,"[514, 1532, 1328]"
-193,3,Salmonella Agona,Salmonella Agona,Salmonella Agona,Salmonella Agona,1.67,"[896, 217, 1573]"
-109,3,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,"[1558, 1216, 147]"
-251,3,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,"[486, 1398, 1638]"
-231,3,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,2.0,"[992, 1652, 355]"
-156,3,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,2.33,"[267, 1453, 195]"
-129,3,Affenpocken-Virus (MPXV),variole du singe (MPXV),vaiolo delle scimmie (MXPV),Monkeypox virus (MPXV),1.67,"[191, 271, 1536]"
-120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.33,"[1042, 42, 920]"
-36,3,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,2.67,"[35, 87, 705]"
-23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[98, 1540, 1193]"
-144,3,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.33,"[74, 1524, 1494]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[258, 989, 1626]"
+147,3,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.67,"[970, 1133, 1098]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[524, 1619, 91]"
+103,3,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.67,"[1720, 31, 441]"
+109,3,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,"[1558, 1216, 147]"
 186,3,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,1.33,"[700, 1422, 168]"
+156,3,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,2.33,"[267, 1453, 195]"
+231,3,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,2.0,"[1652, 992, 355]"
+120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.33,"[1042, 42, 920]"
+193,3,Salmonella Agona,Salmonella Agona,Salmonella Agona,Salmonella Agona,1.67,"[896, 217, 1573]"
+255,3,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.67,"[514, 1532, 1328]"
+144,3,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.33,"[74, 1524, 1494]"
+23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[98, 1540, 1193]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[258, 989, 1626]"
+95,3,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,2.67,"[50, 1267, 1139]"
 48,3,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.33,"[96, 705, 1139]"
 4,3,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.67,"[37, 505, 861]"
-95,3,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,2.67,"[50, 1267, 1139]"
+129,3,Affenpocken-Virus (MPXV),variole du singe (MPXV),vaiolo delle scimmie (MXPV),Monkeypox virus (MPXV),1.67,"[191, 271, 1536]"
+36,3,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,2.67,"[35, 87, 705]"
+286,2,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.5,"[1032, 678]"
+14,2,Streptococcus suis,Streptococcus suis,Streptococcus suis,Streptococcus suis,1.0,"[1187, 1039]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[1068, 1161]"
-105,2,Giardia duodenalis,Giardia duodenalis,Giardia duodenalis,Giardia duodenalis,1.5,"[35, 52]"
-97,2,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,1.5,"[17, 294]"
 342,2,Campylobacter lari,Campylobacter lari,Campylobacter lari,Campylobacter lari,1.5,"[992, 1583]"
 131,2,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,"[984, 1174]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,2.0,"[984, 1216]"
-361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.5,"[1295, 1686]"
+386,2,Aichivirus (AiV),Aichivirus (AiV),Aichivirus (AiV),Aichivirus (AiV),1.0,"[1238, 1587]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[146, 112]"
 146,2,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,3.0,"[551, 84]"
 296,2,Providencia spp.,Providencia spp.,Providencia spp.,Providencia spp.,1.5,"[922, 724]"
-103,2,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),2.0,"[31, 441]"
-183,2,Salmonella Litchfield,Salmonella Litchfield,Salmonella Litchfield,Salmonella Litchfield,2.0,"[1032, 132]"
+361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.5,"[1295, 1686]"
 160,2,Nipah Virus,Virus Nipah,Virus Nipah,Nipah virus,1.0,"[785, 269]"
-286,2,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.5,"[1032, 678]"
-341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
-314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.0,"[1570, 874]"
-257,2,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,2.0,"[536, 1203]"
-62,2,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.5,"[524, 1204]"
-197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.0,"[316, 1577]"
-210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
-211,2,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.5,"[258, 857]"
-167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[258, 1185]"
-14,2,Streptococcus suis,Streptococcus suis,Streptococcus suis,Streptococcus suis,1.0,"[1187, 1039]"
-386,2,Aichivirus (AiV),Aichivirus (AiV),Aichivirus (AiV),Aichivirus (AiV),1.0,"[1238, 1587]"
-376,2,Histamin,Histamine,Istamina,Histamine,1.0,"[1185, 1173]"
-427,2,Enterovirus,Entérovirus,Enterovirus,Enterovirus,1.0,"[1502, 1635]"
+183,2,Salmonella Litchfield,Salmonella Litchfield,Salmonella Litchfield,Salmonella Litchfield,2.0,"[1032, 132]"
+401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[1350, 1650]"
 218,2,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),2.5,"[1620, 287]"
 458,2,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,1.0,"[1671, 1661]"
-409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
-401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[1350, 1650]"
+257,2,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,2.0,"[536, 1203]"
+211,2,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.5,"[258, 857]"
+62,2,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.5,"[524, 1204]"
+210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[258, 1185]"
+197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.0,"[316, 1577]"
+97,2,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,1.5,"[17, 294]"
+105,2,Giardia duodenalis,Giardia duodenalis,Giardia duodenalis,Giardia duodenalis,1.5,"[35, 52]"
+376,2,Histamin,Histamine,Istamina,Histamine,1.0,"[1185, 1173]"
+427,2,Enterovirus,Entérovirus,Enterovirus,Enterovirus,1.0,"[1502, 1635]"
 18,2,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.5,"[1158, 1700]"
+314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.0,"[1570, 874]"
+341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.5,"[320, 1469]"
+409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
 267,2,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.5,"[558, 1085]"
 190,1,Salmonella Bovismorbificans,Salmonella Bovismorbificans,Salmonella Bovismorbificans,Salmonella Bovismorbificans,1.0,[204]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[90]
+288,1,T-2,T-2,T-2,T-2,2.0,[682]
 347,1,Vibrio metschnikovii,Vibrio metschnikovii,Vibrio metschnikovii,Vibrio metschnikovii,2.0,[1067]
 336,1,Taenia solium,Taenia solium,Taenia solium,Taenia solium,3.0,[970]
 312,1,Clostridum sporogenes/tepidum,Clostridum sporogenes/tepidum,Clostridum sporogenes/tepidum,Clostridum sporogenes/tepidum,2.0,[857]
@@ -103,8 +104,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 250,1,extended-spectrum beta-lactamase produzierenden Shigella sonnei,Shigella sonnei productrices de bêta-lactamase à spectre étendu,Shigella sonnei produttrice di beta-lattamasi a spettro esteso,extended spectrum beta-lactamase producing-Shigella sonnei,1.0,[481]
 212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[258]
-288,1,T-2,T-2,T-2,T-2,2.0,[682]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[1265]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1354]
 433,1,Poliovirus,Poliovirus,Poliovirus,Poliovirus,1.0,[1523]
 403,1,Mykobakterien,Mycobacterium,Mycobacterium,Mycobacterium,1.0,[1354]
 388,1,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,2.0,[1242]
@@ -112,72 +113,71 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 360,1,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.0,[1133]
 213,1,L. welshimeri ,L. welshimeri ,L. welshimeri ,L. welshimeri ,2.0,[267]
 194,1,Bourbon-Virus (BOUV),Virus de Bourbon (BOUV),Bourbon virus (BOUV),Bourbon virus (BRBV),1.0,[221]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1354]
-356,1,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,2.0,[1118]
+346,1,Salmonella Kiambu,Salmonella Kiambu,Salmonella Kiambu,Salmonella Kiambu,1.0,[1055]
 302,1,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,2.0,[799]
 380,1,Taenia martis,Taenia martis,Taenia martis,Taenia martis,1.0,[1188]
+463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
 384,1,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,1.0,[1218]
-366,1,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,2.0,[1151]
-76,1,colistin,colistine,colistina,Colistin,1.0,[376]
+356,1,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,2.0,[1118]
+304,1,Clostridien,Clostridia,Clostridia,Clostridia,1.0,[801]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[976]
 383,1,Ruminococcus gnavus,Ruminococcus gnavus,Ruminococcus gnavus,Ruminococcus gnavus,1.0,[1206]
+366,1,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,2.0,[1151]
 444,1,Salmonella Derby,Salmonella Derby,Salmonella Derby,Salmonella Derby,1.0,[1573]
-457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[1635]
-304,1,Clostridien,Clostridia,Clostridia,Clostridia,1.0,[801]
 303,1,Akkermansia,Akkermansia,Akkermansia,Akkermansia,1.0,[801]
+76,1,colistin,colistine,colistina,Colistin,1.0,[376]
 265,1,diastatische Hefe,levure diastatique,lievito diastatico,diastatic yeast,2.0,[555]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[1619]
-29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.0,[1658]
-390,1,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,[1619]
-406,1,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,1.0,[1383]
 428,1,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,1.0,[1507]
-229,1,Streptococcus pyogenes (GAS),Streptococcus pyogenes (SGA),Streptococcus pyogenes (SGA),Streptococcus pyogenes (GAS),1.0,[341]
-266,1,Legionella,Legionella,Legionella,Legionella,2.0,[558]
+390,1,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,[1619]
 37,1,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,1.0,[1383]
+406,1,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,1.0,[1383]
+29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.0,[1658]
+229,1,Streptococcus pyogenes (GAS),Streptococcus pyogenes (SGA),Streptococcus pyogenes (SGA),Streptococcus pyogenes (GAS),1.0,[341]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
-346,1,Salmonella Kiambu,Salmonella Kiambu,Salmonella Kiambu,Salmonella Kiambu,1.0,[1055]
+266,1,Legionella,Legionella,Legionella,Legionella,2.0,[558]
+136,1,Prion,Prion,Prione,Prion,1.0,[431]
 140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,3.0,[456]
 245,1,Streptococcus equi,Streptococcus equi,Streptococcus equi,Streptococcus equi,3.0,[456]
 100,1,Frühsommer-Meningoenzephalitis (FSME),L'encéphalite à tiques,Encefalite trasmessa da zecche,Tick-borne encephalitis (TBE),1.0,[625]
 381,1,Staphylococcus succinus,Staphylococcus succinus,Staphylococcus succinus,Staphylococcus succinus,1.0,[1189]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,2.0,[1469]
 325,1,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,1.0,[954]
-391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]
-174,1,Fungizid,Fongicide,Fungicida,Fungicide,2.0,[495]
 447,1,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,1.0,[1589]
+174,1,Fungizid,Fongicide,Fungicida,Fungicide,2.0,[495]
+343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[998]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 177,1,Alongshan Virus (ALSV),Virus Alongshan (ALSV),Virus Alongshan (ALSV),Alongshan virus (ALSV),3.0,[208]
 375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,3.0,[1170]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[1013]
-343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[998]
+442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[1558]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
-136,1,Prion,Prion,Prione,Prion,1.0,[431]
+391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]
 184,1,Morganella morganii,Morganella morganii,Morganella morganii,Morganella morganii,2.0,[143]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[425]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[201]
+40,1,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,1.0,[146]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[73]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,[99]
-442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[1558]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
-207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),2.0,[435]
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[442]
-206,1,Caprinsäure,Acide caprique,Acido caprico,Capric acid,1.0,[250]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,Phytohaemagglutinin,1.0,[642]
+207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
 289,1,HT-2,HT-2,HT-2,HT-2,2.0,[682]
-278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 291,1,Milchsäurebakterien,Bactérie lactique,batteri lattici acidofili,Lactic acid bacteria,2.0,[696]
+278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 319,1,Proteus spp.,Proteus spp.,Proteus spp.,Proteus spp.,2.0,[922]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,2.0,[922]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[1169]
-40,1,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,1.0,[146]
 54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
+206,1,Caprinsäure,Acide caprique,Acido caprico,Capric acid,1.0,[250]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.0,[1259]
-387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
 385,1,Usutu-Virus,Virus d'Usutu,Usutu virus,Usutu virus (USUV),1.0,[1237]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,2.0,[989]
+387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),2.0,[989]
 25,1,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,2.0,[190]
 305,1,Microbacterium,Microbacterium,Microbacterium,Microbacterium,2.0,[803]
@@ -188,4 +188,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 452,1,Hefen,Levure,Lievito,Yeast,1.0,[1615]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1577]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1673]
-463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
+470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[1743]
+457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[1635]
