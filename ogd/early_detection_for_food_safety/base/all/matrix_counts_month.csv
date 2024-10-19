@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,11,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.09,"[1670, 1687, 1693, 1698, 1678, 1648, 1737, 1718, 1685, 1669, 1744]"
+18,11,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.09,"[1670, 1687, 1693, 1698, 1678, 1737, 1718, 1685, 1669, 1744, 1746]"
 8,7,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1692, 1709, 1723, 1730, 1735, 1739, 1732]"
 60,7,Fische,Poissons,Pesce,Fish,1.43,"[1688, 1690, 1727, 1715, 1650, 1658, 1745]"
 82,6,Wasser,Eau,Acqua,Waters,1.17,"[1673, 1725, 1721, 1743, 1708, 1740]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1655, 1688, 1706, 1741]"
 38,4,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.5,"[1667, 1703, 1709, 1726]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1683, 1691, 1722]"
 3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.33,"[1654, 1728, 1717]"
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1683, 1691, 1722]"
 23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),2.0,"[1715, 1707, 1717]"
-73,2,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.5,"[1646, 1672]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[1710, 1735]"
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,"[1671, 1661]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[1660, 1674]"
@@ -27,11 +26,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,2.0,[1668]
 50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,[1675]
 72,1,"Zucker, Konfitüre, Honig, süsse Aufstriche und Saucen sowie Sirup","Sucre, pâtes à tartiner sucrées, miel, confitures, sauces sucrées et sirop","Zucchero, miele, marmellata, prodotti da spalmare e salse dolci, sciroppo","Sugar, Honey, Jam, Syrup",2.0,[1672]
+73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",2.0,[1672]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[1672]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[1679]
 92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",3.0,[1707]
 26,1,Kohlgemüse,Choux,Cavoli,Cabbages,2.0,[1650]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[1666]
-19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[1649]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[1686]
