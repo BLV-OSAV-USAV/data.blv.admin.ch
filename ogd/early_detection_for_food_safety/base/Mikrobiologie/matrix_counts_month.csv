@@ -1,22 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 8,6,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1709, 1723, 1730, 1735, 1739, 1732]"
+38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.67,"[1667, 1709, 1726]"
+82,3,Wasser,Eau,Acqua,Waters,1.0,"[1673, 1743, 1708]"
 18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1687, 1718, 1746]"
 9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1683, 1691, 1722]"
-82,3,Wasser,Eau,Acqua,Waters,1.0,"[1673, 1743, 1708]"
-38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.67,"[1667, 1709, 1726]"
-60,2,Fische,Poissons,Pesce,Fish,1.5,"[1650, 1658]"
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,"[1671, 1661]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1655, 1706]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[1654, 1728]"
+1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1655, 1706]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[1660, 1674]"
 111,1,Speiseeis (auf Milchbasis),Glaces (à base de lait),Gelato (a base di latte),Ice Cream (Milk Based),2.0,[1667]
-58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1735]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1733]
-118,1,Rind,Boeuf,Manzo,Beef,1.0,[1660]
+58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1735]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[1720]
-92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
+118,1,Rind,Boeuf,Manzo,Beef,1.0,[1660]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[1679]
+92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
 23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),3.0,[1707]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",3.0,[1707]
-26,1,Kohlgemüse,Choux,Cavoli,Cabbages,2.0,[1650]
+60,1,Fische,Poissons,Pesce,Fish,1.0,[1658]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[1686]
