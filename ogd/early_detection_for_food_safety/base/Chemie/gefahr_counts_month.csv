@@ -1,19 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1670, 1717, 1703, 1715]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[1690, 1745, 1713, 1725]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1670, 1717, 1703, 1715]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1670, 1675, 1669]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670]"
-127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1653, 1675]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
+127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[1668, 1715]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[1668, 1715]"
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-288,1,T-2,T-2,T-2,T-2,1.0,[1675]
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
+288,1,T-2,T-2,T-2,T-2,1.0,[1675]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1675]
 66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1672]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]

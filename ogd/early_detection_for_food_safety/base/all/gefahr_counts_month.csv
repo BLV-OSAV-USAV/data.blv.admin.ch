@@ -1,39 +1,37 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,7,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1728, 1654, 1655, 1723, 1733, 1718, 1657]"
+93,6,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1728, 1655, 1723, 1733, 1718, 1657]"
 244,6,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[1735, 1659, 1706, 1707, 1660, 1657]"
-26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[1676, 1694, 1732, 1677, 1654, 1697]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.8,"[1676, 1694, 1732, 1677, 1697]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1670, 1717, 1703, 1715]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[1690, 1745, 1713, 1725]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670]"
-91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1670, 1675, 1669]"
 119,3,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1683, 1722, 1718]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1670, 1675, 1669]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670]"
 165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1668, 1689, 1715]"
 102,3,Blei,Plomb,Piombo,Lead,1.33,"[1668, 1689, 1715]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1653, 1675]"
+127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
-2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[1726, 1679]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1660]"
 87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1674]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[1704, 1674]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1715]"
+2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[1726, 1679]"
 458,2,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,1.0,"[1671, 1661]"
-127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
-145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1660]"
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,[1667]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
 29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.0,[1658]
 463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,[1667]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
+289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
 288,1,T-2,T-2,T-2,T-2,1.0,[1675]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1691]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
-464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
+464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 225,1,Barium,Baryum,Bario,Barium,1.0,[1689]
-289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1675]
 249,1,Nickel,Nickel,Nichel,Nickel,2.0,[1668]
 272,1,Mangan,Manganèse,Manganese,Manganese,2.0,[1668]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1673]
