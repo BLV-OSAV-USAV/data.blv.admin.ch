@@ -4,30 +4,30 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1728, 1752, 1723, 1733, 1718]"
 128,5,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.2,"[1670, 1747, 1717, 1703, 1715]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[1670, 1675, 1669, 1755]"
-244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[1735, 1706, 1707, 1660]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670, 1759]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[1747, 1668, 1689, 1715]"
 165,4,Cadmium,Cadmium,Cadmio,Cadmium,1.25,"[1747, 1668, 1689, 1715]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1683, 1749, 1722, 1718]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
 2,3,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.33,"[1749, 1726, 1679]"
-87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1754, 1674]"
 88,3,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[1704, 1674, 1754]"
-458,2,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,1.0,"[1671, 1661]"
-109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
+87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1754, 1674]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1758]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1715]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1715]"
+109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
 127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1660]"
-145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,[1667]
 463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,[1667]
+458,1,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,1.0,[1671]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
 288,1,T-2,T-2,T-2,T-2,1.0,[1675]

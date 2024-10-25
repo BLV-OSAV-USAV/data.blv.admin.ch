@@ -8,15 +8,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1095, 1689]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1273]"
-316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
-338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
-273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[1290, 1689]"
+273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
+338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
 145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[1290, 1689]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1095]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[912]
 335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
@@ -31,18 +31,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1639]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1511]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[938]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1511]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[989]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[989]
 396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
@@ -53,6 +52,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
+316,1,Fructose,Fructose,Fruttosio,Fructose,1.0,[1651]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1689]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
