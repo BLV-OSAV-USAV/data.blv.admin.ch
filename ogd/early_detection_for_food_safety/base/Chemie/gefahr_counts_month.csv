@@ -4,23 +4,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670, 1759]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[1670, 1675, 1669, 1755]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1747, 1668, 1715]"
-102,3,Blei,Plomb,Piombo,Lead,1.33,"[1747, 1668, 1715]"
-127,2,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[1713, 1668]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1747, 1715]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[1747, 1715]"
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[1713]
 288,1,T-2,T-2,T-2,T-2,1.0,[1675]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1675]
 66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1672]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
-344,1,Chrom,Chrome,Cromo,Chromium,2.0,[1668]
-272,1,Mangan,Manganèse,Manganese,Manganese,2.0,[1668]
-249,1,Nickel,Nickel,Nichel,Nickel,2.0,[1668]
-324,1,Polychlorierte Dibenzodioxine und Dibenzofurane (PCDD/PCDF),Polychlorodibenzo-p-dioxine (PCDD/PCDF),policloro-dibenzo-p-diossine (PCDD/PCDF),Polychlorinated dibenzodioxins (PCDD/PCDF),2.0,[1668]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1673]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[1685]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[1715]
