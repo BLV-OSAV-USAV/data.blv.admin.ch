@@ -1,15 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.33,"[1690, 1745, 1713, 1753, 1725, 1755]"
-128,5,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.2,"[1670, 1747, 1717, 1703, 1715]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1670, 1759]"
-91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[1670, 1675, 1669, 1755]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1747, 1717, 1703, 1715]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1759]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
-109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1670, 1703]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1747, 1715]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[1747, 1715]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1747, 1715]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1675, 1755]"
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[1713]
 288,1,T-2,T-2,T-2,T-2,1.0,[1675]
@@ -19,6 +18,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1673]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[1685]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[1703]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[1715]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[1721]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[1741]
