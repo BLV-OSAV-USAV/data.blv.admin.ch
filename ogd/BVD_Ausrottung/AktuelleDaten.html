@@ -36,37 +36,81 @@
     <div id="visualization"></div>
 
     <script>
-        // Language selection
-        const language = 'en'; // Change 'en' to 'fr' for French
+
+        // Function to get 'lang' parameter from URL
+        function getLanguageFromURL() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const lang = urlParams.get('lang');
+            return ['en', 'fr', 'it', 'de'].includes(lang) ? lang : 'en'; // Default to 'en'
+        }
+
+        // Set language based on URL parameter
+        const language = getLanguageFromURL();
 
         // Translations object with HTML <br> line breaks
         const translations = {
             en: {
                 grey: "not assessed <br> (grey)",
-                green: "TEST <br> (green)",
+                green: "negligible <br> (green)",
                 orange: "intermediate <br> (orange)",
                 red: "high <br> (red)",
+                grey_tooltip: "not assessed (grey)",
+                green_tooltip: "negligible (green)",
+                orange_tooltip: "intermediate (orange)",
+                red_tooltip: "high (red)",
                 percent: "Percentage",
-                farms: "establishments"
+                farms: "establishments",
+                diff_text: "Difference compared to last week"
             },
             fr: {
                 grey: "non évalué <br> (gris)",
                 green: "négligeable <br> (vert)",
-                orange: "intermédiaire <br> (orange)",
+                orange: "intermédaire <br> (orange)",
                 red: "élevé <br> (rouge)",
-                percent: "Pourcentage",
-                farms: "établissements"
-            }
+                grey_tooltip: "non évalué (gris)",
+                green_tooltip: "négligeable (vert)",
+                orange_tooltip: "intermédaire (orange)",
+                red_tooltip: "élevé (rouge)",
+                percent: "Proportion",
+                farms: "établissements",
+                diff_text: "différence par rapport à la semaine passée"
+            },
+            de: {
+                grey: "nicht beurteilt <br> (grau)",
+                green: "vernachlässigbar <br> (grün)",
+                orange: "mittel <br> (orange)",
+                red: "hoch <br> (rot)",
+                grey_tooltip: "nicht beurteilt (grau)",
+                green_tooltip: "vernachlässigbar (grün)",
+                orange_tooltip: "mittel (orange)",
+                red_tooltip: "hoch (rot)",
+                percent: "Prozentualer Anteil",
+                farms: "Betriebe",
+                diff_text: "Unterschied zur letzten Woche"
+            },
+            it: {
+                grey: "non valutato <br> (grigio)",
+                green: "trascurabile <br> (verde)",
+                orange: "intermedio <br> (arancione)",
+                red: "alto <br> (rosso)",
+                grey_tooltip: "non valutato (grigio)",
+                green_tooltip: "trascurabile (verde)",
+                orange_tooltip: "intermedio (arancione)",
+                red_tooltip: "alto (rosso)",
+                percent: "Percentuale",
+                farms: "Aziende",
+                diff_text: "Differenza rispetto alla settimana scorsa"
+            },
         };
 
         // Data for circles
         const data = [
-            {'BVD_AMPEL': 'orange', 'N_FARMS': 4772, 'PERCENT': 13.8, 'diff': -10}, 
             {'BVD_AMPEL': 'green', 'N_FARMS': 29620, 'PERCENT': 85.9, 'diff': 18}, 
+            {'BVD_AMPEL': 'orange', 'N_FARMS': 4772, 'PERCENT': 13.8, 'diff': -10}, 
             {'BVD_AMPEL': 'red', 'N_FARMS': 101, 'PERCENT': 0.3, 'diff': 98}
         ];
 
-        const width = 500;
+        const width = 450;
         const height = 300;
         const padding = 20;
 
@@ -97,22 +141,30 @@
            .attr("r", d => radiusScale(d.N_FARMS))
            .attr("fill", d => d.BVD_AMPEL)
            .on("mouseover", function(event, d) {
-                const tooltipWidth = 150;
-                const tooltipHeight = 50;
+                    const tooltipWidth = 150;
+                    const tooltipHeight = 50;
 
-                // Dynamically render the tooltip content with HTML <br>
-                d3.select("#tooltip")
-                    .style("left", (event.pageX - tooltipWidth / 2) + "px")
-                    .style("top", (event.pageY - tooltipHeight - 10) + "px")
-                    .style("display", "block")
-                    .style("opacity", 1)
-                    .html(`
-                        <strong>${translations[language][d.BVD_AMPEL]}</strong>
-                        <br>
-                        ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
-                    `);
-           })
-           .on("mouseout", function() {
+                    // Determine arrow symbol based on the value of `diff`
+                    const arrow = d.diff > 0 
+                                ? "<span style='color: green;'>&#129033;</span>" 
+                                : "<span style='color: red;'>&#129035</span>"; // Upward arrow for positive, downward for negative
+                    const diffText = `${arrow} ${Math.abs(d.diff)}`; // Display absolute value with the arrow
+
+                    // Render tooltip with HTML content
+                    d3.select("#tooltip")
+                        .style("left", (event.pageX - tooltipWidth / 2) + "px")
+                        .style("top", (event.pageY - tooltipHeight - 10) + "px")
+                        .style("display", "block")
+                        .style("opacity", 1)
+                        .html(`
+                            <strong>${translations[language][d.BVD_AMPEL]}</strong>
+                            <br>
+                            ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
+                            <br>
+                            ${translations[language].diff_text}: ${diffText}
+                        `);
+                    })              
+        .on("mouseout", function() {
                 d3.select("#tooltip").style("opacity", 0);
            });
 
@@ -150,3 +202,4 @@
 
 </body>
 </html>
+
