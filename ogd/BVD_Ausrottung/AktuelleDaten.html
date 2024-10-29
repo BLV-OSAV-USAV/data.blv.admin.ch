@@ -60,7 +60,7 @@
                 red_tooltip: "high (red)",
                 percent: "Percentage",
                 farms: "establishments",
-                diff_text: "Difference compared to last week"
+                diff_text: "since last week"
             },
             fr: {
                 grey: "non évalué <br> (gris)",
@@ -73,7 +73,7 @@
                 red_tooltip: "élevé (rouge)",
                 percent: "Proportion",
                 farms: "établissements",
-                diff_text: "différence par rapport à la semaine passée"
+                diff_text: "depuis la semaine dernière"
             },
             de: {
                 grey: "nicht beurteilt <br> (grau)",
@@ -86,7 +86,7 @@
                 red_tooltip: "hoch (rot)",
                 percent: "Prozentualer Anteil",
                 farms: "Betriebe",
-                diff_text: "Unterschied zur letzten Woche"
+                diff_text: "seit lezter Woche"
             },
             it: {
                 grey: "non valutato <br> (grigio)",
@@ -99,7 +99,7 @@
                 red_tooltip: "alto (rosso)",
                 percent: "Percentuale",
                 farms: "Aziende",
-                diff_text: "Differenza rispetto alla settimana scorsa"
+                diff_text: "dalla scorsa settimana"
             },
         };
 
@@ -140,7 +140,7 @@
            .attr("cy", height / 2)
            .attr("r", d => radiusScale(d.N_FARMS))
            .attr("fill", d => d.BVD_AMPEL)
-           .on("mouseover", function(event, d) {
+           .on("mouseover click", function(event, d) {
                     const tooltipWidth = 150;
                     const tooltipHeight = 50;
 
@@ -161,7 +161,7 @@
                             <br>
                             ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
                             <br>
-                            ${translations[language].diff_text}: ${diffText}
+                            ${diffText} ${translations[language].diff_text}
                         `);
                     })              
         .on("mouseout", function() {
@@ -201,5 +201,7 @@
     </script>
 
 </body>
+</html>
+
 </html>
 
