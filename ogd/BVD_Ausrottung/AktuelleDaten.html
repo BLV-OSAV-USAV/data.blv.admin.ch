@@ -103,100 +103,98 @@
             },
         };
 
-        // Data for circles
-        const data = [
-            {'BVD_AMPEL': 'green', 'N_FARMS': 29620, 'PERCENT': 85.9, 'diff': 18}, 
-            {'BVD_AMPEL': 'orange', 'N_FARMS': 4772, 'PERCENT': 13.8, 'diff': -10}, 
-            {'BVD_AMPEL': 'red', 'N_FARMS': 101, 'PERCENT': 0.3, 'diff': 98}
-        ];
+        fetch('AktuelleDaten.json')
+            .then(response => response.json())
+            .then(data => {
 
-        const width = 450;
-        const height = 300;
-        const padding = 20;
+                    const width = 450;
+                    const height = 300;
+                    const padding = 20;
 
-        // Create the SVG element
-        const svg = d3.select("#visualization")
-                      .append("svg")
-                      .attr("viewBox", `0 0 ${width} ${height}`)
-                      .attr("preserveAspectRatio", "xMidYMid meet");
+                    // Create the SVG element
+                    const svg = d3.select("#visualization")
+                                  .append("svg")
+                                  .attr("viewBox", `0 0 ${width} ${height}`)
+                                  .attr("preserveAspectRatio", "xMidYMid meet");
 
-        const radiusScale = d3.scaleSqrt()
-                              .domain([0, d3.max(data, d => d.N_FARMS)])
-                              .range([0, 100]);
+                    const radiusScale = d3.scaleSqrt()
+                                          .domain([0, d3.max(data, d => d.N_FARMS)])
+                                          .range([0, 100]);
 
-        // Add circles with dynamic x-coordinate placement
-        let currentX = 0;
-        svg.selectAll("circle")
-           .data(data)
-           .enter()
-           .append("circle")
-           .attr("cx", (d, i) => {
-               const r = radiusScale(d.N_FARMS) + 10;
-               currentX += r + (i === 0 ? 0 : padding);
-               const cx = currentX;
-               currentX += r;
-               return cx;
-           })
-           .attr("cy", height / 2)
-           .attr("r", d => radiusScale(d.N_FARMS))
-           .attr("fill", d => d.BVD_AMPEL)
-           .on("mouseover click", function(event, d) {
-                    const tooltipWidth = 150;
-                    const tooltipHeight = 50;
-
-                    // Determine arrow symbol based on the value of `diff`
-                    const arrow = d.diff > 0 
-                                ? "<span style='color: green;'>&#129033;</span>" 
-                                : "<span style='color: red;'>&#129035</span>"; // Upward arrow for positive, downward for negative
-                    const diffText = `${arrow} ${Math.abs(d.diff)}`; // Display absolute value with the arrow
-
-                    // Render tooltip with HTML content
-                    d3.select("#tooltip")
-                        .style("left", (event.pageX - tooltipWidth / 2) + "px")
-                        .style("top", (event.pageY - tooltipHeight - 10) + "px")
-                        .style("display", "block")
-                        .style("opacity", 1)
-                        .html(`
-                            <strong>${translations[language][d.BVD_AMPEL]}</strong>
-                            <br>
-                            ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
-                            <br>
-                            ${diffText} ${translations[language].diff_text}
-                        `);
-                    })              
-        .on("mouseout", function() {
-                d3.select("#tooltip").style("opacity", 0);
-           });
-
-        // Add text labels below circles (can use .text() if plain text is desired)
-        currentX = 0;
-        // Render text labels below each circle
-        svg.selectAll("text")
-           .data(data)
-           .enter()
-           .append("text")
-           .attr("x", (d, i) => {
-               const r = radiusScale(d.N_FARMS) + 10;
-               currentX += r + (i === 0 ? 0 : padding);
-               const cx = currentX;
-               currentX += r;
-               return cx;
-           })
-           .attr("y", height - 20)
-           .attr("text-anchor", "middle")
-           .style("font-size", "12px")
-           .style("font-family", 'Poppins, sans-serif')
-           .each(function(d) {
-               const textElement = d3.select(this);
-               const lines = translations[language][d.BVD_AMPEL].split("<br>");
-
-               lines.forEach((line, index) => {
-                   textElement.append("tspan")
-                       .attr("x", textElement.attr("x"))  // align tspans to the same x
-                       .attr("dy", index === 0 ? 0 : 15)  // add vertical spacing between lines
-                       .text(line.toUpperCase());
-               });
-           });
+                    // Add circles with dynamic x-coordinate placement
+                    let currentX = 0;
+                    svg.selectAll("circle")
+                       .data(data)
+                       .enter()
+                       .append("circle")
+                       .attr("cx", (d, i) => {
+                           const r = radiusScale(d.N_FARMS) + 10;
+                           currentX += r + (i === 0 ? 0 : padding);
+                           const cx = currentX;
+                           currentX += r;
+                           return cx;
+                       })
+                       .attr("cy", height / 2)
+                       .attr("r", d => radiusScale(d.N_FARMS))
+                       .attr("fill", d => d.BVD_AMPEL)
+                       .on("mouseover click", function(event, d) {
+                                const tooltipWidth = 150;
+                                const tooltipHeight = 50;
+                    
+                                // Determine arrow symbol based on the value of `diff`
+                                const arrow = d.diff > 0 
+                                            ? "<span style='color: green;'>&#129033;</span>" 
+                                            : "<span style='color: red;'>&#129035</span>"; // Upward arrow for positive, downward for negative
+                                const diffText = `${arrow} ${Math.abs(d.diff)}`; // Display absolute value with the arrow
+                    
+                                // Render tooltip with HTML content
+                                d3.select("#tooltip")
+                                    .style("left", (event.pageX - tooltipWidth / 2) + "px")
+                                    .style("top", (event.pageY - tooltipHeight - 10) + "px")
+                                    .style("display", "block")
+                                    .style("opacity", 1)
+                                    .html(`
+                                        <strong>${translations[language][d.BVD_AMPEL]}</strong>
+                                        <br>
+                                        ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
+                                        <br>
+                                        ${diffText} ${translations[language].diff_text}
+                                    `);
+                                })              
+                    .on("mouseout", function() {
+                            d3.select("#tooltip").style("opacity", 0);
+                       });
+                   
+                    // Add text labels below circles (can use .text() if plain text is desired)
+                    currentX = 0;
+                    // Render text labels below each circle
+                    svg.selectAll("text")
+                       .data(data)
+                       .enter()
+                       .append("text")
+                       .attr("x", (d, i) => {
+                           const r = radiusScale(d.N_FARMS) + 10;
+                           currentX += r + (i === 0 ? 0 : padding);
+                           const cx = currentX;
+                           currentX += r;
+                           return cx;
+                       })
+                       .attr("y", height - 20)
+                       .attr("text-anchor", "middle")
+                       .style("font-size", "12px")
+                       .style("font-family", 'Poppins, sans-serif')
+                       .each(function(d) {
+                           const textElement = d3.select(this);
+                           const lines = translations[language][d.BVD_AMPEL].split("<br>");
+                    
+                           lines.forEach((line, index) => {
+                               textElement.append("tspan")
+                                   .attr("x", textElement.attr("x"))  // align tspans to the same x
+                                   .attr("dy", index === 0 ? 0 : 15)  // add vertical spacing between lines
+                                   .text(line.toUpperCase());
+                           });
+                       });
+                    });
        
     </script>
 
