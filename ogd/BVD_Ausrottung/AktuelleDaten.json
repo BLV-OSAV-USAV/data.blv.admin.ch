@@ -1,5 +1,5 @@
 [
-{'BVD_AMPEL': 'green', 'N_FARMS': 29620, 'PERCENT': 85.9, 'diff': 18}, 
-{'BVD_AMPEL': 'orange', 'N_FARMS': 4772, 'PERCENT': 13.8, 'diff': -10}, 
-{'BVD_AMPEL': 'red', 'N_FARMS': 101, 'PERCENT': 0.3, 'diff': 98}
+    {"BVD_AMPEL": "green", "N_FARMS": 29620, "PERCENT": 85.9, "diff": 18},
+    {"BVD_AMPEL": "orange", "N_FARMS": 4772, "PERCENT": 13.8, "diff": -10},
+    {"BVD_AMPEL": "red", "N_FARMS": 101, "PERCENT": 0.3, "diff": 98}
 ]
