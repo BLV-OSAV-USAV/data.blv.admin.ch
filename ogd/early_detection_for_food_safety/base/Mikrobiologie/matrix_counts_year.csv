@@ -5,7 +5,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 54,15,Geflügel,Volailles,Pollame,Poultry,1.6,"[1004, 1037, 1181, 1214, 923, 1217, 1267, 1278, 1218, 1295, 1414, 1493, 1583, 1660, 1674]"
 8,14,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.14,"[1039, 1082, 1213, 1381, 1406, 1579, 1638, 1709, 1723, 1730, 1735, 1739, 1732, 1754]"
 58,13,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.69,"[934, 1032, 1069, 1147, 984, 1197, 1223, 1287, 1377, 1373, 1386, 1571, 1735]"
-60,12,Fische,Poissons,Pesce,Fish,1.33,"[930, 922, 1004, 1032, 1173, 1193, 1185, 1383, 1304, 1530, 1650, 1658]"
+60,13,Fische,Poissons,Pesce,Fish,1.31,"[930, 922, 1004, 1032, 1173, 1193, 1185, 1383, 1304, 1530, 1650, 1658, 1763]"
 82,11,Wasser,Eau,Acqua,Waters,1.18,"[1045, 1327, 1354, 1353, 1501, 1523, 1535, 1673, 1743, 1635, 1708]"
 18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.1,"[1270, 1329, 1168, 1536, 1609, 1557, 1594, 1687, 1718, 1746]"
 126,9,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.11,"[951, 1161, 1203, 1366, 1333, 1393, 1452, 1357, 1498]"

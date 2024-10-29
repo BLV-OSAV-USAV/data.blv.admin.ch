@@ -8,7 +8,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 34,21,Früchte,Fruits,Frutta,Fruits,1.43,"[40, 9, 165, 234, 269, 250, 420, 465, 551, 520, 886, 864, 918, 1032, 1066, 1240, 1205, 1259, 1358, 1409, 1599]"
 58,19,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.68,"[120, 124, 169, 348, 370, 700, 934, 1032, 1069, 1147, 984, 1197, 1223, 1287, 1377, 1373, 1386, 1571, 1735]"
 82,17,Wasser,Eau,Acqua,Waters,1.47,"[61, 73, 87, 63, 150, 201, 1045, 1327, 1354, 1353, 1501, 1523, 1535, 1673, 1743, 1635, 1708]"
-60,16,Fische,Poissons,Pesce,Fish,1.31,"[98, 124, 132, 278, 930, 922, 1004, 1032, 1173, 1193, 1185, 1383, 1304, 1530, 1650, 1658]"
+60,17,Fische,Poissons,Pesce,Fish,1.29,"[98, 124, 132, 278, 930, 922, 1004, 1032, 1173, 1193, 1185, 1383, 1304, 1530, 1650, 1658, 1763]"
 120,14,Schwein,Porc,Maiale,Pork,1.57,"[22, 84, 133, 278, 484, 486, 703, 1006, 1247, 1282, 1333, 1376, 1573, 1679]"
 18,14,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.29,"[50, 193, 1270, 1329, 1168, 410, 368, 1536, 1609, 1557, 1594, 1687, 1718, 1746]"
 22,13,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.54,"[90, 194, 354, 449, 935, 960, 799, 1032, 1078, 1084, 1627, 1671, 1661]"

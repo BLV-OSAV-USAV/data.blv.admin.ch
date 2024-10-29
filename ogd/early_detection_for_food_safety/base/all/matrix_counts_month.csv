@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1687, 1693, 1698, 1678, 1737, 1718, 1685, 1744, 1746, 1747]"
 8,8,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1692, 1709, 1723, 1730, 1735, 1739, 1732, 1754]"
-82,7,Wasser,Eau,Acqua,Waters,1.14,"[1725, 1721, 1743, 1708, 1740, 1753, 1760]"
-60,5,Fische,Poissons,Pesce,Fish,1.4,"[1688, 1690, 1727, 1715, 1745]"
+82,8,Wasser,Eau,Acqua,Waters,1.12,"[1725, 1721, 1743, 1708, 1740, 1753, 1760, 1762]"
+60,6,Fische,Poissons,Pesce,Fish,1.33,"[1688, 1690, 1727, 1715, 1745, 1763]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1688, 1706, 1741, 1758]"
 9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1683, 1691, 1722]"
 38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.33,"[1703, 1709, 1726]"
