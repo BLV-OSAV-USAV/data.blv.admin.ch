@@ -1,20 +1,20 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[1676, 1694, 1732, 1677, 1750, 1697]"
-93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1728, 1752, 1723, 1733, 1718]"
+93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1752, 1723, 1733, 1718, 1728]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1683, 1749, 1722, 1718]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
 87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1754, 1674]"
 88,3,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[1704, 1674, 1754]"
 2,3,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.33,"[1749, 1726, 1679]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1758]"
+256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
 463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1752]
-121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),2.0,[1686]
-256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
+121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1691]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[1709]
 251,1,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,[1730]

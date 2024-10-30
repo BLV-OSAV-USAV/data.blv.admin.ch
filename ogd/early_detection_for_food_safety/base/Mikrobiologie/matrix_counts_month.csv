@@ -5,9 +5,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1706, 1758]"
 38,2,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.5,"[1709, 1726]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[1743, 1708]"
-58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1735]
-3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[1728]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1733]
+58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1735]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[1720]
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[1674]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[1679]
@@ -19,3 +18,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[1752]
 65,1,Eier,Oeufs,Uova,Egg,1.0,[1757]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[1763]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[1728]

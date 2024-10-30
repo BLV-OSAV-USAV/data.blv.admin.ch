@@ -1,33 +1,33 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.29,"[1690, 1745, 1713, 1753, 1762, 1725, 1755]"
 26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[1676, 1694, 1732, 1677, 1750, 1697]"
-93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1728, 1752, 1723, 1733, 1718]"
+93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1752, 1723, 1733, 1718, 1728]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1683, 1749, 1722, 1718]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1767, 1759]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1747, 1717, 1703, 1715]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1759]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[1747, 1689, 1715]"
 165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1747, 1689, 1715]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
 2,3,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.33,"[1749, 1726, 1679]"
-87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1754, 1674]"
 88,3,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[1704, 1674, 1754]"
-167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1715]"
+87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1704, 1754, 1674]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[1747, 1689, 1715]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1675, 1755]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1715]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1718, 1758]"
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1698]
-472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
-463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1698]
+472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
+121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[1713]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
-288,1,T-2,T-2,T-2,T-2,1.0,[1675]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1691]
-121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
+288,1,T-2,T-2,T-2,T-2,1.0,[1675]
 225,1,Barium,Baryum,Bario,Barium,1.0,[1689]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1675]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
