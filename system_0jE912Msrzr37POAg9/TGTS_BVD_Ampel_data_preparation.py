@@ -1,5 +1,5 @@
 import json
-import pandas as pandas
+import pandas as pd
 
 #read csv
 df = pd.read_csv('../ogd/BVD_Ausrottung/BVD.csv')
