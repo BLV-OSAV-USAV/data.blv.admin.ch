@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 #read csv
-df = pd.read_csv('../ogd/BVD_Ausrottung/BVD.csv')
+df = pd.read_csv('./ogd/BVD_Ausrottung/BVD.csv')
 
 #change date to datetime and Count to int
 df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
