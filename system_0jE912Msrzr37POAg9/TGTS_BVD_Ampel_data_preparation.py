@@ -38,7 +38,7 @@ def correct_large_diffs(df):
 df = correct_large_diffs(df)
 
 
-df.to_csv('../ogd/BVD_Ausrottung/OGD_BVD_Ampel.csv', index=False)
+df.to_csv('./ogd/BVD_Ausrottung/OGD_BVD_Ampel.csv', index=False)
 
 df_week = df.groupby(['BVD_AMPEL',pd.DatetimeIndex(df.TIMESTEP).to_period('W')]).nth(0)
 df_week['diff'] = df_week.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
@@ -52,5 +52,5 @@ df_recent['PERCENT'] = (df_recent['N_FARMS'] / total * 100).round(1)
 df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff']].to_dict(orient='records')
 
 
-with open('../ogd/BVD_Ausrottung/AktuelleDaten.json', 'w', encoding='utf-8') as f:
+with open('./ogd/BVD_Ausrottung/AktuelleDaten.json', 'w', encoding='utf-8') as f:
     json.dump(df_recent_list, f, ensure_ascii=False, indent=4)
