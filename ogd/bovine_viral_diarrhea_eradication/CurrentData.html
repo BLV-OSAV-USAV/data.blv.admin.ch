@@ -13,34 +13,26 @@
             font-family: 'IBM Plex Sans', sans-serif;
         }
         #tooltip {
-            padding: 12px 16px;                 /* Increased padding for a more spacious look */
-            background-color: #fff;              /* White background */
-            color: #333;                         /* Darker text for readability */
-            border-radius: 8px;                  /* Rounded corners */
-            font-family: 'IBM Plex Sans', sans-serif;
-            font-size: 14px;
-            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15); /* Soft shadow for depth */
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            pointer-events: none;
-            width: auto;
-            max-width: 200px;                    /* Optional: Limit width for readability */
-            position: absolute;
-            text-align: left;
-        }
-
-        /* Style for title and subtitle within the tooltip */
-        #tooltip strong {
-            font-size: 14px;                     /* Slightly larger for the title */
-            font-weight: 600;                    /* Bold for emphasis */
-            color: #333;                         /* Dark color */
-        }
-
-        #tooltip span {
-            font-size: 13px;                     /* Slightly smaller for subtitle */
-            font-weight: 400;                    /* Normal weight */
-            color: #555;                         /* Lighter shade for subtitle */
-        }
+			position: absolute;
+			width: 250px;
+			height: auto;
+			padding: 10px;
+			background-color: white;
+			-webkit-border-radius: 10px;
+			-moz-border-radius: 10px;
+			border-radius: 10px;
+			-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			pointer-events: none;
+		}
+		
+		#tooltip p {
+			margin: 0;
+			font-family: Arial;
+			font-size: 14px;
+			line-height: 17px;
+		}	
 
         circle {
             filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
