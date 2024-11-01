@@ -7,29 +7,45 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Circle Visualization</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;600&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Poppins', sans-serif;
+            font-family: 'IBM Plex Sans', sans-serif;
         }
-
         #tooltip {
-            padding: 8px 12px;
-            background-color: rgba(0, 0, 0, 0.7);
-            color: #fff;
-            border-radius: 8px;
+            padding: 12px 16px;                 /* Increased padding for a more spacious look */
+            background-color: #fff;              /* White background */
+            color: #333;                         /* Darker text for readability */
+            border-radius: 8px;                  /* Rounded corners */
+            font-family: 'IBM Plex Sans', sans-serif;
             font-size: 14px;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15); /* Soft shadow for depth */
             opacity: 0;
             transition: opacity 0.3s ease;
             pointer-events: none;
-            width: 150px;
+            width: auto;
+            max-width: 200px;                    /* Optional: Limit width for readability */
             position: absolute;
+            text-align: left;
+        }
+
+        /* Style for title and subtitle within the tooltip */
+        #tooltip strong {
+            font-size: 14px;                     /* Slightly larger for the title */
+            font-weight: 600;                    /* Bold for emphasis */
+            color: #333;                         /* Dark color */
+        }
+
+        #tooltip span {
+            font-size: 13px;                     /* Slightly smaller for subtitle */
+            font-weight: 400;                    /* Normal weight */
+            color: #555;                         /* Lighter shade for subtitle */
         }
 
         circle {
             filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
         }
-    </style>
+</style>
 </head>
 <body>
     <div id="tooltip"></div>
