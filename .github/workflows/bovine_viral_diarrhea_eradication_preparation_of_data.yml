@@ -3,7 +3,7 @@ name: BVD Ampel Data Preparation
 on: 
   push:
     paths:
-      - "ogd/BVD_Ausrottung/BVD.csv"  # Only trigger when CSV files are pushed to ogd/BVD_Ausrottung
+      - "ogd/bovine_viral_diarrhea_eradication/BVD.csv"  # Only trigger when CSV files are pushed to ogd/BVD_Ausrottung
 
 jobs:
   data-preparation:
@@ -20,20 +20,20 @@ jobs:
 
       - name: Install Python packages
         run: |
-          pip install -r system_0jE912Msrzr37POAg9/TGTS_BVD_Ampel_requirements.txt
+          pip install -r system_0jE912Msrzr37POAg9/bovine_viral_diarrhea_eradication_requirements.txt
           
       - name: Run data preparation script
-        run: python system_0jE912Msrzr37POAg9/TGTS_BVD_Ampel_data_preparation.py
+        run: python system_0jE912Msrzr37POAg9/bovine_viral_diarrhea_eradication_data_preparation.py
 
       - name: Remove input CSV file
-        run: rm "ogd/BVD_Ausrottung/BVD.csv"
+        run: rm "ogd/bovine_viral_diarrhea_eradication/BVD.csv"
 
       - name: Commit result files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "Updated data after processing in BVD Ampel data preparation" --allow-empty
+          git commit -m "Bovine Viral Diarrhea Eradication data preparation" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
