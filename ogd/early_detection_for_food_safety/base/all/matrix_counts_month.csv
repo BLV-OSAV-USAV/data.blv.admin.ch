@@ -4,19 +4,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 8,7,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1709, 1723, 1730, 1735, 1739, 1732, 1754]"
 60,6,Fische,Poissons,Pesce,Fish,1.17,"[1727, 1715, 1745, 1763, 1772, 1771]"
 1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.4,"[1706, 1741, 1758, 1767, 1768]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1722, 1776, 1777]"
 38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.33,"[1703, 1709, 1726]"
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1722, 1776, 1777]"
 23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),2.0,"[1715, 1707, 1717]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[1717, 1728]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[1710, 1735]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[1717, 1728]"
+80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[1729]
 14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[1731]
-15,1,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,1.0,[1696]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1733]
-78,1,Nicht spezifizierte sowie gemischte alkoholfreie Getränke (inkl. Punsch),Boissons sans alcool non spécifiées ou mélangées (incl. punch sans alcool),Bevande analcoliche non specificate e miste (inclusi punch),Unclassified And Combined Non Alc. Drinks,1.0,[1731]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[1720]
 143,1,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,[1742]
-92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
-80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[1729]
+78,1,Nicht spezifizierte sowie gemischte alkoholfreie Getränke (inkl. Punsch),Boissons sans alcool non spécifiées ou mélangées (incl. punch sans alcool),Bevande analcoliche non specificate e miste (inclusi punch),Unclassified And Combined Non Alc. Drinks,1.0,[1731]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",3.0,[1707]
 148,1,Wein,Vin,Vino,Wine,2.0,[1751]
 76,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,[1750]
