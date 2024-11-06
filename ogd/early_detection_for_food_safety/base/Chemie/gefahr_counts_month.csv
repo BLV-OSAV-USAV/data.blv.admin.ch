@@ -1,19 +1,20 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[1745, 1713, 1753, 1762, 1776, 1725, 1755]"
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1767, 1783, 1759]"
 128,5,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.2,"[1747, 1783, 1717, 1703, 1715]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1740, 1701, 1767, 1783, 1759]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[1774, 1747, 1778, 1715]"
 165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1774, 1747, 1715]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.5,"[1772, 1715]"
-432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
 306,1,Furan,Furane,Furano,Furan,2.0,[1770]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
+432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[1713]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[1703]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[1721]
+400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[1741]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,[1741]
 469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
@@ -24,3 +25,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[1755]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[1755]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1755]
+475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
