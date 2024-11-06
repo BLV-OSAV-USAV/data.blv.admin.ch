@@ -111,6 +111,13 @@
             },
         };
 
+	// Define color mapping
+        const colorScale = {
+            green: "#2CA02C",
+            orange: "#FF7F0E",
+            red: "#D62728"
+        };
+
         fetch('CurrentData.json')
             .then(response => response.json())
             .then(data => {
@@ -144,7 +151,7 @@
                        })
                        .attr("cy", height / 2)
                        .attr("r", d => radiusScale(d.N_FARMS))
-                       .attr("fill", d => d.BVD_AMPEL)
+                       .attr("fill", d => colorScale[d.BVD_AMPEL] || "grey")
                        .on("mouseover click", function(event, d) {
                                 const tooltipWidth = 150;
                                 const tooltipHeight = 50;
