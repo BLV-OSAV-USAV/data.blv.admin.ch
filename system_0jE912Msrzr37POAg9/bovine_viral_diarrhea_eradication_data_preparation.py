@@ -9,14 +9,24 @@ df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
 df["N_FARMS"] = df["N_FARMS"].str.replace('[^0-9]', '', regex=True).astype(int)
 
 
-#function to correct large differences
+# Function to correct large differences with color-specific thresholds
 def correct_large_diffs(df):
     # Sort the DataFrame by index (in this case, the dates) to ensure chronological order
     df = df.sort_index()
-
+    
+    # Define the thresholds for each color
+    thresholds = {
+        'green': 1200,
+        'orange': 1200,
+        'red': 15
+    }
+    
     # Iterate over the rows of the DataFrame
     for idx, row in df.iterrows():
-        # Check if the index three rows earlier (last day with the same color) exists
+        color = row['BVD_AMPEL']
+        threshold = thresholds.get(color, 1000)  # Default to 1000 if color is missing
+
+        # Check if the index three rows earlier exists (last day with the same color)
         prev_idx = df.index.get_loc(idx) - 3
         if prev_idx >= 0:
             previous_valid_idx = df.index[prev_idx]
@@ -24,11 +34,11 @@ def correct_large_diffs(df):
             # Calculate the difference with the last value for this color
             diff = row['N_FARMS'] - df.at[previous_valid_idx, 'N_FARMS']
 
-            # Check if the difference exceeds 1000
-            if abs(diff) > 1000:
-                print(f"Large diff at index {idx}: {diff}")
-                
-                # Replace the current value with the value from last day for this color
+            # Check if the difference exceeds the color-specific threshold
+            if abs(diff) > threshold:
+                print(f"Large diff at index {idx} for color {color}: {diff}")
+
+                # Replace the current value with the value from the previous day for this color
                 df.at[idx, 'N_FARMS'] = df.at[previous_valid_idx, 'N_FARMS']
                 print(f"Updated index {idx} with value from index {previous_valid_idx}")
 
