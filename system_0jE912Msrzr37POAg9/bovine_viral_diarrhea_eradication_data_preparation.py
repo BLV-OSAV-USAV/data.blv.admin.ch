@@ -50,13 +50,13 @@ df = correct_large_diffs(df)
 
 df.to_csv('./ogd/bovine_viral_diarrhea_eradication/OGD_bovine_viral_diarrhea_eradication.csv', index=False)
 
-df_week = df.groupby(['BVD_AMPEL',pd.DatetimeIndex(df.TIMESTEP).to_period('W')]).nth(0)
-df_week['diff'] = df_week.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
+df_month = df.groupby(['BVD_AMPEL',pd.DatetimeIndex(df.TIMESTEP).to_period('M')]).nth(0)
+df_month['diff'] = df_month.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
 
 # Get the most recent date
-most_recent_date = df_week['TIMESTEP'].max()
+most_recent_date = df_month['TIMESTEP'].max()
 # Filter rows by the most recent date
-df_recent = df_week[df_week['TIMESTEP'] == most_recent_date]
+df_recent = df_month[df_month['TIMESTEP'] == most_recent_date]
 total = df_recent['N_FARMS'].sum()
 df_recent['PERCENT'] = (df_recent['N_FARMS'] / total * 100).round(1)
 df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff']].to_dict(orient='records')
