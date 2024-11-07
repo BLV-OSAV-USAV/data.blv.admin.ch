@@ -1,14 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1782, 1784]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[1774, 1778]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1781]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1782]
-432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,2.0,[1772]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[1774]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1781]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[1778]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[1777]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1776]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
