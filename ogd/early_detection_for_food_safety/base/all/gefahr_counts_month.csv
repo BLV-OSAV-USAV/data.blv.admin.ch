@@ -1,31 +1,32 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,9,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.11,"[1782, 1768, 1771, 1752, 1723, 1733, 1718, 1728, 1784]"
-126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[1745, 1713, 1753, 1762, 1776, 1725, 1755]"
+93,10,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.1,"[1782, 1768, 1771, 1752, 1723, 1733, 1718, 1728, 1784, 1794]"
+126,8,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.12,"[1745, 1713, 1753, 1762, 1776, 1725, 1755, 1795]"
+1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1771, 1758, 1718, 1784, 1793]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[1740, 1767, 1769, 1783, 1759]"
-102,4,Blei,Plomb,Piombo,Lead,1.25,"[1774, 1747, 1778, 1715]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1771, 1732, 1750, 1784, 1793]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1782, 1749, 1722, 1718]"
-1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1771, 1758, 1718, 1784]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1771, 1732, 1750, 1784]"
+102,4,Blei,Plomb,Piombo,Lead,1.25,"[1774, 1747, 1778, 1715]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[1747, 1783, 1717, 1715]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1774, 1747, 1715]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1747, 1760, 1715]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
-94,2,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.5,"[1769, 1709]"
-2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[1749, 1726]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1774, 1747, 1715]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.5,"[1772, 1715]"
-432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1781]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
-472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
+2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[1749, 1726]"
 306,1,Furan,Furane,Furano,Furan,2.0,[1770]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
-463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
+432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1735]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1781]
+478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
+472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[1713]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1752]
@@ -48,3 +49,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[1784]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]

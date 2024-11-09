@@ -1,18 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,9,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.11,"[1782, 1768, 1771, 1752, 1723, 1733, 1718, 1728, 1784]"
+93,10,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.1,"[1782, 1768, 1771, 1752, 1723, 1733, 1718, 1728, 1784, 1794]"
+1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1771, 1758, 1718, 1784, 1793]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1771, 1732, 1750, 1784, 1793]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1782, 1749, 1722, 1718]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1771, 1732, 1750, 1784]"
-1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1771, 1758, 1718, 1784]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[1735, 1706, 1707]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[1769, 1783]"
-94,2,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.5,"[1769, 1709]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[1749, 1726]"
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
-463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
-103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1781]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
+478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
+103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1735]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
 464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[1711]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
@@ -26,3 +27,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[1754]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[1784]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]

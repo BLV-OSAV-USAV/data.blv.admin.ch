@@ -4,9 +4,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[1030, 1362, 1235, 1314]"
 79,3,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1123, 1744]"
+341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1095, 1689]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1273]"
-341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
+185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1126, 952]"
@@ -14,34 +15,33 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[1290, 1689]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
-185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
-335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1095]
+370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1095]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]
 369,1,leucin,leucine,leucina,leucine,1.0,[1157]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
-370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
+335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1653]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
-359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
-398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1639]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1511]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[938]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
+359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[989]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[938]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[989]
 396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 306,1,Furan,Furane,Furano,Furan,1.0,[1411]
@@ -55,3 +55,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1689]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1794]
