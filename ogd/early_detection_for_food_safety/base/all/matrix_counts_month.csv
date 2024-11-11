@@ -1,25 +1,23 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-82,9,Wasser,Eau,Acqua,Waters,1.22,"[1725, 1721, 1743, 1740, 1753, 1760, 1762, 1778, 1788]"
-60,8,Fische,Poissons,Pesce,Fish,1.25,"[1727, 1715, 1745, 1763, 1772, 1771, 1792, 1789]"
-18,7,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[1737, 1718, 1744, 1746, 1747, 1769, 1791]"
+82,8,Wasser,Eau,Acqua,Waters,1.25,"[1725, 1743, 1740, 1753, 1760, 1762, 1778, 1788]"
+60,7,Fische,Poissons,Pesce,Fish,1.29,"[1727, 1745, 1763, 1772, 1771, 1792, 1789]"
 8,6,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1723, 1730, 1735, 1739, 1732, 1754]"
+18,6,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.17,"[1737, 1744, 1746, 1747, 1769, 1791]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1722, 1776, 1777, 1783]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1741, 1767, 1768, 1758]"
 118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1785, 1784, 1794]"
-23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[1715, 1717]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[1717, 1728]"
 14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[1731]
 38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",2.0,[1726]
-42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1733]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1735]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[1729]
 78,1,Nicht spezifizierte sowie gemischte alkoholfreie Getränke (inkl. Punsch),Boissons sans alcool non spécifiées ou mélangées (incl. punch sans alcool),Bevande analcoliche non specificate e miste (inclusi punch),Unclassified And Combined Non Alc. Drinks,1.0,[1731]
-143,1,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,[1742]
+42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1733]
 148,1,Wein,Vin,Vino,Wine,2.0,[1751]
 76,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,[1750]
-48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[1720]
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[1752]
+143,1,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,[1742]
 65,1,Eier,Oeufs,Uova,Egg,1.0,[1757]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[1728]
 133,1,Honig,Miel,Miele,Honey,2.0,[1774]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",2.0,[1770]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
