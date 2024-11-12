@@ -1,9 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1785, 1784, 1794]"
-60,2,Fische,Poissons,Pesce,Fish,1.5,"[1792, 1789]"
-67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
-9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[1783]
+18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1791, 1787]"
+60,2,Fische,Poissons,Pesce,Fish,1.5,"[1789, 1792]"
 82,1,Wasser,Eau,Acqua,Waters,2.0,[1788]
-120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
+67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[1784]
-18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[1791]
+120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
