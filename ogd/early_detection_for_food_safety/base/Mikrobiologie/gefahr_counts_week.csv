@@ -1,15 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1803, 1784, 1794]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1784, 1793, 1803]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1784, 1793]"
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1803]
-478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1803, 1794]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1803]"
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1787]
-473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[1787]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[1784]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1803]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[1793]
+478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[1803]
