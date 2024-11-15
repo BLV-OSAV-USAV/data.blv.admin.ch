@@ -1,23 +1,23 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,9,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.11,"[1803, 1782, 1768, 1771, 1752, 1733, 1784, 1794, 1728]"
-26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1771, 1732, 1750, 1784, 1793, 1803]"
-1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1771, 1758, 1784, 1793]"
+93,7,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.14,"[1803, 1782, 1768, 1771, 1752, 1784, 1794]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1771, 1750, 1784, 1803]"
+1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1793, 1771, 1758, 1784]"
 119,3,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782, 1749]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[1769, 1783]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1735]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
-472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
+472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[1749]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1752]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[1777]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
-251,1,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,[1730]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1754]
 176,1,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,Yersinia enterolitica,1.0,[1739]
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[1743]
@@ -26,8 +26,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[1787]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[1784]
-114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
-112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,1.0,[1734]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[1803]
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]

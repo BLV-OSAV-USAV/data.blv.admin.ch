@@ -1,9 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1803, 1794]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1803]"
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1803]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1803]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[1793]
-114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1803]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[1803]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1803]
