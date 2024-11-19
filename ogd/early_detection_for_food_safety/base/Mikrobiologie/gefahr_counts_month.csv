@@ -1,17 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,7,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.14,"[1803, 1782, 1768, 1771, 1752, 1784, 1794]"
+93,8,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.12,"[1803, 1782, 1768, 1771, 1752, 1811, 1784, 1794]"
 26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1771, 1750, 1784, 1803]"
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1793, 1771, 1758, 1784]"
 119,3,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782, 1749]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[1769, 1783]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1785, 1784]"
+86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
-86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[1793]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1780]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[1749]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
@@ -19,6 +19,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[1777]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1754]
+485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[1811]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[1754]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
