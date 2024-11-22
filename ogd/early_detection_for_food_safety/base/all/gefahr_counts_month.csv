@@ -1,33 +1,30 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,8,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.12,"[1803, 1782, 1768, 1771, 1752, 1811, 1784, 1794]"
-26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1771, 1750, 1784, 1803, 1807]"
-126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1753, 1762, 1776, 1755, 1795, 1806]"
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[1767, 1769, 1783, 1759, 1812]"
+93,7,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.14,"[1803, 1782, 1768, 1771, 1811, 1784, 1794]"
 1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1793, 1771, 1758, 1784, 1813]"
-19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1821, 1785, 1784]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1771, 1784, 1803, 1807]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[1767, 1769, 1783, 1759, 1812]"
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1762, 1776, 1795, 1806, 1826]"
 114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[1793, 1813, 1808]"
-119,3,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782, 1749]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1821, 1785, 1784]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[1801, 1784]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[1780, 1797]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[1774, 1778]"
-167,1,Quecksilber,Mercure,Mercurio,Mercury,2.0,[1772]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
+86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[1774]
+432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,2.0,[1772]
+480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
 486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
-86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[1803]
-432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
 482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
 481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[1749]
-121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1749]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1752]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1760]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
@@ -35,15 +32,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1754]
 306,1,Furan,Furane,Furano,Furan,2.0,[1770]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[1811]
-88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[1754]
-180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[1755]
-363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[1755]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1755]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
-41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[1787]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[1813]
@@ -52,3 +43,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1813]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1810]
+80,1,Salz,sel,sale,salt,1.0,[1825]
