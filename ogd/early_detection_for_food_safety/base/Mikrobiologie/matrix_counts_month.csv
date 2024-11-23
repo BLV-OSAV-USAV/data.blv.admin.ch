@@ -1,13 +1,12 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 60,3,Fische,Poissons,Pesce,Fish,1.33,"[1763, 1771, 1789]"
-118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1785, 1784, 1794]"
 1,3,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.33,"[1768, 1758, 1799]"
-18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[1769, 1787]"
+118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1785, 1784, 1794]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1777, 1783]"
-6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1807, 1801]"
+18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[1769, 1787]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[1784, 1801]"
+6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1807, 1801]"
 120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
-65,1,Eier,Oeufs,Uova,Egg,1.0,[1757]
 22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[1814]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[1811]
 23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,[1814]
