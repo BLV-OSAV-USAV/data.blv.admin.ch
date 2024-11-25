@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-82,5,Wasser,Eau,Acqua,Waters,1.2,"[1760, 1762, 1778, 1788, 1810]"
 60,5,Fische,Poissons,Pesce,Fish,1.4,"[1763, 1772, 1771, 1789, 1792]"
+82,4,Wasser,Eau,Acqua,Waters,1.25,"[1762, 1778, 1788, 1810]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1767, 1768, 1799, 1824]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1776, 1777, 1783, 1826]"
 18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.25,"[1769, 1791, 1787, 1800]"
@@ -9,10 +9,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[1784, 1801]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1807, 1801]"
 133,1,Honig,Miel,Miele,Honey,2.0,[1774]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[1761]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",2.0,[1770]
-67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
+67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[1812]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[1811]
 22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[1814]
