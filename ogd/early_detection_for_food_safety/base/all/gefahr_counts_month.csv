@@ -1,11 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,7,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.14,"[1803, 1782, 1768, 1771, 1811, 1784, 1794]"
 26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[1793, 1771, 1784, 1803, 1807]"
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1762, 1776, 1795, 1806, 1826]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1776, 1795, 1806, 1826]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[1767, 1769, 1783, 1812]"
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1793, 1771, 1784, 1813]"
-114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[1793, 1813, 1808]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1821, 1785, 1784]"
+114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[1793, 1813, 1808]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1781, 1787]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[1774, 1778]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782]"
@@ -19,12 +19,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[1793]
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
+482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
 481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
-482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[1769]
+486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[1777]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
