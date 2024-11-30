@@ -1,20 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1776, 1795, 1806, 1826]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1767, 1783, 1812]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[1774, 1778]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1783, 1812]"
+167,1,Quecksilber,Mercure,Mercurio,Mercury,2.0,[1772]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[1774]
 432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,2.0,[1772]
-479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),2.0,[1774]
 481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
-478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
+478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1783]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[1770]
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
-306,1,Furan,Furane,Furano,Furan,2.0,[1770]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1787]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
