@@ -1,16 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1776, 1777, 1783, 1826]"
-82,3,Wasser,Eau,Acqua,Waters,1.33,"[1778, 1788, 1810]"
-60,3,Fische,Poissons,Pesce,Fish,1.67,"[1772, 1789, 1792]"
 118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1785, 1784, 1794]"
 18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1791, 1787, 1800]"
+9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1783, 1826]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1807, 1801]"
+82,2,Wasser,Eau,Acqua,Waters,1.5,"[1788, 1810]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[1784, 1801]"
+60,2,Fische,Poissons,Pesce,Fish,1.5,"[1789, 1792]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1810, 1807]"
 1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1799, 1824]"
-133,1,Honig,Miel,Miele,Honey,2.0,[1774]
-120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[1786]
+120,1,Schwein,Porc,Maiale,Pork,1.0,[1784]
 22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[1814]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[1812]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[1811]
