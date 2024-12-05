@@ -1,12 +1,11 @@
-matrix_id,Climate change,Microbiomes and food safety,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Ecology,Economy
-1,0,0,0,0,0,1,0,1
-6,0,0,1,0,0,0,0,1
-8,0,0,1,0,0,0,0,1
-9,1,0,0,0,0,0,1,0
-22,0,1,0,0,0,0,0,0
-23,0,1,0,0,0,0,0,0
-24,0,0,0,1,0,0,0,0
-30,0,0,0,1,0,0,0,0
-54,0,0,0,1,0,0,0,0
-118,0,0,0,1,1,0,0,1
-120,0,0,0,1,0,0,0,0
+matrix_id,Microbiomes and food safety,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Economy
+1,0,0,0,0,1,1
+6,0,1,0,0,0,1
+8,0,1,0,0,0,1
+22,1,0,0,0,0,0
+23,1,0,0,0,0,0
+24,0,0,1,0,0,0
+30,0,0,1,0,0,0
+54,0,0,1,0,0,0
+118,0,0,1,1,0,1
+120,0,0,1,0,0,0
