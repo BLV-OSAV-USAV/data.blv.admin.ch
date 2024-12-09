@@ -24,7 +24,7 @@ local_directory = "temporary_files"
 
 # Connect to the FTP server
 ftp = FTP('ftp.blv-data-ingest.ch')
-ftp.login(user='dcc@blv-data-ingest.ch', passwd=FTP_PASS)
+ftp.login(user='Frueherkennung_Sicherheit_Lebensmittel@blv-data-ingest.ch', passwd=FTP_PASS)
 
 # Get a list of files on the server
 files = []
