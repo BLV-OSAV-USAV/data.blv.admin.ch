@@ -1,13 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1854, 1806, 1826]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[1845, 1812]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[1848, 1836]"
-479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
-481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
-480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[1836, 1848]"
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[1854]
-483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[1806]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1810]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[1836]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[1836]
+483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[1806]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1810]

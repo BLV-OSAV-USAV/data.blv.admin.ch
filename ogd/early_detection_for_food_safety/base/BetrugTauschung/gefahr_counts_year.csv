@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-102,4,Blei,Plomb,Piombo,Lead,1.5,"[1137, 1290, 996, 1836]"
+102,4,Blei,Plomb,Piombo,Lead,1.5,"[1137, 1290, 1836, 996]"
 390,3,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1601, 1619, 1250]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1499, 1619, 1397]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[1290, 989, 1836]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[1290, 1836, 989]"
 66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1145]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1542]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
@@ -16,6 +16,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
 80,1,Salz,sel,sale,salt,1.0,[1580]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[1836]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
 281,1,Ethylendioxid,dioxyde d'éthylène,Ossido di etilene,ethylene dioxide,2.0,[1192]
@@ -31,4 +32,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 408,1,illegale Drogen,drogues illicites,droghe illecite,illicit drugs,1.0,[1397]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[996]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[1836]
