@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv"  # Only trigger when CSV files are pushed to ogd/BVD_Ausrottung
+  workflow_dispatch:
 
 jobs:
   data-preparation:

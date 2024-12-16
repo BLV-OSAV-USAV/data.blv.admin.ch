@@ -9,7 +9,7 @@ Data updates:<br>
 [![monitoring wild birds Avian Influenza update](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_data_preparation.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_data_preparation.yml)
 
 Frictionless Data:<br>
-
+[![frictionless](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_frictionless.yml)
 
 <br><br>
 Plots:<br>

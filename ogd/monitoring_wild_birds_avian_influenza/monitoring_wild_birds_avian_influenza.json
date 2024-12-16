@@ -1,0 +1,77 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "name": "AI-csv",
+            "type":"table",
+            "path": "ogd/monitoring_wild_birds_avian_influenza/monitoring-wild-birds-avian-influenza.csv",
+            "scheme": "file",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {"name": "Kanton",
+                    "type": "string",
+                    "description": "Canton of notification",
+                    "constraints":{
+                        "enum": ["AG", "AI", "AR", "BE", "BL",
+                                    "BS", "FR", "GE", "GL", "GR", 
+                                    "JU", "LU", "NE", "NW", "OW", 
+                                    "SG", "SH", "SO", "SZ", "TG", 
+                                    "TI", "UR", "VD", "VS", "ZG", 
+                                    "ZH", "FL"]
+                    }},
+                    {"name": "Fundort", 
+                    "type": "string"},
+                    {"name": "Probenahme-Datum", 
+                    "type": "date",
+                    "format" : "%y-%m-%d"},
+                    {"name": "Vogelart", 
+                    "type": "string"},
+                    {"name": "Status Wildvogel",
+                    "type": "string"},
+                    {"name": "Ergebnis",
+                    "type": "string",
+                    "constraints":{
+                        "enum": ["negativ","positiv"]
+                    }},
+                    {"name": "Pathogenitaet",
+                    "type": "string"},
+                    {"name":"Subtyp",
+                    "type":"string",
+                    "constraints":{
+                        "pattern": "^H[0-9]N[0-9]$"
+                    }}]
+            },
+            "title": "Monitoring Wild Birds - Avian Influenza",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "dialect": {
+                "delimiter": ",",
+                "lineTerminator": "\r\n",
+                "header": true
+            },
+            "encoding": "UTF-8"
+        }
+    ],
+    "name": "monitoring-wild-birds-avian-influenza",
+    "title": "Monitoring Wild Birds - Avian Influenza",
+    "description": "AI is an acute, highly contagious, febrile viral disease in poultry (especially turkeys and chickens). The viruses can be found regularly in wild birds. They are a pathogen reservoir. Water birds and birds of prey can also become ill and die. To protect commercial poultry farms, water birds and birds of prey found dead are examined.",
+    "homepage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/uebersicht-seuchen/alle-tierseuchen/ai/ai-aktuell.html",
+    "temporal": {
+        "name": "Time coverage",
+        "start": "2018-01-03T00:00:00Z"
+    },
+    "contributors": [
+        {
+            "title": "Data Competence Center (DCC)",
+            "role": "author"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "O-By",
+            "title": "Open use. Must provide the source.",
+            "path": "https://opendata.swiss/de/terms-of-use"
+        }
+    ]
+}
