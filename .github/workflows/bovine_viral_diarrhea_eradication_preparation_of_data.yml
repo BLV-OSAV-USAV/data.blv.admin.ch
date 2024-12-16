@@ -3,7 +3,7 @@ name: BVD Ampel Data Preparation
 on: 
   push:
     paths:
-      - "ogd/bovine_viral_diarrhea_eradication/BVD.csv"  # Only trigger when CSV files are pushed to ogd/BVD_Ausrottung
+      - "ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv"  # Only trigger when CSV files are pushed to ogd/BVD_Ausrottung
 
 jobs:
   data-preparation:
@@ -26,7 +26,7 @@ jobs:
         run: python system_0jE912Msrzr37POAg9/bovine_viral_diarrhea_eradication_data_preparation.py
 
       - name: Remove input CSV file
-        run: rm "ogd/bovine_viral_diarrhea_eradication/BVD.csv"
+        run: rm "ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv"
 
       - name: Commit result files
         run: |

@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 #read csv
-df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/BVD.csv')
+df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv')
 
 #change date to datetime and Count to int
 df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
@@ -52,6 +52,13 @@ df.to_csv('./ogd/bovine_viral_diarrhea_eradication/OGD_bovine_viral_diarrhea_era
 
 df_month = df.groupby(['BVD_AMPEL',pd.DatetimeIndex(df.TIMESTEP).to_period('M')]).nth(0)
 df_month['diff'] = df_month.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
+
+# Group by date to get the total count per day
+df_month['total_per_day'] = df_month.groupby('TIMESTEP')['N_FARMS'].transform('sum')
+
+# Calculate the percentage of each color for each day and round to 1 decimal place
+df_month['percentage'] = ((df_month['N_FARMS'] / df_month['total_per_day']) * 100).round(1)
+df_month.to_csv('./ogd/bovine_viral_diarrhea_eradication/Cubes/BVD_monthly_evolution.csv', index=False)
 
 # Get the most recent date
 most_recent_date = df_month['TIMESTEP'].max()
