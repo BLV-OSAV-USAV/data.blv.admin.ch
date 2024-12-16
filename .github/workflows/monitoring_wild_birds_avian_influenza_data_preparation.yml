@@ -1,6 +1,7 @@
 name: AI Influenza data preparation
 
 on: 
+  workflow_dispatch:
   push:
     paths:
       - "ogd/monitoring_wild_birds_avian_influenza/input/Liste AI Wildvögel vor 2024.xlsx"  # Only trigger when xlsx files are pushed to ogd/monitoring_wild_birds_avian_influenza
