@@ -1,20 +1,20 @@
 [
     {
         "BVD_AMPEL": "green",
-        "N_FARMS": 29566,
-        "PERCENT": 85.7,
-        "diff": 70
+        "N_FARMS": 30514,
+        "PERCENT": 88.4,
+        "diff": 249
     },
     {
         "BVD_AMPEL": "orange",
-        "N_FARMS": 4806,
-        "PERCENT": 13.9,
-        "diff": -59
+        "N_FARMS": 3938,
+        "PERCENT": 11.4,
+        "diff": -243
     },
     {
         "BVD_AMPEL": "red",
-        "N_FARMS": 116,
-        "PERCENT": 0.3,
-        "diff": -10
+        "N_FARMS": 65,
+        "PERCENT": 0.2,
+        "diff": -4
     }
 ]
