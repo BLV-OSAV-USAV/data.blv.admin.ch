@@ -4,6 +4,13 @@ import pandas as pd
 #read csv
 df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv')
 
+# Remove extra quotes in column names
+df.columns = df.columns.str.replace('"', "", regex=False)  # Cleans column names
+df = df.applymap(lambda x: x.replace('"', "") if isinstance(x, str) else x)  # Cleans values
+
+# Remove apostrophes as thousand separators in the N_FARMS column and convert to integer
+df["N_FARMS"] = df["N_FARMS"].str.replace("'", "", regex=False).astype(int)
+
 #change date to datetime and Count to int
 df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
 df["N_FARMS"] = df["N_FARMS"].str.replace('[^0-9]', '', regex=True).astype(int)
