@@ -19,4 +19,4 @@ jobs:
 
       - name: Validate CSV file with JSON schema
         run: |
-          frictionless validate ogd/monitoring_wild_birds_avian_influenza/monitoring-wild-birds-avian-influenza.csv --schema ogd/monitoring_wild_birds_avian_influenza/monitoring_wild_birds_avian_influenza.json
+          frictionless validate ogd/monitoring_wild_birds_avian_influenza/monitoring_wild_birds_avian_influenza.json

@@ -2,9 +2,9 @@
     "profile": "tabular-data-package",
     "resources": [
         {
-            "name": "AI-csv",
+            "name": "avian-influenza-csv",
             "type":"table",
-            "path": "ogd/monitoring_wild_birds_avian_influenza/monitoring-wild-birds-avian-influenza.csv",
+            "path": "./monitoring-wild-birds-avian-influenza.csv",
             "scheme": "file",
             "profile": "tabular-data-resource",
             "schema": {
@@ -24,7 +24,7 @@
                     "type": "string"},
                     {"name": "Probenahme-Datum", 
                     "type": "date",
-                    "format" : "%y-%m-%d"},
+                    "format" : "%Y-%m-%d"},
                     {"name": "Vogelart", 
                     "type": "string"},
                     {"name": "Status Wildvogel",
