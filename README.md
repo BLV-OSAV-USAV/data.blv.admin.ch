@@ -10,6 +10,13 @@ Data updates:<br>
 
 Frictionless Data:<br>
 
+
 <br><br>
-Set-up of custom domain:
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+Plots:<br>
+
+<img src="https://www.data.blv.admin.ch/ogd/monitoring_wild_birds_avian_influenza/plot.png" width="600">
+
+
+<br><br>
+Notes:<br>
+[Set-up of custom domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
