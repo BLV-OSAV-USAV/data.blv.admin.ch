@@ -1,0 +1,40 @@
+name: AI Influenza data preparation
+
+on: 
+  push:
+    paths:
+      - "ogd/monitoring_wild_birds_avian_influenza/Liste AI Wildvögel vor 2024.xlsx"  # Only trigger when xlsx files are pushed to ogd/monitoring_wild_birds_avian_influenza
+      - "ogd/monitoring_wild_birds_avian_influenza/monitoring-wild-birds-avian-influenza.xlsx"
+
+jobs:
+  data-preparation:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # Specify the Python version
+
+      - name: Install Python packages
+        run: |
+          pip install -r system_0jE912Msrzr37POAg9/monitoring_wild_birds_avian_influenza_requirements.txt
+          
+      - name: Run data preparation script
+        run: python system_0jE912Msrzr37POAg9/monitoring_wild_birds_avian_influenza_data_wrangling.py
+
+      - name: Commit result files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git commit -m "AI Influenza data preparation" --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
