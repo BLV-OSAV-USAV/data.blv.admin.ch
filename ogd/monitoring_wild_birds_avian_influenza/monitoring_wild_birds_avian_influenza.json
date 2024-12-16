@@ -35,7 +35,10 @@
                         "enum": ["negativ","positiv"]
                     }},
                     {"name": "Pathogenitaet",
-                    "type": "string"},
+                    "type": "string",
+                    "constraints":{
+                        "enum": ["highly pathogenic avian influenza (HPAI)","low pathogenic avian influenza (LPAI)"]
+                    }},
                     {"name":"Subtyp",
                     "type":"string",
                     "constraints":{
