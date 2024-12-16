@@ -57,7 +57,7 @@ plt.savefig("./ogd/monitoring_wild_birds_avian_influenza/plot.png", dpi=200, bbo
 data = {
     'ID': [1,2],
     'DE': ['Anzahl positive HPAI H5N1', 'Anzahl negativ getestete Wildvögel'],
-    'FR': ['Nombre de résultats positifs HPAI H5N1', 'Nombre d'oiseaux sauvages examinés négatifs'],
+    'FR': ['Nombre de résultats positifs HPAI H5N1', 'Nombre d´oiseaux sauvages examinés négatifs'],
     'IT': ['Numero di HPAI H5N1 positivi', 'Numero di volatici selvatici analizzati negativi'],
     'EN': ['Number of positive HPAI H5N1', 'Number of wild birds tested negative']
 }
