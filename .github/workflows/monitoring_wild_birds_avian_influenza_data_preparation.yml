@@ -3,8 +3,8 @@ name: AI Influenza data preparation
 on: 
   push:
     paths:
-      - "ogd/monitoring_wild_birds_avian_influenza/Liste AI Wildvögel vor 2024.xlsx"  # Only trigger when xlsx files are pushed to ogd/monitoring_wild_birds_avian_influenza
-      - "ogd/monitoring_wild_birds_avian_influenza/monitoring-wild-birds-avian-influenza.xlsx"
+      - "ogd/monitoring_wild_birds_avian_influenza/input/Liste AI Wildvögel vor 2024.xlsx"  # Only trigger when xlsx files are pushed to ogd/monitoring_wild_birds_avian_influenza
+      - "ogd/monitoring_wild_birds_avian_influenza/input/monitoring-wild-birds-avian-influenza.xlsx"
 
 jobs:
   data-preparation:
