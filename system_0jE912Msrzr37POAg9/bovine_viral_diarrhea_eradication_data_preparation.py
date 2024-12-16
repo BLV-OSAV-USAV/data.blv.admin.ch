@@ -2,14 +2,17 @@ import json
 import pandas as pd
 
 #read csv
-df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv')
+df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv', sep=",", quotechar='"')
+
+if len(df.columns) == 1:
+    # Réinterpréter en séparant manuellement avec un split
+    df = df.iloc[:, 0].str.split(",", expand=True)
+    df.columns = ["TIMESTEP", "BVD_AMPEL", "N_FARMS"]
 
 # Remove extra quotes in column names
 df.columns = df.columns.str.replace('"', "", regex=False)  # Cleans column names
-df = df.applymap(lambda x: x.replace('"', "") if isinstance(x, str) else x)  # Cleans values
 
-# Remove apostrophes as thousand separators in the N_FARMS column and convert to integer
-df["N_FARMS"] = df["N_FARMS"].str.replace("'", "", regex=False).astype(int)
+df = df.applymap(lambda x: x.replace('"', "") if isinstance(x, str) else x)  # Cleans values
 
 #change date to datetime and Count to int
 df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
@@ -57,8 +60,13 @@ df = correct_large_diffs(df)
 
 df.to_csv('./ogd/bovine_viral_diarrhea_eradication/OGD_bovine_viral_diarrhea_eradication.csv', index=False)
 
-df_month = df.groupby(['BVD_AMPEL',pd.DatetimeIndex(df.TIMESTEP).to_period('M')]).nth(0)
+df_month = df
 df_month['diff'] = df_month.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
+
+df_month = df_month.groupby(['BVD_AMPEL', pd.DatetimeIndex(df.TIMESTEP).to_period('M')]).agg({
+    'N_FARMS':'last',
+    'diff': 'sum',    # Sum the 'diff' column
+}).reset_index()
 
 # Group by date to get the total count per day
 df_month['total_per_day'] = df_month.groupby('TIMESTEP')['N_FARMS'].transform('sum')
