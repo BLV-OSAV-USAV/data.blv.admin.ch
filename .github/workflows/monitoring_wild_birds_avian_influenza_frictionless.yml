@@ -3,7 +3,7 @@ name: AI Frictionless Validation
 on:
   push:
     paths:
-      - 'ogd/monitoring_wild_birds_avian_influenza/**'
+      - 'ogd/monitoring_wild_birds_avian_influenza/monitoring_wild_birds_avian_influenza.csv'
   workflow_dispatch:
 
 jobs:
