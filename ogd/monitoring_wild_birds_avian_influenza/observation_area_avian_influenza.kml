@@ -28,30 +28,6 @@
 <td>240</td>
 </tr>
 <tr bgcolor="#D4E4F3">
-<td>id</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_ID</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_NAME</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_TYP</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_CANTON</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_DISTAN</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
 <td>ZON_TYP_FR</td>
 <td>Région d'observation</td>
 </tr>
@@ -64,54 +40,6 @@
 <td>Zona di osservazione</td>
 </tr>
 <tr>
-<td>ZON_ID_DIS</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_IS_ACT</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_IS_A00</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_IS_A01</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_IS_A02</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_COMMEN</td>
-<td></td>
-</tr>
-<tr>
-<td>ZON_PROGRA</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>created_us</td>
-<td></td>
-</tr>
-<tr>
-<td>created_da</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>last_edite</td>
-<td></td>
-</tr>
-<tr>
-<td>last_edi00</td>
-<td></td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ZON_DISEAS</td>
-<td></td>
-</tr>
-<tr>
 <td>ZON_DISE00</td>
 <td>Aviäre Influenza, AI</td>
 </tr>
@@ -122,10 +50,6 @@
 <tr>
 <td>ZON_DISE02</td>
 <td>Influenza aviaria, AI</td>
-</tr>
-<tr bgcolor="#D4E4F3">
-<td>ORIG_FID</td>
-<td></td>
 </tr>
 </table>
 </td>
