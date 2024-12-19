@@ -12,7 +12,7 @@ Data updates:<br>
 
 Frictionless Data:<br>
 [![frictionless](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/monitoring_wild_birds_avian_influenza_frictionless.yml) <br>
-[![foot rot control program update](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/foot_rot_control_program_data_preparation.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/foot_rot_control_program_data_preparation.yml)<br>
+[![foot rot control program frictionless](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/foot_rot_control_program_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/foot_rot_control_program_frictionless.yml)<br>
 
 <br><br>
 Plots:<br>
