@@ -1,0 +1,64 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "name": "foot-rot-csv",
+            "type":"table",
+            "path": "./eradication-foot-rot.csv",
+            "scheme": "file",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {"name": "YearWeekIso",
+                    "type": "string",
+                    "description": "Week/Year ISO code"},
+                    {"name": "LastDayOfWeek", 
+                    "type": "date",
+                    "format" : "%Y-%m-%d"},
+                    {"name": "Variable", 
+                    "type": "string",
+                    "constraints":{
+                        "enum": ["farms_total_count",
+                                    "farms_to_examine_count",
+                                    "farms_examined_count", 
+                                    "farms_examined_positive_count", 
+                                    "farms_examined_negative_count"]
+                    }},
+                    {"name": "Number", 
+                    "type": "integer",
+                    "description": "Count of farms concerned"}
+                ]
+            },
+            "title": "Foot rot control program",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "dialect": {
+                "delimiter": ",",
+                "lineTerminator": "\r\n",
+                "header": true
+            },
+            "encoding": "UTF-8"
+        }
+    ],
+    "name": "foot-rot-control-program",
+    "title": "Foot rot control program",
+    "description": "Foot rot is a contagious and painful hoof disease that affects one in four sheep in Switzerland, or around 113,000 animals. The FSVO has worked with the cantonal veterinary services and key industry stakeholders to develop the various steps of the control program that will begin on October 1, 2024.",
+    "homepage": "https://www.blv.admin.ch/blv/de/home/tiere/tierseuchen/bekaempfung/projekt-moderhinke.html",
+    "temporal": {
+        "name": "Time coverage",
+        "start": "2024-10-06T00:00:00Z"
+    },
+    "contributors": [
+        {
+            "title": "Data Competence Center (DCC)",
+            "role": "author"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "O-By",
+            "title": "Open use. Must provide the source.",
+            "path": "https://opendata.swiss/de/terms-of-use"
+        }
+    ]
+}

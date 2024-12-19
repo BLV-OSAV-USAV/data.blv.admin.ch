@@ -1,0 +1,48 @@
+name: Foot rot control program data preparation and quality control
+
+on: 
+  workflow_dispatch:
+  push:
+    paths:
+      - "ogd/foot_rot_control_program/**"
+
+jobs:
+  data-preparation:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: Checkout repository content
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # Specify the Python version
+
+      - name: Install Python packages
+        run: |
+          pip install -r system_0jE912Msrzr37POAg9/foot_rot_control_program_requirements.txt
+          
+      - name: Run data preparation script
+        run: python system_0jE912Msrzr37POAg9/foot_rot_control_program_data_preparation.py
+
+      - name: Install Frictionless
+        run: |
+          python -m pip install frictionless
+
+      - name: Validate CSV file with JSON schema
+        run: |
+          frictionless validate ogd/foot_rot_control_program/foot_rot_control_program.json
+
+      - name: Commit result files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git commit -m "AI Influenza data preparation" --allow-empty
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
