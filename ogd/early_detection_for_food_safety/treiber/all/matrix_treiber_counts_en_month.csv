@@ -1,12 +1,9 @@
-matrix_id,Technological innovations and scientific advances,Urbanization and urban agriculture,Microbiomes and food safety,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Policy
-1,0,0,0,2,0,0,0,0
-9,0,1,0,0,0,0,1,0
-10,0,0,1,0,0,0,0,0
-18,0,0,0,0,0,1,0,0
-34,0,0,1,0,0,0,0,0
-42,1,0,1,0,0,0,0,0
-48,0,0,0,1,0,0,0,0
-72,0,0,0,0,1,0,0,0
-82,0,0,0,0,0,0,1,1
-126,0,0,1,0,0,1,0,0
-133,0,0,0,0,0,0,0,1
+matrix_id,Urbanization and urban agriculture,Microbiomes and food safety,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Policy
+1,0,0,2,0,0,0,0
+9,1,0,0,0,0,1,0
+10,0,1,0,0,0,0,0
+18,0,0,0,0,1,0,0
+48,0,0,1,0,0,0,0
+72,0,0,0,1,0,0,0
+82,0,0,0,0,0,1,1
+133,0,0,0,0,0,0,1
