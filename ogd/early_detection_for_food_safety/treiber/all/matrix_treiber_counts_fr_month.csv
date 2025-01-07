@@ -1,8 +1,12 @@
-matrix_id,Urbanisation et agriculture urbaine,Microbiomes et sécurité alimentaire,Nouveaux aliments et systèmes de production alimentaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Ecologie,Politique
-1,0,0,2,0,0,0,0
-9,1,0,0,0,0,1,0
-10,0,1,0,0,0,0,0
-18,0,0,0,0,1,0,0
-48,0,0,1,0,0,0,0
-72,0,0,0,1,0,0,0
-133,0,0,0,0,0,0,1
+matrix_id,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Microbiomes et sécurité alimentaire,Nouveaux aliments et systèmes de production alimentaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Technologie,Ecologie,Politique
+1,0,0,0,2,0,0,1,0,0
+5,1,0,0,0,0,0,0,0,0
+9,0,1,0,0,0,0,0,1,0
+10,0,0,1,0,0,0,0,0,0
+18,0,0,0,0,0,1,0,0,0
+39,0,0,0,0,1,0,0,0,0
+48,0,0,0,1,0,0,0,0,0
+72,0,0,0,0,1,0,0,0,0
+79,0,0,0,0,0,1,0,0,0
+93,1,0,0,0,0,0,0,0,0
+133,0,0,0,0,0,0,0,0,1

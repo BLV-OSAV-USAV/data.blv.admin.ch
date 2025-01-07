@@ -24,14 +24,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[210, 54]"
-316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1653, 1886]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.5,"[1177, 263]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
-227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
+316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
+227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
 335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[438]
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
 142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[912]
@@ -39,7 +39,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 62,1,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,2.0,[524]
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[413]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[708]
-369,1,leucin,leucine,leucina,leucine,1.0,[1157]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[438]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
@@ -47,10 +47,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
 370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+369,1,leucin,leucine,leucina,leucine,1.0,[1157]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1653]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 274,1,Baikiain,Baikiain,Baikiain,Baikiain,3.0,[637]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[386]

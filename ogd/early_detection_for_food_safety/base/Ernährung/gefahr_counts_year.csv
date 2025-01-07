@@ -7,14 +7,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 79,3,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1123, 1744]"
 102,3,Blei,Plomb,Piombo,Lead,1.33,"[1290, 1836, 1689]"
 368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1653, 1886]"
 145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
-378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[1095, 1836]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1095, 1689]"
 180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
 273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
+378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 369,1,leucin,leucine,leucina,leucine,1.0,[1157]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[1094]
 370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
@@ -25,7 +25,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
@@ -33,8 +33,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1639]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1177]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1653]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1511]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1126]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
