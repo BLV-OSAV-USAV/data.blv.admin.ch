@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 9,19,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.26,"[1238, 1262, 1216, 1296, 1350, 1393, 1429, 1174, 1519, 1534, 1503, 1555, 1683, 1691, 1722, 1777, 1783, 1734, 1818]"
-8,17,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.12,"[1039, 1082, 1213, 1381, 1406, 1579, 1638, 1709, 1723, 1730, 1735, 1739, 1732, 1754, 1807, 1822, 1897]"
-54,16,Geflügel,Volailles,Pollame,Poultry,1.44,"[1037, 1181, 1214, 1217, 1267, 1278, 1218, 1295, 1414, 1493, 1583, 1660, 1674, 1784, 1801, 1896]"
+8,16,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.12,"[1082, 1213, 1381, 1406, 1579, 1638, 1709, 1723, 1730, 1735, 1739, 1732, 1754, 1807, 1822, 1897]"
 1,15,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.4,"[1055, 1151, 1234, 1351, 1339, 1386, 1386, 1386, 1558, 1490, 1655, 1706, 1768, 1758, 1799]"
+54,15,Geflügel,Volailles,Pollame,Poultry,1.47,"[1181, 1214, 1217, 1267, 1278, 1218, 1295, 1414, 1493, 1583, 1660, 1674, 1784, 1801, 1896]"
 23,14,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.29,"[1042, 1106, 1082, 1201, 1343, 1281, 1436, 1380, 1399, 1603, 1577, 1814, 1817, 1707]"
 18,13,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.15,"[1270, 1329, 1168, 1536, 1609, 1557, 1594, 1687, 1718, 1746, 1769, 1787, 1871]"
 82,11,Wasser,Eau,Acqua,Waters,1.18,"[1045, 1327, 1354, 1353, 1501, 1523, 1535, 1673, 1743, 1635, 1708]"
@@ -11,8 +11,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 38,10,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.6,"[1227, 1226, 1258, 1323, 1406, 1471, 1667, 1709, 1726, 1823]"
 126,9,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.11,"[1161, 1203, 1366, 1333, 1393, 1452, 1357, 1498, 1839]"
 118,9,Rind,Boeuf,Manzo,Beef,1.11,"[1113, 1333, 1393, 1479, 1561, 1660, 1785, 1784, 1794]"
-3,8,Gemüse,Légumes,Ortaggi,Vegetables,1.12,"[1065, 1057, 1153, 1453, 1654, 1728, 1853, 1890]"
 34,8,Früchte,Fruits,Frutta,Fruits,1.12,"[1066, 1240, 1205, 1259, 1358, 1409, 1599, 1838]"
+3,8,Gemüse,Légumes,Ortaggi,Vegetables,1.12,"[1065, 1057, 1153, 1453, 1654, 1728, 1853, 1890]"
 120,7,Schwein,Porc,Maiale,Pork,1.14,"[1247, 1282, 1333, 1376, 1573, 1679, 1784]"
 6,7,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.43,"[1244, 1335, 1313, 1347, 1807, 1801, 1900]"
 22,6,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.33,"[1078, 1084, 1627, 1671, 1661, 1814]"
@@ -31,11 +31,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 10,2,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,"[1752, 1867]"
 24,2,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,"[1559, 1811]"
 47,2,"Flocken, Griess, Keime, Mehl, Schrot und Stärke (inkl. Pulver für Desserts)","Farine, fécule, gruau, germes, flocons, semoule utilisée comme farine (incl. poudre pour desserts)","Farina, fiocchi, germi, faricello, semola e amidi (incluse polveri per dessert)","Flours, Starches, Flakes, Semolina Used A",1.0,"[1409, 1524]"
-37,2,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,"[1211, 1589]"
+35,2,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,"[1169, 1348]"
 31,2,Nicht spezifizierte sowie gemischte Hülsenfrüchte,Légumes secs non spécifiés et mélangés,Leguminose non specificate e miste,Unclassified,2.0,"[1368, 1455]"
 52,2,"Nicht spezifizierte sowie gemischte Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande non spécifiés ou mélangés","Carne, prodotti di carne e sostituti della carne non specificati e misti",Unclassified And Combined Meat And Meat P,1.0,"[1398, 1382]"
 121,2,"Lamm, Schaf und Hammel","Agneau, brebis et mouton","Agnello, pecora e montone",Mutton/Lamb,1.0,"[1333, 1610]"
-35,2,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,"[1169, 1348]"
+37,2,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,"[1211, 1589]"
 30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.0,"[1115, 1821]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[1099, 1240]"
 56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,"[1197, 1899]"
@@ -43,10 +43,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,[1144]
 122,1,Pferd,Cheval,Cavallo,Horse,1.0,[1040]
 25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,1.0,[1049]
-73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",2.0,[1150]
-141,1,Andere Süsswaren mit Schokolade,Autres confiserie avec chocolat,Dolciumi al cioccolato,Chocolate Confectionery,1.0,[1212]
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,1.0,[1148]
+141,1,Andere Süsswaren mit Schokolade,Autres confiserie avec chocolat,Dolciumi al cioccolato,Chocolate Confectionery,1.0,[1212]
 86,1,Bier,Bière,Birra,Beer,1.0,[1152]
+73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",2.0,[1150]
 36,1,Oliven,Olives,Olive,Olives,1.0,[1240]
 27,1,Pilze,Champignons,Funghi,Mushrooms,2.0,[1349]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[1318]
