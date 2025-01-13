@@ -1,4 +1,4 @@
-name: early detection for food safety update
+name: early detection for food safety data wrangling
 
 on: 
   workflow_dispatch:
@@ -35,7 +35,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "early detection for food safety update" -a --allow-empty
+          git commit -m "early detection for food safety data wrangling" -a --allow-empty
           
       - name: push changes
         uses: ad-m/github-push-action@master
