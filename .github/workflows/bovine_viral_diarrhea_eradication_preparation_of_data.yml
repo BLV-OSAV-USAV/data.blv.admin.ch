@@ -1,4 +1,4 @@
-name: BVD Ampel Data Preparation
+name: bovine viral diarrhea eradication data wrangling
 
 on: 
   push:
@@ -34,7 +34,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "Bovine Viral Diarrhea Eradication data preparation" --allow-empty
+          git commit -m "bovine viral diarrhea eradication data wrangling" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
