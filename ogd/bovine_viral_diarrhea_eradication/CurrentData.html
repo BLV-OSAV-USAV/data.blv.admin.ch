@@ -204,8 +204,8 @@
                            lines.forEach((line, index) => {
                                textElement.append("tspan")
                                    .attr("x", textElement.attr("x"))  // align tspans to the same x
-                                   .attr("dy", index === 0 ? 0 : 15);  // add vertical spacing between lines
-                                   //.text(line.toUpperCase());
+                                   .attr("dy", index === 0 ? 0 : 15)  // add vertical spacing between lines
+                                   .text(line.toUpperCase());
                            });
                        });
                     });
