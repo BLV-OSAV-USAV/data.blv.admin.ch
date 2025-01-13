@@ -1,4 +1,4 @@
-name: AI Influenza data preparation
+name: avian influenza data wrangling
 
 on: 
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "AI Influenza data preparation" --allow-empty
+          git commit -m "avian influenza data wrangling" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
