@@ -14,7 +14,7 @@
 			position: absolute;
 			width: 250px;
 			height: auto;
-			padding: 5px;
+			padding: 10px;
 			background-color: white;
 			-webkit-border-radius: 10px;
 			-moz-border-radius: 10px;
@@ -27,7 +27,6 @@
 		#tooltip p {
 			margin: 0;
 			font-size: 10px;
-			line-height: 12px;
 		}
 	    .container {
 		    max-width: 100%;
@@ -82,13 +81,13 @@
             },
             de: {
                 grey: "nicht beurteilt <br> (grau)",
-                green: "vernachlässigbar <br> (grün)",
-                orange: "mittel <br> (orange)",
-                red: "hoch <br> (rot)",
+                green: "Betriebe mit vernachlässigbarem<br>BVD-Risiko (grün)",
+                orange: "Betriebe mit mittlerem<br>BVD-Risiko (orange)",
+                red: "Betriebe mit hohem<br>BVD-Risiko (rot)",
                 grey_tooltip: "nicht beurteilt (grau)",
-                green_tooltip: "vernachlässigbar (grün)",
-                orange_tooltip: "mittel (orange)",
-                red_tooltip: "hoch (rot)",
+                green_tooltip: "Betriebe mit vernachlässigbarem<br>BVD-Risiko (grün)",
+                orange_tooltip: "Betriebe mit mittlerem<br>BVD-Risiko (orange)",
+                red_tooltip: "Betriebe mit hohem<br>BVD-Risiko (rot)",
                 percent: "Prozentualer Anteil",
                 farms: "Betriebe",
                 diff_text: "seit letztem Monat"
@@ -196,8 +195,8 @@
                        })
                        .attr("y", height - 20)
                        .attr("text-anchor", "middle")
-                       .style("font-size", "12px")
-                       .style("font-family", 'Poppins, sans-serif')
+                       .style("font-size", "10px")
+                       .style("font-family", 'Arial, sans-serif')
                        .each(function(d) {
                            const textElement = d3.select(this);
                            const lines = translations[language][d.BVD_AMPEL].split("<br>");
@@ -205,8 +204,8 @@
                            lines.forEach((line, index) => {
                                textElement.append("tspan")
                                    .attr("x", textElement.attr("x"))  // align tspans to the same x
-                                   .attr("dy", index === 0 ? 0 : 15)  // add vertical spacing between lines
-                                   .text(line.toUpperCase());
+                                   .attr("dy", index === 0 ? 0 : 15);  // add vertical spacing between lines
+                                   //.text(line.toUpperCase());
                            });
                        });
                     });
