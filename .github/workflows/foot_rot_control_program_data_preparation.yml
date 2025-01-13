@@ -1,4 +1,4 @@
-name: Foot rot control program data preparation
+name: foot rot control program data wrangling
 
 on: 
   workflow_dispatch:
@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           git add -A
-          git commit -m "AI Influenza data preparation" --allow-empty
+          git commit -m "foot rot control program data wrangling" --allow-empty
 
       - name: Push changes
         uses: ad-m/github-push-action@master
