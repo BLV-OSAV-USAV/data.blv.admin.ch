@@ -2,21 +2,12 @@ import json
 import pandas as pd
 
 #read csv
-df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv', sep=",", quotechar='"')
-
-if len(df.columns) == 1:
-    # Réinterpréter en séparant manuellement avec un split
-    df = df.iloc[:, 0].str.split(",", expand=True)
-    df.columns = ["TIMESTEP", "BVD_AMPEL", "N_FARMS"]
+df = pd.read_csv('./ogd/bovine_viral_diarrhea_eradication/Daten für Dashboard.csv', sep=";")
+df['TIMESTEP'] = pd.to_datetime(df['TIMESTEP'], format='%d.%m.%Y')
+df = df.dropna()
 
 # Remove extra quotes in column names
 df.columns = df.columns.str.replace('"', "", regex=False)  # Cleans column names
-
-df = df.applymap(lambda x: x.replace('"', "") if isinstance(x, str) else x)  # Cleans values
-
-#change date to datetime and Count to int
-df["TIMESTEP"] =  pd.to_datetime(df["TIMESTEP"], format="%d.%m.%Y")
-df["N_FARMS"] = df["N_FARMS"].str.replace('[^0-9]', '', regex=True).astype(int)
 
 
 # Function to correct large differences with color-specific thresholds
@@ -80,8 +71,10 @@ most_recent_date = df_month['TIMESTEP'].max()
 # Filter rows by the most recent date
 df_recent = df_month[df_month['TIMESTEP'] == most_recent_date]
 total = df_recent['N_FARMS'].sum()
+df_recent = df_recent.copy()
 df_recent['PERCENT'] = (df_recent['N_FARMS'] / total * 100).round(1)
-df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff', 'TIMESTEP']].to_dict(orient='records')
+df_recent['last_update'] = df['TIMESTEP'].max().strftime('%d.%m.%Y')
+df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff', 'last_update']].to_dict(orient='records')
 
 
 with open('./ogd/bovine_viral_diarrhea_eradication/CurrentData.json', 'w', encoding='utf-8') as f:
