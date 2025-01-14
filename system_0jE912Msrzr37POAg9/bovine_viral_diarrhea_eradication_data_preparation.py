@@ -81,7 +81,7 @@ most_recent_date = df_month['TIMESTEP'].max()
 df_recent = df_month[df_month['TIMESTEP'] == most_recent_date]
 total = df_recent['N_FARMS'].sum()
 df_recent['PERCENT'] = (df_recent['N_FARMS'] / total * 100).round(1)
-df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff']].to_dict(orient='records')
+df_recent_list = df_recent[['BVD_AMPEL', 'N_FARMS', 'PERCENT', 'diff', 'TIMESTEP']].to_dict(orient='records')
 
 
 with open('./ogd/bovine_viral_diarrhea_eradication/CurrentData.json', 'w', encoding='utf-8') as f:
