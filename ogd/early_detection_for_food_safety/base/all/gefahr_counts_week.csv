@@ -1,19 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[1895, 1885, 1889]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[1884, 1886]"
-489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,1.0,[1882]
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1883]
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1895, 1903]"
+181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[1906, 1900]"
+246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1894, 1902]"
 18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[1896]
 255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.0,[1899]
-241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
-476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[1888]
-59,1,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,[1890]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[1892]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1894]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.0,[1900]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[1901]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1898]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1898]
 225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
+490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[1902]
+491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
+370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,1.0,[1904]
+360,1,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,2.0,[1905]
+147,1,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,2.0,[1905]
+380,1,Taenia martis,Taenia martis,Taenia martis,Taenia martis,2.0,[1905]
+336,1,Taenia solium,Taenia solium,Taenia solium,Taenia solium,2.0,[1905]
