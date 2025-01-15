@@ -1,12 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[1880, 1871, 1901]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1871, 1909]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[1906, 1900]"
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1883]
-18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[1896]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1910]
 36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[1877]
+18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[1896]
 255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.0,[1899]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1871]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[1871]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1872]
 241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[1888]
@@ -16,3 +17,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 147,1,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,2.0,[1905]
 380,1,Taenia martis,Taenia martis,Taenia martis,Taenia martis,2.0,[1905]
 336,1,Taenia solium,Taenia solium,Taenia solium,Taenia solium,2.0,[1905]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1909]
