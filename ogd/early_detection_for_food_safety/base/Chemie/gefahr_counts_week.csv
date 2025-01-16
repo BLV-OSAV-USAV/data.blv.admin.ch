@@ -1,8 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1898, 1908]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1898]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1894, 1902]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1898, 1908]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1908]"
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[1895]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1898]
 225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
@@ -11,5 +12,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
 370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,1.0,[1904]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1908]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[1908]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[1908]
