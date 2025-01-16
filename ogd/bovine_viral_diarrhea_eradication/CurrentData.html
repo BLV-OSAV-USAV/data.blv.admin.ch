@@ -168,7 +168,7 @@
                     
                                 // Render tooltip with HTML content
                                 d3.select("#tooltip")
-                                    .style("left", abs((event.pageX - tooltipWidth*2 / 2)) + "px")
+                                    .style("left", (event.pageX - tooltipWidth / 2) + "px")
                                     .style("top", (event.pageY - tooltipHeight - 10) + "px")
                                     .style("display", "block")
                                     .style("opacity", 1)
