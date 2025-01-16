@@ -69,9 +69,9 @@
             },
             fr: {
                 grey: "non évalué <br> (gris)",
-                green: "risque négligeable",
-                orange: "risque moyen",
-                red: "risque élevé",
+                green: "risque<br>négligeable",
+                orange: "risque<br>moyen",
+                red: "risque<br>élevé",
                 grey_tooltip: "non évalué (gris)",
                 green_tooltip: "risque négligeable",
                 orange_tooltip: "risque moyen",
@@ -83,11 +83,11 @@
             },
             de: {
                 grey: "nicht beurteilt <br> (grau)",
-                green: "vernachlässigbares Risiko",
-                orange: "mittleres Risiko",
-                red: "hohes Risiko",
+                green: "vernachlässigbares<br>Risiko",
+                orange: "mittleres<br>Risiko",
+                red: "hohes<br>Risiko",
                 grey_tooltip: "nicht beurteilt (grau)",
-                green_tooltip: "vernachlässigbares Risiko",
+                green_tooltip: "vernachlässigbaresRisiko",
                 orange_tooltip: "mittleres Risiko",
                 red_tooltip: "hohes Risiko",
                 percent: "Prozentualer Anteil",
@@ -97,9 +97,9 @@
             },
             it: {
                 grey: "non valutato <br> (grigio)",
-                green: "Rischio trascurabile",
-                orange: "Rischio medio",
-                red: "Alto rischio",
+                green: "Rischio<br>trascurabile",
+                orange: "Rischio<br>medio",
+                red: "Alto<br>rischio",
                 grey_tooltip: "non valutato (grigio)",
                 green_tooltip: "Rischio trascurabile",
                 orange_tooltip: "Rischio medio",
@@ -211,7 +211,7 @@
                                textElement.append("tspan")
                                    .attr("x", textElement.attr("x"))  // align tspans to the same x
                                    .attr("dy", index === 0 ? 0 : 15)  // add vertical spacing between lines
-                                   .text(line.toUpperCase());
+                                   .text(line);
                            });
                        });
                     });
