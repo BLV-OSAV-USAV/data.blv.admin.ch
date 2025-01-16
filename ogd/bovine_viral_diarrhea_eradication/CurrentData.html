@@ -22,7 +22,7 @@
 			box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
 			pointer-events: none;
 			font-family: Arial, sans-serif;
-			font-size: 10px;
+			font-size: 12px;
         }
 		
 		#tooltip p {
@@ -173,7 +173,7 @@
                                     .style("display", "block")
                                     .style("opacity", 1)
                                     .html(`
-                                        <strong>${translations[language][d.BVD_AMPEL]}</strong>
+                                        <strong>${translations[language][d.BVD_AMPEL+"_tooltip"]}</strong>
                                         <br>
                                         ${d.PERCENT}% (${d.N_FARMS} ${translations[language].farms})
                                         <br>
