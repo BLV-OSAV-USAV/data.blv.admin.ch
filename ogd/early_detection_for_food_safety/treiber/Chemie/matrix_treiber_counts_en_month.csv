@@ -1,9 +1,11 @@
-matrix_id,Technological innovations and scientific advances,Urbanization and urban agriculture,Consumer behaviour and consumption trends,Technology,Ecology
-1,0,0,1,1,0
-5,1,0,0,0,0
-8,1,0,1,0,0
-9,0,1,0,0,1
-39,0,0,1,0,0
-60,0,0,0,0,1
-93,1,0,0,0,0
-144,0,0,0,0,1
+matrix_id,Technological innovations and scientific advances,Urbanization and urban agriculture,Consumer behaviour and consumption trends,Society,Technology,Ecology
+1,0,0,2,0,1,0
+5,1,0,0,0,0,0
+8,1,0,1,0,0,0
+9,0,1,0,0,0,1
+39,0,0,1,0,0,0
+60,0,0,0,0,0,1
+82,0,1,0,1,0,0
+93,1,0,0,0,0,0
+100,0,0,1,0,0,1
+144,0,0,0,0,0,1

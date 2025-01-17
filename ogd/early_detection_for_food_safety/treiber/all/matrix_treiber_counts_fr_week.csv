@@ -1,12 +1,13 @@
-matrix_id,Innovations technologiques et progrès scientifiques,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Ecologie
-1,0,1,0,0
-6,0,0,1,0
-8,1,1,0,0
-23,0,0,1,0
-54,0,0,1,0
-56,0,0,1,0
-60,0,0,0,1
-80,0,1,0,0
-82,0,0,1,0
-126,0,0,1,0
-144,0,0,0,1
+matrix_id,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Nouveaux aliments et systèmes de production alimentaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Société,Ecologie
+1,0,0,0,2,0,0,0
+6,0,0,0,0,1,0,0
+8,1,0,0,1,0,0,0
+23,0,0,0,0,1,0,0
+56,0,0,0,0,1,0,0
+58,0,0,1,1,0,0,0
+60,0,0,0,0,0,0,1
+80,0,0,0,1,0,0,0
+82,0,1,0,0,1,1,0
+100,0,0,0,1,0,0,1
+126,0,0,0,0,1,0,0
+144,0,0,0,0,0,0,1
