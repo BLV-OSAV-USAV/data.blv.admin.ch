@@ -1,16 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.5,"[1897, 1919]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1898, 1915]"
 23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[1905, 1909]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[1910, 1918]"
-56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[1899]
-126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",2.0,[1906]
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[1900]
 144,1,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,[1904]
+126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",2.0,[1906]
 34,1,Früchte,Fruits,Frutta,Fruits,2.0,[1905]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[1907]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[1908]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[1913]
 33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,[1914]
-100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[1917]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[1915]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",2.0,[1919]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[1916]
+100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[1917]
+81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[1921]
+39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[1920]
+14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[1922]

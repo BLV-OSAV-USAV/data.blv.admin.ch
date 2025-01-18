@@ -1,14 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1898, 1908, 1917]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1917, 1898, 1908]"
 79,2,Zucker,sucre,zucchero,sugar,1.0,"[1907, 1892]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1898, 1917]"
-167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1908, 1917]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1908, 1917]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[1908, 1917]"
-422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1886]
-225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
-402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
-115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[1923, 1886]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[1917, 1908]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1917, 1898]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1908]"
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
+422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
+115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
+402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
+492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
