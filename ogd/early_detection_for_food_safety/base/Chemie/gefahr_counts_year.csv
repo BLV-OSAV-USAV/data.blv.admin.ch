@@ -4,9 +4,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,26,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.35,"[1171, 1138, 1132, 1457, 1529, 1556, 1562, 1653, 1063, 1619, 1199, 1463, 1591, 1558, 1675, 1923, 1169, 1220, 1259, 1276, 1412, 1605, 1626, 1787, 1884, 1886]"
 102,25,Blei,Plomb,Piombo,Lead,1.24,"[1633, 1086, 1137, 1365, 1432, 1568, 1774, 1130, 1116, 1538, 1492, 1747, 1778, 1836, 1526, 1283, 1341, 1510, 1412, 1103, 1604, 1668, 1715, 1917, 1908]"
 165,21,Cadmium,Cadmium,Cadmio,Cadmium,1.19,"[1095, 1365, 1510, 1521, 1774, 1130, 1116, 1538, 1913, 1747, 1836, 1526, 1283, 1341, 1412, 1626, 1668, 1715, 1917, 1898, 1908]"
-91,18,Pestizide,pesticides,pesticidi,pesticide,1.17,"[1058, 1365, 1585, 1155, 1538, 1166, 1403, 1619, 1229, 1670, 1511, 1675, 1669, 1283, 1310, 1369, 1387, 1755]"
 128,18,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.28,"[1138, 1447, 1432, 1130, 1417, 1670, 1747, 1783, 1510, 1216, 1412, 1420, 1604, 1717, 1703, 1715, 1917, 1908]"
-187,16,Arsen,Arsenic,Arsenico,Arsenic,1.12,"[1095, 1492, 1913, 1747, 1061, 1836, 1644, 1760, 1510, 1341, 1473, 1604, 1715, 1917, 1848, 1898]"
+91,17,Pestizide,pesticides,pesticidi,pesticide,1.18,"[1365, 1585, 1155, 1538, 1166, 1403, 1619, 1229, 1670, 1511, 1675, 1669, 1283, 1310, 1369, 1387, 1755]"
+187,15,Arsen,Arsenic,Arsenico,Arsenic,1.13,"[1095, 1492, 1913, 1747, 1836, 1644, 1760, 1510, 1341, 1473, 1604, 1715, 1917, 1848, 1898]"
 167,9,Quecksilber,Mercure,Mercurio,Mercury,1.11,"[1095, 1185, 1772, 1116, 1538, 1913, 1715, 1917, 1908]"
 246,8,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.12,"[1480, 1639, 1172, 1593, 1770, 1920, 1894, 1902]"
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.14,"[1225, 1550, 1698, 1468, 1331, 1451, 1917]"
@@ -45,15 +45,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 382,1,Tyramin,Tyramine,Tiramina,Tyramine,1.0,[1194]
 62,1,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.0,[1204]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1396]
-377,1,Cannabis,Cannabis,Cannabis,Cannabis,1.0,[1176]
 369,1,leucin,leucine,leucina,leucine,1.0,[1157]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
+377,1,Cannabis,Cannabis,Cannabis,Cannabis,1.0,[1176]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 80,1,Salz,sel,sale,salt,2.0,[1119]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1185]
 351,1,Brom,brom,bromo,bromine,2.0,[1086]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1185]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1185]
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
 110,1,Chlorkohlenwasserstoffe,Composés organochlorés,Organocloruro,Organochlorine compound,1.0,[1632]
