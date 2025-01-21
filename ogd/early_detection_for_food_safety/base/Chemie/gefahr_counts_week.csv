@@ -1,20 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1917, 1908]"
-167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1917, 1908]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1908, 1917]"
+167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1908, 1917]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[1908, 1917]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1917]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[1917, 1908]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
-246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1902]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[1923]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1908, 1917]"
+137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1918]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[1923]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
-490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[1902]
-491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
-370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,1.0,[1904]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[1921]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[1921]
+91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[1926]
