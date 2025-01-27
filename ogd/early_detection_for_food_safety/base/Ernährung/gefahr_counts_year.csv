@@ -1,52 +1,51 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,7,Cadmium,Cadmium,Cadmio,Cadmium,1.14,"[1095, 1290, 1836, 1689, 1898, 1908, 1917]"
-79,5,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1123, 1744, 1892]"
+165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.17,"[1290, 1836, 1689, 1898, 1908, 1917]"
 80,5,Salz,sel,sale,salt,1.4,"[1119, 1612, 1367, 1580, 1437]"
+79,5,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1123, 1744, 1892]"
 102,5,Blei,Plomb,Piombo,Lead,1.2,"[1290, 1836, 1689, 1908, 1917]"
-167,4,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1095, 1689, 1908, 1917]"
 363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
-187,4,Arsen,Arsenic,Arsenico,Arsenic,1.25,"[1095, 1836, 1898, 1917]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1362, 1235, 1314]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1177, 1917]"
-368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
-145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
-225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
-273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1836, 1898, 1917]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1362, 1235, 1314]"
+167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1908, 1917]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1511, 1938]"
+145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1908, 1917]"
+273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
+225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1177, 1917]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1639, 1920]"
+368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
-185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[1094]
-341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
-374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
-373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
-20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
 370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
-369,1,leucin,leucine,leucina,leucine,1.0,[1157]
-398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
-284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
+81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
+122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
+373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
+369,1,leucin,leucine,leucina,leucine,1.0,[1157]
+20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
+341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
+306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1126]
-306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
-389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
+389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 316,1,Fructose,Fructose,Fruttosio,Fructose,1.0,[1651]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
