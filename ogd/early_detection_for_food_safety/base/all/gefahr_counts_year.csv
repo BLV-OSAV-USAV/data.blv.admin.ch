@@ -49,10 +49,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 241,3,Alternariol,alternariol,alternariolo,alternariol,1.33,"[1169, 1605, 1890]"
 273,3,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1574, 1742]"
 251,3,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,"[1398, 1638, 1730]"
-112,3,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,"[1469, 1139, 1734]"
+127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.33,"[1713, 1668, 1878]"
 18,3,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.67,"[1158, 1896, 1700]"
 255,3,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.33,"[1899, 1532, 1328]"
-127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.33,"[1713, 1668, 1878]"
+112,3,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,"[1469, 1139, 1734]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
 147,3,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.33,"[1133, 1952, 1905]"
 401,3,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.33,"[1350, 1650, 1818]"
@@ -82,13 +82,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.5,"[1619, 1591]"
 376,2,Histamin,Histamine,Istamina,Histamine,1.0,"[1185, 1173]"
 277,2,Microcystine,Microcystine,Microcistina,Microcystin,1.0,"[1200, 1325]"
-225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+306,2,Furan,Furane,Furano,Furan,1.5,"[1411, 1770]"
 95,2,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,2.5,"[1267, 1139]"
 35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[1353, 1817]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[1577, 1810]"
 189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.5,"[1279, 1270]"
 400,2,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,1.5,"[1334, 1788]"
-306,2,Furan,Furane,Furano,Furan,1.5,"[1411, 1770]"
+225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
 10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[1114, 1332]"
 427,2,Enterovirus,Entérovirus,Enterovirus,Enterovirus,1.0,"[1502, 1635]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[1161, 1752]"
@@ -99,8 +99,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 403,1,Mykobakterien,Mycobacterium,Mycobacterium,Mycobacterium,1.0,[1354]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[1354]
 433,1,Poliovirus,Poliovirus,Poliovirus,Poliovirus,1.0,[1523]
+351,1,Brom,brom,bromo,bromine,1.0,[1955]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
-36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[1877]
 440,1,Tellur,Tellure,Tellurio,Tellurium,2.0,[1541]
 193,1,Salmonella Agona,Salmonella Agona,Salmonella Agona,Salmonella Agona,1.0,[1573]
 388,1,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,2.0,[1242]
@@ -118,18 +118,18 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
 377,1,Cannabis,Cannabis,Cannabis,Cannabis,1.0,[1176]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
-98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[1685]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[1721]
 62,1,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.0,[1204]
 383,1,Ruminococcus gnavus,Ruminococcus gnavus,Ruminococcus gnavus,Ruminococcus gnavus,1.0,[1206]
 14,1,Streptococcus suis,Streptococcus suis,Streptococcus suis,Streptococcus suis,1.0,[1187]
+169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[1743]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[1811]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[1721]
-169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
-489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[1635]
+36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[1877]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
 267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1847]
+489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[1787]
@@ -170,38 +170,39 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 428,1,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,1.0,[1507]
 300,1,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,[1864]
+101,1,Brucella spp.,Brucella spp.,Brucella spp.,Brucella spp.,2.0,[1469]
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[1324]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
 391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
+372,1,dicamba,dicamba,dicamba,dicamba,1.0,[1160]
+334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,2.0,[1469]
 313,1,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,[1160]
-226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,2.0,[1469]
-101,1,Brucella spp.,Brucella spp.,Brucella spp.,Brucella spp.,2.0,[1469]
 447,1,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,1.0,[1589]
 381,1,Staphylococcus succinus,Staphylococcus succinus,Staphylococcus succinus,Staphylococcus succinus,1.0,[1189]
-372,1,dicamba,dicamba,dicamba,dicamba,1.0,[1160]
-464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 441,1,Dimethyltetrachlorterephthalat,Diméthyltétrachlorotéréphtalate,Tetraclorotereftalato di dimetile,Dimethyl tetrachloroterephthalate (DCPA),2.0,[1544]
+464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,3.0,[1170]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),2.0,[1465]
-334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,2.0,[1469]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[1465]
+226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,2.0,[1469]
 416,1,Polyethylen niedriger Dichte (LDPE),polyéthylène basse densité (LDPE),polietilene a bassa densità (LDPE),Low density polyethylene (LDPE),2.0,[1465]
-96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.0,[1465]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),2.0,[1465]
-395,1,Tropan-Alkaloide,Alcaloïde tropanique,Alcaloide tropanico,tropane alkaloids,2.0,[1284]
+419,1,polyurethane (PUR),polyuréthane (PUR),Poliuretano (PUR),polyurethane (PUR),2.0,[1465]
+96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.0,[1465]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[1326]
-354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
-61,1,Atropin,atropine,atropina,atropine,2.0,[1284]
-131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[1174]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+61,1,Atropin,atropine,atropina,atropine,2.0,[1284]
+395,1,Tropan-Alkaloide,Alcaloïde tropanique,Alcaloide tropanico,tropane alkaloids,2.0,[1284]
 129,1,Affenpocken-Virus (MPXV),variole du singe (MPXV),vaiolo delle scimmie (MXPV),Monkeypox virus (MPXV),1.0,[1536]
+131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[1174]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),2.0,[1620]
 356,1,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,2.0,[1118]
 37,1,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,1.0,[1383]
 406,1,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,1.0,[1383]
+471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1675]
@@ -213,40 +214,38 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
 186,1,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,1.0,[1422]
 420,1,Polyvinylchlorid (PVC),Polychlorure de vinyle (PVC),Polivinilcloruro (PVC),polyvinyl chloride (PVC),2.0,[1465]
-419,1,polyurethane (PUR),polyuréthane (PUR),Poliuretano (PUR),polyurethane (PUR),2.0,[1465]
+54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
 364,1,Maillard-Reaktion,Réaction de Maillard,Reazione di Maillard,Maillard reaction,2.0,[1140]
-252,1,Morcheln,morilles,spugnola,morel mushroom,1.0,[1221]
-107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[1134]
 281,1,Ethylendioxid,dioxyde d'éthylène,Ossido di etilene,ethylene dioxide,2.0,[1192]
+252,1,Morcheln,morilles,spugnola,morel mushroom,1.0,[1221]
+396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 399,1,Natriumhydroxid (kaustische(s) Soda),Hydroxyde de sodium (soude caustique),Idrossido di sodio (soda caustica),Sodium hydroxide (caustic soda),1.0,[1334]
+385,1,Usutu-Virus,Virus d'Usutu,Usutu virus,Usutu virus (USUV),1.0,[1237]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.0,[1259]
-385,1,Usutu-Virus,Virus d'Usutu,Usutu virus,Usutu virus (USUV),1.0,[1237]
-54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
+358,1,Nisin,Nisine,Nisina,Nisin,2.0,[1124]
 407,1,Rodentizid,Rodenticide,Rodenticida,Rodenticide,1.0,[1397]
 408,1,illegale Drogen,drogues illicites,droghe illecite,illicit drugs,1.0,[1397]
-396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
-209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[1172]
-358,1,Nisin,Nisine,Nisina,Nisin,2.0,[1124]
 393,1,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,2.0,[1278]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[1172]
 257,1,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,1.0,[1203]
-199,1,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.0,[1434]
 389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[1434]
-471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
+199,1,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.0,[1434]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
+107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[1134]
 423,1,Glasfaserverstärkter Kunststoff (Fiberglas),Plastique à renfort de verre,Vetroresina,Fibreglass,3.0,[1477]
-421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 414,1,Glycidol,Glycidol,Glicidolo,Glycidol,1.0,[1451]
-48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,3.0,[1139]
+415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
+421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
 439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
-415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
 262,1,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,[1518]
+48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,3.0,[1139]
 124,1,Melamin,Mélamine,Melammina,Melamine,1.0,[1518]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[1596]
 342,1,Campylobacter lari,Campylobacter lari,Campylobacter lari,Campylobacter lari,1.0,[1583]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[1596]
 452,1,Hefen,Levure,Lievito,Yeast,1.0,[1615]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[1616]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[1577]
@@ -255,6 +254,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[1636]
 272,1,Mangan,Manganèse,Manganese,Manganese,2.0,[1668]
 324,1,Polychlorierte Dibenzodioxine und Dibenzofurane (PCDD/PCDF),Polychlorodibenzo-p-dioxine (PCDD/PCDF),policloro-dibenzo-p-diossine (PCDD/PCDF),Polychlorinated dibenzodioxins (PCDD/PCDF),2.0,[1668]
+98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[1685]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[1941]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[1806]
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]

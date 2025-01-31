@@ -48,22 +48,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 174,3,Fungizid,Fongicide,Fungicida,Fungicide,1.33,"[426, 525, 377]"
 277,3,Microcystine,Microcystine,Microcistina,Microcystin,1.0,"[643, 1200, 1325]"
 402,3,Thallium,Thallium,Tallio,Thallium,1.0,"[1352, 1531, 1898]"
-199,2,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.5,"[229, 1434]"
+42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[1496, 1854]"
+351,2,Brom,brom,bromo,bromine,1.5,"[1086, 1955]"
 310,2,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.5,"[849, 1465]"
-43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[848, 1756]"
 288,2,T-2,T-2,T-2,T-2,1.5,"[682, 1675]"
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
 308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1529, 836]"
 370,2,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,2.0,"[1159, 1904]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
 345,2,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,1.5,"[1041, 1893]"
-42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[1496, 1854]"
+43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[848, 1756]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.5,"[1653, 99]"
 252,2,Morcheln,morilles,spugnola,morel mushroom,1.0,"[494, 1221]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[252, 1653]"
 198,2,Hexamethoxymethylmelamin (HMMM),Hexaméthoxyméthylmélamine (HMMM),Esametossimetilmelamina (HMMM),Hexamethoxymethylmelamine (HMMM),3.0,"[229, 735]"
+199,2,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.5,"[229, 1434]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[543, 386]"
-378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.5,"[14, 1465]"
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
@@ -93,10 +93,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 323,2,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),2.0,"[945, 1465]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
 46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,"[722, 1326]"
+378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 272,2,Mangan,Manganèse,Manganese,Manganese,1.5,"[618, 1668]"
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[708]
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
-58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[467]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[277]
 215,1,Diisobutylphthalate (DIBP),Phtalate de diisobutyle (DIBP),Diisobutilftalato (DIBP),Diisobutyl phthalate (DIBP),1.0,[277]
 220,1,Tricyclazol,Tricyclazole,Tricyclazole,Tricyclazole,2.0,[297]
@@ -129,17 +129,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
+264,1,sucralose-6-acetate,sucralose-6-acétate,sucralose-6-acetato,sucralose-6-acetate,1.0,[543]
 299,1,Hexachlorcyclohexan,Hexachlorocyclohexane,Esaclorocicloesano,Hexachlorocyclohexane,1.0,[727]
-328,1,Cholesterin-Oxidationsprodukte,Produits d'oxydation du cholestérol,Prodotti di ossidazione del colesterolo,Cholesterol oxidation products,1.0,[961]
 142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
 275,1,Cyazofamid,Cyazofamid,Cyazofamid,Cyazofamid,1.0,[638]
 382,1,Tyramin,Tyramine,Tiramina,Tyramine,1.0,[1194]
-264,1,sucralose-6-acetate,sucralose-6-acétate,sucralose-6-acetato,sucralose-6-acetate,1.0,[543]
+328,1,Cholesterin-Oxidationsprodukte,Produits d'oxydation du cholestérol,Prodotti di ossidazione del colesterolo,Cholesterol oxidation products,1.0,[961]
 353,1,Paralytic shellfish poisoning (PSP),Intoxication paralysante par les mollusques,Intossicazione da molluschi paralizzanti,Paralytic shellfish poisoning (PSP),1.0,[1097]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1185]
-307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
 164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1002]
-351,1,Brom,brom,bromo,bromine,2.0,[1086]
+307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
+58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[467]
 282,1,Ketoprofen,Kétoprofène,Ketoprofene,Ketoprofen,1.0,[667]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,3.0,[735]
 294,1,Benzo(a)pyren,Benzopyrène,Benzo[a]pirene,Benzo[a]pyrene,1.0,[714]

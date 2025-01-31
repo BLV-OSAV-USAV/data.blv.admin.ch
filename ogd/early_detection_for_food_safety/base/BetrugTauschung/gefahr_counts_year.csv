@@ -1,20 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 102,3,Blei,Plomb,Piombo,Lead,1.67,"[1137, 1290, 1836]"
-91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1499, 1619, 1397]"
 390,3,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1601, 1619, 1250]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1499, 1619, 1397]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[1290, 1836]"
 103,2,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,"[1720, 1866]"
-66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1145]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1542]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
+66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1145]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1619]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1542]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1619]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[1619]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[1619]
 394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[1619]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
-354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
 80,1,Salz,sel,sale,salt,1.0,[1580]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[1836]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
