@@ -1,14 +1,17 @@
-matrix_id,Climate change,Technological innovations and scientific advances,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology
-6,0,0,0,0,1,0
-8,0,1,0,1,0,0
-9,1,0,0,0,2,1
-23,0,0,0,0,1,0
-34,0,0,0,0,1,0
-39,0,0,1,1,0,0
-42,0,0,0,0,1,0
-54,0,0,0,0,1,0
-56,0,0,0,0,1,0
-60,0,0,0,0,0,1
-79,0,0,0,0,1,0
-82,0,0,0,0,2,0
-126,0,0,0,0,1,0
+matrix_id,Climate change,Technological innovations and scientific advances,Urbanization and urban agriculture,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Technology,Ecology
+1,0,0,0,0,1,0,0,0
+3,0,0,0,0,0,0,1,0
+6,0,0,0,0,0,1,0,0
+8,0,1,0,0,1,2,0,0
+9,1,0,0,0,0,2,0,1
+23,0,1,1,0,0,1,0,0
+34,0,0,0,0,0,1,1,0
+39,0,0,0,1,1,0,0,0
+42,0,0,0,0,0,1,0,0
+54,0,0,0,0,0,1,0,0
+56,0,0,0,0,0,1,0,0
+60,0,0,0,0,0,0,0,1
+79,0,0,0,0,0,1,0,0
+82,0,0,0,0,0,2,0,0
+93,0,0,0,0,0,0,1,0
+126,0,0,0,0,0,1,0,0
