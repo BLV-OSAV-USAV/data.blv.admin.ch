@@ -1,24 +1,26 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1898, 1908, 1917]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.4,"[1895, 1885, 1889, 1921, 1931]"
-165,5,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1898, 1908, 1917]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974, 1908, 1917]"
 167,4,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1963, 1908, 1917]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1898, 1917]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1908, 1917]"
-128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1908, 1917]"
+187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1974, 1898, 1917]"
+102,4,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974, 1908, 1917]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1886, 1923, 1884]"
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1894, 1902]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1951, 1921]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
-489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
-285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
-137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 345,1,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,2.0,[1893]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
+285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
 351,1,Brom,brom,bromo,bromine,1.0,[1955]
-493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
+89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
+489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1918]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
+499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
 59,1,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,[1890]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
