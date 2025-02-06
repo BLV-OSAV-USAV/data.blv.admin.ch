@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.17,"[1290, 1836, 1689, 1898, 1908, 1917]"
 102,5,Blei,Plomb,Piombo,Lead,1.2,"[1290, 1836, 1689, 1908, 1917]"
-79,5,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1123, 1744, 1892]"
+79,4,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1744, 1892]"
 80,4,Salz,sel,sale,salt,1.25,"[1612, 1367, 1580, 1437]"
 363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"

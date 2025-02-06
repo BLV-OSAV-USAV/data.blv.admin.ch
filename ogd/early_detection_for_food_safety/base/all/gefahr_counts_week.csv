@@ -3,7 +3,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1963, 1974]"
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[1958]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1970]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[1963]
 498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
 496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
@@ -12,13 +14,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1974]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1976]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1976]
-351,1,Brom,brom,bromo,bromine,1.0,[1955]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1962]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[1965]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1965]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[1965]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[1965]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[1966]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1970]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
