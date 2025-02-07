@@ -1,47 +1,45 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.17,"[1290, 1836, 1689, 1898, 1908, 1917]"
 102,5,Blei,Plomb,Piombo,Lead,1.2,"[1290, 1836, 1689, 1908, 1917]"
-79,4,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1744, 1892]"
-80,4,Salz,sel,sale,salt,1.25,"[1612, 1367, 1580, 1437]"
 363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
-49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
+80,4,Salz,sel,sale,salt,1.25,"[1612, 1367, 1580, 1437]"
+79,4,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1744, 1892]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1836, 1898, 1917]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1362, 1235, 1314]"
+49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1689, 1908, 1917]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1511, 1938]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
 145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
+368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1177, 1917]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
+246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1639, 1920]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1511, 1938]"
+402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
+225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1908, 1917]"
 273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1136, 1628]"
-225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
-368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
-402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
-246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1639, 1920]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1177, 1917]"
-370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
-369,1,leucin,leucine,leucina,leucine,1.0,[1157]
-359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
-81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
+81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
+369,1,leucin,leucine,leucina,leucine,1.0,[1157]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
-341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
-284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
+341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
 306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1126]
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
