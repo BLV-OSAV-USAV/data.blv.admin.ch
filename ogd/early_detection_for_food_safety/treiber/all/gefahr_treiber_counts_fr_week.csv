@@ -1,15 +1,8 @@
-gefahr_id,Changement climatique,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Économie circulaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Ecologie
-4,0,0,0,0,1,0,0
-87,0,0,0,0,0,1,0
-93,1,1,1,0,0,1,0
-94,0,0,0,0,0,1,0
-118,0,0,0,0,0,1,0
-130,0,0,0,1,0,0,0
-166,0,0,0,1,0,0,0
-176,0,0,0,0,0,1,0
-244,0,0,0,0,0,1,0
-348,0,0,0,0,0,1,0
-361,0,0,0,0,0,1,0
-496,0,0,0,0,0,1,0
-498,0,0,0,0,0,1,0
-499,1,0,0,0,0,0,1
+gefahr_id,Changement climatique,Économie circulaire,Évolution microbienne et antibiorésistance,Ecologie
+87,0,0,1,0
+93,1,0,1,0
+118,0,0,1,0
+130,0,1,0,0
+166,0,1,0,0
+176,0,0,1,0
+499,1,0,0,1

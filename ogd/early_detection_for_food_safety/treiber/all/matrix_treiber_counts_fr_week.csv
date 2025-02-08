@@ -1,9 +1,4 @@
-matrix_id,Changement climatique,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Économie circulaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Technologie,Ecologie
-1,0,0,0,1,1,1,0,0
-3,0,0,0,0,0,0,1,0
-8,0,0,0,0,0,2,0,0
-23,0,1,1,0,0,0,0,0
-34,0,0,0,0,0,0,1,0
-82,1,0,0,0,0,0,0,1
-93,0,0,0,0,0,0,1,0
-133,0,0,0,0,1,0,0,0
+matrix_id,Changement climatique,Économie circulaire,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Ecologie
+1,0,1,0,1,0
+82,1,0,0,0,1
+133,0,0,1,0,0
