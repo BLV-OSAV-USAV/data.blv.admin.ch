@@ -1,17 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[1901, 1961, 1973, 1968]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1949, 1944, 1909]"
-121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1976]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[1954, 1965]"
+181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[1900, 1906]"
 360,2,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.5,"[1952, 1905]"
 147,2,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.5,"[1952, 1905]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
-181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[1900, 1906]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
+121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1976]"
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
-137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[1958]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1910]
+137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1932]
@@ -19,7 +18,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1972]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
 255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.0,[1899]
-18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,2.0,[1896]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1910]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1974]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1974]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1974]
