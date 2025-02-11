@@ -1,8 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1973, 1968]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1970]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1972]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1973]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1974]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1974]
@@ -10,6 +8,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1974]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1976]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[1976]
-176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[1966]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]

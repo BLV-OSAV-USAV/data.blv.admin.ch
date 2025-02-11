@@ -1,54 +1,50 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1898, 1908, 1917]"
-187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1974, 1898, 1917]"
+165,5,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1908, 1917]"
 167,4,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1963, 1908, 1917]"
 102,4,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974, 1908, 1917]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974, 1908, 1917]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[1901, 1961, 1973, 1968]"
+93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1961, 1973, 1968]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1974, 1917]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[1903, 1921, 1931]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1949, 1944, 1909]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
-109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1951, 1921]"
-360,2,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.5,"[1952, 1905]"
-147,2,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.5,"[1952, 1905]"
-181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[1900, 1906]"
-121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1976]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
-119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[1954, 1965]"
+109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1951, 1921]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
+121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1976]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
+147,2,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.5,"[1952, 1905]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1902]"
-494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
+360,2,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.5,"[1952, 1905]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[1910]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[1907]
-137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[1958]
-99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1932]
+137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1972]
-498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
+99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1932]
 496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
-255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.0,[1899]
-89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
-351,1,Brom,brom,bromo,bromine,1.0,[1955]
+498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
+494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[1906]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
+351,1,Brom,brom,bromo,bromine,1.0,[1955]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1962]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[1965]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1965]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1918]
-493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
-176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[1966]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[1923]
+89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
+493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1918]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
-499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
-495,1,Yersinia spp.,Yersinia spp.,Yersinia spp.,Yersinia spp.,1.0,[1953]
+176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[1966]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[1941]
-225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
-115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
-402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
+495,1,Yersinia spp.,Yersinia spp.,Yersinia spp.,Yersinia spp.,1.0,[1953]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[1902]
 491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
