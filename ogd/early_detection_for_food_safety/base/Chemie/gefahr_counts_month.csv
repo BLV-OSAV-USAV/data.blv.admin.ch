@@ -1,9 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,5,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1908, 1917]"
-167,4,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1963, 1908, 1917]"
-128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974, 1908, 1917]"
-102,4,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974, 1908, 1917]"
+165,4,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1917]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1974, 1917]"
+167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1963, 1917]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974, 1917]"
+128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974, 1917]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1951, 1921]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"

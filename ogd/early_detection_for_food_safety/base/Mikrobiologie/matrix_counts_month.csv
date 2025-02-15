@@ -1,14 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,"[1909, 1952, 1961]"
 34,3,Früchte,Fruits,Frutta,Fruits,1.0,"[1938, 1952, 1964]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1941, 1932, 1954]"
 1,3,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.33,"[1958, 1966, 1974]"
-82,2,Wasser,Eau,Acqua,Waters,1.0,"[1910, 1930]"
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1941, 1932, 1954]"
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,"[1944, 1949]"
+23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,"[1952, 1961]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[1960, 1964]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1957, 1965]"
 60,2,Fische,Poissons,Pesce,Fish,1.0,"[1933, 1962]"
-42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,"[1944, 1949]"
-39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[1929]
 33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,[1914]
+39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[1929]
+82,1,Wasser,Eau,Acqua,Waters,1.0,[1930]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[1964]
 18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[1976]
