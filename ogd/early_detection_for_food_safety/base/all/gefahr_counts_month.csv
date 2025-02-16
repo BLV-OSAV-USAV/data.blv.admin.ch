@@ -1,45 +1,43 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-165,4,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1913, 1963, 1974, 1917]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1913, 1974, 1917]"
-167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1913, 1963, 1917]"
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1961, 1973, 1968]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974, 1917]"
 102,3,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974, 1917]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1963, 1974, 1917]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
-121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1976]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1963, 1917]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[1954, 1965]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1917]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[1951, 1921]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1949, 1944]"
-119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[1921, 1931]"
-137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1974, 1917]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1949, 1944]"
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[1958]
-498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1972]
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1970]
+137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[1927]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
+494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[1932]
-496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[1972]
 147,1,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.0,[1952]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[1923]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
+496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
+498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
+121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1976]
 360,1,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.0,[1952]
-494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]
-285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
 351,1,Brom,brom,bromo,bromine,1.0,[1955]
+285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[1965]
-376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1962]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1965]
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1962]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[1918]
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[1965]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[1966]
-499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
+499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[1941]
 495,1,Yersinia spp.,Yersinia spp.,Yersinia spp.,Yersinia spp.,1.0,[1953]
-422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
