@@ -1,26 +1,27 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 109,3,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.33,"[1951, 1992, 2002]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[1991, 1992, 1931]"
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1961, 1973, 1968]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[1991, 1992, 1931]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2002, 1979, 1998]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[1954, 1965]"
 137,2,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.5,"[1927, 2002]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[1963, 1974]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1963, 1974]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1930, 1965]"
-130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,"[1988, 1970]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1963, 1974]"
+130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,"[1988, 1970]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[1988, 2003]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1976, 1928]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 1970]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[1949, 1944]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[1938, 1926]"
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
 164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
 501,1,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,1.0,[1985]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[1929]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[1958]
+10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
 496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
 498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[1933]

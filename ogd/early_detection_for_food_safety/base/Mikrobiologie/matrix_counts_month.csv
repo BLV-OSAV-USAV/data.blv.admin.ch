@@ -1,15 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 34,4,Früchte,Fruits,Frutta,Fruits,1.25,"[1938, 1952, 1964, 1990]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[1958, 1966, 1974, 2002]"
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1941, 1932, 1954]"
 3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.33,"[1960, 1964, 1990]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1957, 1965, 1986]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1941, 1932, 1954]"
-42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,"[1944, 1949]"
-93,2,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.5,"[1964, 1990]"
-23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,"[1952, 1961]"
 60,2,Fische,Poissons,Pesce,Fish,1.0,"[1933, 1962]"
-82,1,Wasser,Eau,Acqua,Waters,1.0,[1930]
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,"[1944, 1949]"
+23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,"[1952, 1961]"
+93,2,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.5,"[1964, 1990]"
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[1929]
+82,1,Wasser,Eau,Acqua,Waters,1.0,[1930]
 18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[1976]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[1985]
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[1989]
+38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2006]
