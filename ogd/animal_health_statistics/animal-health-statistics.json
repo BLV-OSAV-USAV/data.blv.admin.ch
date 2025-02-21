@@ -1,0 +1,73 @@
+{
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "name": "animal-health-statistics-csv",
+            "type":"table",
+            "path": "https://data.blv.admin.ch/ogd/animal_health_statistics/animal-health-statistics.csv",
+            "scheme": "file",
+            "profile": "tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {"name": "year", 
+                    "type": "integer",
+                    "description": "Year of evaluation"},
+                    {"name": "canton",
+                    "type": "string",
+                    "description": "Canton of evaluation",
+                    "constraints":{
+                        "enum": ["AG", "AI", "AR", "BE", "BL",
+                                    "BS", "FR", "GE", "GL", "GR", 
+                                    "JU", "LU", "NE", "NW", "OW", 
+                                    "SG", "SH", "SO", "SZ", "TG", 
+                                    "TI", "UR", "VD", "VS", "ZG", 
+                                    "ZH", "FL"]
+                    }},
+                    {"name": "diseasesGroup",
+                    "type" : "string",
+                    "description" : "Group of disease evaluated"},
+                    {"name": "diseases",
+                    "type" : "string",
+                    "description" : "Disease evaluated"},
+                    {"name": "species",
+                    "type": "string",
+                    "description": "Species evaluated"},
+                    {"name": "count",
+                    "type": "integer",
+                    "description": "Count of diseased animals"}
+                  ]
+            },
+            "title": "Animal health statistics",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "dialect": {
+                "delimiter": ",",
+                "lineTerminator": "\r\n",
+                "header": true
+            },
+            "encoding": "UTF-8"
+        }
+    ],
+    "name": "animal-health-statistics",
+    "title": "Animal Health Statistics",
+    "description": "The Swiss Federal Food Safety and Veterinary Office (FSVO) publishes an annual evaluation of animal health statistics. The data supports cantons in execution tasks, such as establishing reports and identifying recurring problems related to animal protection. Cantonal veterinary services use the ALVPH Data Warehouse for data exploitation.",
+    "homepage": "https://www.blv.admin.ch/blv/de/home/tiere/publikationen/statistiken-berichte-tiere.html",
+    "temporal": {
+        "name": "Time coverage",
+        "start": "1991-01-01T00:00:00Z",
+        "end": "2023-12-31T23:59:59Z"
+    },
+    "contributors": [
+        {
+            "title": "Data Competence Center (DCC)",
+            "role": "author"
+        }
+    ],
+    "licenses": [
+        {
+            "name": "O-By",
+            "title": "Open use. Must provide the source.",
+            "path": "https://opendata.swiss/de/terms-of-use"
+        }
+    ]
+}
