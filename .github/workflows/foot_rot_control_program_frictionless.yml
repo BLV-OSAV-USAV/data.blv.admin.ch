@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "ogd/foot_rot_control_program/eradication-foot-rot.csv"
+      - 'ogd/foot_rot_control_program/**'
   workflow_dispatch:
 
 jobs:
