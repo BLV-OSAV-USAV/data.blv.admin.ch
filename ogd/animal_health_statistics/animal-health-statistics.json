@@ -4,7 +4,7 @@
         {
             "name": "animal-health-statistics-csv",
             "type":"table",
-            "path": "https://www.data.blv.admin.ch/ogd/animal_health_statistics/animal-health-statistics.csv",
+            "path": "./animal-health-statistics.csv",
             "scheme": "file",
             "profile": "tabular-data-resource",
             "schema": {
