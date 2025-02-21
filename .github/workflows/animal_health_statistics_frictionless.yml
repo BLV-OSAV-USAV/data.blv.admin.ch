@@ -1,0 +1,22 @@
+name: animal-health-statistics frictionless validation
+
+on:
+  push:
+    paths:
+      - "ogd/animal_health_statistics/animal-health-statistics.csv"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Frictionless
+        run: |
+          python -m pip install frictionless
+
+      - name: Validate CSV file with JSON schema
+        run: |
+          frictionless validate ogd/animal_health_statistics/animal-health-statistics.json
