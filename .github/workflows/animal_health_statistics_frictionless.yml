@@ -2,8 +2,10 @@ name: animal health statistics frictionless validation
 
 on:
   push:
+    branches:
+      - main
     paths:
-      - "ogd/animal_health_statistics/animal-health-statistics.csv"
+      - 'ogd/animal_health_statistics/**'
   workflow_dispatch:
 
 jobs:
