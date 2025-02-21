@@ -2,6 +2,8 @@ name: foot rot control program frictionless validation
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "ogd/foot_rot_control_program/eradication-foot-rot.csv"
   workflow_dispatch:
