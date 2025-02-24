@@ -39,3 +39,11 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
+
+      - name: Install Frictionless
+        run: |
+          python -m pip install frictionless
+
+      - name: Validate CSV file with JSON schema
+        run: |
+          frictionless validate ogd/monitoring_wild_birds_avian_influenza/monitoring_wild_birds_avian_influenza.json
