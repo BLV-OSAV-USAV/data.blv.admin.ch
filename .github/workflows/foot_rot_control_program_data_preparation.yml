@@ -1,4 +1,4 @@
-name: foot rot control program data wrangling
+name: foot rot control program data wrangling & frictionless validation
 
 on: 
   workflow_dispatch:
@@ -25,6 +25,10 @@ jobs:
           
       - name: Run data preparation script
         run: python system_0jE912Msrzr37POAg9/foot_rot_control_program_data_preparation.py
+
+      - name: Validate CSV file with frictionless JSON schema
+        run: |
+          frictionless validate ogd/foot_rot_control_program/foot_rot_control_program.json
 
       - name: Commit result files
         run: |
