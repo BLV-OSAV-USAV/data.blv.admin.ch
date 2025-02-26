@@ -40,11 +40,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 114,8,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.38,"[278, 1530, 1793, 1536, 1808, 1088, 1382, 1813]"
 197,8,Nitrite,Nitrite,Nitrito,Nitrite,1.62,"[226, 316, 516, 259, 750, 394, 633, 1577]"
 66,8,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.5,"[467, 1145, 298, 1249, 353, 1672, 32, 199]"
+79,8,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2015, 1907, 1123, 712, 846, 1744, 1892]"
 261,8,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.5,"[1354, 540, 703, 805, 927, 1084, 989, 595]"
 230,7,Nitrate,Nitrate,Nitrato,Nitrate,1.29,"[516, 351, 750, 394, 633, 1577, 1810]"
-45,7,Aspartam,Aspartam,Aspartam,Aspartam,1.43,"[809, 813, 602, 2009, 691, 938, 1721]"
 363,7,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.43,"[1138, 1321, 1163, 1315, 1408, 1467, 1755]"
-79,7,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1123, 712, 846, 1744, 1892]"
+45,7,Aspartam,Aspartam,Aspartam,Aspartam,1.43,"[809, 813, 602, 2009, 691, 938, 1721]"
 112,7,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,1.43,"[1073, 1469, 829, 1084, 1072, 1139, 1734]"
 10,7,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.57,"[144, 52, 753, 2006, 248, 1114, 1332]"
 130,6,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[1970, 430, 1698, 1988, 953, 1592]"
@@ -186,6 +186,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,"[1741, 1980]"
 252,2,Morcheln,morilles,spugnola,morel mushroom,1.0,"[494, 1221]"
 257,2,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,2.0,"[536, 1203]"
+7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[615, 2014]"
 210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
 211,2,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.5,"[258, 857]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.5,"[1653, 99]"
@@ -246,7 +247,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
 212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
-7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[615]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[708]
 486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
