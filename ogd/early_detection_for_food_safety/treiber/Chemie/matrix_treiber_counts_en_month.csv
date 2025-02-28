@@ -1,14 +1,14 @@
-matrix_id,Climate change,Technological innovations and scientific advances,Circular economy,Consumer behaviour and consumption trends,Society,Technology,Ecology,Policy
-1,1,0,1,1,0,0,1,0
-5,0,1,0,0,0,0,0,0
-7,0,0,0,0,0,1,1,0
-9,0,0,0,0,0,0,2,1
-11,0,0,0,0,0,1,1,0
-13,0,0,0,0,0,1,1,0
-14,0,0,0,1,1,0,0,0
-18,1,1,0,0,0,0,0,0
-58,0,0,0,0,0,1,1,0
-60,1,0,0,0,0,0,0,0
-82,1,0,0,0,0,0,2,0
-105,0,0,0,0,0,1,1,0
-115,0,0,0,0,0,0,1,0
+matrix_id,Climate change,Technological innovations and scientific advances,Circular economy,Consumer behaviour and consumption trends,Society,Technology,Ecology,Economy,Policy
+1,1,0,1,1,0,1,1,1,0
+5,0,1,0,0,0,0,0,0,0
+7,0,0,0,0,0,1,1,0,0
+9,0,0,0,0,0,0,2,0,1
+11,0,0,0,0,0,1,1,0,0
+13,0,0,0,0,0,1,1,0,0
+14,0,0,0,1,1,0,0,0,0
+18,1,1,0,0,0,0,0,0,0
+58,0,0,0,0,0,1,1,0,0
+60,1,0,0,0,0,0,0,0,0
+82,1,0,0,0,0,0,3,0,0
+105,0,0,0,0,0,1,1,0,0
+115,0,0,0,0,0,0,1,0,0
