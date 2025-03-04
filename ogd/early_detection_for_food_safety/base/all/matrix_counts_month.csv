@@ -1,16 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-1,8,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.38,"[1974, 1995, 1996, 2001, 2002, 1966, 1970, 2022]"
 18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1976, 1998, 2009, 2004, 2016, 2017, 2018, 2020]"
+1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.29,"[1974, 1995, 1996, 2001, 2002, 2022, 2031]"
 82,4,Wasser,Eau,Acqua,Waters,1.25,"[1975, 1991, 2010, 2023]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1986, 2007, 2011, 2005]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1982, 2000, 2025, 2028]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1983, 1985, 1991]"
-34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[1990, 2014]"
+38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,"[2006, 2015, 2030]"
 80,2,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.5,"[1987, 2008]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[1993, 2026]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,2.0,"[1990, 2026]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[1990, 2014]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.5,"[1997, 1980]"
-38,2,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,"[2006, 2015]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,2.0,"[1990, 2026]"
 133,1,Honig,Miel,Miele,Honey,1.0,[1971]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[1980]
 11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,2.0,[1980]

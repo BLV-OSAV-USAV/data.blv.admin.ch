@@ -1,4 +1,5 @@
-gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici,Economie circolare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Tecnologia,Ecologia,Economia,Politica
+gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici,Microbiomi e sicurezza alimentare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Tecnologia,Ecologia,Economia,Politica
+1,0,0,0,0,1,0,0,0,0,0
 7,0,0,0,0,1,0,0,0,0,0
 8,0,0,0,0,0,0,0,1,0,0
 18,0,0,0,0,2,0,0,0,0,0
@@ -8,7 +9,7 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 58,0,1,0,0,0,0,0,0,0,0
 86,1,0,0,0,0,0,0,1,0,0
 87,1,0,0,0,1,0,0,1,0,0
-93,1,0,0,0,1,0,0,0,0,0
+93,0,0,0,0,1,0,0,0,0,0
 102,0,0,0,0,0,0,0,1,0,0
 109,1,1,0,0,0,0,0,1,0,0
 111,2,0,0,0,0,0,0,2,0,0
@@ -16,12 +17,12 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 119,0,0,0,0,0,0,0,1,0,0
 125,0,1,0,0,0,0,1,0,1,0
 126,0,0,0,0,0,0,0,4,0,0
-130,0,0,1,0,0,0,0,1,0,0
+130,0,0,0,0,0,0,0,1,0,0
 137,1,0,0,0,0,0,0,1,0,0
 148,0,0,0,0,0,0,0,1,0,1
 164,0,0,0,0,0,0,0,1,0,0
-166,0,0,1,0,0,0,0,2,0,0
-176,0,0,0,0,1,0,0,0,0,0
+166,0,0,0,0,0,0,0,2,0,0
+181,0,0,1,0,0,0,0,0,0,0
 203,1,0,0,0,0,0,0,0,0,0
 218,0,0,0,0,0,0,0,1,0,0
 255,0,0,0,0,2,0,0,0,0,0

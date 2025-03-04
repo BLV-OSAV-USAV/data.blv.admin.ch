@@ -1,35 +1,35 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[1988, 2024, 2023, 2003]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1979, 2017, 2002, 1998]"
-166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 1988, 2024]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[1988, 2024, 2023, 2003]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1991, 1992, 2022]"
-18,2,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,"[2025, 1989]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1968, 1973]"
-130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,"[1970, 1988]"
 308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
 298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[1979, 2017]"
+18,2,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,"[2025, 1989]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
-87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1972, 2007]"
-255,2,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[2027, 1986]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,0.5,"[2028, 1976]"
+255,2,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[2027, 1986]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2024, 1974]"
+87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1972, 2007]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[1992, 2002]"
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1988]
+269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
+79,1,Zucker,sucre,zucchero,sugar,1.0,[2015]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1973]
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
-176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,3.0,[1966]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2030]
 501,1,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,1.0,[1985]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2015]
 164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
-269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.0,[2028]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
@@ -41,6 +41,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2005]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2031]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,[1980]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]

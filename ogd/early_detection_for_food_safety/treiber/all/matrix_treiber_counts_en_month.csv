@@ -1,5 +1,5 @@
-matrix_id,Climate change,Technological innovations and scientific advances,Circular economy,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Ecology,Economy,Policy
-1,1,0,1,2,1,1,1,1,1,0
+matrix_id,Climate change,Technological innovations and scientific advances,Microbiomes and food safety,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Ecology,Economy,Policy
+1,1,0,1,2,0,1,1,1,1,0
 3,1,0,0,0,0,0,0,0,0,0
 5,1,1,0,0,0,0,0,0,0,0
 6,0,0,0,1,1,0,0,0,0,0
@@ -13,6 +13,7 @@ matrix_id,Climate change,Technological innovations and scientific advances,Circu
 22,0,0,0,0,1,0,0,0,0,0
 23,1,0,0,0,0,0,0,0,0,0
 34,0,0,0,0,1,0,0,0,0,0
+38,0,0,0,0,1,0,0,0,0,0
 42,0,0,0,1,0,0,0,0,0,0
 54,0,0,0,0,1,0,0,0,0,0
 56,0,0,0,0,1,0,0,0,0,0
