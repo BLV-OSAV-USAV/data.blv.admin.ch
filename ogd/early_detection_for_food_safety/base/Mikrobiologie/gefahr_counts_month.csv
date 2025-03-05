@@ -1,22 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[1972, 2007]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
-255,2,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[2027, 1986]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
 18,2,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,"[2025, 1989]"
-119,2,Norovirus,Norovirus,Norovirus,Norovirus,0.5,"[2028, 1976]"
-10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1973]
+255,2,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[2027, 1986]"
 501,1,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,1.0,[1985]
+10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2036]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2030]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,0.0,[2028]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.0,[2028]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
-89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1974]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1974]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[1974]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1974]
-121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[1976]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2002]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,2.0,[2002]
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
@@ -26,4 +19,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2031]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2014]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2007]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2007]

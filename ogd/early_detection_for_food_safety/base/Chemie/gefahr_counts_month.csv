@@ -1,34 +1,30 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.2,"[1988, 2024, 2033, 2023, 2003]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1979, 2017, 2002, 1998]"
-126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[1988, 2024, 2023, 2003]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1991, 1992, 2022]"
-308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
-298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[1979, 2017]"
-288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[2024, 1974]"
+308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
+288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
+298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[1979, 2017]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[1992, 2002]"
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1988]
-453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
-46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1988]
+46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
+164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
+453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
-89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[1974]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[1974]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1974]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,2.0,[2002]
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
+505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2005]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,[1980]
-499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[1993]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,[1980]
 148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]

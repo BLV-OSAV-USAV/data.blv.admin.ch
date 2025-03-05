@@ -1,18 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.2,"[1974, 1995, 1996, 2002, 2022]"
-82,4,Wasser,Eau,Acqua,Waters,1.25,"[1975, 1991, 2010, 2023]"
-18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1998, 2004, 2017]"
+1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.25,"[1995, 1996, 2002, 2022]"
+18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1998, 2004, 2017, 2034]"
+82,4,Wasser,Eau,Acqua,Waters,1.25,"[1991, 2010, 2023, 2033]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[1982, 2000]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[1993, 2026]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,2.0,"[1990, 2026]"
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,[1980]
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,2.0,[1980]
-13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[1980]
-34,1,Früchte,Fruits,Frutta,Fruits,2.0,[1990]
 11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,2.0,[1980]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,2.0,[1980]
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[1991]
+34,1,Früchte,Fruits,Frutta,Fruits,2.0,[1990]
+13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[1980]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",2.0,[1990]
+6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[1991]
 14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[1981]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",2.0,[2008]
 115,1,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,[1979]
