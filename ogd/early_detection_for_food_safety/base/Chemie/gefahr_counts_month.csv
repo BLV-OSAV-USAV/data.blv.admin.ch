@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.2,"[1988, 2024, 2033, 2023, 2003]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1979, 2017, 2002, 1998]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1991, 1992, 2022]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[1991, 1992, 2022, 2037]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
 308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
@@ -23,7 +23,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2005]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1977]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2041]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,[1980]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[1993]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,[1980]
