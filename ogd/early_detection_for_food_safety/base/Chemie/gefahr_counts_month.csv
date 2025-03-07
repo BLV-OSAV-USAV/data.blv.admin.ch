@@ -1,21 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.2,"[1988, 2024, 2033, 2023, 2003]"
-111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1979, 2017, 2002, 1998]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[1991, 1992, 2022, 2037]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
-308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2017, 2002, 1998]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
-298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[1979, 2017]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[1992, 2002]"
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1988]
-46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
 164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
+308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
+46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
-500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
+500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,2.0,[2002]
@@ -24,9 +24,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2005]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2041]
-468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,[1980]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[1993]
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,[1980]
 148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1998]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]

@@ -1,17 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,6,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1290, 1397, 1533, 1687, 2018, 2020]"
 1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1339, 1554, 1580, 1866, 1866]"
-67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.33,"[1355, 1509, 1786]"
 155,3,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.33,"[1230, 1402, 1454]"
-34,3,Früchte,Fruits,Frutta,Fruits,1.33,"[1192, 1250, 1761]"
-133,3,Honig,Miel,Miele,Honey,1.33,"[1506, 1971, 1868]"
 148,3,Wein,Vin,Vino,Wine,1.33,"[1222, 1751, 1994]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[1192, 1250]"
-7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,"[1192, 1301]"
-48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[1720, 1866]"
+133,3,Honig,Miel,Miele,Honey,1.33,"[1506, 1971, 1868]"
+67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.33,"[1355, 1509, 1786]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1260, 1512]"
-100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,2.0,[1192]
+34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[1250, 1761]"
+48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[1720, 1866]"
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[1250]
 38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[1334]
+7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,[1301]
 22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,[1286]
 28,1,Hülsen- und Samengemüse,Légumes grains et pois,Ortaggi a seme e leguminose,Grain And Pod Vegetables,1.0,[1563]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[1619]
