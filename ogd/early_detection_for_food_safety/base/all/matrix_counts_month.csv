@@ -1,19 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1998, 2009, 2004, 2016, 2017, 2018, 2020, 2034]"
+18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1998, 2009, 2004, 2016, 2017, 2018, 2020, 2034, 2053]"
 1,8,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.25,"[1995, 1996, 2001, 2002, 2022, 2031, 2041, 2042]"
-8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[1986, 2007, 2011, 2005, 2036]"
-82,5,Wasser,Eau,Acqua,Waters,1.2,"[1991, 2010, 2023, 2033, 2039]"
+82,6,Wasser,Eau,Acqua,Waters,1.17,"[1991, 2010, 2023, 2033, 2039, 2052]"
+8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2007, 2011, 2005, 2036]"
 5,3,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.67,"[1993, 2026, 2044]"
-6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1985, 1991, 2032]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2000, 2025, 2028]"
 38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,"[2006, 2015, 2030]"
-58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[1997, 2043]"
-34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[1990, 2014]"
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2000, 2025, 2028]"
 80,2,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.5,"[1987, 2008]"
+148,2,Wein,Vin,Vino,Wine,1.0,"[1994, 2054]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,2.0,"[1990, 2026]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[1990, 2014]"
+58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[1997, 2043]"
+6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1991, 2032]"
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[1989]
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[1997]
-148,1,Wein,Vin,Vino,Wine,1.0,[1994]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",2.0,[1990]
 100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[2013]
 22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[2014]
