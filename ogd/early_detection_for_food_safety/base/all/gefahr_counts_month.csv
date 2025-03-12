@@ -1,35 +1,32 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.2,"[1988, 2024, 2033, 2023, 2003]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[1991, 1992, 2022, 2037]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[2024, 2033, 2023, 2003]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2017, 2002, 1998]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049]"
-18,2,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,"[2025, 1989]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[1992, 2022, 2037]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2045]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
+79,2,Zucker,sucre,zucchero,sugar,1.0,"[2015, 2056]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,0.5,"[2055, 2028]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[1992, 2002]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1988, 2024]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2045]"
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
+18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2025]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
-130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[1988]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2015]
-269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
 308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2024]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
-470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2044]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2052]
-255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
+470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2044]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.0,[2028]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,0.0,[2028]
+255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2039]
 226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,[2040]
