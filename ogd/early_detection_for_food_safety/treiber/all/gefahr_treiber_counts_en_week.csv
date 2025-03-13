@@ -1,9 +1,14 @@
-gefahr_id,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology
-35,0,0,1
-63,0,1,0
-79,1,0,0
-93,0,1,0
-94,0,1,0
-244,0,1,0
-361,0,1,0
-470,0,1,0
+gefahr_id,Climate change,Technological innovations and scientific advances,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Economy
+2,1,1,0,0,0,1
+7,1,1,0,0,0,1
+35,0,0,0,0,1,0
+79,0,0,1,0,0,0
+89,1,1,0,0,0,1
+93,0,0,0,1,0,0
+94,0,0,0,1,0,0
+125,0,0,0,1,1,0
+176,1,1,0,0,0,1
+244,0,0,0,1,0,0
+292,0,0,1,0,0,0
+300,1,1,0,0,0,1
+470,0,0,0,1,0,0

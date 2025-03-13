@@ -3,35 +3,36 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 165,6,Cadmium,Cadmium,Cadmio,Cadmium,1.17,"[1917, 1290, 1836, 1689, 1898, 1908]"
 102,5,Blei,Plomb,Piombo,Lead,1.2,"[1917, 1290, 1836, 1689, 1908]"
 80,4,Salz,sel,sale,salt,1.25,"[1612, 1367, 1580, 1437]"
-363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[1321, 1315, 1408]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 1362, 1235, 1314]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1917, 1836, 1898]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1689, 1908]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[1362, 1235, 1314]"
-402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
-225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[1321, 1315, 1408]"
 273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1374, 1742]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1938, 1511]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
-145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[1208, 1664]"
+225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1938, 1511]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
 341,1,Schimmelpilze,Moisissure,Muffa,Mold,1.0,[1223]
-20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
+122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
-122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
-398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
+398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
+422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
-422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
+145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]

@@ -1,10 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-82,2,Wasser,Eau,Acqua,Waters,1.0,"[2039, 2052]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2041, 2042]"
-18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2053, 2055]"
+18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2053, 2055, 2061, 2062]"
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2043]
-26,1,Kohlgemüse,Choux,Cavoli,Cabbages,1.0,[2040]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",2.0,[2044]
 30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.0,[2049]
+82,1,Wasser,Eau,Acqua,Waters,1.0,[2052]
 148,1,Wein,Vin,Vino,Wine,1.0,[2054]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2056]
+142,1,"Nicht spezifizierte sowie gemischte Kaffee-, Tee-, Frucht- und Kräuterteegetränke","Café, thé, tisane aux fruits et aux herbes non spécifié ou mélangé","Caffè, tè, tè di frutti e di erbe non classificati e misti",Unclassified And Combined Coffee/Tea Drin,1.0,[2057]
+155,1,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,[2063]
