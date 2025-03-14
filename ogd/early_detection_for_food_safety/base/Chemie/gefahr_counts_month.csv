@@ -1,15 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2066, 2017, 2002, 1998]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[2024, 2033, 2023, 2003]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2017, 2002, 1998]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2064, 2022, 2037]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
-453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
-308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
+453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
+308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2024]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
@@ -18,7 +19,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2002]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2005]
