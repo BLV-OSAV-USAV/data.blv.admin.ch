@@ -1,55 +1,53 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2066, 2017, 2002, 1998]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[2064, 2058, 2022, 2037]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[2024, 2033, 2023, 2003]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049]"
-79,2,Zucker,sucre,zucchero,sugar,1.0,"[2015, 2056]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[2064, 2058, 2022, 2037]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2066, 2017, 2002]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
-288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 1998]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
-7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[2060, 2014]"
+79,2,Zucker,sucre,zucchero,sugar,1.0,"[2015, 2056]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,0.5,"[2055, 2028]"
+7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[2060, 2014]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2045]"
-46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
-308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
+10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
 508,1,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,1.0,[2065]
+288,1,T-2,T-2,T-2,T-2,1.0,[2017]
+308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
 18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2025]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2024]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
+46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
+504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
+277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2044]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2052]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2060]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2060]
-504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
 300,1,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,[2060]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.0,[2060]
 255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.0,[2028]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2024]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2039]
 226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,[2040]
-277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
-506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,2.0,[2002]
+506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2002]
-442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
+442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2031]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2041]
-148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2049]
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2046]
-289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1998]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2007]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2007]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
