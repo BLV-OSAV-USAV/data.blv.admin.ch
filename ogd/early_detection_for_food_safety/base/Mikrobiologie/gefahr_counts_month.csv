@@ -1,33 +1,28 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049, 2072]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2011, 2013]"
-7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[2060, 2014]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2036, 2049]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2058]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2045]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2030, 2032]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,0.5,"[2055, 2028]"
+7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[2060, 2014]"
+226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,"[2012, 2040]"
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2006]
-508,1,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,1.0,[2065]
-470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2044]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2029]
+470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2044]
+18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2025]
+508,1,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,1.0,[2065]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2060]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2060]
-300,1,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,[2060]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.0,[2060]
+300,1,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,[2060]
 255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
-18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2025]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.0,[2028]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
-226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,[2040]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2039]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2002]
-137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,2.0,[2002]
-442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2002]
-20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2031]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2041]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2045]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2049]
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2046]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2007]

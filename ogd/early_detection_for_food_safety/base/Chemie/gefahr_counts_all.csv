@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,71,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.37,"[246, 313, 301, 556, 315, 302, 389, 605, 733, 908, 1288, 170, 815, 1117, 1482, 1491, 1508, 1496, 390, 366, 1345, 1421, 1690, 1988, 490, 552, 1745, 266, 1015, 1236, 1854, 350, 2024, 628, 1011, 931, 1126, 1713, 416, 57, 1239, 1753, 2033, 1762, 1776, 2023, 284, 457, 614, 796, 822, 953, 952, 1186, 1025, 296, 623, 742, 721, 852, 1420, 1608, 1634, 1755, 1918, 2003, 1795, 1806, 1725, 1826, 1878]"
-125,59,Mikroplastik,microplastiques,microplastica,microplastics,1.49,"[68, 283, 523, 524, 745, 1043, 580, 1427, 1031, 1740, 1215, 1225, 1316, 1500, 1361, 1586, 325, 1547, 1701, 2064, 554, 768, 1030, 1440, 1845, 1885, 720, 1342, 1670, 1991, 1767, 1178, 1992, 1558, 1783, 49, 137, 183, 310, 566, 1079, 680, 710, 779, 1008, 1291, 1280, 1277, 1362, 1235, 1314, 1759, 1895, 2022, 2037, 1812, 1889, 1921, 1931]"
+125,60,Mikroplastik,microplastiques,microplastica,microplastics,1.48,"[68, 283, 523, 524, 745, 1043, 580, 1427, 1031, 1740, 1215, 1225, 1316, 1500, 1361, 1586, 325, 1547, 1701, 2064, 2069, 554, 768, 1030, 1440, 1845, 1885, 720, 1342, 1670, 1991, 1767, 1178, 1992, 1558, 1783, 49, 137, 183, 310, 566, 1079, 680, 710, 779, 1008, 1291, 1280, 1277, 1362, 1235, 1314, 1759, 1895, 2022, 2037, 1812, 1889, 1921, 1931]"
 102,46,Blei,Plomb,Piombo,Lead,1.2,"[258, 1633, 440, 480, 775, 1086, 1137, 1365, 1432, 1568, 1774, 1917, 1963, 877, 1130, 1116, 1538, 898, 29, 263, 1492, 130, 750, 1747, 2024, 1778, 701, 1836, 1526, 1974, 241, 1283, 1341, 1510, 1412, 240, 570, 757, 1103, 1604, 227, 996, 1668, 1715, 1908, 1859]"
 111,45,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[218, 636, 728, 901, 869, 1171, 1138, 682, 1132, 1457, 1529, 1556, 1562, 1653, 1979, 836, 1063, 2066, 1619, 2017, 1886, 1199, 1463, 641, 838, 1591, 1558, 1675, 1923, 2002, 107, 120, 699, 726, 1169, 1220, 1259, 1276, 1412, 197, 1605, 1626, 1787, 1884, 1998]"
 91,43,Pestizide,pesticides,pesticidi,pesticide,1.23,"[21, 417, 443, 440, 524, 586, 727, 798, 907, 812, 1058, 1365, 1585, 1938, 56, 1155, 1538, 1166, 1403, 1619, 620, 1229, 1670, 415, 426, 1511, 91, 778, 1675, 1926, 121, 1669, 428, 525, 713, 902, 1283, 1310, 1369, 1387, 460, 905, 1755]"
@@ -55,11 +55,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 48,3,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.33,"[96, 941, 89]"
 402,3,Thallium,Thallium,Tallio,Thallium,1.0,"[1352, 1531, 1898]"
 289,3,HT-2,HT-2,HT-2,HT-2,1.33,"[1675, 682, 1998]"
-468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,"[1741, 1980]"
-59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
 453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
+59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
+468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,"[1741, 1980]"
+448,2,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,2.0,"[1590, 2070]"
 437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[1529, 2017]"
-224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[1496, 1854]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[1396, 2005]"
 285,2,MOAH,MOAH,MOAH,MOAH,1.0,"[674, 1942]"
@@ -71,9 +71,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 310,2,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.5,"[849, 1465]"
 370,2,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,2.0,"[1159, 1904]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
-345,2,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,1.5,"[1041, 1893]"
+224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[543, 386]"
-43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[848, 1756]"
+345,2,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,1.5,"[1041, 1893]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.5,"[14, 1465]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.5,"[1653, 99]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,1.5,"[708, 2057]"
@@ -105,9 +105,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 297,2,Gluten,gluten,glutine,gluten,1.0,"[1548, 725]"
 271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.5,"[607, 1980]"
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
+43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[848, 1756]"
 222,1,GenX,GenX,GenX,GenX,2.0,[302]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[277]
-211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[277]
 212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[51]
@@ -121,17 +121,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
 491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,3.0,[1590]
-469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
+469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
+110,1,Chlorkohlenwasserstoffe,Composés organochlorés,Organocloruro,Organochlorine compound,1.0,[1632]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1521]
 373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
 377,1,Cannabis,Cannabis,Cannabis,Cannabis,1.0,[1176]
 429,1,Wolfram,Tungstène,Tungsteno,Tungsten,1.0,[1521]
 445,1,Hämeisen,fer héminique,ferro ematico,Haem iron,2.0,[1575]
 440,1,Tellur,Tellure,Tellurio,Tellurium,2.0,[1541]
-110,1,Chlorkohlenwasserstoffe,Composés organochlorés,Organocloruro,Organochlorine compound,1.0,[1632]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 369,1,leucin,leucine,leucina,leucine,1.0,[1157]
 264,1,sucralose-6-acetate,sucralose-6-acétate,sucralose-6-acetato,sucralose-6-acetate,1.0,[543]
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
@@ -145,8 +145,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1185]
 80,1,Salz,sel,sale,salt,2.0,[1119]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]
+211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
 424,1,"Flüchtige, organische Verbindungen",Les composés organiques volatils,Composti organici volatili,volatile organic compounds,1.0,[1481]
 267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1085]
