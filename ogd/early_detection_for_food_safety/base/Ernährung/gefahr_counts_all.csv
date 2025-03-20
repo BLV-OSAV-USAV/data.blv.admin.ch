@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 165,12,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[1095, 1917, 263, 1290, 750, 392, 532, 1836, 989, 1689, 1898, 1908]"
-79,9,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2015, 1907, 1123, 712, 846, 1744, 1892, 2056]"
+79,9,Zucker,sucre,zucchero,sugar,1.0,"[1648, 1907, 1123, 2015, 712, 846, 1744, 1892, 2056]"
 125,8,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[524, 2064, 1030, 310, 453, 1362, 1235, 1314]"
 167,8,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[321, 1095, 1917, 750, 273, 532, 1689, 1908]"
 187,8,Arsen,Arsenic,Arsenico,Arsenic,1.25,"[1095, 1917, 750, 392, 532, 1836, 659, 1898]"
@@ -10,57 +10,57 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 91,5,Pestizide,pesticides,pesticidi,pesticide,1.4,"[417, 524, 798, 1938, 1511]"
 126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[908, 552, 1126, 952, 852]"
 80,5,Salz,sel,sale,salt,1.4,"[1119, 1612, 1367, 1580, 1437]"
-246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[458, 1920, 1639, 718]"
 273,4,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374, 1742]"
 197,4,Nitrite,Nitrite,Nitrito,Nitrite,1.75,"[226, 316, 259, 750]"
+246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[458, 1920, 1639, 718]"
 363,4,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[1321, 1163, 1315, 1408]"
 180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[295, 1136, 1628]"
 145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.33,"[1208, 1664, 76]"
-122,3,Diabetes,diabète,diabete,diabetes,1.33,"[1578, 448, 94]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
+122,3,Diabetes,diabète,diabete,diabetes,1.33,"[1578, 448, 94]"
 166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.33,"[1917, 1177, 263]"
 92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
 368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
-341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
+341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[210, 54]"
-66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
+66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[989, 2013]"
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[386]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
-335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[438]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[708]
-219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[413]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[912]
-142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[438]
 62,1,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,2.0,[524]
+219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
+335,1,Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),Withania somnifera (ashwagandha),1.0,[965]
+142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[912]
 221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[534]
-234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[386]
+370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
-374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 274,1,Baikiain,Baikiain,Baikiain,Baikiain,3.0,[637]
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
-359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 369,1,leucin,leucine,leucina,leucine,1.0,[1157]
-373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
+374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[1246]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[1246]
-370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,3.0,[1159]
+373,1,Niacin (Vitamin B3),Niacine (Vitamine B3),Niacina (Vitamina B3),Niacin (Vitami B3),1.0,[1164]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,3.0,[1159]
 259,1,furfural,furfural,furfurale,furfural,1.0,[537]
 258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
