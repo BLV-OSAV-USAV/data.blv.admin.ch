@@ -28,7 +28,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,"[1408, 1467, 1755]"
 137,3,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.33,"[1927, 2002, 1673]"
 422,3,Muscimol,MuscimolE,Muscimolo,Muscimol,2.0,"[1590, 1915, 1475]"
-241,2,Alternariol,alternariol,alternariolo,alternariol,1.0,"[1605, 1890]"
+230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[1577, 1810]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.5,"[1249, 1672]"
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
@@ -36,7 +36,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[1529, 2017]"
 59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
-230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[1577, 1810]"
+241,2,Alternariol,alternariol,alternariolo,alternariol,1.0,"[1605, 1890]"
 273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1574, 1742]"
 468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),2.0,"[1741, 1980]"
 448,2,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,2.0,"[1590, 2070]"
@@ -99,25 +99,26 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,2.0,[1591]
 449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1273]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.0,[1259]
+148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
+389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 199,1,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.0,[1434]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[1434]
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1273]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
-389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 423,1,Glasfaserverstärkter Kunststoff (Fiberglas),Plastique à renfort de verre,Vetroresina,Fibreglass,3.0,[1477]
+421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 414,1,Glycidol,Glycidol,Glicidolo,Glycidol,1.0,[1451]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
-421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
-378,1,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.0,[1418]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
-124,1,Melamin,Mélamine,Melammina,Melamine,1.0,[1518]
 262,1,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,[1518]
+378,1,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.0,[1418]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
+124,1,Melamin,Mélamine,Melammina,Melamine,1.0,[1518]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[1577]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[1577]
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[1636]
@@ -136,7 +137,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,[1980]
-148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
 164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[1993]
