@@ -1,19 +1,20 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2064, 2069, 2077, 2022, 2037]"
+125,6,Mikroplastik,microplastiques,microplastica,microplastics,1.17,"[2064, 2069, 2086, 2077, 2022, 2037]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.33,"[2033, 2024, 2023]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2066, 2017]"
 450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2082, 2052]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2066, 2017]"
 182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,1.0,[2083]
-288,1,T-2,T-2,T-2,T-2,1.0,[2017]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2017]
+288,1,T-2,T-2,T-2,T-2,1.0,[2017]
 308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2017]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2077]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2017]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2077]
+96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2086]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2041]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2024]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2024]
