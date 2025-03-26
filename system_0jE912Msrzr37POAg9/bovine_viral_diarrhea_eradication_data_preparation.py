@@ -17,8 +17,8 @@ def correct_large_diffs(df):
     
     # Define the thresholds for each color
     thresholds = {
-        'green': 1200,
-        'orange': 1200,
+        'green': 1600,
+        'orange': 1600,
         'red': 15
     }
     
