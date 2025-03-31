@@ -49,7 +49,7 @@ def correct_large_diffs(df):
 df = correct_large_diffs(df)
 
 
-df.to_csv('./ogd/bovine_viral_diarrhea_eradication/OGD_bovine_viral_diarrhea_eradication.csv', index=False)
+# df.to_csv('./ogd/bovine_viral_diarrhea_eradication/OGD_bovine_viral_diarrhea_eradication.csv', index=False)
 
 df_month = df
 df_month['diff'] = df_month.groupby('BVD_AMPEL')['N_FARMS'].diff().fillna(0).astype(int)
