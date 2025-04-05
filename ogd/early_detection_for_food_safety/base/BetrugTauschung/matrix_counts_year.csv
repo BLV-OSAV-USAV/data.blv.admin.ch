@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1290, 1397, 1533, 1687, 2018, 2020, 2053, 2062, 2071]"
 1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[1339, 1554, 1580, 1866, 1866]"
-9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[1260, 1512, 2074]"
+9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.25,"[1260, 1512, 2074, 2127]"
 67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.33,"[1355, 1509, 1786]"
 133,3,Honig,Miel,Miele,Honey,1.33,"[1506, 1971, 1868]"
 148,3,Wein,Vin,Vino,Wine,1.33,"[1751, 1994, 2054]"
