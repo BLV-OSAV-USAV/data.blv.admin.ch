@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,9,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2069, 2099, 2116, 2122, 2077, 2086, 2121, 2092]"
+125,8,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2069, 2099, 2116, 2122, 2077, 2086, 2121, 2092]"
 448,2,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,"[2070, 2125]"
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2123]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2066]
@@ -11,10 +11,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2086]
 288,1,T-2,T-2,T-2,T-2,1.0,[2090]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
-507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
 182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2082]
