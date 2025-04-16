@@ -14,7 +14,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,8,Rind,Boeuf,Manzo,Beef,1.12,"[1333, 1393, 1479, 1561, 1660, 1785, 1784, 1794]"
 3,8,Gemüse,Légumes,Ortaggi,Vegetables,1.25,"[1453, 1654, 1728, 1853, 1890, 1960, 1964, 1990]"
 42,6,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.17,"[1393, 1495, 1733, 1842, 1949, 1944]"
-58,6,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.5,"[1287, 1377, 1373, 1386, 1571, 1735]"
+58,5,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.6,"[1377, 1373, 1386, 1571, 1735]"
 120,5,Schwein,Porc,Maiale,Pork,1.0,"[1333, 1376, 1573, 1679, 1784]"
 22,5,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.4,"[1627, 1671, 1661, 1814, 2014]"
 93,5,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.6,"[1513, 1619, 1707, 1964, 1990]"
