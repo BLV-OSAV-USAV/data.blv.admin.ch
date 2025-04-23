@@ -5,7 +5,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,26,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.08,"[1414, 1333, 1343, 1351, 1380, 1793, 1909, 2032, 2085, 2030, 1771, 1619, 1843, 1871, 2077, 1469, 1758, 1610, 1366, 1382, 1718, 1660, 1813, 1822, 1784, 2102]"
 19,17,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.35,"[1399, 1515, 1490, 1524, 1909, 1944, 1513, 1785, 1348, 1821, 1561, 1436, 1479, 1627, 1949, 2073, 1784]"
 119,14,Norovirus,Norovirus,Norovirus,Norovirus,0.93,"[1803, 1399, 1782, 2055, 1683, 1390, 1749, 2028, 2119, 1722, 1976, 1635, 1718, 1928]"
-181,12,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.83,"[1906, 1323, 1780, 1900, 1536, 1335, 2076, 1313, 1406, 1874, 2031, 1797]"
+181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.73,"[1906, 1323, 1780, 1900, 1536, 1335, 2076, 1406, 1874, 2031, 1797]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.2,"[1803, 1399, 1490, 1863, 1843, 1469, 2089, 1674, 1822, 2007]"
 99,10,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.5,"[1519, 1503, 1507, 1864, 1327, 1555, 1469, 1932, 1691, 1872]"
 63,10,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,"[1333, 1354, 1376, 1910, 2041, 1429, 2081, 1501, 1647, 2118]"
