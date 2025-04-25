@@ -1,33 +1,29 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,6,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2099, 2116, 2122, 2086, 2121, 2092]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[2102, 2089, 2118]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2085, 2102]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2102, 2089]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2099, 2116, 2122, 2121, 2092]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2102, 2118]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2103, 2108]"
 63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2127, 2118]"
-234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[2111]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2123]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2099]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2102]
 515,1,Salmonella blockley,Salmonella blockley,Salmonella blockley,Salmonella blockley,2.0,[2109]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2110]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2117]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2122]
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[2111]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2123]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2122]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2088]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2099]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2122]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2114]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2114]
-96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2086]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2125]
 288,1,T-2,T-2,T-2,T-2,1.0,[2090]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2098]
-510,1,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,1.0,[2087]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2125]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2119]
-86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,2.0,[2089]
-513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
 512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
 511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
+513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2102]
 514,1,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,1.0,[2104]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2102]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
