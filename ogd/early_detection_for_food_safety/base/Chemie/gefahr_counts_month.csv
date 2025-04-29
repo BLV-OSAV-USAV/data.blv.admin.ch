@@ -1,7 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2099, 2116, 2122, 2121]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2116, 2122, 2121]"
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2123]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2099]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2117]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2122]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2122]
@@ -9,4 +8,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
-402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
