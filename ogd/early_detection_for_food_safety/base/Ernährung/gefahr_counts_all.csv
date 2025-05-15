@@ -21,14 +21,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[295, 1136, 1628]"
 145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.33,"[1208, 1664, 76]"
 166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.33,"[1917, 1177, 263]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[989, 2013]"
+316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[210, 54]"
-271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[2139, 1290]"
+271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[1290, 2139]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
 368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
-316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[989, 2013]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[386, 2111]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.5,"[1094, 989]"
 63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[438, 2118]"
@@ -57,40 +57,39 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[750]
-468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 274,1,Baikiain,Baikiain,Baikiain,Baikiain,3.0,[637]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 301,1,Metalle der Seltenen Erden (REE),Terre rare (REE),Terre rare (REE),rare earth elements (REE),2.0,[749]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
 260,1,benzaldehyd,benzaldéhyde,Benzaldeide,benzaldehyde,1.0,[537]
 259,1,furfural,furfural,furfurale,furfural,1.0,[537]
 258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
-284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
-507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
+108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[38]
+422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+290,1,Saccharin,Saccharine,Saccarina,Saccharin,2.0,[691]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,2.0,[424]
 233,1,Glutaminsäure,Acide glutamique,Acido glutammico,Glutamic acid,1.0,[381]
-108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[38]
-290,1,Saccharin,Saccharine,Saccarina,Saccharin,2.0,[691]
+297,1,Gluten,gluten,glutine,gluten,1.0,[725]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),2.0,[377]
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,2.0,[377]
-422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
-311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
-297,1,Gluten,gluten,glutine,gluten,1.0,[725]
-396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
+507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[989]
-326,1,Isoleucin,Isoleucine,Isoleucina,Isoleucine,1.0,[958]
+311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
+306,1,Furan,Furane,Furano,Furan,1.0,[1411]
+396,1,Koffein,Caféine,Caffeina,caffein,1.0,[1315]
 389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
-306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
+326,1,Isoleucin,Isoleucine,Isoleucina,Isoleucine,1.0,[958]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
@@ -98,3 +97,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1794]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
+468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
