@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,7,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.43,"[2151, 2142, 2134, 2141, 2138, 2137, 2131]"
+18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.38,"[2151, 2142, 2134, 2141, 2138, 2137, 2131, 2172]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.33,"[2157, 2149, 2165]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2143, 2164]"
 133,1,Honig,Miel,Miele,Honey,1.0,[2158]
@@ -10,3 +10,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 120,1,Schwein,Porc,Maiale,Pork,1.0,[2138]
 148,1,Wein,Vin,Vino,Wine,1.0,[2129]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2139]
+67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2166]
