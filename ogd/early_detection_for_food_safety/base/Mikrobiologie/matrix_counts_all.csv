@@ -45,9 +45,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 121,3,"Lamm, Schaf und Hammel","Agneau, brebis et mouton","Agnello, pecora e montone",Mutton/Lamb,1.33,"[248, 1333, 1610]"
 47,3,"Flocken, Griess, Keime, Mehl, Schrot und Stärke (inkl. Pulver für Desserts)","Farine, fécule, gruau, germes, flocons, semoule utilisée comme farine (incl. poudre pour desserts)","Farina, fiocchi, germi, faricello, semola e amidi (incluse polveri per dessert)","Flours, Starches, Flakes, Semolina Used A",1.0,"[420, 1409, 1524]"
 13,3,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.67,"[531, 2104, 2132]"
-115,2,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,"[11, 976]"
+35,3,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.67,"[1169, 1348, 2181]"
 133,2,Honig,Miel,Miele,Honey,1.5,"[1558, 2098]"
-25,2,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,1.0,"[1024, 1049]"
+115,2,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,"[11, 976]"
 111,2,Speiseeis (auf Milchbasis),Glaces (à base de lait),Gelato (a base di latte),Ice Cream (Milk Based),2.0,"[1032, 1667]"
 31,2,Nicht spezifizierte sowie gemischte Hülsenfrüchte,Légumes secs non spécifiés et mélangés,Leguminose non specificate e miste,Unclassified,2.0,"[1368, 1455]"
 106,2,Fermentierte Milch und Milchgetränke sowie Joghurtdrinks,"Laits fermentés et boissons à base de lait fermenté, yogourts à boire","Latte fermentato, bevande a base di latte fermentato e yogurt da bere","Fermented Milk, Milk Beverages And Yoghurt",2.5,"[233, 1617]"
@@ -55,10 +55,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 151,2,"Salatsaucen, Dips und Mayonnaise","Sauces à salade, dips et mayonnaises","Salse per insalata, dips e maionese","Dressing Sauces, Mayonnaises And Similars",1.0,"[427, 1371]"
 123,2,Ziege,Chèvre,Capra,Goat,1.5,"[248, 1610]"
 28,2,Hülsen- und Samengemüse,Légumes grains et pois,Ortaggi a seme e leguminose,Grain And Pod Vegetables,1.5,"[118, 1409]"
-37,2,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,"[1211, 1589]"
+25,2,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,1.0,"[1024, 1049]"
 33,2,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,"[886, 1914]"
 45,2,Speiseeis (inkl. Sorbet und Wasserglace),"Glaces, substituts de glace, sorbets et glaces à l'eau",Gelato (inclusi sorbetti e ghiaccioli),"Ice Cream And Substitutes, Sorbet And Wat",1.0,"[706, 188]"
-35,2,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,"[1169, 1348]"
+37,2,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,"[1211, 1589]"
 32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,2.0,[256]
 78,1,Nicht spezifizierte sowie gemischte alkoholfreie Getränke (inkl. Punsch),Boissons sans alcool non spécifiées ou mélangées (incl. punch sans alcool),Bevande analcoliche non specificate e miste (inclusi punch),Unclassified And Combined Non Alc. Drinks,2.0,[7]
 144,1,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,[113]

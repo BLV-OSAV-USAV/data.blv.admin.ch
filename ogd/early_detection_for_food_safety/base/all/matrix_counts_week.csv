@@ -1,4 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[2172, 2176]"
+18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.67,"[2172, 2176, 2179]"
 54,2,Geflügel,Volailles,Pollame,Poultry,2.5,"[2173, 2174]"
-67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2166]
+48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2180]
+35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[2181]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2182]

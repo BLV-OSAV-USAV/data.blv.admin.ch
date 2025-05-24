@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,52,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.15,"[1803, 1498, 1493, 1490, 1573, 1524, 1782, 1768, 1968, 1973, 1559, 1863, 2049, 2102, 1619, 1513, 1771, 1843, 2036, 1901, 1871, 1603, 1536, 2078, 1961, 1469, 1572, 1494, 1390, 1752, 2089, 1424, 1569, 1654, 1655, 1723, 1733, 1811, 1718, 1657, 1822, 1880, 2173, 2073, 1784, 1794, 1728, 1838, 1867, 2072, 2131, 2149]"
+93,53,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.15,"[1803, 1498, 1493, 1490, 1573, 1524, 1782, 1768, 1968, 1973, 1559, 1863, 2049, 2102, 2181, 1619, 1513, 1771, 1843, 2036, 1901, 1871, 1603, 1536, 2078, 1961, 1469, 1572, 1494, 1390, 1752, 2089, 1424, 1569, 1654, 1655, 1723, 1733, 1811, 1718, 1657, 1822, 1880, 2173, 2073, 1784, 1794, 1728, 1838, 1867, 2072, 2131, 2149]"
 26,34,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.24,"[1485, 1793, 1453, 1676, 1694, 1863, 2080, 2177, 1771, 1843, 1807, 1929, 1871, 1732, 1677, 1469, 1750, 1422, 2011, 1528, 1419, 1599, 1629, 1654, 1697, 1839, 2073, 2013, 2103, 2138, 1784, 1830, 1803, 2108]"
 244,22,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.36,"[1647, 1414, 1579, 1650, 1735, 1965, 1452, 2102, 1930, 1883, 1659, 2089, 1393, 1706, 1660, 1657, 1813, 2005, 2173, 2045, 1707, 2118]"
 1,22,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.09,"[1414, 1793, 1909, 2032, 2085, 2030, 1771, 1619, 1843, 1871, 2077, 1469, 1758, 1610, 1718, 1660, 1813, 1822, 1784, 2102, 2153, 2175]"
@@ -15,9 +15,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[1954, 1965, 2114, 1853, 2039, 1686, 1813]"
 94,7,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.14,"[1573, 1498, 1965, 2049, 1769, 1424, 1709]"
 125,7,Mikroplastik,microplastiques,microplastica,microplastics,1.29,"[2058, 2064, 2077, 1769, 1558, 1783, 1903]"
-176,6,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.83,"[1495, 1966, 1469, 1617, 1739, 2060]"
+106,6,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.17,"[1667, 2110, 2181, 1571, 1830, 1803]"
 114,6,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.17,"[1530, 1793, 1536, 1808, 1813, 2153]"
-106,5,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.2,"[1667, 2110, 1571, 1830, 1803]"
+176,6,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.83,"[1495, 1966, 1469, 1617, 1739, 2060]"
 88,5,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.4,"[1583, 1704, 1674, 1754, 2174]"
 238,5,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.4,"[1519, 1864, 1555, 1777, 2102]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.2,"[1749, 1726, 1679, 2060, 2150]"
