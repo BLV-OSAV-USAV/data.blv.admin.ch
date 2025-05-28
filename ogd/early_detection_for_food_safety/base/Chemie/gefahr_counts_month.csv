@@ -1,16 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.33,"[2151, 2140, 2182]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,"[2176, 2186]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2151, 2140]"
-483,2,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.5,"[2151, 2140]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2148, 2156]"
-468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2142]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2183]
-185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2152]
-42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2129]
+483,2,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.5,"[2151, 2140]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2151, 2140]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2152, 2188]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2142]
+468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2142]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2183]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
+42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2129]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2189]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),1.0,[2144]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
