@@ -5,7 +5,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,46,Blei,Plomb,Piombo,Lead,1.2,"[258, 1633, 440, 480, 775, 1086, 1137, 1365, 1432, 1568, 1774, 1917, 1963, 877, 1130, 1116, 1538, 898, 29, 263, 1492, 130, 750, 1747, 1778, 701, 1836, 2024, 1526, 1974, 241, 1283, 1341, 1510, 1412, 240, 570, 757, 1103, 1604, 227, 996, 1668, 1715, 1908, 1859]"
 91,44,Pestizide,pesticides,pesticidi,pesticide,1.23,"[21, 417, 443, 440, 524, 586, 727, 798, 907, 812, 1058, 1365, 1585, 1938, 56, 1155, 1538, 1166, 1403, 1619, 2117, 620, 1229, 1670, 415, 426, 1511, 91, 778, 1675, 1926, 121, 1669, 428, 525, 713, 902, 1283, 1310, 1369, 1387, 460, 905, 1755]"
 165,42,Cadmium,Cadmium,Cadmio,Cadmium,1.26,"[258, 480, 493, 550, 1095, 812, 1365, 1510, 1521, 1774, 1917, 1963, 877, 1130, 1116, 1538, 263, 768, 130, 750, 1747, 392, 532, 2188, 1836, 1526, 1974, 989, 1283, 1341, 757, 570, 1412, 1626, 227, 1668, 1715, 1913, 898, 1898, 1908, 1859]"
-128,39,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.23,"[533, 929, 1022, 1138, 62, 1447, 1432, 1917, 1963, 391, 877, 1130, 1417, 2122, 263, 984, 1670, 1747, 392, 542, 2152, 2188, 600, 810, 1783, 1974, 1510, 783, 1216, 100, 1412, 1420, 1604, 1717, 996, 1703, 1715, 898, 1908]"
+128,40,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.23,"[533, 929, 1022, 1138, 62, 1447, 1432, 1917, 1963, 391, 877, 1130, 1417, 2122, 263, 984, 1670, 1747, 392, 542, 2152, 2188, 600, 810, 1783, 1974, 1510, 783, 1216, 100, 1412, 1420, 1604, 1717, 996, 1703, 1715, 898, 1908, 2193]"
 187,33,Arsen,Arsenic,Arsenico,Arsenic,1.18,"[480, 1095, 812, 178, 1917, 877, 2099, 1492, 750, 921, 1747, 201, 392, 532, 1061, 1836, 1644, 1760, 1974, 1510, 1027, 1341, 659, 570, 1014, 1473, 1604, 1715, 1913, 1848, 1898, 1859, 2180]"
 166,20,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.55,"[346, 782, 820, 1225, 1550, 1917, 1970, 1698, 263, 542, 891, 1468, 2024, 444, 680, 796, 953, 1331, 1451, 1988]"
 167,19,Quecksilber,Mercure,Mercurio,Mercury,1.11,"[258, 321, 471, 1095, 1185, 772, 1772, 1917, 1963, 391, 1116, 1538, 130, 750, 273, 532, 1715, 1913, 1908]"
@@ -83,11 +83,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 310,2,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.5,"[849, 1465]"
 370,2,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,2.0,"[1159, 1904]"
 198,2,Hexamethoxymethylmelamin (HMMM),Hexaméthoxyméthylmélamine (HMMM),Esametossimetilmelamina (HMMM),Hexamethoxymethylmelamine (HMMM),3.0,"[229, 735]"
-58,2,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[943, 1718]"
 228,2,Fipronil,Fipronil,Fipronil,Fipronil,1.5,"[328, 1867]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
-119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[943, 1718]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2193, 2175]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.5,"[2176, 1787]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
@@ -107,15 +107,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,"[708, 2057]"
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[848, 1756]"
-221,2,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.5,"[300, 534]"
+58,2,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993]"
 210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
 188,2,Thebain,Thébaïne,Tebaina,Thebaine,1.0,"[179, 604]"
 124,2,Melamin,Mélamine,Melammina,Melamine,1.0,"[46, 1518]"
-222,1,GenX,GenX,GenX,GenX,2.0,[302]
+221,2,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.5,"[300, 534]"
 215,1,Diisobutylphthalate (DIBP),Phtalate de diisobutyle (DIBP),Diisobutilftalato (DIBP),Diisobutyl phthalate (DIBP),1.0,[277]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[277]
 211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
-113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[51]
+222,1,GenX,GenX,GenX,GenX,2.0,[302]
 220,1,Tricyclazol,Tricyclazole,Tricyclazole,Tricyclazole,2.0,[297]
 217,1,"2,6-diisopropylnaphthalene (DIPN)","2,6-diisopropylnaphtalène (DIPN)","2,6-diisopropilnaftalene (DIPN)","2,6-diisopropylnaphthalene (DIPN)",1.0,[277]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[277]
@@ -156,10 +156,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 191,1,Solanum sp,Solanum sp,Solanum sp,Solanum sp,2.0,[213]
 108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[55]
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[74]
+113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[51]
 131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[984]
-267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1085]
 354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[1123]
+267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1085]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
@@ -171,7 +171,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[1324]
 263,1,benzol,benzène,benzene,benzene,1.0,[542]
 372,1,dicamba,dicamba,dicamba,dicamba,1.0,[1160]
-254,1,Polyethylenterephthalat,Polytéréphtalate d'éthylène,Polietilene tereftalato,polyethylene terephthalate,1.0,[508]
+79,1,Zucker,sucre,zucchero,sugar,1.0,[1123]
 294,1,Benzo(a)pyren,Benzopyrène,Benzo[a]pirene,Benzo[a]pyrene,1.0,[714]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,3.0,[735]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
@@ -196,10 +196,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
 441,1,Dimethyltetrachlorterephthalat,Diméthyltétrachlorotéréphtalate,Tetraclorotereftalato di dimetile,Dimethyl tetrachloroterephthalate (DCPA),2.0,[1544]
 260,1,benzaldehyd,benzaldéhyde,Benzaldeide,benzaldehyde,1.0,[537]
+254,1,Polyethylenterephthalat,Polytéréphtalate d'éthylène,Polietilene tereftalato,polyethylene terephthalate,1.0,[508]
 449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
-443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
-471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
+443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
@@ -211,7 +211,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 237,1,Quaternäre Ammoniumverbindungen,Composées quaternaires d'ammonium,-,quaternary ammonium compounds,0.0,[414]
 207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
 233,1,Glutaminsäure,Acide glutamique,Acido glutammico,Glutamic acid,1.0,[381]
-240,1,Lithium,Lithium,Litio,Lithium,2.0,[423]
+471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,2.0,[1591]
@@ -220,9 +220,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 235,1,α-Tomatin,α-Tomatine,Tomatina,tomatine,1.0,[408]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,3.0,[203]
-54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
+240,1,Lithium,Lithium,Litio,Lithium,2.0,[423]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.0,[1259]
-352,1,Scopolamin,scopolamine,scopolamina,scopolamine,2.0,[1087]
+54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
 322,1,Dimethylmonothioarsenate ((DMMTA),Dimethylmonothioarsenate (DMMTA),Dimethylmonothioarsenate (DMMTA),Dimethylmonothioarsenate (DMMTA),1.0,[933]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1273]
@@ -230,21 +230,21 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[989]
 156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,3.0,[195]
 321,1,Fluconazol,Fluconazole,Fluconazolo,Fluconazole,2.0,[926]
-389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
+352,1,Scopolamin,scopolamine,scopolamina,scopolamine,2.0,[1087]
 364,1,Maillard-Reaktion,Réaction de Maillard,Reazione di Maillard,Maillard reaction,2.0,[1140]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
+389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 423,1,Glasfaserverstärkter Kunststoff (Fiberglas),Plastique à renfort de verre,Vetroresina,Fibreglass,3.0,[1477]
-421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 414,1,Glycidol,Glycidol,Glicidolo,Glycidol,1.0,[1451]
 439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
-169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
+421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
+169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[1628]
 489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2175]
