@@ -2,38 +2,37 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 79,8,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2088, 1907, 2191, 2015, 1744, 1892, 2056]"
 165,5,Cadmium,Cadmium,Cadmio,Cadmium,1.2,"[1917, 1836, 1689, 1898, 1908]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[1917, 1836, 1689, 1908]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1917, 1836, 1898]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1689, 1908]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
 80,3,Salz,sel,sale,salt,1.33,"[1612, 1580, 1437]"
-246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
-49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1653, 1886, 1923]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1917, 1836, 1898]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[1938, 1511]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
-225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835]"
+246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
-81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
+225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
+81,1,Palmöl,huile de palme,olio di palma,palmoil,1.0,[1426]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2009]
-517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[2111]
+145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
-234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[2111]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
-363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[1408]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
+492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
-145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
+517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 378,1,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.0,[1418]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[1628]

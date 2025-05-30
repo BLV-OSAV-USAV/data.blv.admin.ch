@@ -1,52 +1,48 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2181, 2173, 2131, 2149]"
-128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2152, 2188, 2193]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2177, 2138, 2190]"
+93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2181, 2173, 2149]"
+128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2152, 2188, 2193]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.33,"[2151, 2140, 2182]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,"[2176, 2186]"
-119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2143, 2150]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2157]"
-271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[2142, 2139]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2151, 2140]"
 468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,"[2142, 2139]"
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2143, 2150]"
+271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[2142, 2139]"
 483,2,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.5,"[2151, 2140]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2153, 2175]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2193, 2175]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2148, 2156]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,"[2176, 2186]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2151, 2140]"
+79,1,Zucker,sucre,zucchero,sugar,1.0,[2191]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2189]
+320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2187]
 519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,1.0,[2187]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2143]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2191]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2181]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
-185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
-320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2187]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2189]
-123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,2.0,[2173]
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2173]
-42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2129]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2164]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2173]
+473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
+318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),1.0,[2144]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,3.0,[2174]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,3.0,[2174]
+123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,2.0,[2173]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,3.0,[2174]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2185]
-473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
-318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),1.0,[2144]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,3.0,[2174]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[2150]
-153,1,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,[2150]
-114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2153]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2185]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2150]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2153]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,[2157]
+153,1,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,[2150]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2157]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.0,[2159]
-261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2163]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,[2157]
 266,1,Legionella,Legionella,Legionella,Legionella,1.0,[2163]
+261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2163]
 39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2163]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2134]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,[2163]
-514,1,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,3.0,[2132]
-69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2135]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2180]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2175]

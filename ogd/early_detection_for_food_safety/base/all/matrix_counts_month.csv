@@ -1,19 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,11,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.45,"[2151, 2142, 2134, 2141, 2138, 2137, 2131, 2172, 2176, 2179, 2189]"
+18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.44,"[2151, 2142, 2141, 2138, 2137, 2172, 2176, 2179, 2189]"
 8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.2,"[2157, 2149, 2165, 2182, 2187]"
 82,3,Wasser,Eau,Acqua,Waters,1.0,"[2143, 2164, 2185]"
-54,2,Geflügel,Volailles,Pollame,Poultry,2.5,"[2173, 2174]"
-148,2,Wein,Vin,Vino,Wine,1.0,"[2129, 2184]"
 42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,"[2139, 2187]"
+54,2,Geflügel,Volailles,Pollame,Poultry,2.5,"[2173, 2174]"
 133,1,Honig,Miel,Miele,Honey,1.0,[2158]
-73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2135]
-13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,3.0,[2132]
+22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[2140]
 11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2160]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[2138]
-22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,[2140]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2166]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2180]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[2181]
+148,1,Wein,Vin,Vino,Wine,1.0,[2184]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2188]
 27,1,Pilze,Champignons,Funghi,Mushrooms,2.0,[2190]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2191]
