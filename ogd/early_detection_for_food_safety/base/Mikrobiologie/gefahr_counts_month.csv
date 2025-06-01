@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2181, 2173, 2149]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2177, 2138, 2190]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2153, 2175]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,"[2176, 2186]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2153, 2175]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2177, 2190]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2157]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2143, 2150]"
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
