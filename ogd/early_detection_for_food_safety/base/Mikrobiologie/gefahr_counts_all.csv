@@ -94,14 +94,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 257,2,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,2.0,"[536, 1203]"
 210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[258, 1974]"
-241,2,Alternariol,alternariol,alternariolo,alternariol,1.5,"[1169, 1890]"
-332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.5,"[1259, 2157]"
-514,2,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,2.0,"[2104, 2132]"
-473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
 296,2,Providencia spp.,Providencia spp.,Providencia spp.,Providencia spp.,1.5,"[922, 724]"
-232,2,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,"[1013, 1941]"
+241,2,Alternariol,alternariol,alternariolo,alternariol,1.5,"[1169, 1890]"
+473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
+332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.5,"[1259, 2157]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,"[99, 2157]"
+232,2,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,"[1013, 1941]"
 146,2,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,3.0,"[551, 84]"
+409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
 320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.5,"[2187, 922]"
 442,2,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,"[1558, 2002]"
 470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2044, 1743]"
@@ -112,12 +112,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.0,"[1570, 874]"
 131,2,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,"[984, 1174]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[201, 1974]"
-409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[258]
+288,1,T-2,T-2,T-2,T-2,2.0,[682]
 190,1,Salmonella Bovismorbificans,Salmonella Bovismorbificans,Salmonella Bovismorbificans,Salmonella Bovismorbificans,1.0,[204]
 212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[90]
-288,1,T-2,T-2,T-2,T-2,2.0,[682]
+302,1,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,2.0,[799]
 304,1,Clostridien,Clostridia,Clostridia,Clostridia,1.0,[801]
 303,1,Akkermansia,Akkermansia,Akkermansia,Akkermansia,1.0,[801]
 366,1,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,2.0,[1151]
@@ -133,7 +133,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
 356,1,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,Streptococcus anginosus,2.0,[1118]
 76,1,colistin,colistine,colistina,Colistin,1.0,[376]
-302,1,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,Angiostrongylus cantonensis,2.0,[799]
+37,1,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,1.0,[1383]
 506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
@@ -142,7 +142,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 265,1,diastatische Hefe,levure diastatique,lievito diastatico,diastatic yeast,2.0,[555]
 390,1,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,[1619]
 428,1,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,Vibrio mimicus,1.0,[1507]
-37,1,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,1.0,[1383]
+184,1,Morganella morganii,Morganella morganii,Morganella morganii,Morganella morganii,2.0,[143]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 472,1,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,Edwardsiella tarda,1.0,[1763]
 229,1,Streptococcus pyogenes (GAS),Streptococcus pyogenes (SGA),Streptococcus pyogenes (SGA),Streptococcus pyogenes (GAS),1.0,[341]
@@ -173,7 +173,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[425]
 136,1,Prion,Prion,Prione,Prion,1.0,[431]
 510,1,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,1.0,[2087]
-184,1,Morganella morganii,Morganella morganii,Morganella morganii,Morganella morganii,2.0,[143]
+375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,3.0,[1170]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
 512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
@@ -186,17 +186,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,Phytohaemagglutinin,1.0,[642]
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[442]
-375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,3.0,[1170]
+289,1,HT-2,HT-2,HT-2,HT-2,2.0,[682]
 343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[998]
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,2.0,[495]
 519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,1.0,[2187]
 319,1,Proteus spp.,Proteus spp.,Proteus spp.,Proteus spp.,2.0,[922]
 278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 291,1,Milchsäurebakterien,Bactérie lactique,batteri lattici acidofili,Lactic acid bacteria,2.0,[696]
-289,1,HT-2,HT-2,HT-2,HT-2,2.0,[682]
+54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,2.0,[989]
-54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
+338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),2.0,[989]
 385,1,Usutu-Virus,Virus d'Usutu,Usutu virus,Usutu virus (USUV),1.0,[1237]
 305,1,Microbacterium,Microbacterium,Microbacterium,Microbacterium,2.0,[803]
 6,1,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,2.0,[406]
@@ -204,13 +204,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 393,1,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,2.0,[1278]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
 452,1,Hefen,Levure,Lievito,Yeast,1.0,[1615]
-338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),2.0,[989]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1577]
 25,1,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,2.0,[190]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[1811]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1577]
-511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[1635]
+511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2164]
+514,1,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,1.0,[2104]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
