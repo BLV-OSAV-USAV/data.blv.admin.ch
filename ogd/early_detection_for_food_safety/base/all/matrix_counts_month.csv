@@ -1,10 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[2151, 2172, 2176, 2179, 2189, 2194, 2196, 2197]"
+18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.44,"[2151, 2172, 2176, 2179, 2189, 2194, 2196, 2197, 2199]"
 8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.2,"[2157, 2149, 2165, 2182, 2187]"
+133,2,Honig,Miel,Miele,Honey,1.0,"[2158, 2201]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2164, 2185]"
 54,2,Geflügel,Volailles,Pollame,Poultry,2.5,"[2173, 2174]"
 11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2160]
-133,1,Honig,Miel,Miele,Honey,1.0,[2158]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2166]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2180]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[2181]
@@ -13,3 +13,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2188]
 27,1,Pilze,Champignons,Funghi,Mushrooms,2.0,[2190]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2191]
+60,1,Fische,Poissons,Pesce,Fish,2.0,[2200]
+9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2203]
+50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,2.0,[2204]
