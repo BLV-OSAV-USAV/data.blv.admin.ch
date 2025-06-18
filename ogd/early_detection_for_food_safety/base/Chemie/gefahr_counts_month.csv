@@ -1,16 +1,29 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,"[2176, 2186]"
+111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.75,"[2176, 2222, 2186, 2213]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2194, 2214, 2169, 2201]"
+518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2169, 2193, 2175]"
+118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2194, 2201]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2193, 2175]"
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2183]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
+109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[2189, 2214]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2180, 2215]"
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2189]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
+43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2182]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2180]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2175]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2175]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2209]
+169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
+522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
+523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
+524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2215]
+318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
+332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
+525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
+526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
+527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,3.0,[2216]

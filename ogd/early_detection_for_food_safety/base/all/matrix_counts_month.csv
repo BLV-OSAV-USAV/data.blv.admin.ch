@@ -1,18 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.38,"[2172, 2176, 2179, 2189, 2194, 2196, 2197, 2199]"
+18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.33,"[2172, 2176, 2179, 2189, 2194, 2196, 2197, 2199, 2215]"
+8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.33,"[2182, 2187, 2213]"
 54,2,Geflügel,Volailles,Pollame,Poultry,2.5,"[2173, 2174]"
 48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[2180, 2207]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2182, 2187]"
+133,2,Honig,Miel,Miele,Honey,1.0,"[2201, 2211]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[2203, 2205]"
-82,1,Wasser,Eau,Acqua,Waters,1.0,[2185]
 148,1,Wein,Vin,Vino,Wine,1.0,[2184]
-42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2187]
+82,1,Wasser,Eau,Acqua,Waters,1.0,[2185]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[2181]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2188]
+42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2187]
+80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2191]
 27,1,Pilze,Champignons,Funghi,Mushrooms,2.0,[2190]
 60,1,Fische,Poissons,Pesce,Fish,2.0,[2200]
-80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2191]
-133,1,Honig,Miel,Miele,Honey,1.0,[2201]
 50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,2.0,[2204]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2206]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2219]
