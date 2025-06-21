@@ -1,11 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.75,"[2176, 2222, 2186, 2213]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[2214, 2201, 2194, 2169]"
-518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2193, 2175, 2169]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2214, 2201, 2194]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
-109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[2214, 2189]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
+109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[2214, 2189]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2180, 2215]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2193, 2175]"
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
