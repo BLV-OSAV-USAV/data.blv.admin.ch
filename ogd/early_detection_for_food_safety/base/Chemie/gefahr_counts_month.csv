@@ -1,20 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.75,"[2176, 2222, 2186, 2213]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.67,"[2222, 2186, 2213]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2214, 2201, 2194]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[2214, 2189]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2180, 2215]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2193, 2175]"
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
-473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
-43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2182]
+43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2175]
-96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2175]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2182]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2193]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2209]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
