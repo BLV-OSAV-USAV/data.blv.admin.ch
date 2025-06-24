@@ -2,20 +2,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.67,"[2222, 2186, 2213]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2214, 2201, 2194]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,"[2214, 2189]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2180, 2215]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2188, 2193]"
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2188]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2182]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2193]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2209]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2215]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2215]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]

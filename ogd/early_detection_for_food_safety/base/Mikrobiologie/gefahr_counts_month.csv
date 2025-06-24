@@ -1,26 +1,25 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.67,"[2222, 2186, 2213]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2220, 2228]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2203, 2205]"
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2220]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2181]
-261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2181]
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2190, 2227]"
+375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2198]
 520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
-375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
+261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2185]
-521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,2.0,[2207]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
+521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,2.0,[2207]
 211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,2.0,[2206]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2203]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2185]
 519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,2.0,[2187]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,2.0,[2187]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2190]
+10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,2.0,[2226]
 256,1,Parasiten,Parasites,Parassiti,Parasites,2.0,[2208]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,2.0,[2205]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2219]
