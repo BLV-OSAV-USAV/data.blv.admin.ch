@@ -15,7 +15,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 63,11,Antibiotika,antibiotiques,antibiotici,antibiotics,1.73,"[74, 438, 133, 307, 139, 201, 2041, 73, 203, 67, 2118]"
 180,11,Phthalate,phtalates,ftalati,phthalates,1.27,"[187, 277, 1365, 295, 1020, 542, 1136, 779, 1283, 1628, 1755]"
 150,9,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.22,"[129, 792, 1548, 425, 1413, 666, 871, 1407, 1865]"
-230,8,Nitrate,Nitrate,Nitrato,Nitrate,1.38,"[516, 351, 2123, 750, 394, 633, 1577, 1810]"
+230,9,Nitrate,Nitrate,Nitrato,Nitrate,1.33,"[516, 351, 2123, 750, 394, 633, 1577, 2237, 1810]"
 197,8,Nitrite,Nitrite,Nitrito,Nitrite,1.62,"[226, 316, 516, 259, 750, 394, 633, 1577]"
 66,7,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.43,"[467, 298, 1249, 353, 1672, 32, 199]"
 298,7,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.29,"[728, 1529, 1979, 2017, 916, 901, 726]"
@@ -241,12 +241,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
 439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
-475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
-493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
-182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
+493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
+475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
@@ -254,3 +253,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
 526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
+182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
