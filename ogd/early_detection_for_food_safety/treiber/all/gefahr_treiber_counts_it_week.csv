@@ -1,14 +1,15 @@
-gefahr_id,Cambiamento climatico,Nuovi alimenti e sistemi di produzione alimentare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Ecologia,Economia
-1,0,0,0,0,1,0,0
-10,0,0,1,0,0,1,0
-26,0,1,1,0,0,0,0
-87,0,0,0,1,0,0,0
-102,1,0,0,0,0,1,0
-126,1,0,0,0,0,2,0
-127,0,0,0,0,0,1,0
-165,0,0,0,0,0,1,0
-187,1,0,0,0,0,1,0
-202,0,0,0,1,0,1,0
-230,0,0,0,0,1,1,0
-244,0,0,0,1,0,0,0
-284,0,0,0,0,0,1,1
+gefahr_id,Cambiamento climatico,Evoluzione microbica e resistenza agli antibiotici,Società,Ecologia,Economia
+1,0,1,0,0,0
+87,0,1,0,0,0
+102,1,0,0,1,0
+104,0,1,0,0,0
+125,0,0,0,1,0
+126,1,0,0,2,0
+127,0,0,0,1,0
+165,0,0,0,1,0
+181,0,1,0,0,0
+187,1,0,0,1,0
+202,0,1,0,1,0
+230,0,0,1,1,0
+244,0,1,0,0,0
+284,0,0,0,1,1

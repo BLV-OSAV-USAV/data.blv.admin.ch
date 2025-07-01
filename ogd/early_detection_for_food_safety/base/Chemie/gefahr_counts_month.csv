@@ -1,19 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2214, 2201, 2194, 2232]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2222, 2213]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2214, 2201, 2194, 2232]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2246, 2222, 2213]"
+437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2246, 2222]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2241, 2243]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2215, 2243]"
+69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2246]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[2230]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2237]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2246]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2209]
-522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
+522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2215]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
@@ -25,3 +27,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,3.0,[2216]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2243]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[2230]
