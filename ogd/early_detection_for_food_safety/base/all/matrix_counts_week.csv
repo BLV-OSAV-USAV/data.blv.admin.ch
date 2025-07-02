@@ -1,13 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2232, 2235, 2238, 2242, 2248]"
-9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[2231, 2234]"
+18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2235, 2238, 2242, 2248, 2256]"
+60,3,Fische,Poissons,Pesce,Fish,1.0,"[2234, 2245, 2254]"
+6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.67,"[2241, 2250, 2255]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2237, 2243]"
-60,2,Fische,Poissons,Pesce,Fish,1.0,"[2234, 2245]"
-6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[2241, 2250]"
+9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2234, 2253]"
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2240, 2244]"
-7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.5,"[2230, 2246]"
-3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2239]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2239]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2239]
 8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",2.0,[2251]
+7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2246]
 12,1,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,[2247]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2249]

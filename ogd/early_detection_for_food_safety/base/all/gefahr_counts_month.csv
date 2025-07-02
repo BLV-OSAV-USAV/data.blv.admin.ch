@@ -1,46 +1,50 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2214, 2201, 2194, 2232]"
-1,3,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2248, 2220, 2228]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2246, 2222, 2213]"
+1,3,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2248, 2220, 2228]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2254, 2215, 2243]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[2203, 2205, 2233]"
-10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
 528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2224]"
+181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2255, 2250]"
+10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2254, 2243]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[2254, 2230]"
 437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2246, 2222]"
+232,2,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.5,"[2205, 2253]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2241, 2243]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2215, 2243]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.5,"[2239, 2208]"
-39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2239]
+69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2246]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2246]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2239]
+39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2239]
 36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2246]
-69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
-104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2212]
+104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
+344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
+425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
-261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2198]
-520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
-35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2239]
-375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2239]
-521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,2.0,[2207]
-42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
+375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
+35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2239]
+520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2198]
+261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
+355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
+42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2204]
+521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,2.0,[2207]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2237]
+99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2203]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,2.0,[2206]
 211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
-99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2203]
-355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2250]
-169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2209]
+169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
-232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,2.0,[2205]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2215]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
@@ -54,7 +58,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,3.0,[2216]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,2.0,[2231]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[2233]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2243]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[2245]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[2230]
+32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,1.0,[2253]
