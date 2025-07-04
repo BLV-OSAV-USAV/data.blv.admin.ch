@@ -3,9 +3,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 82,29,Wasser,Eau,Acqua,Waters,1.21,"[1496, 1596, 1616, 1673, 1721, 1740, 1753, 1760, 1762, 1778, 1788, 1725, 1810, 1848, 1854, 1918, 1931, 1975, 1991, 2023, 2033, 2010, 2052, 2112, 2100, 2082, 2083, 2237, 2243]"
 1,21,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.24,"[1481, 1508, 1487, 1558, 1518, 1492, 1566, 1640, 1767, 1741, 1898, 1859, 1885, 1974, 1996, 2002, 1970, 1915, 2022, 2042, 2041]"
 9,12,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.25,"[1477, 1482, 1531, 1776, 1783, 1826, 1878, 1982, 1963, 1895, 2000, 2115]"
-60,10,Fische,Poissons,Pesce,Fish,1.2,"[1473, 1592, 1690, 1727, 1715, 1745, 1772, 1913, 2019, 2254]"
+60,9,Fische,Poissons,Pesce,Fish,1.22,"[1592, 1690, 1727, 1715, 1745, 1772, 1913, 2019, 2254]"
 7,8,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.25,"[1529, 1562, 1567, 1890, 1980, 2188, 2246, 2230]"
-48,6,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.17,"[1482, 1473, 1538, 1626, 2180, 2249]"
+48,5,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.2,"[1482, 1538, 1626, 2180, 2249]"
 23,5,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.4,"[1577, 1715, 1717, 2026, 2099]"
 93,5,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.2,"[1633, 1619, 1812, 1884, 1990]"
 73,5,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.4,"[1475, 1672, 2070, 2092, 2135]"
@@ -15,11 +15,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 5,4,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.25,"[1908, 1884, 2026, 1993]"
 80,4,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.5,"[1574, 1586, 1672, 2008]"
 133,4,Honig,Miel,Miele,Honey,1.5,"[1558, 1774, 2201, 2211]"
-118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1482, 1547, 1608]"
+67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[1511, 1632, 2166]"
 81,3,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.33,"[1636, 1770, 1921]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.33,"[1668, 1991, 2241]"
-67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[1511, 1632, 2166]"
 39,3,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,"[1556, 1886, 1920]"
+118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1482, 1547, 1608]"
 155,2,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.5,"[1483, 2063]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.5,"[1526, 1980]"
 144,2,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,"[1574, 1904]"
@@ -30,8 +30,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,2,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,"[1574, 1742]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.5,"[1675, 2204]"
 13,2,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,"[1672, 1980]"
-138,1,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,[1510]
 33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,[1568]
+138,1,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,[1510]
 56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[1592]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1592]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[1639]

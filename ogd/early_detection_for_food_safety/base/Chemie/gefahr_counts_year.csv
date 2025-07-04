@@ -4,112 +4,111 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,24,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[1529, 1556, 1562, 1653, 1979, 2066, 2246, 1619, 2017, 1886, 2176, 2222, 1591, 1558, 1675, 1923, 2002, 1605, 1626, 1787, 1884, 1998, 2186, 2213]"
 102,21,Blei,Plomb,Piombo,Lead,1.19,"[1633, 1568, 1774, 1917, 1963, 1538, 1492, 1747, 1778, 2254, 1836, 2024, 1526, 1974, 1510, 1604, 1668, 1715, 1908, 1859, 2243]"
 165,20,Cadmium,Cadmium,Cadmio,Cadmium,1.25,"[1510, 1521, 1774, 1917, 1963, 1538, 1747, 2254, 2188, 1836, 1526, 1974, 1626, 1668, 1715, 2230, 1913, 1898, 1908, 1859]"
-187,20,Arsen,Arsenic,Arsenico,Arsenic,1.1,"[1917, 2099, 1492, 1747, 2254, 1836, 1644, 1760, 1974, 1510, 1473, 1604, 1715, 1913, 1848, 1898, 1859, 2180, 2215, 2243]"
+187,19,Arsen,Arsenic,Arsenico,Arsenic,1.11,"[1917, 2099, 1492, 1747, 2254, 1836, 1644, 1760, 1974, 1510, 1604, 1715, 1913, 1848, 1898, 1859, 2180, 2215, 2243]"
 128,16,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.12,"[1917, 1963, 2122, 1670, 1747, 2152, 2188, 1783, 1974, 1510, 1604, 1717, 1703, 1715, 1908, 2193]"
 91,12,Pestizide,pesticides,pesticidi,pesticide,1.33,"[1585, 1938, 1538, 1619, 2117, 1670, 1511, 1675, 1926, 1669, 1755, 2209]"
 109,10,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.2,"[1586, 1951, 1670, 2214, 1992, 1558, 2002, 1703, 1921, 2189]"
 246,8,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.12,"[1480, 1902, 1920, 1639, 1593, 1770, 1894, 1858]"
-167,7,Quecksilber,Mercure,Mercurio,Mercury,1.14,"[1772, 1917, 1963, 1538, 1715, 1913, 1908]"
 127,7,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.29,"[1713, 2151, 1668, 2182, 2140, 2241, 1878]"
+167,7,Quecksilber,Mercure,Mercurio,Mercury,1.14,"[1772, 1917, 1963, 1538, 1715, 1913, 1908]"
 166,6,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1550, 1917, 1970, 1698, 2024, 1988]"
 437,4,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[1529, 2246, 2017, 2222]"
-425,4,Kupfer,Cuivre,Rame,Copper,1.0,"[1521, 1487, 2254, 1859]"
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[1619, 2077, 1718, 2175]"
 288,4,T-2,T-2,T-2,T-2,1.0,"[2017, 2090, 1675, 1998]"
 230,4,Nitrate,Nitrate,Nitrato,Nitrate,1.25,"[2123, 1577, 2237, 1810]"
 42,4,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[1496, 1854, 2204, 2129]"
-118,4,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.25,"[1653, 2183, 1977, 2213]"
+425,4,Kupfer,Cuivre,Rame,Copper,1.0,"[1521, 1487, 2254, 1859]"
 298,4,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[1529, 1979, 2246, 2017]"
+118,4,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.25,"[1653, 2183, 1977, 2213]"
 130,4,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,"[1970, 1698, 1592, 1988]"
-308,3,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1529, 1979, 2017]"
 137,3,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.33,"[1927, 2002, 1673]"
 69,3,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,"[2247, 1636, 2135]"
 203,3,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.33,"[1619, 2017, 1591]"
-249,3,Nickel,Nickel,Nichel,Nickel,1.67,"[1526, 1604, 1668]"
-468,3,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.67,"[1741, 2142, 1980]"
-448,3,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.67,"[1590, 2070, 2125]"
+308,3,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1529, 1979, 2017]"
 422,3,Muscimol,MuscimolE,Muscimolo,Muscimol,2.0,"[1590, 1915, 1475]"
+448,3,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.67,"[1590, 2070, 2125]"
+468,3,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.67,"[1741, 2142, 1980]"
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[1619, 1718, 1867]"
-402,3,Thallium,Thallium,Tallio,Thallium,1.0,"[1531, 1898, 2100]"
 518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2193, 2175, 2169]"
-450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2052, 1596, 2082]"
+402,3,Thallium,Thallium,Tallio,Thallium,1.0,"[1531, 1898, 2100]"
 483,3,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.33,"[2151, 2140, 1806]"
-474,3,Enniatin,Ennitatine,Ennitatina,Enniatin,1.33,"[2246, 2176, 1787]"
 271,3,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,"[2142, 1980, 2216]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1628, 1755]"
+450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2052, 1596, 2082]"
+474,3,Enniatin,Ennitatine,Ennitatina,Enniatin,1.33,"[2246, 2176, 1787]"
+249,3,Nickel,Nickel,Nichel,Nickel,1.67,"[1526, 1604, 1668]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
-473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
-273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1574, 1742]"
-284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[1511, 2244]"
-379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.5,"[1774, 1902]"
-453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
-63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,"[2041, 2118]"
-344,2,Chrom,Chrome,Cromo,Chromium,1.5,"[2254, 1668]"
-96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,"[2086, 2175]"
 442,2,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,"[1558, 2002]"
-59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
-150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.0,"[1548, 1865]"
-241,2,Alternariol,alternariol,alternariolo,alternariol,1.0,"[1605, 1890]"
 289,2,HT-2,HT-2,HT-2,HT-2,1.0,"[1675, 1998]"
+63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,"[2041, 2118]"
+59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
+344,2,Chrom,Chrome,Cromo,Chromium,1.5,"[2254, 1668]"
+473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
+284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[1511, 2244]"
+96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,"[2086, 2175]"
+453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
+379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.5,"[1774, 1902]"
+273,2,Koffein,Caféine,Caffeina,caffein,1.0,"[1574, 1742]"
+241,2,Alternariol,alternariol,alternariolo,alternariol,1.0,"[1605, 1890]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[1628, 1755]"
 169,2,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,"[1628, 2211]"
 318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[2144, 2216]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2118]"
+150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.0,"[1548, 1865]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,"[2214, 1756]"
-440,1,Tellur,Tellure,Tellurio,Tellurium,2.0,[1541]
-429,1,Wolfram,Tungstène,Tungsteno,Tungsten,1.0,[1521]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1521]
-482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+429,1,Wolfram,Tungstène,Tungsteno,Tungsten,1.0,[1521]
+297,1,Gluten,gluten,glutine,gluten,1.0,[1548]
 424,1,"Flüchtige, organische Verbindungen",Les composés organiques volatils,Composti organici volatili,volatile organic compounds,1.0,[1481]
 351,1,Brom,brom,bromo,bromine,1.0,[1955]
-224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[1539]
-297,1,Gluten,gluten,glutine,gluten,1.0,[1548]
+481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
+440,1,Tellur,Tellure,Tellurio,Tellurium,2.0,[1541]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
 491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
 370,1,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,1.0,[1904]
-480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
-481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-445,1,Hämeisen,fer héminique,ferro ematico,Haem iron,2.0,[1575]
+480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
+469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
+224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[1539]
 110,1,Chlorkohlenwasserstoffe,Composés organochlorés,Organocloruro,Organochlorine compound,1.0,[1632]
+445,1,Hämeisen,fer héminique,ferro ematico,Haem iron,2.0,[1575]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[1741]
-469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,[1551]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
-441,1,Dimethyltetrachlorterephthalat,Diméthyltétrachlorotéréphtalate,Tetraclorotereftalato di dimetile,Dimethyl tetrachloroterephthalate (DCPA),2.0,[1544]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
-500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
-277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
+441,1,Dimethyltetrachlorterephthalat,Diméthyltétrachlorotéréphtalate,Tetraclorotereftalato di dimetile,Dimethyl tetrachloroterephthalate (DCPA),2.0,[1544]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
-390,1,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,[1619]
+277,1,Microcystine,Microcystine,Microcistina,Microcystin,2.0,[2026]
+500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2122]
 345,1,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,2.0,[1893]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+390,1,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,[1619]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
-505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
-449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
+492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,2.0,[1591]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
 148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2063]
-439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
+505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 262,1,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,[1518]
-421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
+439,1,Beryllium,Béryllium,Berillio,Beryllium,1.0,[1531]
 423,1,Glasfaserverstärkter Kunststoff (Fiberglas),Plastique à renfort de verre,Vetroresina,Fibreglass,3.0,[1477]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
 124,1,Melamin,Mélamine,Melammina,Melamine,1.0,[1518]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[1577]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[1577]
+449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 66,1,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),2.0,[1672]
 459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
-172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,2.0,[1591]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[1721]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[1685]
 324,1,Polychlorierte Dibenzodioxine und Dibenzofurane (PCDD/PCDF),Polychlorodibenzo-p-dioxine (PCDD/PCDF),policloro-dibenzo-p-diossine (PCDD/PCDF),Polychlorinated dibenzodioxins (PCDD/PCDF),2.0,[1668]
