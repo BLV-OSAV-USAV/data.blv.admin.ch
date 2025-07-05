@@ -1,8 +1,6 @@
-matrix_id,Climate change,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Economy
-6,0,0,0,2,1,0
-9,0,0,1,1,0,0
-11,0,0,0,0,1,1
-18,0,1,2,1,0,2
-48,0,0,0,0,1,0
-60,0,0,0,0,1,1
-82,1,0,0,0,1,0
+matrix_id,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Economy
+6,0,2,0,0
+9,1,1,0,0
+18,1,1,0,1
+48,0,0,1,0
+60,0,0,1,1
