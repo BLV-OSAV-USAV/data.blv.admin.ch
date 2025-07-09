@@ -1,10 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2255]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2254]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2254]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2254]
-425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2257]
-232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[2253]
-32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,1.0,[2253]
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2269, 2268]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2268]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2257, 2265]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2270, 2271]"
+225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2269]
+272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
+532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
+35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2259]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2269]
+530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2259]
+531,1,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,1.0,[2263]
+86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2265]
+392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.0,[2264]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2268]
+156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2261]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2262]
