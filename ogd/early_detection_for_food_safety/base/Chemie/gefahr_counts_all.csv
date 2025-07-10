@@ -92,31 +92,31 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 345,2,Zinkoxid-Nanopartikel,nanoparticules d'oxyde de zinc,nanoparticelle di ossido di zinco,zinc oxid nanoparticles,1.5,"[1041, 1893]"
 124,2,Melamin,Mélamine,Melammina,Melamine,1.0,"[46, 1518]"
 196,2,Grayanotoxine,Grayanotoxine,Graianotossina,Grayanotoxin,1.5,"[225, 345]"
-201,2,Diphenylguanidin (DPG),Diphénylguanidine (DPG),Difenilguanidina (DPG),Diphenylguanidine (DPG),3.0,"[229, 735]"
+169,2,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,"[1628, 2211]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,"[2057, 708]"
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
-394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
+503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2017, 2273]"
 143,2,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.5,"[73, 613]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[943, 1718]"
 332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.5,"[1259, 2213]"
 73,2,Tierarzneimittel,Produits pharmaceutiques vétérinaires,Farmaci veterinari,Veterinary pharmaceuticals,2.0,"[613, 67]"
 442,2,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,"[1558, 2002]"
 228,2,Fipronil,Fipronil,Fipronil,Fipronil,1.5,"[328, 1867]"
-169,2,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,"[1628, 2211]"
 227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
 115,2,Antimon,Antimoine,Antimonio,Antimony,1.0,"[130, 1898]"
+394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
 313,2,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,"[1160, 871]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 252,2,Morcheln,morilles,spugnola,morel mushroom,1.0,"[494, 1221]"
-210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
+201,2,Diphenylguanidin (DPG),Diphénylguanidine (DPG),Difenilguanidina (DPG),Diphenylguanidine (DPG),3.0,"[229, 735]"
 221,2,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.5,"[300, 534]"
-191,1,Solanum sp,Solanum sp,Solanum sp,Solanum sp,2.0,[213]
+210,2,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577]"
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[74]
-299,1,Hexachlorcyclohexan,Hexachlorocyclohexane,Esaclorocicloesano,Hexachlorocyclohexane,1.0,[727]
+191,1,Solanum sp,Solanum sp,Solanum sp,Solanum sp,2.0,[213]
 108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[55]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[51]
 215,1,Diisobutylphthalate (DIBP),Phtalate de diisobutyle (DIBP),Diisobutilftalato (DIBP),Diisobutyl phthalate (DIBP),1.0,[277]
@@ -124,7 +124,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
 220,1,Tricyclazol,Tricyclazole,Tricyclazole,Tricyclazole,2.0,[297]
 217,1,"2,6-diisopropylnaphthalene (DIPN)","2,6-diisopropylnaphtalène (DIPN)","2,6-diisopropilnaftalene (DIPN)","2,6-diisopropylnaphthalene (DIPN)",1.0,[277]
-211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
+299,1,Hexachlorcyclohexan,Hexachlorocyclohexane,Esaclorocicloesano,Hexachlorocyclohexane,1.0,[727]
 275,1,Cyazofamid,Cyazofamid,Cyazofamid,Cyazofamid,1.0,[638]
 222,1,GenX,GenX,GenX,GenX,2.0,[302]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
@@ -161,11 +161,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[277]
 212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
-395,1,Tropan-Alkaloide,Alcaloïde tropanique,Alcaloide tropanico,tropane alkaloids,2.0,[1284]
+211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[1747]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
-354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
+395,1,Tropan-Alkaloide,Alcaloïde tropanique,Alcaloide tropanico,tropane alkaloids,2.0,[1284]
 267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1085]
 279,1,"Organische Phosphit-Antioxidantien, OPA","Phosphites organiques antioxydants, OPA","Antiossidanti organici al fosfito, OPA","Organic phosphite antioxidants, OPA",1.0,[651]
 186,1,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,2.0,[700]
@@ -181,16 +181,16 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 254,1,Polyethylenterephthalat,Polytéréphtalate d'éthylène,Polietilene tereftalato,polyethylene terephthalate,1.0,[508]
 131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[984]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[1123]
+354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
 294,1,Benzo(a)pyren,Benzopyrène,Benzo[a]pirene,Benzo[a]pyrene,1.0,[714]
-55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,3.0,[735]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2017]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
+280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]
 532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 282,1,Ketoprofen,Kétoprofène,Ketoprofene,Ketoprofen,1.0,[667]
-283,1,Borax,Borax,Borace,Borax,1.0,[671]
+55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,3.0,[735]
 281,1,Ethylendioxid,dioxyde d'éthylène,Ossido di etilene,ethylene dioxide,1.0,[663]
-280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]
+283,1,Borax,Borax,Borace,Borax,1.0,[671]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 419,1,polyurethane (PUR),polyuréthane (PUR),Poliuretano (PUR),polyurethane (PUR),2.0,[1465]

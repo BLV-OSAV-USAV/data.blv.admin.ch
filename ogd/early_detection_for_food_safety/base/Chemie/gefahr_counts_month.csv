@@ -1,22 +1,22 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254, 2215, 2243]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2214, 2232]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2246, 2222, 2213]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2241, 2243, 2262]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2214, 2232]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2254, 2243]"
 165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[2269, 2254, 2230]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2254, 2243]"
 437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2246, 2222]"
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2246]
-69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2269]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2246]
+69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
 272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
-532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
+532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2269]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2237]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
@@ -32,4 +32,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,3.0,[2216]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2273]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2261]

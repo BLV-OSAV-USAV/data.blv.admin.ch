@@ -4,19 +4,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
 35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[2239, 2259]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2222, 2213]"
-181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2255, 2250]"
+503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2219, 2273]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2257, 2265]"
-7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2239]
+181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2255, 2250]"
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2239]
 36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
+7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2239]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
 39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2239]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2239]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2219]
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,2.0,[2213]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,2.0,[2231]

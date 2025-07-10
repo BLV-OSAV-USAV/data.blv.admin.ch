@@ -11,10 +11,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2246, 2222]"
 35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[2239, 2259]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2255, 2250]"
-10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2257, 2265]"
+503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2219, 2273]"
+10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
 528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2224]"
-36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2246]
@@ -27,21 +27,21 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
 425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2214]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
+36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
 39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2239]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2239]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2239]
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2220]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2220]
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2214]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
-524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2237]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2215]
+524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2219]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,2.0,[2213]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
