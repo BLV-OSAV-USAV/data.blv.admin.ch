@@ -2,14 +2,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2228, 2235, 2248, 2259, 2265]"
 6,4,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[2250, 2255, 2257, 2273]"
 60,3,Fische,Poissons,Pesce,Fish,1.33,"[2221, 2245, 2271]"
-34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2227, 2239]"
-23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[2226, 2259]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[2231, 2253]"
+23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[2226, 2259]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2227, 2239]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2239, 2270]"
-8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",2.0,[2213]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2219]
 118,1,Rind,Boeuf,Manzo,Beef,1.0,[2257]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[2263]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2270]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2271]
 56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[2271]
+126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2275]

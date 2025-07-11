@@ -2,22 +2,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 18,15,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2215, 2223, 2224, 2228, 2232, 2235, 2238, 2242, 2248, 2256, 2259, 2260, 2265, 2267, 2272]"
 60,5,Fische,Poissons,Pesce,Fish,1.2,"[2221, 2234, 2245, 2254, 2271]"
 6,5,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.4,"[2241, 2250, 2255, 2257, 2273]"
-34,3,Früchte,Fruits,Frutta,Fruits,1.0,"[2227, 2239, 2269]"
+23,4,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.25,"[2226, 2259, 2262, 2274]"
 9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.33,"[2231, 2234, 2253]"
-3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2239, 2269, 2270]"
+34,3,Früchte,Fruits,Frutta,Fruits,1.0,"[2227, 2239, 2269]"
 11,3,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2240, 2244, 2266]"
-23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.33,"[2226, 2259, 2262]"
-5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2219, 2261]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",2.0,"[2213, 2251]"
-7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.5,"[2246, 2230]"
+3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2239, 2269, 2270]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2237, 2243]"
+5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2219, 2261]"
 56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,"[2266, 2271]"
-133,1,Honig,Miel,Miele,Honey,1.0,[2211]
+7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.5,"[2246, 2230]"
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[2229]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",2.0,[2251]
 12,1,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,[2247]
-118,1,Rind,Boeuf,Manzo,Beef,1.0,[2257]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2249]
+118,1,Rind,Boeuf,Manzo,Beef,1.0,[2257]
 120,1,Schwein,Porc,Maiale,Pork,1.0,[2263]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2266]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2270]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2271]
+126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2275]
