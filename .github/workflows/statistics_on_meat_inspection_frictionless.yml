@@ -1,11 +1,11 @@
-name: animal health statistics frictionless validation
+name: statistics on meat inspection frictionless validation
 
 on:
   push:
     branches:
       - main
     paths:
-      - 'ogd/animal_health_statistics/**'
+      - 'ogd/statistics_on_meat_inspection/**'
   workflow_dispatch:
 
 jobs:
@@ -21,4 +21,4 @@ jobs:
 
       - name: Validate CSV file with JSON schema
         run: |
-          frictionless validate ogd/animal_health_statistics/animal-health-statistics.json
+          frictionless validate ogd/statistics_on_meat_inspection/meat-inspection.json
