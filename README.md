@@ -11,7 +11,7 @@ Data updates:<br>
 
 
 Frictionless Data:<br>
-[![animal health statistics frictionless validation](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/animal_health_statistics_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/animal_health_statistics_frictionless.yml)
+[![animal health statistics frictionless validation](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/animal_health_statistics_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/animal_health_statistics_frictionless.yml)<br>
 [![statistics on meat inspection frictionless validation](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/statistics_on_meat_inspection_frictionless.yml/badge.svg)](https://github.com/BLV-OSAV-USAV/data.blv.admin.ch/actions/workflows/statistics_on_meat_inspection_frictionless.yml)
 
 <br><br>
