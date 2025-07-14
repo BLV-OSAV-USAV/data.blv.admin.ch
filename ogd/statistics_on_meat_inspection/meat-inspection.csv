@@ -13391,3 +13391,1299 @@ Year,Canton,Species,Type of Slaughter,Origin of animal,Fitness for consumption,C
 2023,ZH,Swine,Sanitary,Inland,No,76
 2023,ZH,Swine,Sanitary,Abroad,Yes,0
 2023,ZH,Swine,Sanitary,Abroad,No,0
+2024,AG,Cattle < 8Mo,Normal,Inland,Yes,1876
+2024,AG,Cattle < 8Mo,Normal,Inland,No,3
+2024,AG,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,AG,Cattle < 8Mo,Normal,Abroad,No,0
+2024,AG,Cattle < 8Mo,Sanitary,Inland,Yes,140
+2024,AG,Cattle < 8Mo,Sanitary,Inland,No,13
+2024,AG,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,AG,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,AG,Cattle > 8Mo,Normal,Inland,Yes,3004
+2024,AG,Cattle > 8Mo,Normal,Inland,No,5
+2024,AG,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,AG,Cattle > 8Mo,Normal,Abroad,No,0
+2024,AG,Cattle > 8Mo,Sanitary,Inland,Yes,893
+2024,AG,Cattle > 8Mo,Sanitary,Inland,No,34
+2024,AG,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,AG,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,AG,Equidae,Normal,Inland,Yes,81
+2024,AG,Equidae,Normal,Inland,No,0
+2024,AG,Equidae,Normal,Abroad,Yes,0
+2024,AG,Equidae,Normal,Abroad,No,0
+2024,AG,Equidae,Sanitary,Inland,Yes,1
+2024,AG,Equidae,Sanitary,Inland,No,0
+2024,AG,Equidae,Sanitary,Abroad,Yes,0
+2024,AG,Equidae,Sanitary,Abroad,No,0
+2024,AG,Goats,Normal,Inland,Yes,825
+2024,AG,Goats,Normal,Inland,No,2
+2024,AG,Goats,Normal,Abroad,Yes,0
+2024,AG,Goats,Normal,Abroad,No,0
+2024,AG,Goats,Sanitary,Inland,Yes,2
+2024,AG,Goats,Sanitary,Inland,No,2
+2024,AG,Goats,Sanitary,Abroad,Yes,0
+2024,AG,Goats,Sanitary,Abroad,No,0
+2024,AG,Sheep,Normal,Inland,Yes,9523
+2024,AG,Sheep,Normal,Inland,No,3
+2024,AG,Sheep,Normal,Abroad,Yes,0
+2024,AG,Sheep,Normal,Abroad,No,0
+2024,AG,Sheep,Sanitary,Inland,Yes,28
+2024,AG,Sheep,Sanitary,Inland,No,2
+2024,AG,Sheep,Sanitary,Abroad,Yes,0
+2024,AG,Sheep,Sanitary,Abroad,No,0
+2024,AG,Swine,Normal,Inland,Yes,11681
+2024,AG,Swine,Normal,Inland,No,27
+2024,AG,Swine,Normal,Abroad,Yes,0
+2024,AG,Swine,Normal,Abroad,No,0
+2024,AG,Swine,Sanitary,Inland,Yes,243
+2024,AG,Swine,Sanitary,Inland,No,22
+2024,AG,Swine,Sanitary,Abroad,Yes,0
+2024,AG,Swine,Sanitary,Abroad,No,0
+2024,AI,Cattle < 8Mo,Normal,Inland,Yes,200
+2024,AI,Cattle < 8Mo,Normal,Inland,No,0
+2024,AI,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,AI,Cattle < 8Mo,Normal,Abroad,No,0
+2024,AI,Cattle < 8Mo,Sanitary,Inland,Yes,13
+2024,AI,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,AI,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,AI,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,AI,Cattle > 8Mo,Normal,Inland,Yes,376
+2024,AI,Cattle > 8Mo,Normal,Inland,No,2
+2024,AI,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,AI,Cattle > 8Mo,Normal,Abroad,No,0
+2024,AI,Cattle > 8Mo,Sanitary,Inland,Yes,143
+2024,AI,Cattle > 8Mo,Sanitary,Inland,No,3
+2024,AI,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,AI,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,AI,Equidae,Normal,Inland,Yes,3
+2024,AI,Equidae,Normal,Inland,No,0
+2024,AI,Equidae,Normal,Abroad,Yes,0
+2024,AI,Equidae,Normal,Abroad,No,0
+2024,AI,Equidae,Sanitary,Inland,Yes,0
+2024,AI,Equidae,Sanitary,Inland,No,0
+2024,AI,Equidae,Sanitary,Abroad,Yes,0
+2024,AI,Equidae,Sanitary,Abroad,No,0
+2024,AI,Goats,Normal,Inland,Yes,1181
+2024,AI,Goats,Normal,Inland,No,3
+2024,AI,Goats,Normal,Abroad,Yes,0
+2024,AI,Goats,Normal,Abroad,No,0
+2024,AI,Goats,Sanitary,Inland,Yes,0
+2024,AI,Goats,Sanitary,Inland,No,1
+2024,AI,Goats,Sanitary,Abroad,Yes,0
+2024,AI,Goats,Sanitary,Abroad,No,0
+2024,AI,Sheep,Normal,Inland,Yes,270
+2024,AI,Sheep,Normal,Inland,No,0
+2024,AI,Sheep,Normal,Abroad,Yes,0
+2024,AI,Sheep,Normal,Abroad,No,0
+2024,AI,Sheep,Sanitary,Inland,Yes,2
+2024,AI,Sheep,Sanitary,Inland,No,0
+2024,AI,Sheep,Sanitary,Abroad,Yes,0
+2024,AI,Sheep,Sanitary,Abroad,No,0
+2024,AI,Swine,Normal,Inland,Yes,1377
+2024,AI,Swine,Normal,Inland,No,2
+2024,AI,Swine,Normal,Abroad,Yes,0
+2024,AI,Swine,Normal,Abroad,No,0
+2024,AI,Swine,Sanitary,Inland,Yes,1
+2024,AI,Swine,Sanitary,Inland,No,0
+2024,AI,Swine,Sanitary,Abroad,Yes,0
+2024,AI,Swine,Sanitary,Abroad,No,0
+2024,AR,Cattle < 8Mo,Normal,Inland,Yes,214
+2024,AR,Cattle < 8Mo,Normal,Inland,No,0
+2024,AR,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,AR,Cattle < 8Mo,Normal,Abroad,No,0
+2024,AR,Cattle < 8Mo,Sanitary,Inland,Yes,35
+2024,AR,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,AR,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,AR,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,AR,Cattle > 8Mo,Normal,Inland,Yes,323
+2024,AR,Cattle > 8Mo,Normal,Inland,No,0
+2024,AR,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,AR,Cattle > 8Mo,Normal,Abroad,No,0
+2024,AR,Cattle > 8Mo,Sanitary,Inland,Yes,654
+2024,AR,Cattle > 8Mo,Sanitary,Inland,No,34
+2024,AR,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,AR,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,AR,Equidae,Normal,Inland,Yes,29
+2024,AR,Equidae,Normal,Inland,No,0
+2024,AR,Equidae,Normal,Abroad,Yes,0
+2024,AR,Equidae,Normal,Abroad,No,0
+2024,AR,Equidae,Sanitary,Inland,Yes,1
+2024,AR,Equidae,Sanitary,Inland,No,0
+2024,AR,Equidae,Sanitary,Abroad,Yes,0
+2024,AR,Equidae,Sanitary,Abroad,No,0
+2024,AR,Goats,Normal,Inland,Yes,547
+2024,AR,Goats,Normal,Inland,No,1
+2024,AR,Goats,Normal,Abroad,Yes,0
+2024,AR,Goats,Normal,Abroad,No,0
+2024,AR,Goats,Sanitary,Inland,Yes,0
+2024,AR,Goats,Sanitary,Inland,No,0
+2024,AR,Goats,Sanitary,Abroad,Yes,0
+2024,AR,Goats,Sanitary,Abroad,No,0
+2024,AR,Sheep,Normal,Inland,Yes,577
+2024,AR,Sheep,Normal,Inland,No,1
+2024,AR,Sheep,Normal,Abroad,Yes,0
+2024,AR,Sheep,Normal,Abroad,No,0
+2024,AR,Sheep,Sanitary,Inland,Yes,3
+2024,AR,Sheep,Sanitary,Inland,No,0
+2024,AR,Sheep,Sanitary,Abroad,Yes,0
+2024,AR,Sheep,Sanitary,Abroad,No,0
+2024,AR,Swine,Normal,Inland,Yes,1603
+2024,AR,Swine,Normal,Inland,No,2
+2024,AR,Swine,Normal,Abroad,Yes,0
+2024,AR,Swine,Normal,Abroad,No,0
+2024,AR,Swine,Sanitary,Inland,Yes,23
+2024,AR,Swine,Sanitary,Inland,No,0
+2024,AR,Swine,Sanitary,Abroad,Yes,0
+2024,AR,Swine,Sanitary,Abroad,No,0
+2024,BE,Cattle < 8Mo,Normal,Inland,Yes,9221
+2024,BE,Cattle < 8Mo,Normal,Inland,No,129
+2024,BE,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,BE,Cattle < 8Mo,Normal,Abroad,No,0
+2024,BE,Cattle < 8Mo,Sanitary,Inland,Yes,319
+2024,BE,Cattle < 8Mo,Sanitary,Inland,No,46
+2024,BE,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,BE,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,BE,Cattle > 8Mo,Normal,Inland,Yes,10832
+2024,BE,Cattle > 8Mo,Normal,Inland,No,27
+2024,BE,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,BE,Cattle > 8Mo,Normal,Abroad,No,0
+2024,BE,Cattle > 8Mo,Sanitary,Inland,Yes,2740
+2024,BE,Cattle > 8Mo,Sanitary,Inland,No,350
+2024,BE,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,BE,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,BE,Equidae,Normal,Inland,Yes,259
+2024,BE,Equidae,Normal,Inland,No,3
+2024,BE,Equidae,Normal,Abroad,Yes,0
+2024,BE,Equidae,Normal,Abroad,No,0
+2024,BE,Equidae,Sanitary,Inland,Yes,23
+2024,BE,Equidae,Sanitary,Inland,No,2
+2024,BE,Equidae,Sanitary,Abroad,Yes,0
+2024,BE,Equidae,Sanitary,Abroad,No,0
+2024,BE,Goats,Normal,Inland,Yes,9841
+2024,BE,Goats,Normal,Inland,No,4
+2024,BE,Goats,Normal,Abroad,Yes,0
+2024,BE,Goats,Normal,Abroad,No,0
+2024,BE,Goats,Sanitary,Inland,Yes,39
+2024,BE,Goats,Sanitary,Inland,No,5
+2024,BE,Goats,Sanitary,Abroad,Yes,0
+2024,BE,Goats,Sanitary,Abroad,No,0
+2024,BE,Sheep,Normal,Inland,Yes,32933
+2024,BE,Sheep,Normal,Inland,No,25
+2024,BE,Sheep,Normal,Abroad,Yes,0
+2024,BE,Sheep,Normal,Abroad,No,0
+2024,BE,Sheep,Sanitary,Inland,Yes,97
+2024,BE,Sheep,Sanitary,Inland,No,30
+2024,BE,Sheep,Sanitary,Abroad,Yes,0
+2024,BE,Sheep,Sanitary,Abroad,No,0
+2024,BE,Swine,Normal,Inland,Yes,40943
+2024,BE,Swine,Normal,Inland,No,36
+2024,BE,Swine,Normal,Abroad,Yes,0
+2024,BE,Swine,Normal,Abroad,No,0
+2024,BE,Swine,Sanitary,Inland,Yes,300
+2024,BE,Swine,Sanitary,Inland,No,23
+2024,BE,Swine,Sanitary,Abroad,Yes,0
+2024,BE,Swine,Sanitary,Abroad,No,0
+2024,BL,Cattle < 8Mo,Normal,Inland,Yes,460
+2024,BL,Cattle < 8Mo,Normal,Inland,No,2
+2024,BL,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,BL,Cattle < 8Mo,Normal,Abroad,No,0
+2024,BL,Cattle < 8Mo,Sanitary,Inland,Yes,6
+2024,BL,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,BL,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,BL,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,BL,Cattle > 8Mo,Normal,Inland,Yes,1121
+2024,BL,Cattle > 8Mo,Normal,Inland,No,3
+2024,BL,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,BL,Cattle > 8Mo,Normal,Abroad,No,0
+2024,BL,Cattle > 8Mo,Sanitary,Inland,Yes,70
+2024,BL,Cattle > 8Mo,Sanitary,Inland,No,9
+2024,BL,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,BL,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,BL,Equidae,Normal,Inland,Yes,64
+2024,BL,Equidae,Normal,Inland,No,0
+2024,BL,Equidae,Normal,Abroad,Yes,0
+2024,BL,Equidae,Normal,Abroad,No,0
+2024,BL,Equidae,Sanitary,Inland,Yes,1
+2024,BL,Equidae,Sanitary,Inland,No,0
+2024,BL,Equidae,Sanitary,Abroad,Yes,0
+2024,BL,Equidae,Sanitary,Abroad,No,0
+2024,BL,Goats,Normal,Inland,Yes,130
+2024,BL,Goats,Normal,Inland,No,0
+2024,BL,Goats,Normal,Abroad,Yes,0
+2024,BL,Goats,Normal,Abroad,No,0
+2024,BL,Goats,Sanitary,Inland,Yes,0
+2024,BL,Goats,Sanitary,Inland,No,0
+2024,BL,Goats,Sanitary,Abroad,Yes,0
+2024,BL,Goats,Sanitary,Abroad,No,0
+2024,BL,Sheep,Normal,Inland,Yes,8158
+2024,BL,Sheep,Normal,Inland,No,25
+2024,BL,Sheep,Normal,Abroad,Yes,0
+2024,BL,Sheep,Normal,Abroad,No,0
+2024,BL,Sheep,Sanitary,Inland,Yes,4
+2024,BL,Sheep,Sanitary,Inland,No,0
+2024,BL,Sheep,Sanitary,Abroad,Yes,0
+2024,BL,Sheep,Sanitary,Abroad,No,0
+2024,BL,Swine,Normal,Inland,Yes,2880
+2024,BL,Swine,Normal,Inland,No,6
+2024,BL,Swine,Normal,Abroad,Yes,0
+2024,BL,Swine,Normal,Abroad,No,0
+2024,BL,Swine,Sanitary,Inland,Yes,2
+2024,BL,Swine,Sanitary,Inland,No,0
+2024,BL,Swine,Sanitary,Abroad,Yes,0
+2024,BL,Swine,Sanitary,Abroad,No,0
+2024,BS,Cattle < 8Mo,Normal,Inland,Yes,69
+2024,BS,Cattle < 8Mo,Normal,Inland,No,0
+2024,BS,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,BS,Cattle < 8Mo,Normal,Abroad,No,0
+2024,BS,Cattle < 8Mo,Sanitary,Inland,Yes,0
+2024,BS,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,BS,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,BS,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,BS,Cattle > 8Mo,Normal,Inland,Yes,49
+2024,BS,Cattle > 8Mo,Normal,Inland,No,0
+2024,BS,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,BS,Cattle > 8Mo,Normal,Abroad,No,0
+2024,BS,Cattle > 8Mo,Sanitary,Inland,Yes,0
+2024,BS,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,BS,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,BS,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,BS,Equidae,Normal,Inland,Yes,0
+2024,BS,Equidae,Normal,Inland,No,0
+2024,BS,Equidae,Normal,Abroad,Yes,0
+2024,BS,Equidae,Normal,Abroad,No,0
+2024,BS,Equidae,Sanitary,Inland,Yes,0
+2024,BS,Equidae,Sanitary,Inland,No,0
+2024,BS,Equidae,Sanitary,Abroad,Yes,0
+2024,BS,Equidae,Sanitary,Abroad,No,0
+2024,BS,Goats,Normal,Inland,Yes,0
+2024,BS,Goats,Normal,Inland,No,0
+2024,BS,Goats,Normal,Abroad,Yes,0
+2024,BS,Goats,Normal,Abroad,No,0
+2024,BS,Goats,Sanitary,Inland,Yes,0
+2024,BS,Goats,Sanitary,Inland,No,0
+2024,BS,Goats,Sanitary,Abroad,Yes,0
+2024,BS,Goats,Sanitary,Abroad,No,0
+2024,BS,Sheep,Normal,Inland,Yes,0
+2024,BS,Sheep,Normal,Inland,No,0
+2024,BS,Sheep,Normal,Abroad,Yes,0
+2024,BS,Sheep,Normal,Abroad,No,0
+2024,BS,Sheep,Sanitary,Inland,Yes,0
+2024,BS,Sheep,Sanitary,Inland,No,0
+2024,BS,Sheep,Sanitary,Abroad,Yes,0
+2024,BS,Sheep,Sanitary,Abroad,No,0
+2024,BS,Swine,Normal,Inland,Yes,603695
+2024,BS,Swine,Normal,Inland,No,1134
+2024,BS,Swine,Normal,Abroad,Yes,0
+2024,BS,Swine,Normal,Abroad,No,0
+2024,BS,Swine,Sanitary,Inland,Yes,0
+2024,BS,Swine,Sanitary,Inland,No,0
+2024,BS,Swine,Sanitary,Abroad,Yes,0
+2024,BS,Swine,Sanitary,Abroad,No,0
+2024,FL,Cattle < 8Mo,Normal,Inland,Yes,0
+2024,FL,Cattle < 8Mo,Normal,Inland,No,0
+2024,FL,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,FL,Cattle < 8Mo,Normal,Abroad,No,0
+2024,FL,Cattle < 8Mo,Sanitary,Inland,Yes,0
+2024,FL,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,FL,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,FL,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,FL,Cattle > 8Mo,Normal,Inland,Yes,37
+2024,FL,Cattle > 8Mo,Normal,Inland,No,0
+2024,FL,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,FL,Cattle > 8Mo,Normal,Abroad,No,0
+2024,FL,Cattle > 8Mo,Sanitary,Inland,Yes,0
+2024,FL,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,FL,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,FL,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,FL,Equidae,Normal,Inland,Yes,0
+2024,FL,Equidae,Normal,Inland,No,0
+2024,FL,Equidae,Normal,Abroad,Yes,0
+2024,FL,Equidae,Normal,Abroad,No,0
+2024,FL,Equidae,Sanitary,Inland,Yes,0
+2024,FL,Equidae,Sanitary,Inland,No,0
+2024,FL,Equidae,Sanitary,Abroad,Yes,0
+2024,FL,Equidae,Sanitary,Abroad,No,0
+2024,FL,Goats,Normal,Inland,Yes,112
+2024,FL,Goats,Normal,Inland,No,0
+2024,FL,Goats,Normal,Abroad,Yes,0
+2024,FL,Goats,Normal,Abroad,No,0
+2024,FL,Goats,Sanitary,Inland,Yes,0
+2024,FL,Goats,Sanitary,Inland,No,0
+2024,FL,Goats,Sanitary,Abroad,Yes,0
+2024,FL,Goats,Sanitary,Abroad,No,0
+2024,FL,Sheep,Normal,Inland,Yes,217
+2024,FL,Sheep,Normal,Inland,No,0
+2024,FL,Sheep,Normal,Abroad,Yes,0
+2024,FL,Sheep,Normal,Abroad,No,0
+2024,FL,Sheep,Sanitary,Inland,Yes,0
+2024,FL,Sheep,Sanitary,Inland,No,0
+2024,FL,Sheep,Sanitary,Abroad,Yes,0
+2024,FL,Sheep,Sanitary,Abroad,No,0
+2024,FL,Swine,Normal,Inland,Yes,160
+2024,FL,Swine,Normal,Inland,No,0
+2024,FL,Swine,Normal,Abroad,Yes,0
+2024,FL,Swine,Normal,Abroad,No,0
+2024,FL,Swine,Sanitary,Inland,Yes,0
+2024,FL,Swine,Sanitary,Inland,No,0
+2024,FL,Swine,Sanitary,Abroad,Yes,0
+2024,FL,Swine,Sanitary,Abroad,No,0
+2024,FR,Cattle < 8Mo,Normal,Inland,Yes,11429
+2024,FR,Cattle < 8Mo,Normal,Inland,No,24
+2024,FR,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,FR,Cattle < 8Mo,Normal,Abroad,No,0
+2024,FR,Cattle < 8Mo,Sanitary,Inland,Yes,9
+2024,FR,Cattle < 8Mo,Sanitary,Inland,No,3
+2024,FR,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,FR,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,FR,Cattle > 8Mo,Normal,Inland,Yes,55430
+2024,FR,Cattle > 8Mo,Normal,Inland,No,158
+2024,FR,Cattle > 8Mo,Normal,Abroad,Yes,2226
+2024,FR,Cattle > 8Mo,Normal,Abroad,No,5
+2024,FR,Cattle > 8Mo,Sanitary,Inland,Yes,43
+2024,FR,Cattle > 8Mo,Sanitary,Inland,No,10
+2024,FR,Cattle > 8Mo,Sanitary,Abroad,Yes,1
+2024,FR,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,FR,Equidae,Normal,Inland,Yes,12
+2024,FR,Equidae,Normal,Inland,No,0
+2024,FR,Equidae,Normal,Abroad,Yes,0
+2024,FR,Equidae,Normal,Abroad,No,0
+2024,FR,Equidae,Sanitary,Inland,Yes,0
+2024,FR,Equidae,Sanitary,Inland,No,0
+2024,FR,Equidae,Sanitary,Abroad,Yes,0
+2024,FR,Equidae,Sanitary,Abroad,No,0
+2024,FR,Goats,Normal,Inland,Yes,458
+2024,FR,Goats,Normal,Inland,No,3
+2024,FR,Goats,Normal,Abroad,Yes,0
+2024,FR,Goats,Normal,Abroad,No,0
+2024,FR,Goats,Sanitary,Inland,Yes,3
+2024,FR,Goats,Sanitary,Inland,No,1
+2024,FR,Goats,Sanitary,Abroad,Yes,0
+2024,FR,Goats,Sanitary,Abroad,No,0
+2024,FR,Sheep,Normal,Inland,Yes,1758
+2024,FR,Sheep,Normal,Inland,No,2
+2024,FR,Sheep,Normal,Abroad,Yes,0
+2024,FR,Sheep,Normal,Abroad,No,0
+2024,FR,Sheep,Sanitary,Inland,Yes,21
+2024,FR,Sheep,Sanitary,Inland,No,0
+2024,FR,Sheep,Sanitary,Abroad,Yes,0
+2024,FR,Sheep,Sanitary,Abroad,No,0
+2024,FR,Swine,Normal,Inland,Yes,395431
+2024,FR,Swine,Normal,Inland,No,1156
+2024,FR,Swine,Normal,Abroad,Yes,0
+2024,FR,Swine,Normal,Abroad,No,0
+2024,FR,Swine,Sanitary,Inland,Yes,15
+2024,FR,Swine,Sanitary,Inland,No,6
+2024,FR,Swine,Sanitary,Abroad,Yes,0
+2024,FR,Swine,Sanitary,Abroad,No,0
+2024,GE,Cattle < 8Mo,Normal,Inland,Yes,55
+2024,GE,Cattle < 8Mo,Normal,Inland,No,0
+2024,GE,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,GE,Cattle < 8Mo,Normal,Abroad,No,0
+2024,GE,Cattle < 8Mo,Sanitary,Inland,Yes,0
+2024,GE,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,GE,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,GE,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,GE,Cattle > 8Mo,Normal,Inland,Yes,381
+2024,GE,Cattle > 8Mo,Normal,Inland,No,0
+2024,GE,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,GE,Cattle > 8Mo,Normal,Abroad,No,0
+2024,GE,Cattle > 8Mo,Sanitary,Inland,Yes,0
+2024,GE,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,GE,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,GE,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,GE,Equidae,Normal,Inland,Yes,0
+2024,GE,Equidae,Normal,Inland,No,0
+2024,GE,Equidae,Normal,Abroad,Yes,0
+2024,GE,Equidae,Normal,Abroad,No,0
+2024,GE,Equidae,Sanitary,Inland,Yes,0
+2024,GE,Equidae,Sanitary,Inland,No,0
+2024,GE,Equidae,Sanitary,Abroad,Yes,0
+2024,GE,Equidae,Sanitary,Abroad,No,0
+2024,GE,Goats,Normal,Inland,Yes,265
+2024,GE,Goats,Normal,Inland,No,1
+2024,GE,Goats,Normal,Abroad,Yes,0
+2024,GE,Goats,Normal,Abroad,No,0
+2024,GE,Goats,Sanitary,Inland,Yes,0
+2024,GE,Goats,Sanitary,Inland,No,0
+2024,GE,Goats,Sanitary,Abroad,Yes,0
+2024,GE,Goats,Sanitary,Abroad,No,0
+2024,GE,Sheep,Normal,Inland,Yes,1177
+2024,GE,Sheep,Normal,Inland,No,3
+2024,GE,Sheep,Normal,Abroad,Yes,0
+2024,GE,Sheep,Normal,Abroad,No,0
+2024,GE,Sheep,Sanitary,Inland,Yes,0
+2024,GE,Sheep,Sanitary,Inland,No,0
+2024,GE,Sheep,Sanitary,Abroad,Yes,0
+2024,GE,Sheep,Sanitary,Abroad,No,0
+2024,GE,Swine,Normal,Inland,Yes,348
+2024,GE,Swine,Normal,Inland,No,3
+2024,GE,Swine,Normal,Abroad,Yes,0
+2024,GE,Swine,Normal,Abroad,No,0
+2024,GE,Swine,Sanitary,Inland,Yes,0
+2024,GE,Swine,Sanitary,Inland,No,0
+2024,GE,Swine,Sanitary,Abroad,Yes,0
+2024,GE,Swine,Sanitary,Abroad,No,0
+2024,GL,Cattle < 8Mo,Normal,Inland,Yes,424
+2024,GL,Cattle < 8Mo,Normal,Inland,No,0
+2024,GL,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,GL,Cattle < 8Mo,Normal,Abroad,No,0
+2024,GL,Cattle < 8Mo,Sanitary,Inland,Yes,11
+2024,GL,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,GL,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,GL,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,GL,Cattle > 8Mo,Normal,Inland,Yes,298
+2024,GL,Cattle > 8Mo,Normal,Inland,No,0
+2024,GL,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,GL,Cattle > 8Mo,Normal,Abroad,No,0
+2024,GL,Cattle > 8Mo,Sanitary,Inland,Yes,58
+2024,GL,Cattle > 8Mo,Sanitary,Inland,No,2
+2024,GL,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,GL,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,GL,Equidae,Normal,Inland,Yes,0
+2024,GL,Equidae,Normal,Inland,No,0
+2024,GL,Equidae,Normal,Abroad,Yes,0
+2024,GL,Equidae,Normal,Abroad,No,0
+2024,GL,Equidae,Sanitary,Inland,Yes,0
+2024,GL,Equidae,Sanitary,Inland,No,0
+2024,GL,Equidae,Sanitary,Abroad,Yes,0
+2024,GL,Equidae,Sanitary,Abroad,No,0
+2024,GL,Goats,Normal,Inland,Yes,555
+2024,GL,Goats,Normal,Inland,No,0
+2024,GL,Goats,Normal,Abroad,Yes,0
+2024,GL,Goats,Normal,Abroad,No,0
+2024,GL,Goats,Sanitary,Inland,Yes,2
+2024,GL,Goats,Sanitary,Inland,No,0
+2024,GL,Goats,Sanitary,Abroad,Yes,0
+2024,GL,Goats,Sanitary,Abroad,No,0
+2024,GL,Sheep,Normal,Inland,Yes,497
+2024,GL,Sheep,Normal,Inland,No,1
+2024,GL,Sheep,Normal,Abroad,Yes,0
+2024,GL,Sheep,Normal,Abroad,No,0
+2024,GL,Sheep,Sanitary,Inland,Yes,0
+2024,GL,Sheep,Sanitary,Inland,No,0
+2024,GL,Sheep,Sanitary,Abroad,Yes,0
+2024,GL,Sheep,Sanitary,Abroad,No,0
+2024,GL,Swine,Normal,Inland,Yes,2101
+2024,GL,Swine,Normal,Inland,No,2
+2024,GL,Swine,Normal,Abroad,Yes,0
+2024,GL,Swine,Normal,Abroad,No,0
+2024,GL,Swine,Sanitary,Inland,Yes,2
+2024,GL,Swine,Sanitary,Inland,No,1
+2024,GL,Swine,Sanitary,Abroad,Yes,0
+2024,GL,Swine,Sanitary,Abroad,No,0
+2024,GR,Cattle < 8Mo,Normal,Inland,Yes,1315
+2024,GR,Cattle < 8Mo,Normal,Inland,No,3
+2024,GR,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,GR,Cattle < 8Mo,Normal,Abroad,No,0
+2024,GR,Cattle < 8Mo,Sanitary,Inland,Yes,19
+2024,GR,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,GR,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,GR,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,GR,Cattle > 8Mo,Normal,Inland,Yes,3817
+2024,GR,Cattle > 8Mo,Normal,Inland,No,6
+2024,GR,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,GR,Cattle > 8Mo,Normal,Abroad,No,0
+2024,GR,Cattle > 8Mo,Sanitary,Inland,Yes,115
+2024,GR,Cattle > 8Mo,Sanitary,Inland,No,6
+2024,GR,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,GR,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,GR,Equidae,Normal,Inland,Yes,41
+2024,GR,Equidae,Normal,Inland,No,0
+2024,GR,Equidae,Normal,Abroad,Yes,0
+2024,GR,Equidae,Normal,Abroad,No,0
+2024,GR,Equidae,Sanitary,Inland,Yes,2
+2024,GR,Equidae,Sanitary,Inland,No,0
+2024,GR,Equidae,Sanitary,Abroad,Yes,0
+2024,GR,Equidae,Sanitary,Abroad,No,0
+2024,GR,Goats,Normal,Inland,Yes,4193
+2024,GR,Goats,Normal,Inland,No,5
+2024,GR,Goats,Normal,Abroad,Yes,0
+2024,GR,Goats,Normal,Abroad,No,0
+2024,GR,Goats,Sanitary,Inland,Yes,23
+2024,GR,Goats,Sanitary,Inland,No,2
+2024,GR,Goats,Sanitary,Abroad,Yes,0
+2024,GR,Goats,Sanitary,Abroad,No,0
+2024,GR,Sheep,Normal,Inland,Yes,3314
+2024,GR,Sheep,Normal,Inland,No,4
+2024,GR,Sheep,Normal,Abroad,Yes,0
+2024,GR,Sheep,Normal,Abroad,No,0
+2024,GR,Sheep,Sanitary,Inland,Yes,12
+2024,GR,Sheep,Sanitary,Inland,No,0
+2024,GR,Sheep,Sanitary,Abroad,Yes,0
+2024,GR,Sheep,Sanitary,Abroad,No,0
+2024,GR,Swine,Normal,Inland,Yes,3215
+2024,GR,Swine,Normal,Inland,No,3
+2024,GR,Swine,Normal,Abroad,Yes,0
+2024,GR,Swine,Normal,Abroad,No,0
+2024,GR,Swine,Sanitary,Inland,Yes,9
+2024,GR,Swine,Sanitary,Inland,No,2
+2024,GR,Swine,Sanitary,Abroad,Yes,0
+2024,GR,Swine,Sanitary,Abroad,No,0
+2024,JU,Cattle < 8Mo,Normal,Inland,Yes,564
+2024,JU,Cattle < 8Mo,Normal,Inland,No,2
+2024,JU,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,JU,Cattle < 8Mo,Normal,Abroad,No,0
+2024,JU,Cattle < 8Mo,Sanitary,Inland,Yes,46
+2024,JU,Cattle < 8Mo,Sanitary,Inland,No,5
+2024,JU,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,JU,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,JU,Cattle > 8Mo,Normal,Inland,Yes,1762
+2024,JU,Cattle > 8Mo,Normal,Inland,No,11
+2024,JU,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,JU,Cattle > 8Mo,Normal,Abroad,No,0
+2024,JU,Cattle > 8Mo,Sanitary,Inland,Yes,959
+2024,JU,Cattle > 8Mo,Sanitary,Inland,No,246
+2024,JU,Cattle > 8Mo,Sanitary,Abroad,Yes,2
+2024,JU,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,JU,Equidae,Normal,Inland,Yes,316
+2024,JU,Equidae,Normal,Inland,No,1
+2024,JU,Equidae,Normal,Abroad,Yes,1
+2024,JU,Equidae,Normal,Abroad,No,0
+2024,JU,Equidae,Sanitary,Inland,Yes,20
+2024,JU,Equidae,Sanitary,Inland,No,6
+2024,JU,Equidae,Sanitary,Abroad,Yes,0
+2024,JU,Equidae,Sanitary,Abroad,No,0
+2024,JU,Goats,Normal,Inland,Yes,881
+2024,JU,Goats,Normal,Inland,No,2
+2024,JU,Goats,Normal,Abroad,Yes,0
+2024,JU,Goats,Normal,Abroad,No,0
+2024,JU,Goats,Sanitary,Inland,Yes,3
+2024,JU,Goats,Sanitary,Inland,No,2
+2024,JU,Goats,Sanitary,Abroad,Yes,0
+2024,JU,Goats,Sanitary,Abroad,No,0
+2024,JU,Sheep,Normal,Inland,Yes,2841
+2024,JU,Sheep,Normal,Inland,No,3
+2024,JU,Sheep,Normal,Abroad,Yes,0
+2024,JU,Sheep,Normal,Abroad,No,0
+2024,JU,Sheep,Sanitary,Inland,Yes,7
+2024,JU,Sheep,Sanitary,Inland,No,2
+2024,JU,Sheep,Sanitary,Abroad,Yes,0
+2024,JU,Sheep,Sanitary,Abroad,No,0
+2024,JU,Swine,Normal,Inland,Yes,6153
+2024,JU,Swine,Normal,Inland,No,4
+2024,JU,Swine,Normal,Abroad,Yes,0
+2024,JU,Swine,Normal,Abroad,No,0
+2024,JU,Swine,Sanitary,Inland,Yes,71
+2024,JU,Swine,Sanitary,Inland,No,4
+2024,JU,Swine,Sanitary,Abroad,Yes,0
+2024,JU,Swine,Sanitary,Abroad,No,0
+2024,LU,Cattle < 8Mo,Normal,Inland,Yes,12141
+2024,LU,Cattle < 8Mo,Normal,Inland,No,8
+2024,LU,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,LU,Cattle < 8Mo,Normal,Abroad,No,0
+2024,LU,Cattle < 8Mo,Sanitary,Inland,Yes,163
+2024,LU,Cattle < 8Mo,Sanitary,Inland,No,9
+2024,LU,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,LU,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,LU,Cattle > 8Mo,Normal,Inland,Yes,25385
+2024,LU,Cattle > 8Mo,Normal,Inland,No,27
+2024,LU,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,LU,Cattle > 8Mo,Normal,Abroad,No,0
+2024,LU,Cattle > 8Mo,Sanitary,Inland,Yes,1540
+2024,LU,Cattle > 8Mo,Sanitary,Inland,No,37
+2024,LU,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,LU,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,LU,Equidae,Normal,Inland,Yes,30
+2024,LU,Equidae,Normal,Inland,No,0
+2024,LU,Equidae,Normal,Abroad,Yes,0
+2024,LU,Equidae,Normal,Abroad,No,0
+2024,LU,Equidae,Sanitary,Inland,Yes,2
+2024,LU,Equidae,Sanitary,Inland,No,1
+2024,LU,Equidae,Sanitary,Abroad,Yes,0
+2024,LU,Equidae,Sanitary,Abroad,No,0
+2024,LU,Goats,Normal,Inland,Yes,3397
+2024,LU,Goats,Normal,Inland,No,2
+2024,LU,Goats,Normal,Abroad,Yes,0
+2024,LU,Goats,Normal,Abroad,No,0
+2024,LU,Goats,Sanitary,Inland,Yes,2
+2024,LU,Goats,Sanitary,Inland,No,0
+2024,LU,Goats,Sanitary,Abroad,Yes,0
+2024,LU,Goats,Sanitary,Abroad,No,0
+2024,LU,Sheep,Normal,Inland,Yes,20100
+2024,LU,Sheep,Normal,Inland,No,11
+2024,LU,Sheep,Normal,Abroad,Yes,0
+2024,LU,Sheep,Normal,Abroad,No,0
+2024,LU,Sheep,Sanitary,Inland,Yes,23
+2024,LU,Sheep,Sanitary,Inland,No,4
+2024,LU,Sheep,Sanitary,Abroad,Yes,0
+2024,LU,Sheep,Sanitary,Abroad,No,0
+2024,LU,Swine,Normal,Inland,Yes,328985
+2024,LU,Swine,Normal,Inland,No,531
+2024,LU,Swine,Normal,Abroad,Yes,0
+2024,LU,Swine,Normal,Abroad,No,0
+2024,LU,Swine,Sanitary,Inland,Yes,1613
+2024,LU,Swine,Sanitary,Inland,No,130
+2024,LU,Swine,Sanitary,Abroad,Yes,0
+2024,LU,Swine,Sanitary,Abroad,No,0
+2024,NE,Cattle < 8Mo,Normal,Inland,Yes,200
+2024,NE,Cattle < 8Mo,Normal,Inland,No,1
+2024,NE,Cattle < 8Mo,Normal,Abroad,Yes,107
+2024,NE,Cattle < 8Mo,Normal,Abroad,No,0
+2024,NE,Cattle < 8Mo,Sanitary,Inland,Yes,0
+2024,NE,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,NE,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,NE,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,NE,Cattle > 8Mo,Normal,Inland,Yes,638
+2024,NE,Cattle > 8Mo,Normal,Inland,No,1
+2024,NE,Cattle > 8Mo,Normal,Abroad,Yes,288
+2024,NE,Cattle > 8Mo,Normal,Abroad,No,0
+2024,NE,Cattle > 8Mo,Sanitary,Inland,Yes,0
+2024,NE,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,NE,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,NE,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,NE,Equidae,Normal,Inland,Yes,2
+2024,NE,Equidae,Normal,Inland,No,0
+2024,NE,Equidae,Normal,Abroad,Yes,5
+2024,NE,Equidae,Normal,Abroad,No,0
+2024,NE,Equidae,Sanitary,Inland,Yes,0
+2024,NE,Equidae,Sanitary,Inland,No,0
+2024,NE,Equidae,Sanitary,Abroad,Yes,0
+2024,NE,Equidae,Sanitary,Abroad,No,0
+2024,NE,Goats,Normal,Inland,Yes,117
+2024,NE,Goats,Normal,Inland,No,0
+2024,NE,Goats,Normal,Abroad,Yes,67
+2024,NE,Goats,Normal,Abroad,No,0
+2024,NE,Goats,Sanitary,Inland,Yes,0
+2024,NE,Goats,Sanitary,Inland,No,0
+2024,NE,Goats,Sanitary,Abroad,Yes,0
+2024,NE,Goats,Sanitary,Abroad,No,0
+2024,NE,Sheep,Normal,Inland,Yes,211
+2024,NE,Sheep,Normal,Inland,No,0
+2024,NE,Sheep,Normal,Abroad,Yes,310
+2024,NE,Sheep,Normal,Abroad,No,0
+2024,NE,Sheep,Sanitary,Inland,Yes,0
+2024,NE,Sheep,Sanitary,Inland,No,0
+2024,NE,Sheep,Sanitary,Abroad,Yes,0
+2024,NE,Sheep,Sanitary,Abroad,No,0
+2024,NE,Swine,Normal,Inland,Yes,9312
+2024,NE,Swine,Normal,Inland,No,1
+2024,NE,Swine,Normal,Abroad,Yes,302
+2024,NE,Swine,Normal,Abroad,No,0
+2024,NE,Swine,Sanitary,Inland,Yes,0
+2024,NE,Swine,Sanitary,Inland,No,1
+2024,NE,Swine,Sanitary,Abroad,Yes,0
+2024,NE,Swine,Sanitary,Abroad,No,0
+2024,NW,Cattle < 8Mo,Normal,Inland,Yes,1122
+2024,NW,Cattle < 8Mo,Normal,Inland,No,1
+2024,NW,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,NW,Cattle < 8Mo,Normal,Abroad,No,0
+2024,NW,Cattle < 8Mo,Sanitary,Inland,Yes,4
+2024,NW,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,NW,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,NW,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,NW,Cattle > 8Mo,Normal,Inland,Yes,678
+2024,NW,Cattle > 8Mo,Normal,Inland,No,0
+2024,NW,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,NW,Cattle > 8Mo,Normal,Abroad,No,0
+2024,NW,Cattle > 8Mo,Sanitary,Inland,Yes,25
+2024,NW,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,NW,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,NW,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,NW,Equidae,Normal,Inland,Yes,6
+2024,NW,Equidae,Normal,Inland,No,0
+2024,NW,Equidae,Normal,Abroad,Yes,0
+2024,NW,Equidae,Normal,Abroad,No,0
+2024,NW,Equidae,Sanitary,Inland,Yes,0
+2024,NW,Equidae,Sanitary,Inland,No,0
+2024,NW,Equidae,Sanitary,Abroad,Yes,0
+2024,NW,Equidae,Sanitary,Abroad,No,0
+2024,NW,Goats,Normal,Inland,Yes,631
+2024,NW,Goats,Normal,Inland,No,3
+2024,NW,Goats,Normal,Abroad,Yes,0
+2024,NW,Goats,Normal,Abroad,No,0
+2024,NW,Goats,Sanitary,Inland,Yes,1
+2024,NW,Goats,Sanitary,Inland,No,0
+2024,NW,Goats,Sanitary,Abroad,Yes,0
+2024,NW,Goats,Sanitary,Abroad,No,0
+2024,NW,Sheep,Normal,Inland,Yes,486
+2024,NW,Sheep,Normal,Inland,No,2
+2024,NW,Sheep,Normal,Abroad,Yes,0
+2024,NW,Sheep,Normal,Abroad,No,0
+2024,NW,Sheep,Sanitary,Inland,Yes,0
+2024,NW,Sheep,Sanitary,Inland,No,0
+2024,NW,Sheep,Sanitary,Abroad,Yes,0
+2024,NW,Sheep,Sanitary,Abroad,No,0
+2024,NW,Swine,Normal,Inland,Yes,4817
+2024,NW,Swine,Normal,Inland,No,5
+2024,NW,Swine,Normal,Abroad,Yes,0
+2024,NW,Swine,Normal,Abroad,No,0
+2024,NW,Swine,Sanitary,Inland,Yes,2
+2024,NW,Swine,Sanitary,Inland,No,0
+2024,NW,Swine,Sanitary,Abroad,Yes,0
+2024,NW,Swine,Sanitary,Abroad,No,0
+2024,OW,Cattle < 8Mo,Normal,Inland,Yes,432
+2024,OW,Cattle < 8Mo,Normal,Inland,No,2
+2024,OW,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,OW,Cattle < 8Mo,Normal,Abroad,No,0
+2024,OW,Cattle < 8Mo,Sanitary,Inland,Yes,2
+2024,OW,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,OW,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,OW,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,OW,Cattle > 8Mo,Normal,Inland,Yes,547
+2024,OW,Cattle > 8Mo,Normal,Inland,No,0
+2024,OW,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,OW,Cattle > 8Mo,Normal,Abroad,No,0
+2024,OW,Cattle > 8Mo,Sanitary,Inland,Yes,36
+2024,OW,Cattle > 8Mo,Sanitary,Inland,No,3
+2024,OW,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,OW,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,OW,Equidae,Normal,Inland,Yes,0
+2024,OW,Equidae,Normal,Inland,No,0
+2024,OW,Equidae,Normal,Abroad,Yes,0
+2024,OW,Equidae,Normal,Abroad,No,0
+2024,OW,Equidae,Sanitary,Inland,Yes,0
+2024,OW,Equidae,Sanitary,Inland,No,0
+2024,OW,Equidae,Sanitary,Abroad,Yes,0
+2024,OW,Equidae,Sanitary,Abroad,No,0
+2024,OW,Goats,Normal,Inland,Yes,119
+2024,OW,Goats,Normal,Inland,No,1
+2024,OW,Goats,Normal,Abroad,Yes,0
+2024,OW,Goats,Normal,Abroad,No,0
+2024,OW,Goats,Sanitary,Inland,Yes,0
+2024,OW,Goats,Sanitary,Inland,No,0
+2024,OW,Goats,Sanitary,Abroad,Yes,0
+2024,OW,Goats,Sanitary,Abroad,No,0
+2024,OW,Sheep,Normal,Inland,Yes,134
+2024,OW,Sheep,Normal,Inland,No,0
+2024,OW,Sheep,Normal,Abroad,Yes,0
+2024,OW,Sheep,Normal,Abroad,No,0
+2024,OW,Sheep,Sanitary,Inland,Yes,4
+2024,OW,Sheep,Sanitary,Inland,No,0
+2024,OW,Sheep,Sanitary,Abroad,Yes,0
+2024,OW,Sheep,Sanitary,Abroad,No,0
+2024,OW,Swine,Normal,Inland,Yes,1915
+2024,OW,Swine,Normal,Inland,No,8
+2024,OW,Swine,Normal,Abroad,Yes,0
+2024,OW,Swine,Normal,Abroad,No,0
+2024,OW,Swine,Sanitary,Inland,Yes,2
+2024,OW,Swine,Sanitary,Inland,No,0
+2024,OW,Swine,Sanitary,Abroad,Yes,0
+2024,OW,Swine,Sanitary,Abroad,No,0
+2024,SG,Cattle < 8Mo,Normal,Inland,Yes,25493
+2024,SG,Cattle < 8Mo,Normal,Inland,No,30
+2024,SG,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,SG,Cattle < 8Mo,Normal,Abroad,No,0
+2024,SG,Cattle < 8Mo,Sanitary,Inland,Yes,72
+2024,SG,Cattle < 8Mo,Sanitary,Inland,No,7
+2024,SG,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,SG,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,SG,Cattle > 8Mo,Normal,Inland,Yes,75451
+2024,SG,Cattle > 8Mo,Normal,Inland,No,93
+2024,SG,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,SG,Cattle > 8Mo,Normal,Abroad,No,0
+2024,SG,Cattle > 8Mo,Sanitary,Inland,Yes,739
+2024,SG,Cattle > 8Mo,Sanitary,Inland,No,58
+2024,SG,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,SG,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,SG,Equidae,Normal,Inland,Yes,23
+2024,SG,Equidae,Normal,Inland,No,0
+2024,SG,Equidae,Normal,Abroad,Yes,0
+2024,SG,Equidae,Normal,Abroad,No,0
+2024,SG,Equidae,Sanitary,Inland,Yes,0
+2024,SG,Equidae,Sanitary,Inland,No,0
+2024,SG,Equidae,Sanitary,Abroad,Yes,0
+2024,SG,Equidae,Sanitary,Abroad,No,0
+2024,SG,Goats,Normal,Inland,Yes,2520
+2024,SG,Goats,Normal,Inland,No,1
+2024,SG,Goats,Normal,Abroad,Yes,0
+2024,SG,Goats,Normal,Abroad,No,0
+2024,SG,Goats,Sanitary,Inland,Yes,4
+2024,SG,Goats,Sanitary,Inland,No,0
+2024,SG,Goats,Sanitary,Abroad,Yes,0
+2024,SG,Goats,Sanitary,Abroad,No,0
+2024,SG,Sheep,Normal,Inland,Yes,5739
+2024,SG,Sheep,Normal,Inland,No,9
+2024,SG,Sheep,Normal,Abroad,Yes,0
+2024,SG,Sheep,Normal,Abroad,No,0
+2024,SG,Sheep,Sanitary,Inland,Yes,16
+2024,SG,Sheep,Sanitary,Inland,No,1
+2024,SG,Sheep,Sanitary,Abroad,Yes,0
+2024,SG,Sheep,Sanitary,Abroad,No,0
+2024,SG,Swine,Normal,Inland,Yes,695065
+2024,SG,Swine,Normal,Inland,No,652
+2024,SG,Swine,Normal,Abroad,Yes,0
+2024,SG,Swine,Normal,Abroad,No,0
+2024,SG,Swine,Sanitary,Inland,Yes,45
+2024,SG,Swine,Sanitary,Inland,No,6
+2024,SG,Swine,Sanitary,Abroad,Yes,0
+2024,SG,Swine,Sanitary,Abroad,No,0
+2024,SH,Cattle < 8Mo,Normal,Inland,Yes,318
+2024,SH,Cattle < 8Mo,Normal,Inland,No,25
+2024,SH,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,SH,Cattle < 8Mo,Normal,Abroad,No,0
+2024,SH,Cattle < 8Mo,Sanitary,Inland,Yes,33
+2024,SH,Cattle < 8Mo,Sanitary,Inland,No,23
+2024,SH,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,SH,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,SH,Cattle > 8Mo,Normal,Inland,Yes,435
+2024,SH,Cattle > 8Mo,Normal,Inland,No,5
+2024,SH,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,SH,Cattle > 8Mo,Normal,Abroad,No,0
+2024,SH,Cattle > 8Mo,Sanitary,Inland,Yes,72
+2024,SH,Cattle > 8Mo,Sanitary,Inland,No,21
+2024,SH,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,SH,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,SH,Equidae,Normal,Inland,Yes,8
+2024,SH,Equidae,Normal,Inland,No,0
+2024,SH,Equidae,Normal,Abroad,Yes,0
+2024,SH,Equidae,Normal,Abroad,No,0
+2024,SH,Equidae,Sanitary,Inland,Yes,0
+2024,SH,Equidae,Sanitary,Inland,No,0
+2024,SH,Equidae,Sanitary,Abroad,Yes,0
+2024,SH,Equidae,Sanitary,Abroad,No,0
+2024,SH,Goats,Normal,Inland,Yes,317
+2024,SH,Goats,Normal,Inland,No,2
+2024,SH,Goats,Normal,Abroad,Yes,0
+2024,SH,Goats,Normal,Abroad,No,0
+2024,SH,Goats,Sanitary,Inland,Yes,1
+2024,SH,Goats,Sanitary,Inland,No,0
+2024,SH,Goats,Sanitary,Abroad,Yes,0
+2024,SH,Goats,Sanitary,Abroad,No,0
+2024,SH,Sheep,Normal,Inland,Yes,396
+2024,SH,Sheep,Normal,Inland,No,2
+2024,SH,Sheep,Normal,Abroad,Yes,0
+2024,SH,Sheep,Normal,Abroad,No,0
+2024,SH,Sheep,Sanitary,Inland,Yes,6
+2024,SH,Sheep,Sanitary,Inland,No,3
+2024,SH,Sheep,Sanitary,Abroad,Yes,0
+2024,SH,Sheep,Sanitary,Abroad,No,0
+2024,SH,Swine,Normal,Inland,Yes,2075
+2024,SH,Swine,Normal,Inland,No,29
+2024,SH,Swine,Normal,Abroad,Yes,0
+2024,SH,Swine,Normal,Abroad,No,0
+2024,SH,Swine,Sanitary,Inland,Yes,64
+2024,SH,Swine,Sanitary,Inland,No,23
+2024,SH,Swine,Sanitary,Abroad,Yes,0
+2024,SH,Swine,Sanitary,Abroad,No,0
+2024,SO,Cattle < 8Mo,Normal,Inland,Yes,41970
+2024,SO,Cattle < 8Mo,Normal,Inland,No,6
+2024,SO,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,SO,Cattle < 8Mo,Normal,Abroad,No,0
+2024,SO,Cattle < 8Mo,Sanitary,Inland,Yes,17
+2024,SO,Cattle < 8Mo,Sanitary,Inland,No,2
+2024,SO,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,SO,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,SO,Cattle > 8Mo,Normal,Inland,Yes,131870
+2024,SO,Cattle > 8Mo,Normal,Inland,No,47
+2024,SO,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,SO,Cattle > 8Mo,Normal,Abroad,No,0
+2024,SO,Cattle > 8Mo,Sanitary,Inland,Yes,55
+2024,SO,Cattle > 8Mo,Sanitary,Inland,No,71
+2024,SO,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,SO,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,SO,Equidae,Normal,Inland,Yes,0
+2024,SO,Equidae,Normal,Inland,No,0
+2024,SO,Equidae,Normal,Abroad,Yes,0
+2024,SO,Equidae,Normal,Abroad,No,0
+2024,SO,Equidae,Sanitary,Inland,Yes,0
+2024,SO,Equidae,Sanitary,Inland,No,0
+2024,SO,Equidae,Sanitary,Abroad,Yes,0
+2024,SO,Equidae,Sanitary,Abroad,No,0
+2024,SO,Goats,Normal,Inland,Yes,121
+2024,SO,Goats,Normal,Inland,No,0
+2024,SO,Goats,Normal,Abroad,Yes,0
+2024,SO,Goats,Normal,Abroad,No,0
+2024,SO,Goats,Sanitary,Inland,Yes,0
+2024,SO,Goats,Sanitary,Inland,No,0
+2024,SO,Goats,Sanitary,Abroad,Yes,0
+2024,SO,Goats,Sanitary,Abroad,No,0
+2024,SO,Sheep,Normal,Inland,Yes,422
+2024,SO,Sheep,Normal,Inland,No,1
+2024,SO,Sheep,Normal,Abroad,Yes,0
+2024,SO,Sheep,Normal,Abroad,No,0
+2024,SO,Sheep,Sanitary,Inland,Yes,2
+2024,SO,Sheep,Sanitary,Inland,No,0
+2024,SO,Sheep,Sanitary,Abroad,Yes,0
+2024,SO,Sheep,Sanitary,Abroad,No,0
+2024,SO,Swine,Normal,Inland,Yes,1411
+2024,SO,Swine,Normal,Inland,No,1
+2024,SO,Swine,Normal,Abroad,Yes,0
+2024,SO,Swine,Normal,Abroad,No,0
+2024,SO,Swine,Sanitary,Inland,Yes,6
+2024,SO,Swine,Sanitary,Inland,No,0
+2024,SO,Swine,Sanitary,Abroad,Yes,0
+2024,SO,Swine,Sanitary,Abroad,No,0
+2024,SZ,Cattle < 8Mo,Normal,Inland,Yes,5256
+2024,SZ,Cattle < 8Mo,Normal,Inland,No,4
+2024,SZ,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,SZ,Cattle < 8Mo,Normal,Abroad,No,0
+2024,SZ,Cattle < 8Mo,Sanitary,Inland,Yes,7
+2024,SZ,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,SZ,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,SZ,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,SZ,Cattle > 8Mo,Normal,Inland,Yes,5008
+2024,SZ,Cattle > 8Mo,Normal,Inland,No,4
+2024,SZ,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,SZ,Cattle > 8Mo,Normal,Abroad,No,0
+2024,SZ,Cattle > 8Mo,Sanitary,Inland,Yes,46
+2024,SZ,Cattle > 8Mo,Sanitary,Inland,No,1
+2024,SZ,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,SZ,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,SZ,Equidae,Normal,Inland,Yes,1
+2024,SZ,Equidae,Normal,Inland,No,0
+2024,SZ,Equidae,Normal,Abroad,Yes,0
+2024,SZ,Equidae,Normal,Abroad,No,0
+2024,SZ,Equidae,Sanitary,Inland,Yes,1
+2024,SZ,Equidae,Sanitary,Inland,No,0
+2024,SZ,Equidae,Sanitary,Abroad,Yes,0
+2024,SZ,Equidae,Sanitary,Abroad,No,0
+2024,SZ,Goats,Normal,Inland,Yes,2404
+2024,SZ,Goats,Normal,Inland,No,1
+2024,SZ,Goats,Normal,Abroad,Yes,0
+2024,SZ,Goats,Normal,Abroad,No,0
+2024,SZ,Goats,Sanitary,Inland,Yes,0
+2024,SZ,Goats,Sanitary,Inland,No,0
+2024,SZ,Goats,Sanitary,Abroad,Yes,0
+2024,SZ,Goats,Sanitary,Abroad,No,0
+2024,SZ,Sheep,Normal,Inland,Yes,7318
+2024,SZ,Sheep,Normal,Inland,No,19
+2024,SZ,Sheep,Normal,Abroad,Yes,0
+2024,SZ,Sheep,Normal,Abroad,No,0
+2024,SZ,Sheep,Sanitary,Inland,Yes,0
+2024,SZ,Sheep,Sanitary,Inland,No,0
+2024,SZ,Sheep,Sanitary,Abroad,Yes,0
+2024,SZ,Sheep,Sanitary,Abroad,No,0
+2024,SZ,Swine,Normal,Inland,Yes,22494
+2024,SZ,Swine,Normal,Inland,No,25
+2024,SZ,Swine,Normal,Abroad,Yes,0
+2024,SZ,Swine,Normal,Abroad,No,0
+2024,SZ,Swine,Sanitary,Inland,Yes,1
+2024,SZ,Swine,Sanitary,Inland,No,0
+2024,SZ,Swine,Sanitary,Abroad,Yes,0
+2024,SZ,Swine,Sanitary,Abroad,No,0
+2024,TG,Cattle < 8Mo,Normal,Inland,Yes,694
+2024,TG,Cattle < 8Mo,Normal,Inland,No,0
+2024,TG,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,TG,Cattle < 8Mo,Normal,Abroad,No,0
+2024,TG,Cattle < 8Mo,Sanitary,Inland,Yes,41
+2024,TG,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,TG,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,TG,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,TG,Cattle > 8Mo,Normal,Inland,Yes,730
+2024,TG,Cattle > 8Mo,Normal,Inland,No,2
+2024,TG,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,TG,Cattle > 8Mo,Normal,Abroad,No,0
+2024,TG,Cattle > 8Mo,Sanitary,Inland,Yes,303
+2024,TG,Cattle > 8Mo,Sanitary,Inland,No,4
+2024,TG,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,TG,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,TG,Equidae,Normal,Inland,Yes,58
+2024,TG,Equidae,Normal,Inland,No,1
+2024,TG,Equidae,Normal,Abroad,Yes,0
+2024,TG,Equidae,Normal,Abroad,No,0
+2024,TG,Equidae,Sanitary,Inland,Yes,0
+2024,TG,Equidae,Sanitary,Inland,No,0
+2024,TG,Equidae,Sanitary,Abroad,Yes,0
+2024,TG,Equidae,Sanitary,Abroad,No,0
+2024,TG,Goats,Normal,Inland,Yes,340
+2024,TG,Goats,Normal,Inland,No,1
+2024,TG,Goats,Normal,Abroad,Yes,0
+2024,TG,Goats,Normal,Abroad,No,0
+2024,TG,Goats,Sanitary,Inland,Yes,0
+2024,TG,Goats,Sanitary,Inland,No,0
+2024,TG,Goats,Sanitary,Abroad,Yes,0
+2024,TG,Goats,Sanitary,Abroad,No,0
+2024,TG,Sheep,Normal,Inland,Yes,3083
+2024,TG,Sheep,Normal,Inland,No,0
+2024,TG,Sheep,Normal,Abroad,Yes,0
+2024,TG,Sheep,Normal,Abroad,No,0
+2024,TG,Sheep,Sanitary,Inland,Yes,20
+2024,TG,Sheep,Sanitary,Inland,No,2
+2024,TG,Sheep,Sanitary,Abroad,Yes,0
+2024,TG,Sheep,Sanitary,Abroad,No,0
+2024,TG,Swine,Normal,Inland,Yes,4408
+2024,TG,Swine,Normal,Inland,No,20
+2024,TG,Swine,Normal,Abroad,Yes,0
+2024,TG,Swine,Normal,Abroad,No,0
+2024,TG,Swine,Sanitary,Inland,Yes,371
+2024,TG,Swine,Sanitary,Inland,No,12
+2024,TG,Swine,Sanitary,Abroad,Yes,0
+2024,TG,Swine,Sanitary,Abroad,No,0
+2024,TI,Cattle < 8Mo,Normal,Inland,Yes,602
+2024,TI,Cattle < 8Mo,Normal,Inland,No,0
+2024,TI,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,TI,Cattle < 8Mo,Normal,Abroad,No,0
+2024,TI,Cattle < 8Mo,Sanitary,Inland,Yes,2
+2024,TI,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,TI,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,TI,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,TI,Cattle > 8Mo,Normal,Inland,Yes,817
+2024,TI,Cattle > 8Mo,Normal,Inland,No,0
+2024,TI,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,TI,Cattle > 8Mo,Normal,Abroad,No,0
+2024,TI,Cattle > 8Mo,Sanitary,Inland,Yes,7
+2024,TI,Cattle > 8Mo,Sanitary,Inland,No,0
+2024,TI,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,TI,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,TI,Equidae,Normal,Inland,Yes,53
+2024,TI,Equidae,Normal,Inland,No,0
+2024,TI,Equidae,Normal,Abroad,Yes,0
+2024,TI,Equidae,Normal,Abroad,No,0
+2024,TI,Equidae,Sanitary,Inland,Yes,0
+2024,TI,Equidae,Sanitary,Inland,No,0
+2024,TI,Equidae,Sanitary,Abroad,Yes,0
+2024,TI,Equidae,Sanitary,Abroad,No,0
+2024,TI,Goats,Normal,Inland,Yes,3965
+2024,TI,Goats,Normal,Inland,No,9
+2024,TI,Goats,Normal,Abroad,Yes,0
+2024,TI,Goats,Normal,Abroad,No,0
+2024,TI,Goats,Sanitary,Inland,Yes,1
+2024,TI,Goats,Sanitary,Inland,No,0
+2024,TI,Goats,Sanitary,Abroad,Yes,0
+2024,TI,Goats,Sanitary,Abroad,No,0
+2024,TI,Sheep,Normal,Inland,Yes,1724
+2024,TI,Sheep,Normal,Inland,No,3
+2024,TI,Sheep,Normal,Abroad,Yes,0
+2024,TI,Sheep,Normal,Abroad,No,0
+2024,TI,Sheep,Sanitary,Inland,Yes,2
+2024,TI,Sheep,Sanitary,Inland,No,0
+2024,TI,Sheep,Sanitary,Abroad,Yes,0
+2024,TI,Sheep,Sanitary,Abroad,No,0
+2024,TI,Swine,Normal,Inland,Yes,2622
+2024,TI,Swine,Normal,Inland,No,8
+2024,TI,Swine,Normal,Abroad,Yes,0
+2024,TI,Swine,Normal,Abroad,No,0
+2024,TI,Swine,Sanitary,Inland,Yes,2
+2024,TI,Swine,Sanitary,Inland,No,4
+2024,TI,Swine,Sanitary,Abroad,Yes,0
+2024,TI,Swine,Sanitary,Abroad,No,0
+2024,UR,Cattle < 8Mo,Normal,Inland,Yes,157
+2024,UR,Cattle < 8Mo,Normal,Inland,No,0
+2024,UR,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,UR,Cattle < 8Mo,Normal,Abroad,No,0
+2024,UR,Cattle < 8Mo,Sanitary,Inland,Yes,0
+2024,UR,Cattle < 8Mo,Sanitary,Inland,No,0
+2024,UR,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,UR,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,UR,Cattle > 8Mo,Normal,Inland,Yes,242
+2024,UR,Cattle > 8Mo,Normal,Inland,No,2
+2024,UR,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,UR,Cattle > 8Mo,Normal,Abroad,No,0
+2024,UR,Cattle > 8Mo,Sanitary,Inland,Yes,14
+2024,UR,Cattle > 8Mo,Sanitary,Inland,No,1
+2024,UR,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,UR,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,UR,Equidae,Normal,Inland,Yes,0
+2024,UR,Equidae,Normal,Inland,No,0
+2024,UR,Equidae,Normal,Abroad,Yes,0
+2024,UR,Equidae,Normal,Abroad,No,0
+2024,UR,Equidae,Sanitary,Inland,Yes,0
+2024,UR,Equidae,Sanitary,Inland,No,0
+2024,UR,Equidae,Sanitary,Abroad,Yes,0
+2024,UR,Equidae,Sanitary,Abroad,No,0
+2024,UR,Goats,Normal,Inland,Yes,457
+2024,UR,Goats,Normal,Inland,No,0
+2024,UR,Goats,Normal,Abroad,Yes,0
+2024,UR,Goats,Normal,Abroad,No,0
+2024,UR,Goats,Sanitary,Inland,Yes,0
+2024,UR,Goats,Sanitary,Inland,No,0
+2024,UR,Goats,Sanitary,Abroad,Yes,0
+2024,UR,Goats,Sanitary,Abroad,No,0
+2024,UR,Sheep,Normal,Inland,Yes,717
+2024,UR,Sheep,Normal,Inland,No,1
+2024,UR,Sheep,Normal,Abroad,Yes,0
+2024,UR,Sheep,Normal,Abroad,No,0
+2024,UR,Sheep,Sanitary,Inland,Yes,1
+2024,UR,Sheep,Sanitary,Inland,No,0
+2024,UR,Sheep,Sanitary,Abroad,Yes,0
+2024,UR,Sheep,Sanitary,Abroad,No,0
+2024,UR,Swine,Normal,Inland,Yes,768
+2024,UR,Swine,Normal,Inland,No,2
+2024,UR,Swine,Normal,Abroad,Yes,0
+2024,UR,Swine,Normal,Abroad,No,0
+2024,UR,Swine,Sanitary,Inland,Yes,0
+2024,UR,Swine,Sanitary,Inland,No,0
+2024,UR,Swine,Sanitary,Abroad,Yes,0
+2024,UR,Swine,Sanitary,Abroad,No,0
+2024,VD,Cattle < 8Mo,Normal,Inland,Yes,1834
+2024,VD,Cattle < 8Mo,Normal,Inland,No,14
+2024,VD,Cattle < 8Mo,Normal,Abroad,Yes,151
+2024,VD,Cattle < 8Mo,Normal,Abroad,No,0
+2024,VD,Cattle < 8Mo,Sanitary,Inland,Yes,28
+2024,VD,Cattle < 8Mo,Sanitary,Inland,No,4
+2024,VD,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,VD,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,VD,Cattle > 8Mo,Normal,Inland,Yes,6705
+2024,VD,Cattle > 8Mo,Normal,Inland,No,31
+2024,VD,Cattle > 8Mo,Normal,Abroad,Yes,659
+2024,VD,Cattle > 8Mo,Normal,Abroad,No,1
+2024,VD,Cattle > 8Mo,Sanitary,Inland,Yes,298
+2024,VD,Cattle > 8Mo,Sanitary,Inland,No,64
+2024,VD,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,VD,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,VD,Equidae,Normal,Inland,Yes,81
+2024,VD,Equidae,Normal,Inland,No,0
+2024,VD,Equidae,Normal,Abroad,Yes,0
+2024,VD,Equidae,Normal,Abroad,No,0
+2024,VD,Equidae,Sanitary,Inland,Yes,0
+2024,VD,Equidae,Sanitary,Inland,No,0
+2024,VD,Equidae,Sanitary,Abroad,Yes,0
+2024,VD,Equidae,Sanitary,Abroad,No,0
+2024,VD,Goats,Normal,Inland,Yes,2402
+2024,VD,Goats,Normal,Inland,No,3
+2024,VD,Goats,Normal,Abroad,Yes,0
+2024,VD,Goats,Normal,Abroad,No,0
+2024,VD,Goats,Sanitary,Inland,Yes,0
+2024,VD,Goats,Sanitary,Inland,No,1
+2024,VD,Goats,Sanitary,Abroad,Yes,0
+2024,VD,Goats,Sanitary,Abroad,No,0
+2024,VD,Sheep,Normal,Inland,Yes,19033
+2024,VD,Sheep,Normal,Inland,No,50
+2024,VD,Sheep,Normal,Abroad,Yes,0
+2024,VD,Sheep,Normal,Abroad,No,0
+2024,VD,Sheep,Sanitary,Inland,Yes,9
+2024,VD,Sheep,Sanitary,Inland,No,0
+2024,VD,Sheep,Sanitary,Abroad,Yes,0
+2024,VD,Sheep,Sanitary,Abroad,No,0
+2024,VD,Swine,Normal,Inland,Yes,22033
+2024,VD,Swine,Normal,Inland,No,21
+2024,VD,Swine,Normal,Abroad,Yes,1000
+2024,VD,Swine,Normal,Abroad,No,0
+2024,VD,Swine,Sanitary,Inland,Yes,99
+2024,VD,Swine,Sanitary,Inland,No,11
+2024,VD,Swine,Sanitary,Abroad,Yes,0
+2024,VD,Swine,Sanitary,Abroad,No,0
+2024,VS,Cattle < 8Mo,Normal,Inland,Yes,1368
+2024,VS,Cattle < 8Mo,Normal,Inland,No,0
+2024,VS,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,VS,Cattle < 8Mo,Normal,Abroad,No,0
+2024,VS,Cattle < 8Mo,Sanitary,Inland,Yes,7
+2024,VS,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,VS,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,VS,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,VS,Cattle > 8Mo,Normal,Inland,Yes,4930
+2024,VS,Cattle > 8Mo,Normal,Inland,No,3
+2024,VS,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,VS,Cattle > 8Mo,Normal,Abroad,No,0
+2024,VS,Cattle > 8Mo,Sanitary,Inland,Yes,41
+2024,VS,Cattle > 8Mo,Sanitary,Inland,No,3
+2024,VS,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,VS,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,VS,Equidae,Normal,Inland,Yes,25
+2024,VS,Equidae,Normal,Inland,No,0
+2024,VS,Equidae,Normal,Abroad,Yes,0
+2024,VS,Equidae,Normal,Abroad,No,0
+2024,VS,Equidae,Sanitary,Inland,Yes,1
+2024,VS,Equidae,Sanitary,Inland,No,0
+2024,VS,Equidae,Sanitary,Abroad,Yes,0
+2024,VS,Equidae,Sanitary,Abroad,No,0
+2024,VS,Goats,Normal,Inland,Yes,1437
+2024,VS,Goats,Normal,Inland,No,1
+2024,VS,Goats,Normal,Abroad,Yes,0
+2024,VS,Goats,Normal,Abroad,No,0
+2024,VS,Goats,Sanitary,Inland,Yes,0
+2024,VS,Goats,Sanitary,Inland,No,1
+2024,VS,Goats,Sanitary,Abroad,Yes,0
+2024,VS,Goats,Sanitary,Abroad,No,0
+2024,VS,Sheep,Normal,Inland,Yes,4052
+2024,VS,Sheep,Normal,Inland,No,2
+2024,VS,Sheep,Normal,Abroad,Yes,0
+2024,VS,Sheep,Normal,Abroad,No,0
+2024,VS,Sheep,Sanitary,Inland,Yes,2
+2024,VS,Sheep,Sanitary,Inland,No,1
+2024,VS,Sheep,Sanitary,Abroad,Yes,0
+2024,VS,Sheep,Sanitary,Abroad,No,0
+2024,VS,Swine,Normal,Inland,Yes,5302
+2024,VS,Swine,Normal,Inland,No,2
+2024,VS,Swine,Normal,Abroad,Yes,0
+2024,VS,Swine,Normal,Abroad,No,0
+2024,VS,Swine,Sanitary,Inland,Yes,3
+2024,VS,Swine,Sanitary,Inland,No,0
+2024,VS,Swine,Sanitary,Abroad,Yes,0
+2024,VS,Swine,Sanitary,Abroad,No,0
+2024,ZG,Cattle < 8Mo,Normal,Inland,Yes,445
+2024,ZG,Cattle < 8Mo,Normal,Inland,No,0
+2024,ZG,Cattle < 8Mo,Normal,Abroad,Yes,0
+2024,ZG,Cattle < 8Mo,Normal,Abroad,No,0
+2024,ZG,Cattle < 8Mo,Sanitary,Inland,Yes,9
+2024,ZG,Cattle < 8Mo,Sanitary,Inland,No,1
+2024,ZG,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,ZG,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,ZG,Cattle > 8Mo,Normal,Inland,Yes,755
+2024,ZG,Cattle > 8Mo,Normal,Inland,No,1
+2024,ZG,Cattle > 8Mo,Normal,Abroad,Yes,0
+2024,ZG,Cattle > 8Mo,Normal,Abroad,No,0
+2024,ZG,Cattle > 8Mo,Sanitary,Inland,Yes,39
+2024,ZG,Cattle > 8Mo,Sanitary,Inland,No,12
+2024,ZG,Cattle > 8Mo,Sanitary,Abroad,Yes,0
+2024,ZG,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,ZG,Equidae,Normal,Inland,Yes,0
+2024,ZG,Equidae,Normal,Inland,No,0
+2024,ZG,Equidae,Normal,Abroad,Yes,0
+2024,ZG,Equidae,Normal,Abroad,No,0
+2024,ZG,Equidae,Sanitary,Inland,Yes,0
+2024,ZG,Equidae,Sanitary,Inland,No,1
+2024,ZG,Equidae,Sanitary,Abroad,Yes,0
+2024,ZG,Equidae,Sanitary,Abroad,No,0
+2024,ZG,Goats,Normal,Inland,Yes,114
+2024,ZG,Goats,Normal,Inland,No,0
+2024,ZG,Goats,Normal,Abroad,Yes,0
+2024,ZG,Goats,Normal,Abroad,No,0
+2024,ZG,Goats,Sanitary,Inland,Yes,1
+2024,ZG,Goats,Sanitary,Inland,No,0
+2024,ZG,Goats,Sanitary,Abroad,Yes,0
+2024,ZG,Goats,Sanitary,Abroad,No,0
+2024,ZG,Sheep,Normal,Inland,Yes,1518
+2024,ZG,Sheep,Normal,Inland,No,0
+2024,ZG,Sheep,Normal,Abroad,Yes,0
+2024,ZG,Sheep,Normal,Abroad,No,0
+2024,ZG,Sheep,Sanitary,Inland,Yes,3
+2024,ZG,Sheep,Sanitary,Inland,No,5
+2024,ZG,Sheep,Sanitary,Abroad,Yes,0
+2024,ZG,Sheep,Sanitary,Abroad,No,0
+2024,ZG,Swine,Normal,Inland,Yes,707
+2024,ZG,Swine,Normal,Inland,No,0
+2024,ZG,Swine,Normal,Abroad,Yes,0
+2024,ZG,Swine,Normal,Abroad,No,0
+2024,ZG,Swine,Sanitary,Inland,Yes,5
+2024,ZG,Swine,Sanitary,Inland,No,1
+2024,ZG,Swine,Sanitary,Abroad,Yes,0
+2024,ZG,Swine,Sanitary,Abroad,No,0
+2024,ZH,Cattle < 8Mo,Normal,Inland,Yes,50646
+2024,ZH,Cattle < 8Mo,Normal,Inland,No,1
+2024,ZH,Cattle < 8Mo,Normal,Abroad,Yes,1
+2024,ZH,Cattle < 8Mo,Normal,Abroad,No,0
+2024,ZH,Cattle < 8Mo,Sanitary,Inland,Yes,461
+2024,ZH,Cattle < 8Mo,Sanitary,Inland,No,7
+2024,ZH,Cattle < 8Mo,Sanitary,Abroad,Yes,0
+2024,ZH,Cattle < 8Mo,Sanitary,Abroad,No,0
+2024,ZH,Cattle > 8Mo,Normal,Inland,Yes,72553
+2024,ZH,Cattle > 8Mo,Normal,Inland,No,1
+2024,ZH,Cattle > 8Mo,Normal,Abroad,Yes,159
+2024,ZH,Cattle > 8Mo,Normal,Abroad,No,0
+2024,ZH,Cattle > 8Mo,Sanitary,Inland,Yes,2420
+2024,ZH,Cattle > 8Mo,Sanitary,Inland,No,15
+2024,ZH,Cattle > 8Mo,Sanitary,Abroad,Yes,12
+2024,ZH,Cattle > 8Mo,Sanitary,Abroad,No,0
+2024,ZH,Equidae,Normal,Inland,Yes,19
+2024,ZH,Equidae,Normal,Inland,No,0
+2024,ZH,Equidae,Normal,Abroad,Yes,0
+2024,ZH,Equidae,Normal,Abroad,No,0
+2024,ZH,Equidae,Sanitary,Inland,Yes,23
+2024,ZH,Equidae,Sanitary,Inland,No,1
+2024,ZH,Equidae,Sanitary,Abroad,Yes,0
+2024,ZH,Equidae,Sanitary,Abroad,No,0
+2024,ZH,Goats,Normal,Inland,Yes,2289
+2024,ZH,Goats,Normal,Inland,No,0
+2024,ZH,Goats,Normal,Abroad,Yes,0
+2024,ZH,Goats,Normal,Abroad,No,0
+2024,ZH,Goats,Sanitary,Inland,Yes,6
+2024,ZH,Goats,Sanitary,Inland,No,1
+2024,ZH,Goats,Sanitary,Abroad,Yes,0
+2024,ZH,Goats,Sanitary,Abroad,No,0
+2024,ZH,Sheep,Normal,Inland,Yes,98294
+2024,ZH,Sheep,Normal,Inland,No,2
+2024,ZH,Sheep,Normal,Abroad,Yes,0
+2024,ZH,Sheep,Normal,Abroad,No,0
+2024,ZH,Sheep,Sanitary,Inland,Yes,203
+2024,ZH,Sheep,Sanitary,Inland,No,57
+2024,ZH,Sheep,Sanitary,Abroad,Yes,0
+2024,ZH,Sheep,Sanitary,Abroad,No,0
+2024,ZH,Swine,Normal,Inland,Yes,179111
+2024,ZH,Swine,Normal,Inland,No,20
+2024,ZH,Swine,Normal,Abroad,Yes,0
+2024,ZH,Swine,Normal,Abroad,No,0
+2024,ZH,Swine,Sanitary,Inland,Yes,2904
+2024,ZH,Swine,Sanitary,Inland,No,71
+2024,ZH,Swine,Sanitary,Abroad,Yes,0
+2024,ZH,Swine,Sanitary,Abroad,No,0
