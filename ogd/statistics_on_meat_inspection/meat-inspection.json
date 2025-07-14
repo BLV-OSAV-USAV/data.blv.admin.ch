@@ -5,7 +5,6 @@
             "name": "meat-inspection-csv",
             "type":"table",
             "path": "https://www.data.blv.admin.ch/ogd/statistics_on_meat_inspection/meat-inspection.csv",
-            "scheme": "file",
             "profile": "tabular-data-resource",
             "schema": {
                 "fields": [
@@ -67,7 +66,7 @@
     "temporal": {
         "name": "Time coverage",
         "start": "2014-01-01T00:00:00Z",
-        "end": "2023-12-31T23:59:59Z"
+        "end": "2024-12-31T23:59:59Z"
     },
     "contributors": [
         {
