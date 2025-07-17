@@ -1,27 +1,29 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2279, 2285, 2261]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2246, 2222, 2282]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2254, 2243]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2249, 2232, 2284]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254, 2243]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2232, 2284]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[2269, 2254, 2230]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2254, 2243]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[2269, 2230, 2254]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2222, 2246, 2282]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2241, 2243, 2262]"
-474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,"[2246, 2282]"
-437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2246, 2222]"
-298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[2246, 2282]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2282]"
+437,2,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,"[2222, 2246]"
+298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[2246, 2282]"
+474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,"[2246, 2282]"
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2269]
-225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
-363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2278]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
-272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
+363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2278]
 532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
-425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
+272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
+225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2269]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2237]
+227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2241]
+344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2254]
+425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2254]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2280]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2280]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2282]
+535,1,Hexan,Hexane,Esano,Hexane,1.0,[2296]

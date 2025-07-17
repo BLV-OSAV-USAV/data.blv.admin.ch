@@ -16,23 +16,23 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1653, 1886, 1923, 2282]"
 273,4,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374, 1742]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
-166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.33,"[1917, 1177, 263]"
 528,3,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2224, 2283]"
 180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[295, 1136, 1628]"
+227,3,Erythrit,Érythritol,Eritritolo,Erythritol,1.33,"[2295, 1551, 323]"
 145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.33,"[1208, 1664, 76]"
-92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
+166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.33,"[1917, 1177, 263]"
 122,3,Diabetes,diabète,diabete,diabetes,1.33,"[1578, 448, 94]"
-368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
+92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
 316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[989, 2013]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
-227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.0,"[1551, 323]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[1290, 2139]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[210, 54]"
+368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
 63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[438, 2118]"
 341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
@@ -57,12 +57,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[413]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
-398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[750]
+398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
+103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
 258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
 259,1,furfural,furfural,furfurale,furfural,1.0,[537]
-103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 260,1,benzaldehyd,benzaldéhyde,Benzaldeide,benzaldehyde,1.0,[537]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
 301,1,Metalle der Seltenen Erden (REE),Terre rare (REE),Terre rare (REE),rare earth elements (REE),2.0,[749]

@@ -1,5 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2279, 2280, 2282, 2285]"
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2273]
+18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.2,"[2279, 2280, 2282, 2285, 2295]"
 144,1,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,[2291]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2284]
+126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2296]
+65,1,Eier,Oeufs,Uova,Egg,1.0,[2296]
+11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2296]
