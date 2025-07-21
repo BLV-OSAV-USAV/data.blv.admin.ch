@@ -1,32 +1,32 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.2,"[2275, 2287, 2233, 2292, 2293]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2269, 2268, 2254, 2243]"
-528,4,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2298, 2224, 2283]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254, 2243]"
-91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2279, 2285, 2261]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2270, 2271, 2227]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[2269, 2230, 2254]"
-181,3,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2277, 2255, 2250]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2249, 2232, 2284]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254, 2243]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.33,"[2269, 2230, 2254]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2270, 2271, 2227]"
+181,3,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2277, 2255, 2250]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2241, 2243, 2262]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.5,"[2269, 2268]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2279, 2285, 2261]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2248, 2228]"
+35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[2239, 2259]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2265, 2257]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.5,"[2269, 2268]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2282]"
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,"[2246, 2282]"
 298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[2246, 2282]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2246, 2282]"
 10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2226]"
 202,2,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.5,"[2287, 2231]"
-35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[2239, 2259]"
+528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2298, 2283]"
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2278]
-476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2239]
 39,1,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,[2239]
 36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
-69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
+476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2239]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2239]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2239]
+69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2265]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2289]
