@@ -1,10 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2296, 2305]"
 18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2298, 2304]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[2297, 2303]"
-126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2296]
-65,1,Eier,Oeufs,Uova,Egg,1.0,[2296]
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2302]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,2.0,[2303]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,2.0,[2300]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[2301]
+11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2305]
 8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2306]
