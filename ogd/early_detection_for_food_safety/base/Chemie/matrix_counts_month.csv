@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,7,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[2272, 2279, 2280, 2282, 2285, 2295, 2256]"
+18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.3,"[2272, 2279, 2280, 2282, 2285, 2295, 2256, 2315, 2316, 2317]"
+82,4,Wasser,Eau,Acqua,Waters,1.0,"[2237, 2243, 2301, 2317]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.33,"[2241, 2273, 2313]"
-82,3,Wasser,Eau,Acqua,Waters,1.0,"[2237, 2243, 2301]"
 11,3,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2296, 2244, 2305]"
 48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[2249, 2311]"
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2269]

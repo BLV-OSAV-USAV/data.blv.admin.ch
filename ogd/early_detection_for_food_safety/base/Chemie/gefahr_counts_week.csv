@@ -1,6 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2311, 2305]"
-507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
+91,4,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2311, 2305, 2315, 2316]"
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2306]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
@@ -12,3 +11,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),2.0,[2313]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2317]
