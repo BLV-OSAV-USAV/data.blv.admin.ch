@@ -1,9 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.6,"[2304, 2315, 2316, 2317, 2318]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2306, 2309]"
-11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2305]
+18,7,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.43,"[2315, 2316, 2317, 2318, 2319, 2320, 2321]"
+82,2,Wasser,Eau,Acqua,Waters,1.0,"[2317, 2320]"
+6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[2313, 2320]"
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2311]
-104,1,Nicht spezifizierte sowie gemischte Milch und Milchgetränke,Laits et boissons à base de laits non spécifiés ou mélangés,Latte e bevande a base di latte non specificate e miste,Unclassified Or Combined Milk And Milk Beverages,1.0,[2312]
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,2.0,[2313]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2309]
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,2.0,[2314]
-82,1,Wasser,Eau,Acqua,Waters,1.0,[2317]
+104,1,Nicht spezifizierte sowie gemischte Milch und Milchgetränke,Laits et boissons à base de laits non spécifiés ou mélangés,Latte e bevande a base di latte non specificate e miste,Unclassified Or Combined Milk And Milk Beverages,1.0,[2312]
+60,1,Fische,Poissons,Pesce,Fish,1.0,[2320]
+38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2322]

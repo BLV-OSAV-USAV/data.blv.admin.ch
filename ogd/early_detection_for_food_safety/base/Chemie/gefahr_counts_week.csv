@@ -1,11 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,4,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2311, 2305, 2315, 2316]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2306]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2306]
-172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2306]
-525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
-539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.67,"[2311, 2315, 2316]"
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),2.0,[2313]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2317]

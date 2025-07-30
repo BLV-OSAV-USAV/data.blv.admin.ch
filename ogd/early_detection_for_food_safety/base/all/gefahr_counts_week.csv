@@ -1,13 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,4,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2311, 2305, 2315, 2316]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,"[2318, 2314]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.67,"[2311, 2315, 2316]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2309, 2314]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2306]
-172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2306]
-525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2306]
-539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2319]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),2.0,[2313]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
 123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
