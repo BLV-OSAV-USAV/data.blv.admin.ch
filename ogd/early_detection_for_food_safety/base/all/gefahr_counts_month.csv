@@ -1,40 +1,41 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,7,Pestizide,pesticides,pesticidi,pesticide,1.29,"[2279, 2311, 2285, 2305, 2261, 2315, 2316]"
+91,9,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2279, 2324, 2325, 2311, 2285, 2305, 2261, 2315, 2316]"
 181,4,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2300, 2277, 2255, 2250]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2269, 2268, 2254, 2317]"
 93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2265, 2257, 2309, 2314]"
+111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2325, 2246, 2306, 2282]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2275, 2287, 2292, 2293]"
-19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2319, 2270, 2271]"
 503,3,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2306, 2282]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2246, 2306, 2282]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2269, 2254]"
-2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2284]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.5,"[2269, 2268]"
+2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[2248, 2314]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254]"
 528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2298, 2283]"
-203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2306, 2282]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2269, 2254]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2249, 2284]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2269, 2254]"
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,"[2246, 2282]"
 298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,"[2246, 2282]"
+203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2306, 2282]"
+227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
+532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2278]
-532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
-227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
-156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
+156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2265]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2275]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
-104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
-32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
+104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,2.0,[2253]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2287]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2268]
+32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.0,[2264]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2259]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2246]

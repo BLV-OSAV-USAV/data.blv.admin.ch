@@ -4,11 +4,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2275, 2287, 2292, 2293]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2319, 2270, 2271]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[2248, 2314]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[2248, 2314]"
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
-156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]
+91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2325]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2325]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2265]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2275]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2273]
