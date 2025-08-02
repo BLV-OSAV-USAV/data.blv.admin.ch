@@ -1,13 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,5,Pestizide,pesticides,pesticidi,pesticide,1.6,"[2324, 2325, 2311, 2315, 2316]"
-19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2324, 2325]"
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2319]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2325]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
-43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),2.0,[2313]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,2.0,[2314]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2314]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[2314]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2317]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2322]
