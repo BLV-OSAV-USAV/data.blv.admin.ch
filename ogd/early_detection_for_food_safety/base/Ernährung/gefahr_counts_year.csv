@@ -6,19 +6,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 528,4,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2298, 2224, 2283]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1689, 1908]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1917, 1836, 1898]"
-80,2,Salz,sel,sale,salt,1.0,"[1612, 1580]"
+45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
-45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297]"
-49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835]"
+246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
+80,2,Salz,sel,sale,salt,1.0,"[1612, 1580]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2299, 2063]"
 227,2,Erythrit,Érythritol,Eritritolo,Erythritol,1.5,"[2295, 1551]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
-246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
 178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
