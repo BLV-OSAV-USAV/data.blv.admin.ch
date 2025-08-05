@@ -10,7 +10,6 @@
 import os
 import re
 from ftplib import FTP
-from bs4 import BeautifulSoup
 import pandas as pd
 
 # GitHub secret
