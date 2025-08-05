@@ -1,35 +1,35 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,9,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2279, 2324, 2325, 2311, 2285, 2305, 2261, 2315, 2316]"
+91,8,Pestizide,pesticides,pesticidi,pesticide,1.38,"[2279, 2324, 2325, 2311, 2285, 2305, 2315, 2316]"
+111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2325, 2329, 2306, 2282]"
 503,3,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2306, 2282]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2325, 2306, 2282]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2317]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2306, 2282]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2269, 2317]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2331, 2284]"
+43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2330, 2313]"
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2269]
 272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
-532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2269]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2269]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2278]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
-507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
-537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2297]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2331]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2269]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
+537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
+507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,[2297]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2297]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
-113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
+113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
 539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
-43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),2.0,[2313]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2280]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2280]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2262]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2284]
 535,1,Hexan,Hexane,Esano,Hexane,1.0,[2296]

@@ -1,4 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2324, 2325]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2325]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2325, 2329]"
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2331]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2331]
+43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2330]
