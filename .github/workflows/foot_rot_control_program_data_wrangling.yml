@@ -6,7 +6,7 @@ on:
     paths:
       - "ogd/foot_rot_control_program/**"
   schedule:
-    - cron: '0 3 * * 4'  # 04:00 Berlin time in winter, 05:00 in summer (Berlin is UTC+1/UTC+2)
+    - cron: '0 3 * * 4'  # 04:00 Berlin time in winter, 05:00 in summer (UTC+1/UTC+2)
 
 jobs:
   data-preparation:
