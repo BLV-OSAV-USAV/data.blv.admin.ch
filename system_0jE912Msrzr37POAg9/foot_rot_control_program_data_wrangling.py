@@ -39,7 +39,7 @@ ftp.quit()
 
 # Read the CSVs
 df = pd.read_csv(local_path, sep=';')
-canton_mapping_df  = pd.read_csv('/ogd/foot_rot_control_program/Cubes/canton_mapping.csv', sep=';')
+canton_mapping_df  = pd.read_csv('../ogd/foot_rot_control_program/Cubes/canton_mapping.csv', sep=';')
 
 # Convert StatusFrom from string to datetime
 df['StatusFrom'] = pd.to_datetime(
