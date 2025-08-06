@@ -4,6 +4,7 @@ import numpy as np
 from datetime import datetime, timedelta
 from itertools import product
 from ftplib import FTP
+from pathlib import Path
 
 #########################
 # Part 1) DOWNLOAD DATA
@@ -18,6 +19,7 @@ filename = "moderhinke-aktuelle-situation-input.csv"
 # Pfad zum Skriptverzeichnis ermitteln
 script_dir = os.path.dirname(os.path.abspath(__file__))
 local_path = os.path.join(script_dir, filename)
+print(local_path)
 
 # Verbindung zum FTP-Server
 ftp = FTP('ftp.blv-data-ingest.ch')
@@ -39,7 +41,8 @@ ftp.quit()
 
 # Read the CSVs
 df = pd.read_csv(local_path, sep=';')
-canton_mapping_df  = pd.read_csv('../ogd/foot_rot_control_program/Cubes/canton_mapping.csv', sep=';')
+print(script_dir.parent + '/ogd/foot_rot_control_program/Cubes/canton_mapping.csv')
+canton_mapping_df  = pd.read_csv(script_dir.parent + '/ogd/foot_rot_control_program/Cubes/canton_mapping.csv', sep=';')
 
 # Convert StatusFrom from string to datetime
 df['StatusFrom'] = pd.to_datetime(
