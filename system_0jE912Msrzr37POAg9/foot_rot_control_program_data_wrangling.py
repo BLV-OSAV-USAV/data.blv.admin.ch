@@ -37,17 +37,14 @@ ftp.quit()
 # Part 2) WRANGLING
 #########################
 
-# Input and output paths
-canton_mapping = os.path.join('canton_mapping.csv')
-
-# Read the CSV
+# Read the CSVs
 df = pd.read_csv(local_path, sep=';')
-canton_mapping_df  = pd.read_csv(canton_mapping, sep=';')
+canton_mapping_df  = pd.read_csv('canton_mapping.csv', sep=';')
 
 # Convert StatusFrom from string to datetime
 df['StatusFrom'] = pd.to_datetime(
     df['StatusFrom'],
-        format='%Y-%m-%d',   # passt zu "2025-04-29"
+        format='%Y-%m-%d',   # "2025-04-29"
             errors='coerce'      # ungültige Formate werden zu NaT
             )
 
