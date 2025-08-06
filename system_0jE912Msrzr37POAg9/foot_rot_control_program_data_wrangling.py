@@ -12,13 +12,12 @@ from ftplib import FTP
 # GitHub secret
 FTP_PASS = os.environ["FTP_PASS_DATEN_ALVPH"]
 
-# Lokaler Speicherort für heruntergeladene Datei
-local_directory = "temporary_files"
+# Name der herunterzuladenden Datei
 filename = "moderhinke-aktuelle-situation-input.csv"
-local_path = os.path.join(local_directory, filename)
 
-# Sicherstellen, dass das lokale Verzeichnis existiert
-os.makedirs(local_directory, exist_ok=True)
+# Pfad zum Skriptverzeichnis ermitteln
+script_dir = os.path.dirname(os.path.abspath(__file__))
+local_path = os.path.join(script_dir, filename)
 
 # Verbindung zum FTP-Server
 ftp = FTP('ftp.blv-data-ingest.ch')
@@ -39,11 +38,10 @@ ftp.quit()
 #########################
 
 # Input and output paths
-input_file = os.path.join('../temporary_files/moderhinke-aktuelle-situation-input.csv')
 canton_mapping = os.path.join('canton_mapping.csv')
 
 # Read the CSV
-df = pd.read_csv(input_file, sep=';')
+df = pd.read_csv(local_path, sep=';')
 canton_mapping_df  = pd.read_csv(canton_mapping, sep=';')
 
 # Convert StatusFrom from string to datetime
@@ -222,18 +220,9 @@ df_final.to_csv(output_path, sep=';', index=False)
 # Part 3) CLEAN-UP
 #########################
 
-file_path = os.path.join(local_directory, filename)
-
 # 1. Datei löschen
-if os.path.isfile(file_path):
-    os.remove(file_path)
-    print(f"Datei '{file_path}' gelöscht.")
+if os.path.isfile(local_path):
+    os.remove(local_path)
+    print(f"Datei '{local_path}' gelöscht.")
 else:
-    print(f"Datei '{file_path}' existiert nicht.")
-
-# 2. Verzeichnis entfernen (es muss nun leer sein)
-if os.path.isdir(local_directory):
-    os.rmdir(local_directory)
-    print(f"Verzeichnis '{local_directory}' gelöscht.")
-else:
-    print(f"Verzeichnis '{local_directory}' existiert nicht oder ist nicht leer.")
+    print(f"Datei '{local_path}' existiert nicht.")
