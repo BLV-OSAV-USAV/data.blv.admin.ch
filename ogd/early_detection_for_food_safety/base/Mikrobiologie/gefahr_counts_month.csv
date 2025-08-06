@@ -1,16 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2336, 2265, 2309, 2314]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2275, 2287, 2292, 2293]"
-93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2265, 2309, 2314]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2319, 2270, 2271]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.67,"[2322, 2318, 2314]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2319, 2270, 2271]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,"[2300, 2277]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2325, 2329]"
+90,2,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2339, 2338]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2325, 2329]"
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2325]
+541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
 156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2265]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2275]
@@ -32,3 +35,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[2328]
 521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.0,[2328]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2328]
+334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
