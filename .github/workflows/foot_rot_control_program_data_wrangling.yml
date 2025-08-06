@@ -5,6 +5,8 @@ on:
   push:
     paths:
       - "ogd/foot_rot_control_program/**"
+  schedule:
+    - cron: '0 4 * * 4'  # Every Thursday at 04:00 UTC
 
 jobs:
   data-preparation:
