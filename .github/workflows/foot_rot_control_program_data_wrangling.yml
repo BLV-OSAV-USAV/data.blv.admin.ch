@@ -26,7 +26,7 @@ jobs:
       - name: Run data preparation script
         env:
           FTP_PASS_DATEN_ALVPH: ${{ secrets.FTP_PASS_DATEN_ALVPH }}
-        run: python system_0jE912Msrzr37POAg9/foot_rot_control_program_data_preparation.py
+        run: python system_0jE912Msrzr37POAg9/foot_rot_control_program_data_wrangling.py
 
       - name: Validate CSV file with frictionless JSON schema
         run: |
