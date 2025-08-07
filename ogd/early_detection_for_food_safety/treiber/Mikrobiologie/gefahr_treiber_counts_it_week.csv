@@ -1,18 +1,16 @@
-gefahr_id,Cambiamento climatico,Urbanizzazione e agricoltura urbana,Microbiomi e sicurezza alimentare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Ecologia,Economia
-4,0,0,0,1,1,0,0,0
-5,0,0,0,1,1,0,0,0
-31,0,0,0,0,1,0,0,0
-63,1,1,0,0,0,1,1,1
-90,0,0,1,0,0,0,0,0
-91,1,1,0,0,0,1,1,1
-93,0,0,1,0,0,0,0,0
-106,0,0,0,1,1,0,0,0
-111,1,1,0,1,0,1,1,1
-119,0,0,0,0,0,0,1,0
-120,0,0,0,0,0,0,1,0
-162,0,0,0,0,1,0,1,0
-333,0,0,0,1,1,0,0,0
-334,0,0,1,0,0,0,0,0
-348,0,0,1,0,0,0,0,0
-521,0,0,0,1,1,0,0,0
-541,0,0,0,0,1,0,0,0
+gefahr_id,Microbiomi e sicurezza alimentare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Ecologia
+4,0,1,1,0
+5,0,1,1,0
+31,0,0,1,0
+90,1,0,0,0
+93,1,0,0,0
+106,0,1,1,0
+111,0,1,0,0
+119,0,0,0,1
+120,0,0,0,1
+162,0,0,1,1
+333,0,1,1,0
+334,1,0,0,0
+348,1,0,0,0
+521,0,1,1,0
+541,0,0,1,0

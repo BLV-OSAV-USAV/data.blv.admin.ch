@@ -1,11 +1,10 @@
-steckbrief_id,Climate change,Urbanization and urban agriculture,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology,Economy
-1,0,0,0,0,0,1,0
-8,0,0,0,0,0,1,0
-21,0,0,0,0,0,1,0
-36,1,1,0,0,1,1,1
-42,0,0,1,1,0,0,0
-51,0,0,1,0,0,0,0
-99,0,0,0,1,0,0,0
-160,0,0,0,0,0,1,0
-164,0,0,0,1,0,0,0
-174,0,0,1,0,1,0,0
+steckbrief_id,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology
+1,0,0,0,1
+8,0,0,0,1
+21,0,0,0,1
+42,1,1,0,0
+51,1,0,0,0
+99,0,1,0,0
+160,0,0,0,1
+164,0,1,0,0
+174,1,0,1,0

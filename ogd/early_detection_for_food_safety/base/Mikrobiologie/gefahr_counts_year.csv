@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 93,49,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.14,"[1803, 1573, 1782, 1768, 1968, 1973, 1559, 1863, 2049, 2102, 1619, 1771, 1843, 2036, 1901, 1871, 1603, 1536, 2078, 1961, 1572, 2181, 2336, 1752, 2089, 2265, 1569, 1654, 1655, 1723, 1733, 1811, 1718, 1657, 1822, 1880, 2073, 2257, 1784, 1794, 1728, 1838, 1867, 2072, 2131, 2149, 2173, 2309, 2314]"
 26,33,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.18,"[1793, 1676, 1694, 1863, 2080, 2177, 2319, 1771, 1843, 1807, 1929, 1871, 1732, 1677, 2270, 1750, 2011, 2271, 1599, 1629, 1654, 1697, 1839, 2073, 2013, 2103, 2138, 1784, 1830, 1803, 2108, 2190, 2227]"
-244,26,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.38,"[1647, 1579, 1650, 1735, 1965, 2102, 1930, 1883, 1659, 2089, 2275, 1706, 1660, 1657, 1813, 2005, 2287, 2045, 2203, 2233, 1707, 2118, 2205, 2173, 2292, 2293]"
+244,27,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.37,"[1647, 1579, 1650, 1735, 1965, 2102, 1930, 1883, 2341, 1659, 2089, 2275, 1706, 1660, 1657, 1813, 2005, 2287, 2045, 2203, 2233, 1707, 2118, 2205, 2173, 2292, 2293]"
 1,24,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.08,"[1793, 1909, 2032, 2085, 2030, 2248, 1771, 1619, 1843, 1871, 2077, 2228, 1758, 2220, 1610, 1718, 1660, 1813, 1822, 1784, 2102, 2153, 2175, 2314]"
 119,16,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782, 2055, 2333, 1683, 2143, 2198, 1749, 2028, 2119, 1722, 1976, 1635, 1718, 1928, 2150]"
 111,14,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[1562, 1781, 2325, 2329, 1619, 2176, 2222, 1558, 2002, 1626, 1787, 1842, 2186, 2213]"
@@ -16,19 +16,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 2,7,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.43,"[1749, 2289, 1726, 1679, 2060, 2150, 2303]"
 63,7,Antibiotika,antibiotiques,antibiotici,antibiotics,1.14,"[1910, 2325, 2041, 2081, 1647, 2185, 2118]"
 94,6,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.33,"[1573, 1965, 2049, 1769, 1709, 2314]"
-114,6,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.17,"[1530, 1793, 1536, 1808, 1813, 2153]"
 9,6,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[1801, 2114, 1594, 1784, 1830, 2292]"
+114,5,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.2,"[1793, 1536, 1808, 1813, 2153]"
+238,5,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.2,"[1864, 2341, 1555, 1777, 2102]"
 176,5,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.6,"[1966, 1617, 1739, 2060, 2281]"
 88,5,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.4,"[1583, 1704, 1674, 1754, 2174]"
-238,4,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.25,"[1864, 1555, 1777, 2102]"
-348,4,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[1965, 2220, 2336, 1752]"
-90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2098, 2339, 1569, 2338]"
-121,4,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1749, 1976, 2150]"
 137,4,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.25,"[1927, 2002, 1673, 2154]"
+90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2098, 2339, 1569, 2338]"
+348,4,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[1965, 2220, 2336, 1752]"
+18,4,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.25,"[2025, 1896, 1700, 1989]"
 35,4,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,"[2239, 2046, 2259, 1817]"
 255,4,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.25,"[2027, 1899, 1532, 1986]"
 118,4,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 1977, 2157, 2213]"
-18,4,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.25,"[2025, 1896, 1700, 1989]"
+121,4,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,"[1914, 1749, 1976, 2150]"
 232,3,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.67,"[2253, 1941, 2205]"
 256,3,Parasiten,Parasites,Parassiti,Parasites,1.33,"[2239, 1711, 2208]"
 7,3,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,"[2239, 2014, 2060]"
@@ -125,21 +125,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
 355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.0,[2264]
+334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
 80,1,Salz,sel,sale,salt,1.0,[1825]
-241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,2.0,[2187]
 32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2259]
-336,1,Taenia solium,Taenia solium,Taenia solium,Taenia solium,2.0,[1905]
 380,1,Taenia martis,Taenia martis,Taenia martis,Taenia martis,2.0,[1905]
 59,1,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,[1890]
-228,1,Fipronil,Fipronil,Fipronil,Fipronil,1.0,[1867]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,[2157]
+241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
+336,1,Taenia solium,Taenia solium,Taenia solium,Taenia solium,2.0,[1905]
 153,1,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,[2150]
-266,1,Legionella,Legionella,Legionella,Legionella,1.0,[2163]
 508,1,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,Macrococcus psychrotolerans sp. nov.,2.0,[2065]
+178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,2.0,[2157]
+228,1,Fipronil,Fipronil,Fipronil,Fipronil,1.0,[1867]
+266,1,Legionella,Legionella,Legionella,Legionella,1.0,[2163]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2175]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
 29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.0,[1658]
@@ -147,4 +148,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2332]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2328]
-334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
