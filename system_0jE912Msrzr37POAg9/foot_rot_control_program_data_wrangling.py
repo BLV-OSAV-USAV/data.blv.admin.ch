@@ -211,7 +211,7 @@ df_final = df_final.sort_values('week').reset_index(drop=True)
 df_final['value'] = pd.to_numeric(df_final['value'], errors='coerce').fillna(0).astype(int)
 
 # Output cleaned CSV
-df_final.to_csv('/home/runner/work/data.blv.admin.ch/data.blv.admin.ch/ogd/foot_rot_control_program/Cubes/footrot_current_situation.csv', sep=';', index=False)
+df_final.to_csv('/home/runner/work/data.blv.admin.ch/data.blv.admin.ch/ogd/foot_rot_control_program/Cubes/footrot_current_situation.csv', sep=',', index=False)
 
 
 #########################
