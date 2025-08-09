@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,6,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[1746, 2053, 2061, 2062, 2242, 2256]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.25,"[1558, 1945, 1996, 2042]"
-60,2,Fische,Poissons,Pesce,Fish,1.0,"[1962, 2234]"
+60,3,Fische,Poissons,Pesce,Fish,1.33,"[1962, 2234, 2344]"
 133,1,Honig,Miel,Miele,Honey,2.0,[1558]
 138,1,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,[1656]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[1646]
