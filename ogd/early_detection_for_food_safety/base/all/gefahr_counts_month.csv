@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 91,7,Pestizide,pesticides,pesticidi,pesticide,1.43,"[2325, 2311, 2349, 2324, 2305, 2315, 2316]"
 111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2325, 2329, 2349, 2350, 2306, 2282]"
-244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2341, 2287, 2310, 2292, 2293]"
+244,6,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2341, 2360, 2287, 2310, 2292, 2293]"
 19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2322, 2308, 2318, 2314]"
 93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2336, 2309, 2356, 2314]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2339, 2357, 2338]"
@@ -11,15 +11,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2319, 2352]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
-528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2298, 2283]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2331, 2358]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2306, 2282]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2306, 2282]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2330, 2313]"
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2331]
+528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2298, 2283]"
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
+181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2300]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2341]
@@ -27,10 +27,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2327]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2332]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2300]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2287]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]

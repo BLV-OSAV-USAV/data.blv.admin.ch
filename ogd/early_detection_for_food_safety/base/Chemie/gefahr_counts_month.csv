@@ -2,17 +2,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 91,7,Pestizide,pesticides,pesticidi,pesticide,1.43,"[2325, 2311, 2349, 2324, 2305, 2315, 2316]"
 111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2325, 2329, 2349, 2350, 2306, 2282]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2331, 2348, 2284]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2331, 2358]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317]"
-503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2306, 2282]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2330, 2313]"
+503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2306, 2282]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2306, 2282]"
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2327]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2307]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2331]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2307]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2291]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
