@@ -1,33 +1,31 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-244,6,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2341, 2360, 2287, 2310, 2292, 2293]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2336, 2309, 2356, 2314]"
-19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2322, 2308, 2318, 2314]"
+244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.2,"[2341, 2360, 2310, 2292, 2293]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2339, 2357, 2338]"
-23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2325, 2329]"
-2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,"[2289, 2303]"
+19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2322, 2308, 2318, 2314]"
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2336, 2309, 2356, 2314]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2319, 2352]"
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
-162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2332]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2325, 2329]"
+23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2300]
-543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
+162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2332]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2320]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
+543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2325]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2341]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
-202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2287]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
 123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
+2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2303]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,2.0,[2314]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2292]
-99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2290]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[2314]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2334]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2328]
