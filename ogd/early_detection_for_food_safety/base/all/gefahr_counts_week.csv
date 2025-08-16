@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2349, 2350, 2363]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2364, 2352]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351]"
 90,2,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2349, 2350]"
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2348]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2352]
-543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2348]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2351]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2360]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2356]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,2.0,[2358]
+238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2365]
