@@ -1,21 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,22,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.27,"[2304, 2315, 2316, 2317, 2318, 2319, 2320, 2321, 2325, 2330, 2328, 2307, 2347, 2354, 2349, 2350, 2351, 2298, 2324, 2355, 2358, 2359]"
-6,5,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.4,"[2300, 2313, 2320, 2330, 2335]"
 82,5,Wasser,Eau,Acqua,Waters,1.0,"[2301, 2317, 2320, 2310, 2362]"
 8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.2,"[2306, 2334, 2309, 2332, 2360]"
+6,5,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.4,"[2300, 2313, 2320, 2330, 2335]"
 9,5,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2333, 2331, 2341, 2308, 2365]"
-11,4,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2296, 2305, 2326, 2348]"
+11,3,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2305, 2326, 2348]"
 60,3,Fische,Poissons,Pesce,Fish,1.33,"[2320, 2344, 2356]"
 48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[2311, 2346]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[2297, 2303]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[2314, 2357]"
 23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,"[2328, 2332]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2337, 2342]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[2314, 2357]"
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2302]
-126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2296]
 38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2322]
 104,1,Nicht spezifizierte sowie gemischte Milch und Milchgetränke,Laits et boissons à base de laits non spécifiés ou mélangés,Latte e bevande a base di latte non specificate e miste,Unclassified Or Combined Milk And Milk Beverages,1.0,[2312]
-65,1,Eier,Oeufs,Uova,Egg,1.0,[2296]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,2.0,[2303]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2329]
 50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,[2328]
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2336]
