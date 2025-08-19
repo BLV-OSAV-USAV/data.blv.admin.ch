@@ -1,11 +1,17 @@
-gefahr_id,Technologische Innovationen und wissenschaftliche Fortschritte,Kreislaufwirtschaft,Mikrobiome und Lebensmittelsicherheit,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt
-26,0,0,1,0,0,0
-91,1,1,0,0,0,0
-102,0,0,0,0,0,1
-111,1,1,0,1,0,1
-125,0,0,0,0,0,1
-128,1,1,0,0,0,1
-230,0,0,0,0,0,1
-238,0,0,0,0,1,0
-244,0,0,0,0,1,0
-518,0,0,0,0,0,1
+gefahr_id,Mikrobiome und Lebensmittelsicherheit,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt
+26,1,0,0
+102,0,0,1
+111,0,0,2
+114,0,1,0
+128,0,0,1
+165,0,0,1
+167,0,0,1
+203,0,0,1
+230,0,0,1
+238,0,1,0
+244,0,1,0
+298,0,0,1
+437,0,0,1
+503,0,0,1
+518,0,0,1
+544,0,1,0

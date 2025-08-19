@@ -1,13 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2349, 2350, 2363]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2364, 2352]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351]"
-90,2,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357]"
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2348]
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2363, 2366]"
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2351]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2360]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2364]
+90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2357]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2356]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,2.0,[2358]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2365]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2366]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2366]
+437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2366]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2366]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
+337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2368]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2368]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2368]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2368]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2369]
+544,1,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,[2370]

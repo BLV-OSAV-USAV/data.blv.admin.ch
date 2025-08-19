@@ -1,10 +1,10 @@
-matrix_id,Technological innovations and scientific advances,Circular economy,Microbiomes and food safety,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology,Economy
-5,0,0,0,0,0,0,1,0
-8,0,0,0,0,1,0,0,0
-9,0,0,0,0,1,0,0,0
-11,0,0,0,0,0,0,1,0
-18,1,1,0,3,0,1,2,1
-21,0,0,0,1,0,0,0,0
-42,0,0,1,0,0,0,0,0
-82,0,0,0,0,0,0,1,0
-84,0,0,0,0,0,0,1,0
+matrix_id,Microbiomes and food safety,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology
+5,0,0,0,0,1
+8,0,0,1,0,0
+9,0,0,1,0,1
+10,0,0,0,0,1
+18,0,1,1,1,1
+21,0,1,0,0,0
+42,1,0,0,0,0
+82,0,0,0,0,1
+84,0,0,0,0,1
