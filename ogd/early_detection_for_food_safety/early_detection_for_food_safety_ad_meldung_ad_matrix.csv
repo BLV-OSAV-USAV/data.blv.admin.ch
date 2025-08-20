@@ -84,7 +84,6 @@
 414#86#6#
 415#86#50#
 416#86#65#chicken
-417#89#9#
 418#120#58#
 419#85#23#lettuce
 420#85#60#
@@ -1564,24 +1563,13 @@
 4785#2274#23#
 4791#1495#42#Goat cheeese
 4802#2288#39#plant-based cheese substitutes
-4807#2290#60#
 4808#2291#144#
 4813#2277#18#products containing raw milk 
-4814#2279#18#
 4815#2280#18#Supplements
 4816#2281#42#raw goats milk cheese
-4817#2282#18#Plant-based beverages :  oat, almond, cashew, soy drinks
-4818#2283#18#
-4819#2284#9#fresh and processed seafood
 4820#2285#18#plant-based items and apiculture products
 4821#2286#11#olive oil 
 4822#2287#18# probiotic  dietary  supplements 
-4824#2292#8#
-4825#2293#3#fresh and ready-to-eat (RTE) vegetables 
-4834#2294#1#
-4836#2296#126#
-4837#2296#65#
-4838#2296#11#butter, oils
 4839#2221#60#European seabass (Dicentrarchus labrax)
 4840#2255#6#
 4841#2228#18#
@@ -1615,58 +1603,23 @@
 4870#2240#11#
 4873#2297#1#
 4874#2244#11#
-4881#2302#16#
 4882#2303#1#
-4885#2300#6#raw milk 
-4886#2301#82#
-4888#2304#18#
-4889#2305#11#Olive Oil 
-4890#2306#8#chicken liver, chicken breast 
-4901#2311#48#
-4903#2312#104#non cow mammalian milk
 4904#2313#6#human, animal and infant formula milk
-4915#2314#3#cucumber, lettuce 
-4916#2315#18#
-4917#2316#18#Organic products
-4918#2317#82#
-4919#2317#18#
 4920#2318#18#
 4927#2232#18#
-4928#2319#18#Ready-to-heat products
-4929#2320#6#
-4930#2320#60#
-4931#2320#82#
-4932#2320#18#
-4933#2321#18#
 4935#2322#38#raw milk and raw milk cheese
-4940#2325#18#
 4943#2251#8#pork, beef, chicken
 4955#2334#8#
-4956#2333#9#Mussel (Mytilus galloprovincialis)
-4959#2331#9#Crustaceans
-4960#2330#6#animal milk, human milk 
-4961#2330#18#Infant formula 
-4962#2329#58#plant-based burgers
 4963#2326#11#fats from lard, beef tallow or butter
 4964#2328#23#vegetable-based salads
 4965#2328#50#cereals
 4966#2328#18#composite dishes
-4974#2336#10#
-4975#2337#34#Avocado
-4976#2335#6#Milk
 4979#2339#76#carrot cake 
-4981#2340#80#high sugar-sweeetened beverages
 4983#2338#35#Peanut butter
-4984#2341#9#whiteleg shrimp
-4986#2342#34#grapefruit
 4989#2343#3#
 4990#2343#34#
 4995#2344#60#
-4997#2327#86#
-4998#2310#82#surface water, groundwater and wastewater
-4999#2308#9#shrimp
 5000#2307#18#
-5004#2347#18#Ultra-processed foods
 5015#2354#18#Ultra-processed food
 5016#2348#11#red palm oil
 5017#2349#18#apple, beetroot, carrot, citrus, corn, potato, sugar beet, tomato, and wheat, and brewer’s spent gra
@@ -1676,11 +1629,6 @@
 5021#2353#115#sausage and broccoli sandwich 
 5022#2346#48#Basmati rice
 5024#2289#120#ready-to-eat pâté,  dried sausages
-5025#2309#8#Poultry
-5026#2332#23#leafy greens
-5027#2332#8#undercooked meat
-5029#2298#18#
-5030#2295#18#
 5031#2324#18#Wheat
 5036#2355#18#
 5038#2357#3#Broccoli rabe/ Rapini 
@@ -1697,4 +1645,58 @@
 5063#2366#10#
 5064#2368#9#
 5065#2369#18#
-5069#2371#1#ultraprocessed foods
+5070#89#9#
+5075#2371#1#ultraprocessed foods
+5077#2372#18#breast milk or formula
+5080#2300#6#raw milk 
+5081#2314#3#cucumber, lettuce 
+5082#2290#60#
+5083#2292#8#
+5084#2293#3#fresh and ready-to-eat (RTE) vegetables 
+5085#2308#9#shrimp
+5086#2309#8#Poultry
+5087#2310#82#surface water, groundwater and wastewater
+5089#2319#18#Ready-to-heat products
+5090#2320#6#
+5091#2320#60#
+5092#2320#82#
+5093#2320#18#
+5094#2321#18#
+5095#2332#23#leafy greens
+5096#2332#8#undercooked meat
+5097#2333#9#Mussel (Mytilus galloprovincialis)
+5098#2336#10#
+5099#2337#34#Avocado
+5100#2341#9#whiteleg shrimp
+5101#2295#18#
+5103#2302#16#
+5104#2315#18#
+5106#2325#18#
+5107#2279#18#
+5108#2282#18#Plant-based beverages :  oat, almond, cashew, soy drinks
+5109#2284#9#fresh and processed seafood
+5110#2316#18#Organic products
+5111#2296#126#
+5112#2296#65#
+5113#2296#11#butter, oils
+5114#2301#82#
+5115#2305#11#Olive Oil 
+5116#2306#8#chicken liver, chicken breast 
+5117#2311#48#
+5118#2317#82#
+5119#2317#18#
+5120#2327#86#
+5121#2329#58#plant-based burgers
+5122#2330#6#animal milk, human milk 
+5123#2330#18#Infant formula 
+5124#2331#9#Crustaceans
+5125#2342#34#grapefruit
+5126#2283#18#
+5127#2294#1#
+5128#2298#18#
+5129#2304#18#
+5130#2335#6#Milk
+5131#2340#80#high sugar-sweeetened beverages
+5132#2347#18#Ultra-processed foods
+5133#2312#104#non cow mammalian milk
+5134#2373#93#Saffron
