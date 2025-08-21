@@ -1,27 +1,28 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,7,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.14,"[2329, 2349, 2350, 2325, 2363, 2366, 2306]"
 91,7,Pestizide,pesticides,pesticidi,pesticide,1.43,"[2315, 2305, 2349, 2324, 2325, 2316, 2311]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
-43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2330, 2313]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2307, 2372]"
+43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2372, 2307]"
+203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2366, 2306]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2366, 2306]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
-203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2366, 2306]"
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2327]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
+210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2366]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2366]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
 539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
 337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]

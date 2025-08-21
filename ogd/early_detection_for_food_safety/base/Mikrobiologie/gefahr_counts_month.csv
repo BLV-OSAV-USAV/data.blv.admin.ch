@@ -1,35 +1,35 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2314, 2308, 2322, 2318]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2314, 2309, 2356]"
-90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2339, 2357, 2338]"
+90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357, 2338, 2339]"
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2309, 2356, 2314]"
+19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2308, 2322, 2318, 2314]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[2360, 2310, 2341]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2352, 2319]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2329, 2325]"
 238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
+2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2303]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2320]
-543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,3.0,[2314]
+361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
 23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,2.0,[2344]
 123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
-286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
+286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2325]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
+543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2303]
-58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
-542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2334]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,3.0,[2314]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2328]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2328]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[2328]
 521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.0,[2328]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2328]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2320]
+58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
+542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2334]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2369]
 544,1,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,[2370]

@@ -1,60 +1,61 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,7,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.14,"[2329, 2349, 2350, 2325, 2363, 2366, 2306]"
 91,7,Pestizide,pesticides,pesticidi,pesticide,1.43,"[2315, 2305, 2349, 2324, 2325, 2316, 2311]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2314, 2309, 2356]"
-19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2314, 2308, 2322, 2318]"
-90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2339, 2357, 2338]"
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2309, 2356, 2314]"
+19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2308, 2322, 2318, 2314]"
+90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357, 2338, 2339]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2352, 2319]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[2360, 2310, 2341]"
-23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
+102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
-43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2330, 2313]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
-238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2372, 2307]"
+43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
+23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2366, 2306]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2366, 2306]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2307, 2372]"
-113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
-538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
+238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
+113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
+538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2371]
+123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
+541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2320]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
+543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,3.0,[2314]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
+2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2303]
+210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2327]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
-541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
-123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]
-162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
+162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,3.0,[2314]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2366]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2366]
-537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[2303]
-172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
-525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
-539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2340]
-109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
-337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
-58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
-542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2334]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2328]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2328]
 4,1,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,[2328]
 521,1,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.0,[2328]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2328]
+537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
+189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2320]
+172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
+525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
+539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
+79,1,Zucker,sucre,zucchero,sugar,1.0,[2340]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
+337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
+58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
+542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2334]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2368]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2368]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2369]

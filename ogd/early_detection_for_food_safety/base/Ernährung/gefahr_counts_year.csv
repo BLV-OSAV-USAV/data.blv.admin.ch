@@ -12,8 +12,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[1920, 1639]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
+507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
-507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2299, 2063]"
 45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297]"
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[1578]
@@ -29,12 +29,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2282]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
+536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
-338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
+338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.0,[1598]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[1628]
 316,1,Fructose,Fructose,Fruttosio,Fructose,1.0,[1651]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
@@ -49,5 +50,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2139]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
-536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
