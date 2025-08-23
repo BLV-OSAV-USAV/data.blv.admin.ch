@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,13,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.38,"[2349, 2350, 2351, 2324, 2358, 2372, 2321, 2315, 2325, 2316, 2317, 2330, 2307]"
-11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2348, 2305]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2362, 2317]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2368, 2331]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[2330, 2313]"
-5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2363]
-10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2366]
+11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2348]
 84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
+5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2363]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2311]
-8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2306]
+10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2366]
 86,1,Bier,Bière,Birra,Beer,1.0,[2327]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2329]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2342]
