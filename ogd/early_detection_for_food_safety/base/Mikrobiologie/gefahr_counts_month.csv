@@ -1,21 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2309, 2356, 2314]"
-19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2308, 2322, 2318, 2314]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357, 2338, 2339]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[2360, 2310, 2341]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
-238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,"[2322, 2318, 2314]"
+93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.67,"[2336, 2356, 2314]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2329, 2325]"
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2360, 2341]"
+238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
 23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,2.0,[2344]
-123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
-541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
-286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
+543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2325]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
-543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
+541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2333]

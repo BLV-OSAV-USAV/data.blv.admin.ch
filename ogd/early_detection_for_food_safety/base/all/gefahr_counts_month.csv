@@ -1,30 +1,27 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2329, 2349, 2350, 2325, 2363, 2366]"
 91,6,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2315, 2349, 2324, 2325, 2316, 2311]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2336, 2309, 2356, 2314]"
-19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.75,"[2308, 2322, 2318, 2314]"
+111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2329, 2349, 2350, 2325, 2363, 2366]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357, 2338, 2339]"
+93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.67,"[2336, 2356, 2314]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
 102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[2360, 2310, 2341]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2327]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,"[2322, 2318, 2314]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2372, 2307]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2327]"
 23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
 238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2360, 2341]"
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[2313]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2308]
-528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2371]
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
-286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
-123,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[2309]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2372]
+528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2371]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,3.0,[2314]
