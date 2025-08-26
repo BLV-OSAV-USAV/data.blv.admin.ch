@@ -1,13 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2329, 2349, 2350, 2325, 2363, 2366]"
-91,5,Pestizide,pesticides,pesticidi,pesticide,1.6,"[2315, 2349, 2324, 2325, 2316]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
-102,3,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2317, 2368]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2349, 2324, 2325]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2327]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2368]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
+271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2372]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2325]
