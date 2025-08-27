@@ -1,25 +1,26 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,6,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.17,"[2329, 2349, 2350, 2325, 2363, 2366]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,"[2353, 2357, 2338, 2339]"
-91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2349, 2324, 2325]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.33,"[2364, 2319, 2352]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2349, 2324, 2325]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2368]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2327]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2336, 2356]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2348, 2331]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2327]"
 23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.5,"[2344, 2345]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2360, 2341]"
 238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2365, 2341]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2358, 2331]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2360, 2341]"
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2336]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2322]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2322]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2372]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2371]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
+529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2330]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]

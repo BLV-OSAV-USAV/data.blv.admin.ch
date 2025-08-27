@@ -37,20 +37,20 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[1650, 1818]"
 4,2,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,Bacillus cytotoxicus,1.0,"[1958, 2328]"
 31,2,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,"[1793, 2334]"
+494,2,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,"[1933, 2245]"
 8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.5,"[2143, 2028]"
-261,2,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,"[2220, 2163]"
 476,2,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,"[2239, 1888]"
 39,2,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,"[2239, 2163]"
 147,2,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,Echinococcus multilocularis,1.5,"[1952, 1905]"
 36,2,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,"[2239, 1877]"
 226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,"[2012, 2040]"
-123,2,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[2309, 2173]"
+261,2,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,"[2220, 2163]"
 333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.5,"[2206, 2328]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1783, 1974]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.5,"[2176, 1787]"
 504,2,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,"[2029, 2163]"
-494,2,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,"[1933, 2245]"
+123,2,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[2309, 2173]"
 300,2,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,"[1864, 2060]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2219]"
@@ -67,7 +67,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2175, 2169]"
 231,1,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,2.0,[1652]
 463,1,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,Burkholderia multivorans,1.0,[1708]
-103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
+529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
 486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
 515,1,Salmonella blockley,Salmonella blockley,Salmonella blockley,Salmonella blockley,2.0,[2109]
@@ -78,9 +78,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 514,1,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,Bacillus velezensis,1.0,[2104]
 496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
-447,1,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,Lactococcus lactis cremoris,1.0,[1589]
-464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
 498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
+464,1, Babesia, Babesia, Babesia, Babesia,1.0,[1711]
+103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[1720]
 156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
 510,1,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,1.0,[2087]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
