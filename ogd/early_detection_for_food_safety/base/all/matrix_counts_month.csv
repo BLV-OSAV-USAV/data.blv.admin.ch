@@ -1,22 +1,21 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,17,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.29,"[2354, 2349, 2350, 2351, 2324, 2355, 2358, 2359, 2369, 2372, 2321, 2325, 2330, 2347, 2320, 2319, 2328]"
+18,14,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.29,"[2354, 2349, 2350, 2351, 2324, 2355, 2358, 2359, 2369, 2372, 2325, 2330, 2347, 2328]"
 9,6,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2365, 2368, 2333, 2341, 2331, 2374]"
-6,4,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.25,"[2330, 2335, 2320, 2379]"
-60,3,Fische,Poissons,Pesce,Fish,1.67,"[2344, 2356, 2320]"
+6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2330, 2335, 2379]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.67,"[2334, 2360, 2332]"
 23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.33,"[2375, 2332, 2328]"
 10,2,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,"[2366, 2336]"
-82,2,Wasser,Eau,Acqua,Waters,1.5,"[2362, 2320]"
+60,2,Fische,Poissons,Pesce,Fish,1.5,"[2344, 2356]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2337, 2342]"
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2326, 2348]"
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.0,[2338]
 115,1,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,[2353]
-38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2322]
+62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2363]
+82,1,Wasser,Eau,Acqua,Waters,1.0,[2362]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2361]
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2357]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2346]
-62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
 1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2371]
 84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2364]
