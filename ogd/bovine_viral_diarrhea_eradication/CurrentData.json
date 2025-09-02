@@ -1,23 +1,23 @@
 [
     {
         "BVD_AMPEL": "green",
-        "N_FARMS": 33084.0,
-        "PERCENT": 96.4,
-        "diff": 76,
-        "last_update": "31.07.2025"
+        "N_FARMS": 33129,
+        "PERCENT": 96.5,
+        "diff": 44,
+        "last_update": "31.08.2025"
     },
     {
         "BVD_AMPEL": "orange",
-        "N_FARMS": 1196.0,
-        "PERCENT": 3.5,
-        "diff": -65,
-        "last_update": "31.07.2025"
+        "N_FARMS": 1166,
+        "PERCENT": 3.4,
+        "diff": -29,
+        "last_update": "31.08.2025"
     },
     {
         "BVD_AMPEL": "red",
-        "N_FARMS": 41.0,
+        "N_FARMS": 31,
         "PERCENT": 0.1,
-        "diff": 0,
-        "last_update": "31.07.2025"
+        "diff": -10,
+        "last_update": "31.08.2025"
     }
 ]
