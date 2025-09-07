@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,35,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[1624, 1623, 1693, 1678, 1648, 1737, 1744, 1746, 1791, 2009, 2016, 2105, 2113, 2124, 2111, 2068, 2141, 2137, 2118, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2354, 2359, 2295, 2282, 2283, 2298, 2304, 2347]"
+18,33,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.15,"[1693, 1678, 1648, 1737, 1744, 1746, 1791, 2009, 2016, 2105, 2113, 2124, 2111, 2068, 2141, 2137, 2118, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2354, 2359, 2295, 2282, 2283, 2298, 2304, 2347]"
 1,10,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.2,"[1688, 1824, 1898, 1996, 2001, 1915, 2059, 2371, 2294, 2297]"
 80,8,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,"[1729, 1892, 1987, 1907, 2056, 2191, 2266, 2340]"
 58,5,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[1710, 1809, 1997, 1916, 2043]"
@@ -8,11 +8,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 39,4,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,"[1886, 1997, 1920, 2229]"
 38,3,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,"[1823, 2015, 2116]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[1983, 2093, 2335]"
-21,2,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,"[1639, 2361]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[1681, 1938]"
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2266, 2326]"
 100,2,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,"[1917, 2013]"
 60,2,Fische,Poissons,Pesce,Fish,1.5,"[1688, 1727]"
-34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[1681, 1938]"
+21,2,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,"[1639, 2361]"
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[1681]
 19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[1649]
 143,1,Kaffee und Kaffeezubereitungen (inkl. Pulver),Café et préparations à base de café (poudre incluse),Caffè e preparazioni a base di caffè (inclusa polvere),Coffee And Coffe-Based Preparations (Inlc Powdered),1.0,[1742]
