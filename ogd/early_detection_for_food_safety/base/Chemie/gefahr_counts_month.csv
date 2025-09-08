@@ -2,12 +2,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2349, 2350, 2363, 2366]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2368]"
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2376]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2348]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2372]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]
@@ -19,7 +19,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2366]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
 337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
-58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
-542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2368]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2368]
