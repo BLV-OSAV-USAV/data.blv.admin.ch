@@ -1,14 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2349, 2350, 2363, 2366]"
+518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.67,"[2389, 2392, 2358]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2389, 2392, 2348]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2349, 2351, 2368]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2389, 2358]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2389, 2348]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2351, 2368]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2376]
-230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2362]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2376]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2349]
+96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.0,[2392]
+310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2372]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]

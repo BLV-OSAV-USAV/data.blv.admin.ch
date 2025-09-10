@@ -1,4 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2389]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2389]
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2389, 2392]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2389, 2392]"
+310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
+96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.0,[2392]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
