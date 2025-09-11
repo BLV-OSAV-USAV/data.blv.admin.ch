@@ -3,7 +3,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 26,99,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.45,"[92, 314, 303, 811, 987, 828, 960, 970, 1010, 1032, 173, 420, 990, 1185, 1115, 410, 1266, 1349, 1364, 1368, 1485, 1793, 267, 253, 223, 763, 935, 1120, 1453, 1676, 1694, 1863, 2080, 2177, 2364, 2319, 2391, 24, 254, 979, 1771, 1843, 1807, 1929, 1871, 2352, 968, 1049, 1121, 1347, 1205, 1732, 1677, 2270, 164, 888, 1057, 1469, 1144, 1750, 222, 1422, 1068, 2011, 2271, 1528, 101, 126, 148, 449, 893, 927, 920, 943, 1024, 1099, 989, 75, 195, 194, 356, 1244, 1419, 1599, 1629, 1654, 242, 1697, 1839, 2073, 2013, 2103, 2138, 1784, 1830, 1803, 2108, 2190, 2227]"
 1,71,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.38,"[28, 193, 239, 278, 723, 876, 897, 970, 1021, 1037, 1032, 1143, 1065, 1153, 1165, 1414, 1333, 1343, 1351, 1380, 1793, 1909, 23, 875, 1213, 2032, 2085, 2030, 2248, 1044, 1201, 1771, 1619, 1843, 1871, 2077, 892, 1049, 2228, 201, 164, 513, 1093, 1469, 1144, 1758, 2220, 1610, 22, 31, 234, 380, 640, 805, 922, 971, 1106, 1196, 1295, 1366, 1382, 1139, 1718, 1660, 1813, 1822, 2314, 1784, 2102, 2153, 2175]"
 19,53,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.55,"[37, 723, 347, 515, 528, 503, 795, 897, 816, 970, 1113, 1115, 1281, 1246, 1399, 1515, 1490, 1524, 1909, 1944, 23, 683, 2308, 2391, 854, 1513, 1785, 2322, 1082, 888, 1081, 2318, 800, 1348, 1821, 1561, 22, 125, 563, 889, 876, 920, 1106, 194, 357, 1436, 1479, 1627, 1949, 2073, 2314, 1784, 2134]"
-244,51,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.31,"[1647, 919, 1168, 707, 1414, 1333, 1354, 1579, 1650, 1735, 1965, 1228, 1452, 2102, 2292, 487, 923, 1930, 1883, 1327, 1340, 545, 827, 1659, 2089, 2275, 2360, 454, 544, 930, 1262, 463, 732, 1366, 1393, 1706, 1660, 1657, 1813, 2005, 2287, 2045, 2203, 2233, 2310, 2293, 1707, 2118, 2205, 2173, 2341]"
+244,52,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[1647, 919, 1168, 707, 1414, 1333, 1354, 1579, 1650, 1735, 1965, 1228, 1452, 2102, 2292, 487, 923, 1930, 1883, 1327, 1340, 545, 827, 1659, 2089, 2275, 2360, 454, 544, 930, 1262, 463, 732, 1366, 1393, 1706, 1660, 1657, 1813, 2005, 2287, 2045, 2203, 2233, 2310, 2293, 2394, 1707, 2118, 2205, 2173, 2341]"
 86,34,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.65,"[87, 610, 970, 1803, 1073, 990, 1214, 1281, 1399, 1490, 27, 1863, 670, 1843, 709, 758, 992, 705, 1469, 998, 1059, 2089, 2265, 5, 103, 372, 1196, 189, 355, 1074, 1674, 1822, 2007, 2174]"
 99,32,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.53,"[20, 278, 502, 777, 940, 1073, 1296, 1519, 1503, 558, 903, 1507, 1864, 626, 1327, 1555, 705, 1469, 789, 1932, 1691, 434, 741, 841, 995, 1275, 174, 1072, 1139, 2203, 1872, 2290]"
 63,32,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[879, 74, 407, 438, 919, 1090, 133, 307, 376, 707, 1065, 1333, 1354, 1376, 1910, 923, 2325, 139, 201, 2041, 292, 1429, 2081, 1501, 73, 203, 930, 279, 823, 1647, 2185, 2118]"
@@ -11,7 +11,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,29,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.59,"[218, 256, 869, 682, 1562, 1781, 2329, 577, 1619, 973, 475, 2325, 1463, 2176, 838, 2222, 1558, 2002, 120, 699, 1169, 1259, 352, 583, 1626, 1787, 1842, 2186, 2213]"
 106,24,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.25,"[37, 1667, 239, 857, 912, 1184, 1150, 1268, 2110, 2391, 1571, 1049, 505, 1144, 2181, 769, 918, 1211, 1287, 194, 851, 2328, 1830, 1803]"
 87,20,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.55,"[609, 1214, 847, 990, 1972, 1851, 758, 992, 1534, 5, 372, 1181, 1074, 1583, 1704, 1754, 1674, 2007, 2174, 2233]"
-181,19,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.74,"[1906, 1323, 1780, 1900, 2277, 1536, 116, 1335, 2255, 2076, 432, 1313, 1406, 1874, 2031, 2250, 1797, 2159, 2300]"
+181,20,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.75,"[1906, 2393, 1323, 1780, 1900, 2277, 1536, 116, 1335, 2255, 2076, 432, 1313, 1406, 1874, 2031, 2250, 1797, 2159, 2300]"
 9,19,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.16,"[239, 476, 1168, 1184, 160, 1490, 2292, 1801, 2114, 1469, 862, 1422, 694, 950, 766, 1382, 1594, 1784, 1830]"
 90,16,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.44,"[7, 113, 105, 970, 40, 11, 348, 1371, 2353, 2098, 649, 2357, 306, 1569, 2338, 2339]"
 2,14,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.71,"[484, 774, 1091, 61, 834, 2303, 1749, 1726, 13, 1247, 1679, 2289, 2060, 2150]"
@@ -112,20 +112,20 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 257,2,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,Helicobacter pullorum,2.0,"[536, 1203]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.0,"[316, 1577]"
 241,2,Alternariol,alternariol,alternariolo,alternariol,1.5,"[1169, 1890]"
-146,2,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,3.0,"[551, 84]"
-521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
+485,2,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[1811, 2395]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2175, 2169]"
+521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
 296,2,Providencia spp.,Providencia spp.,Providencia spp.,Providencia spp.,1.5,"[922, 724]"
+146,2,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,3.0,"[551, 84]"
 320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,2.0,"[922, 2187]"
-39,2,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,"[2239, 2163]"
 375,2,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,2.0,"[2202, 1170]"
 266,2,Legionella,Legionella,Legionella,Legionella,1.5,"[558, 2163]"
 409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
+39,2,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,"[2239, 2163]"
 470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2044, 1743]"
-433,1,Poliovirus,Poliovirus,Poliovirus,Poliovirus,1.0,[1523]
 384,1,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,Salmonella enterica Serovar Abortusovis,1.0,[1218]
 403,1,Mykobakterien,Mycobacterium,Mycobacterium,Mycobacterium,1.0,[1354]
-486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
+433,1,Poliovirus,Poliovirus,Poliovirus,Poliovirus,1.0,[1523]
 434,1,Coxsackie-Virus,coxsackievirus,Coxsackie virus,coxsackieviruses,1.0,[1523]
 347,1,Vibrio metschnikovii,Vibrio metschnikovii,Vibrio metschnikovii,Vibrio metschnikovii,2.0,[1067]
 76,1,colistin,colistine,colistina,Colistin,1.0,[376]
@@ -149,8 +149,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 495,1,Yersinia spp.,Yersinia spp.,Yersinia spp.,Yersinia spp.,1.0,[1953]
 444,1,Salmonella Derby,Salmonella Derby,Salmonella Derby,Salmonella Derby,1.0,[1573]
 388,1,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,Clostridium butyricum,2.0,[1242]
+486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 265,1,diastatische Hefe,levure diastatique,lievito diastatico,diastatic yeast,2.0,[555]
-454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 406,1,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,Microsporidium theragrae,1.0,[1383]
 37,1,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,Microsporidia spp.,1.0,[1383]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
@@ -160,7 +160,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
 510,1,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,1.0,[2087]
 325,1,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,Arsenophonus phytopathogenicus,1.0,[954]
-391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]
+454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
 529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
 394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
@@ -189,8 +189,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,3.0,[456]
 100,1,Frühsommer-Meningoenzephalitis (FSME),L'encéphalite à tiques,Encefalite trasmessa da zecche,Tick-borne encephalitis (TBE),1.0,[625]
 245,1,Streptococcus equi,Streptococcus equi,Streptococcus equi,Streptococcus equi,3.0,[456]
+391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
-512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[442]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),2.0,[435]
 207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
@@ -204,25 +204,25 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
 385,1,Usutu-Virus,Virus d'Usutu,Usutu virus,Usutu virus (USUV),1.0,[1237]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
-185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,2.0,[989]
+512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[73]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 25,1,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,SARS-CoV-2,2.0,[190]
 338,1,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),2.0,[989]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,2.0,[989]
 358,1,Nisin,Nisine,Nisina,Nisin,2.0,[1124]
-305,1,Microbacterium,Microbacterium,Microbacterium,Microbacterium,2.0,[803]
+393,1,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,2.0,[1278]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
 452,1,Hefen,Levure,Lievito,Yeast,1.0,[1615]
+305,1,Microbacterium,Microbacterium,Microbacterium,Microbacterium,2.0,[803]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[1577]
-6,1,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,2.0,[406]
-485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[1811]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[1635]
 511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
 277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2164]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
 355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
 519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,2.0,[2187]
-393,1,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,Salmonella arizonae,2.0,[1278]
+6,1,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,Staphylococcus argenteus,2.0,[406]
 32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2259]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
