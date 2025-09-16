@@ -1,7 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2389, 2392]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2389, 2392]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2397]
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2406, 2398]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401]"
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2400]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2400]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2406]
+483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2406]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2401]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2401]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,2.0,[2392]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,2.0,[2392]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),2.0,[2392]
-545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
