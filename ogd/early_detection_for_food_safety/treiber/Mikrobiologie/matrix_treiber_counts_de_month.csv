@@ -1,7 +1,9 @@
-matrix_id,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt,Wirtschaft
-6,1,0,1
-8,0,0,1
-9,1,0,0
-18,1,0,0
-81,0,1,0
-93,0,1,0
+matrix_id,Mikrobiome und Lebensmittelsicherheit,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt,Wirtschaft
+3,0,1,0,0,0
+5,1,0,0,0,0
+6,0,0,1,0,1
+8,0,0,0,0,1
+9,0,0,1,0,0
+18,0,0,1,0,0
+81,0,0,0,1,0
+93,0,0,0,1,0
