@@ -1,13 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2397, 2401, 2366]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.33,"[2406, 2372, 2398]"
-102,2,Blei,Plomb,Piombo,Lead,1.0,"[2400, 2368]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2400, 2368]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2392, 2389]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2392, 2389]"
+518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.67,"[2392, 2389, 2413]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2401]
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2392, 2389]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2400]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2400]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2401]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2406]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2406]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
@@ -16,13 +16,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[2366]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,[2366]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),2.0,[2366]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),2.0,[2366]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2368]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2368]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2367]
-337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
