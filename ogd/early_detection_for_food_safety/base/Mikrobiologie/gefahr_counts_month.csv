@@ -1,13 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.2,"[2410, 2407, 2403, 2411, 2391]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2401, 2391]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2401, 2391]"
 97,1,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,2.0,[2382]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,[2412]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2393]
 546,1,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,1.0,[2403]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2403]
 159,1,Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),1.0,[2403]
-114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,[2412]
+547,1,Kolibakterien,Batteri coliformi,Bactéries coliformes,Coliform bacteria,1.0,[2415]
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[2404]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2401]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2402]
