@@ -3,24 +3,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 528,6,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2223, 2298, 2371, 2396, 2283, 2224]"
 165,5,Cadmium,Cadmium,Cadmio,Cadmium,1.2,"[1917, 1836, 1689, 1898, 1908]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[1917, 1836, 1689, 1908]"
-111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[1653, 2282, 1886, 1923]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1689, 1908]"
 187,3,Arsen,Arsenic,Arsenico,Arsenic,1.33,"[1917, 1836, 1898]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
-402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2282, 1886, 1923]"
 45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2407, 2013]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 1908]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2407, 2013]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
+402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
-246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[1653]
-178,1,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.0,[1653]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2282]
@@ -28,7 +26,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[1696]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[1664]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
