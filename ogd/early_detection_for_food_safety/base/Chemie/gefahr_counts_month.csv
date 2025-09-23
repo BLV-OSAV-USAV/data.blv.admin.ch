@@ -1,20 +1,25 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.33,"[2406, 2426, 2398]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2392, 2389, 2417]"
 518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.67,"[2392, 2389, 2413]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2400, 2418]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2406, 2398]"
-271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2400]
+425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2400]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2406]
-535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2406]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2376]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2401]
+535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2401]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2418]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2418]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2401]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2378]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
+180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2426]
+548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,2.0,[2426]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2427]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2420]

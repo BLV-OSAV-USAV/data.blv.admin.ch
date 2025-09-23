@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-60,2,Fische,Poissons,Pesce,Fish,1.0,"[2398, 2416]"
-6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2403, 2399]"
-93,2,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,"[2400, 2401]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2405, 2399]"
-9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2404, 2416]"
-86,1,Bier,Bière,Birra,Beer,1.0,[2406]
-5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2410]
-3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2407]
+9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2416, 2421, 2425]"
+5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2410, 2427]"
+60,2,Fische,Poissons,Pesce,Fish,1.0,"[2416, 2419]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2407, 2424]"
+27,2,Pilze,Champignons,Funghi,Mushrooms,1.0,"[2418, 2422]"
 18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[2411]
 30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",2.0,[2412]
-25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
+25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
 11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2414]
+48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2420]
+24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[2423]
