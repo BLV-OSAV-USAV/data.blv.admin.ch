@@ -1,6 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2410, 2407, 2411, 2422]"
-535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2410, 2411, 2422]"
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,[2412]
 547,1,Kolibakterien,Batteri coliformi,Bactéries coliformes,Coliform bacteria,1.0,[2415]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2418]
@@ -10,12 +9,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2423]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2419]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2424]
-96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2408]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2426]
 180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2426]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,2.0,[2426]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2428]
+23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2429]
+365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,2.0,[2413]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2417]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2427]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2420]
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[2421]
+535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
