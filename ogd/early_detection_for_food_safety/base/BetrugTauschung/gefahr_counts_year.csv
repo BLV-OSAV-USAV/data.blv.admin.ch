@@ -1,12 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+102,3,Blei,Plomb,Piombo,Lead,2.0,"[2436, 1836, 2268]"
 103,2,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,"[1720, 1866]"
-102,2,Blei,Plomb,Piombo,Lead,2.0,"[1836, 2268]"
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2279]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,2.0,[2127]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[1836]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[1836]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,2.0,[2268]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2268]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2287]
@@ -14,3 +12,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[1993]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,2.0,[2268]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2268]
