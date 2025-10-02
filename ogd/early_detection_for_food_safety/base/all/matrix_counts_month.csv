@@ -1,26 +1,29 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,6,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.17,"[2396, 2411, 2430, 2437, 2438, 2444]"
+18,8,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.12,"[2396, 2411, 2430, 2437, 2438, 2444, 2450, 2451]"
 9,5,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2404, 2416, 2421, 2425, 2390]"
 60,4,Fische,Poissons,Pesce,Fish,1.0,"[2398, 2416, 2419, 2429]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.33,"[2403, 2399, 2393]"
-93,3,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.33,"[2400, 2401, 2436]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2405, 2399, 2442]"
 5,3,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2410, 2427, 2428]"
-81,2,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,"[2397, 2432]"
+93,3,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.33,"[2400, 2401, 2436]"
 24,2,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,"[2395, 2423]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2407, 2424]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[2391, 2441]"
+81,2,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,"[2397, 2432]"
 27,2,Pilze,Champignons,Funghi,Mushrooms,1.0,"[2418, 2422]"
-86,1,Bier,Bière,Birra,Beer,1.0,[2406]
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2407, 2424]"
+80,2,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,"[2439, 2447]"
+118,2,Rind,Boeuf,Manzo,Beef,1.0,"[2454, 2446]"
+48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[2420, 2453]"
+1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2435, 2452]"
 82,1,Wasser,Eau,Acqua,Waters,1.0,[2389]
-30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",2.0,[2412]
-25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
+86,1,Bier,Bière,Birra,Beer,1.0,[2406]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
-48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2420]
-11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2414]
+30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",2.0,[2412]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,[2431]
+11,1,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,[2414]
+25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
 15,1,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,1.0,[2434]
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2435]
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[2433]
-80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2439]
 32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,2.0,[2440]
+98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2445]
+54,1,Geflügel,Volailles,Pollame,Poultry,2.0,[2455]
