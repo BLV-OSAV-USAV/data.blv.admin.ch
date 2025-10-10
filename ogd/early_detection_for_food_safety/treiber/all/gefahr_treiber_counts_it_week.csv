@@ -1,9 +1,11 @@
-gefahr_id,Cambiamento climatico,Evoluzione microbica e resistenza agli antibiotici,Ecologia
-1,1,0,0
-26,0,1,0
-86,1,0,0
-93,1,0,0
-99,1,0,0
-125,0,1,2
-244,1,1,1
-518,0,0,1
+gefahr_id,Cambiamento climatico,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Ecologia
+1,1,0,0,0
+7,0,0,0,1
+26,0,0,1,0
+86,1,0,0,0
+93,1,0,0,0
+99,1,0,0,0
+125,0,0,1,2
+244,1,0,1,1
+518,0,0,0,1
+528,0,1,0,0

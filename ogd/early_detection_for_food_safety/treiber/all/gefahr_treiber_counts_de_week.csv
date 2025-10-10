@@ -1,9 +1,11 @@
-gefahr_id,Klimawandel,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt
-1,1,0,0
-26,0,1,0
-86,1,0,0
-93,1,0,0
-99,1,0,0
-125,0,1,2
-244,1,1,1
-518,0,0,1
+gefahr_id,Klimawandel,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt
+1,1,0,0,0
+7,0,0,0,1
+26,0,0,1,0
+86,1,0,0,0
+93,1,0,0,0
+99,1,0,0,0
+125,0,0,1,2
+244,1,0,1,1
+518,0,0,0,1
+528,0,1,0,0
