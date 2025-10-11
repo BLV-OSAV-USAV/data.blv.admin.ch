@@ -1,9 +1,11 @@
-gefahr_id,Changement climatique,Évolution microbienne et antibiorésistance,Ecologie
-1,1,0,0
-7,0,0,1
-26,0,1,0
-86,1,0,0
-93,1,0,0
-99,1,0,0
-125,0,1,1
-244,1,1,1
+gefahr_id,Changement climatique,Comportement des consommateurs et tendances de consommation,Évolution microbienne et antibiorésistance,Société,Ecologie
+1,1,0,0,0,0
+7,0,0,0,0,1
+26,0,0,1,0,0
+86,1,0,0,0,0
+89,0,1,0,1,0
+93,1,0,0,0,0
+99,1,0,0,0,0
+125,0,0,1,0,1
+244,1,0,1,0,1
+261,0,1,0,1,0

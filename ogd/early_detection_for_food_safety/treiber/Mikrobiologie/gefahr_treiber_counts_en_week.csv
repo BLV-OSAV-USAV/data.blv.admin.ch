@@ -1,9 +1,11 @@
-gefahr_id,Climate change,Microbial evolution and antibiotic resistance,Ecology
-1,1,0,0
-7,0,0,1
-26,0,1,0
-86,1,0,0
-93,1,0,0
-99,1,0,0
-125,0,1,1
-244,1,1,1
+gefahr_id,Climate change,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology
+1,1,0,0,0,0
+7,0,0,0,0,1
+26,0,0,1,0,0
+86,1,0,0,0,0
+89,0,1,0,1,0
+93,1,0,0,0,0
+99,1,0,0,0,0
+125,0,0,1,0,1
+244,1,0,1,0,1
+261,0,1,0,1,0

@@ -1,18 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2406, 2426, 2398, 2440]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401, 2450]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2441, 2401, 2428]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401, 2450]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2400, 2418]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2456, 2413]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2417]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2456, 2413]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2418, 2438]"
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2406]
 425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2400]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2406]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2418]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2406]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2400]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2401]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[2434]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2418]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2408]
 535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
@@ -22,3 +22,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2437]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[2420]
+550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
