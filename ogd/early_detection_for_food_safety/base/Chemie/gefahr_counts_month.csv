@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2406, 2426, 2398, 2440]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2441, 2401, 2428]"
-111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2397, 2401, 2450]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2401, 2450]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2400, 2418]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2417]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2456, 2413]"
