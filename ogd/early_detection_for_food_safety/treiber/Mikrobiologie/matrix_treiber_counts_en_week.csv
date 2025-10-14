@@ -1,4 +1,9 @@
-matrix_id,Climate change,Technological innovations and scientific advances,Consumer behaviour and consumption trends,Society,Ecology
-1,0,1,0,0,0
-18,1,0,1,1,0
-23,0,0,0,0,1
+matrix_id,Climate change,Technological innovations and scientific advances,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Ecology,Economy
+1,0,1,0,0,0,0,0,0
+3,0,0,1,0,0,0,1,1
+8,0,0,0,0,1,0,0,0
+18,1,0,0,1,0,1,0,0
+23,0,0,0,0,0,0,1,0
+27,0,0,0,0,1,0,1,0
+34,0,0,1,0,0,0,1,1
+42,0,0,0,1,0,0,0,0
