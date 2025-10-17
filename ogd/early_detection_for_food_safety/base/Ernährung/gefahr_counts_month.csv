@@ -1,11 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,3,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2466, 2445, 2448]"
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2407]
-333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2409]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2478]
+528,4,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.25,"[2483, 2466, 2445, 2448]"
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2478]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2478]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[2439]
