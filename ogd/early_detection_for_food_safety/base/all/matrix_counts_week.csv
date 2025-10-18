@@ -1,16 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.33,"[2468, 2480, 2483]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,2.0,"[2467, 2476]"
+8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2475, 2488]"
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2477, 2479]"
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2469]
-5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2473]
-8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2475]
-60,1,Fische,Poissons,Pesce,Fish,1.0,[2470]
-27,1,Pilze,Champignons,Funghi,Mushrooms,1.0,[2471]
+18,2,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[2480, 2483]"
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2472]
+27,1,Pilze,Champignons,Funghi,Mushrooms,1.0,[2471]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2472]
-42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2474]
+5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[2473]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2476]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2478]
 49,1,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,[2481]
 148,1,Wein,Vin,Vino,Wine,1.0,[2481]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2482]
+100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[2487]
+38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",2.0,[2484]
+155,1,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,[2486]
