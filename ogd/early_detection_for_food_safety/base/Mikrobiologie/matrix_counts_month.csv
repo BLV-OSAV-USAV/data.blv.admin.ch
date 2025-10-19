@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,5,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2411, 2430, 2451, 2464, 2468]"
+18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2430, 2451, 2464, 2468]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2442, 2457, 2475, 2488]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2424, 2472]"
 60,2,Fische,Poissons,Pesce,Fish,1.0,"[2419, 2429]"
-42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
-27,2,Pilze,Champignons,Funghi,Mushrooms,1.0,"[2422, 2471]"
 118,2,Rind,Boeuf,Manzo,Beef,1.0,"[2454, 2446]"
-30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",2.0,[2412]
-113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2424, 2472]"
+27,2,Pilze,Champignons,Funghi,Mushrooms,1.0,"[2422, 2471]"
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2421]
+113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,[2431]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[2423]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2453]

@@ -5,12 +5,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,27,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.26,"[1781, 1979, 2066, 2282, 2329, 2397, 2401, 2017, 1886, 2325, 2176, 2450, 2222, 1923, 2002, 2246, 2363, 2366, 2349, 1787, 1884, 1842, 1998, 2186, 2213, 2350, 2306]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.19,"[2406, 1854, 2372, 1753, 2033, 2024, 2426, 1762, 1776, 2023, 2398, 2151, 2440, 1755, 1918, 2003, 1988, 2140, 2241, 1795, 1806, 1826, 1878, 2307, 2243, 2262]"
 1,23,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.13,"[1793, 1909, 2032, 2085, 2030, 2248, 2402, 1771, 1843, 1871, 2077, 2228, 1758, 2220, 1813, 1822, 2314, 2454, 2464, 1784, 2102, 2153, 2175]"
-102,22,Blei,Plomb,Piombo,Lead,1.23,"[1774, 1917, 1963, 2269, 2400, 2418, 2436, 2478, 1747, 1778, 1836, 2024, 2317, 1974, 2254, 2351, 2368, 2268, 2487, 1908, 1859, 2243]"
 244,22,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.32,"[1965, 2102, 2292, 1930, 1883, 2089, 2275, 2360, 1813, 2005, 2287, 2045, 2203, 2233, 2310, 2293, 2462, 2464, 2118, 2205, 2173, 2341]"
-128,19,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.11,"[1917, 1963, 2122, 2269, 2400, 2476, 2478, 1747, 2152, 2188, 1783, 1974, 2351, 2349, 2368, 2268, 2487, 1908, 2193]"
+102,21,Blei,Plomb,Piombo,Lead,1.24,"[1774, 1917, 1963, 2269, 2400, 2418, 2436, 2478, 1778, 1836, 2024, 2317, 1974, 2254, 2351, 2368, 2268, 2487, 1908, 1859, 2243]"
 91,19,Pestizide,pesticides,pesticidi,pesticide,1.26,"[2279, 1938, 2315, 2305, 2441, 2401, 2117, 2324, 2325, 2316, 2311, 2428, 1926, 1755, 2349, 2485, 2209, 2261, 2473]"
-165,17,Cadmium,Cadmium,Cadmio,Cadmium,1.18,"[1774, 1917, 1963, 2269, 2418, 1747, 2188, 1836, 1974, 2230, 2254, 2368, 2438, 1913, 1898, 1908, 1859]"
-187,17,Arsen,Arsenic,Arsenico,Arsenic,1.06,"[1917, 2099, 2269, 2418, 1747, 1836, 1760, 1974, 2254, 2487, 1913, 1848, 1898, 1859, 2180, 2215, 2243]"
+128,18,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.11,"[1917, 1963, 2122, 2269, 2400, 2476, 2478, 2152, 2188, 1783, 1974, 2351, 2349, 2368, 2268, 2487, 1908, 2193]"
+165,16,Cadmium,Cadmium,Cadmio,Cadmium,1.19,"[1774, 1917, 1963, 2269, 2418, 2188, 1836, 1974, 2230, 2254, 2368, 2438, 1913, 1898, 1908, 1859]"
+187,16,Arsen,Arsenic,Arsenico,Arsenic,1.06,"[1917, 2099, 2269, 2418, 1836, 1760, 1974, 2254, 2487, 1913, 1848, 1898, 1859, 2180, 2215, 2243]"
 181,14,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.86,"[1906, 2393, 1780, 1900, 2277, 2255, 2076, 1874, 2031, 2250, 2484, 1797, 2159, 2300]"
 19,14,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.36,"[1909, 1944, 2308, 1785, 2322, 2318, 1821, 1949, 2073, 2314, 2391, 2454, 1784, 2134]"
 119,12,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 1782, 2055, 2143, 2198, 1749, 2028, 2119, 1976, 2333, 1928, 2150]"
@@ -67,9 +67,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 277,3,Microcystine,Microcystine,Microcistina,Microcystin,1.33,"[2026, 2164, 2280]"
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.67,"[1966, 2281, 2060]"
 379,3,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.33,"[1774, 1902, 2482]"
-261,3,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,"[2220, 2468, 2163]"
 89,3,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,"[2468, 1974, 2060]"
 468,3,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.33,"[2142, 1980, 2139]"
+261,3,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,"[2220, 2468, 2163]"
 31,2,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,"[1793, 2334]"
 69,2,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,"[2247, 2135]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[2269, 1898]"
@@ -83,38 +83,38 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 300,2,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,"[1864, 2060]"
 308,2,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1979, 2017]"
-521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
 202,2,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.5,"[2287, 2231]"
+521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
 58,2,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[1993, 2342]"
 318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[2144, 2216]"
+344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2254, 2487]"
 522,2,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,"[2384, 2211]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1898, 2100]"
-344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2254, 2487]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
-123,2,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[2309, 2173]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.5,"[2426, 1755]"
+332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,"[2157, 2213]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2426, 2479]"
-392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
-470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2044, 2421]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.5,"[2426, 1755]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
+470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2044, 2421]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,"[1754, 2174]"
+392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 5,2,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,"[2472, 2328]"
-530,2,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,"[2460, 2259]"
-504,2,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,"[2029, 2163]"
-401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,"[2409, 1818]"
-494,2,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,"[1933, 2245]"
-8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.5,"[2143, 2028]"
-473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
-153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,"[2451, 2150]"
+123,2,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[2309, 2173]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
-56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[1747, 2268]"
+401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,"[2409, 1818]"
+504,2,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.0,"[2029, 2163]"
+153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,"[2451, 2150]"
+473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
+8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.5,"[2143, 2028]"
+494,2,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,"[1933, 2245]"
+530,2,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,"[2460, 2259]"
 360,2,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.5,"[1952, 1905]"
 448,2,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,"[2070, 2125]"
-332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,"[2157, 2213]"
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 486,1,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,Salmonella Umbilo,1.0,[1814]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
+432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2212]
 506,1,Shigella flexneri,Shigella flexneri,Shigella flexneri,Shigella flexneri,1.0,[2040]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
@@ -147,38 +147,39 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
 351,1,Brom,brom,bromo,bromine,1.0,[1955]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
-432,1,Zink,Zinc,Zinco,Zinc,2.0,[1774]
 520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
-553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
-498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
-496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
 218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
-422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
+553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
+496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
+57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,2.0,[2431]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
-442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
+442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
-57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,2.0,[2431]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2166]
+216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
-365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
+365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.0,[1865]
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
-216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
-541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
+306,1,Furan,Furane,Furano,Furan,2.0,[1770]
 529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
+541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
+498,1,Helicobacter suis,Helicobacter suis,Helicobacter suis,Helicobacter suis,1.0,[1957]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 510,1,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,Salmonella enterica serovar Braenderup,1.0,[2087]
 156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.0,[2270]
-545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
+545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
+493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[1918]
 376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1962]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
@@ -187,30 +188,29 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),2.0,[1841]
 267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1847]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
-306,1,Furan,Furane,Furano,Furan,2.0,[1770]
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
-164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
-355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
-211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
-511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
+269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
-499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
+211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
+519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,2.0,[2187]
+355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
+511,1,Parechovirus,Paréchovirus,Parechovirus,Parechovirus,2.0,[2095]
 32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,2.0,[2187]
-519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,2.0,[2187]
-210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,2.0,[2332]
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2333]
-284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2268]
+210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 549,1,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,1.0,[2442]
 477,1,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,Opisthorchis felineus,2.0,[1789]
 41,1,Schimmelpilz,moisissure,muffa,mould,1.0,[1748]
 80,1,Salz,sel,sale,salt,1.0,[1825]
 241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[1890]
-269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[1988]
-493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
+164,1,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,[1988]
+499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 59,1,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,[1890]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[1942]
