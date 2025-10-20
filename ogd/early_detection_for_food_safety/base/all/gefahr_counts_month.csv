@@ -2,50 +2,48 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 26,6,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2488, 2453, 2471, 2461, 2422, 2446]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2441, 2428, 2485, 2473]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2418, 2436, 2478, 2487]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2417, 2462]"
 528,4,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.25,"[2483, 2466, 2445, 2448]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2462]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478, 2487]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2418, 2487]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2450, 2474]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2418, 2438]"
-548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2426, 2479]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2437, 2481]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,"[2426, 2440]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2418, 2438]"
+548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2426, 2479]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2454, 2464]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2462, 2464]"
+485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2424]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[2434]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2456]
-530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2460]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
 153,1,Hepatitis,Hépatite,Epatite,Hepatitis,1.0,[2451]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[2451]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2451]
+530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2460]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2456]
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2460]
-547,1,Kolibakterien,Batteri coliformi,Bactéries coliformes,Coliform bacteria,1.0,[2415]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2419]
-485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2424]
-425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,[2423]
-261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2468]
+425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2468]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2472]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
-392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
-57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,2.0,[2431]
-365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
-23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2429]
-7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2465]
-98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2427]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2475]
+2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2451]
 180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2426]
-535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
+392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
+23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2429]
+57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,2.0,[2431]
+98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
+365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
+7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2465]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2427]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2475]
+261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2468]
 549,1,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,1.0,[2442]
+371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),2.0,[2455]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2454]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2464]
