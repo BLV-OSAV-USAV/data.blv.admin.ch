@@ -1,18 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.33,"[98, 2344, 2345]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[258, 989]"
-376,2,Histamin,Histamine,Istamina,Histamine,1.0,"[1173, 1962]"
 297,2,Gluten,gluten,glutine,gluten,1.5,"[2212, 725]"
+376,2,Histamin,Histamine,Istamina,Histamine,1.0,"[1173, 1962]"
 102,1,Blei,Plomb,Piombo,Lead,1.0,[258]
-209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[258]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[258]
-211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
-142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
-212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
-365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,2.0,[1151]
-366,1,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,2.0,[1151]
-78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.0,[2084]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[258]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[258]
+211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.0,[258]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[258]
+212,1,Kainsäure,Acide kaïnique,Acido kainico,Kainic acid,1.0,[258]
+142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
+366,1,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,Rhaphidascarididae,2.0,[1151]
+365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,2.0,[1151]
+78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.0,[2084]
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[984]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,2.0,[984]
@@ -22,6 +22,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,2.0,[1558]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,2.0,[1558]
+554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 61,1,Atropin,atropine,atropina,atropine,2.0,[1087]
 352,1,Scopolamin,scopolamine,scopolamina,scopolamine,2.0,[1087]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[989]
