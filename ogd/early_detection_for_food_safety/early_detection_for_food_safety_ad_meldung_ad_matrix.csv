@@ -1686,18 +1686,10 @@
 5163#2307#18#
 5165#2378#144#
 5186#2395#24#Tomaten
-5189#2397#81#
-5190#2396#18#
 5191#2394#18#Ready-to-eat products
-5208#2406#86#
 5210#2398#60#
-5213#2400#93#cinnamon
-5214#2401#93#
 5215#2403#6#dairy products from sheep and goat
 5217#2405#8#Bushmeat 
-5218#2399#6#
-5219#2399#8#
-5220#2404#9#
 5225#2364#42#Soft cheese from pasteurized cow and goat milk 
 5226#2379#6#
 5227#2379#118#
@@ -1720,69 +1712,31 @@
 5255#2366#10#
 5256#2349#18#apple, beetroot, carrot, citrus, corn, potato, sugar beet, tomato, and wheat, and brewer’s spent gra
 5257#2368#9#
-5259#2410#5#Pears
-5260#2407#3#frozen vegetables 
-5265#2411#18#
 5266#2412#30#alfalfa-cress
 5267#2413#25#Radishes
 5273#2415#113#Frozen Beverages
 5274#2416#9#
 5275#2416#60#
-5292#2418#27#wild mushrooms
-5293#2419#60#
-5294#2420#48#rice
-5295#2421#9#Mytilus galloprovincialis
-5297#2423#24#
 5298#2422#27#enoki mushrooms
-5299#2424#3#Tomatoes
-5300#2425#9#frozen raw and cooked seafood
 5301#2427#5#peanuts, pistachios, and figs
-5309#2428#5#fruits, smoothies 
-5310#2429#60#S. scombrus, S. colias
-5312#2430#18#
-5322#2431#7#fermented cereal products 
-5323#2432#81#Matcha, green tea
 5326#2434#15#Distilled alcoholic drinks
 5327#2435#1#Saturated fat intake
-5339#2433#39#almond, soy, cashew, and peanut milks
-5340#2439#80# sugary drink 
 5342#2436#93#cinnamon 
-5343#2437#18#
 5344#2438#18#
-5349#2440#32#soybean
-5350#2441#34#jujube and hawthorn
-5355#2442#8#fresh meat and meat preparations
 5357#2444#18#food containing pea protein such as ultra-processed foods, including crisps, ice cream, oven chips, 
 5373#2452#1#pickled, smoked and fried foods
 5375#2453#48#ready-to-heat pasta meals
 5376#2454#118#Ground beef 
 5377#2445#98#Ultra-processed food
 5378#2446#118# beef tartare 
-5380#2447#80#sugar-sweetened beverages 
-5381#2450#18#
-5382#2451#18#ready-to-eat foods
-5383#2455#54#
 5390#2456#18#
-5391#2457#8#
-5392#2458#18#"Junk-Food"
 5394#2459#60#
 5395#2011#8#Deli meats
 5400#2390#9#shrimp
-5401#2460#93#Flat-leaf parsley
-5407#2463#18#
-5408#2464#18#
-5409#2448#18#sweetened beverages and sugary products
-5410#2409#18#Infant and toddler food (ITF)
-5412#2465#23#produce
-5416#1349#27#enoki mushroom
-5420#2470#60#
 5421#2469#6#
-5423#2468#18#breast milk (MEBM), donor milk (DHM), or formula (PIF)
 5424#2467#1#
-5428#2414#11#
 5434#2473#5#Strawberries
 5435#2475#8#Cattle, poultry, swine
-5436#2471#27#enoki mushrooms
 5437#2472#3#produce 
 5438#2472#34#
 5439#2474#42#
@@ -1797,8 +1751,6 @@
 5468#2482#9#
 5477#2488#8#Beef
 5479#2487#100#Dietary supplements
-5483#2484#38#
-5484#2484#42#raw milk cheese
 5485#2486#155#
 5493#2490#9#Tuna
 5494#2491#6#milk, dairy products, and beverages 
@@ -1807,3 +1759,51 @@
 5503#2493#98#
 5504#2494#8#chicken parts, chicken giblets and lamb
 5505#2495#1#Food Contact Material (FCM)
+5506#1349#27#enoki mushroom
+5507#2484#38#
+5508#2484#42#raw milk cheese
+5509#2431#7#fermented cereal products 
+5510#2455#54#
+5511#2404#9#
+5512#2407#3#frozen vegetables 
+5513#2409#18#Infant and toddler food (ITF)
+5514#2410#5#Pears
+5515#2411#18#
+5516#2419#60#
+5517#2421#9#Mytilus galloprovincialis
+5520#2471#27#enoki mushrooms
+5521#2423#24#
+5522#2424#3#Tomatoes
+5523#2429#60#S. scombrus, S. colias
+5524#2430#18#
+5525#2442#8#fresh meat and meat preparations
+5526#2451#18#ready-to-eat foods
+5527#2464#18#
+5528#2465#23#produce
+5529#2468#18#breast milk (MEBM), donor milk (DHM), or formula (PIF)
+5530#2440#32#soybean
+5531#2397#81#
+5532#2400#93#cinnamon
+5533#2401#93#
+5534#2414#11#
+5535#2418#27#wild mushrooms
+5536#2420#48#rice
+5537#2428#5#fruits, smoothies 
+5538#2433#39#almond, soy, cashew, and peanut milks
+5539#2437#18#
+5540#2441#34#jujube and hawthorn
+5541#2450#18#
+5542#2396#18#
+5543#2432#81#Matcha, green tea
+5544#2439#80# sugary drink 
+5545#2447#80#sugar-sweetened beverages 
+5546#2448#18#sweetened beverages and sugary products
+5547#2458#18#"Junk-Food"
+5548#2463#18#
+5549#2399#6#
+5550#2399#8#
+5551#2457#8#
+5552#2470#60#
+5553#2425#9#frozen raw and cooked seafood
+5554#2406#86#
+5555#2460#93#Flat-leaf parsley
