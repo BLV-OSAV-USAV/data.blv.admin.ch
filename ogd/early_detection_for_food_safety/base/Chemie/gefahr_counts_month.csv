@@ -1,17 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2490]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2490, 2495]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2441, 2485, 2473]"
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2456, 2495]"
+102,2,Blei,Plomb,Piombo,Lead,1.5,"[2478, 2498]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2481, 2437]"
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
-315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[2434]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2440]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2456]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2478]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2440]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]

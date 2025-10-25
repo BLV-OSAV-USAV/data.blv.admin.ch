@@ -1,11 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2490]
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2490, 2495]"
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2496]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2485]
+102,1,Blei,Plomb,Piombo,Lead,2.0,[2498]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2495]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2491]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2492]
