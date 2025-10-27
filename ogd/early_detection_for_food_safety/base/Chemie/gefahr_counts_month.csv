@@ -1,18 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2490, 2495]"
-91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2441, 2485, 2473]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[2478, 2498]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2456, 2495]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2440]
+102,2,Blei,Plomb,Piombo,Lead,1.5,"[2478, 2498]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2485, 2473]"
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
-548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
+548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
