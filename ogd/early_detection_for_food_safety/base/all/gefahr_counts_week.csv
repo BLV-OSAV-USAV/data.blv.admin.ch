@@ -1,16 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2490, 2495]"
-485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
+518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2503, 2495]"
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
-555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
-557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
-554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
-297,1,Gluten,gluten,glutine,gluten,2.0,[2496]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2498]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2495]
-248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2491]
-558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
+361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
+297,1,Gluten,gluten,glutine,gluten,2.0,[2496]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2503]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2495]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2501]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2492]
 57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
+485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]

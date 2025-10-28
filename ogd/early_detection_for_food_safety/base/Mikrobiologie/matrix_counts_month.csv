@@ -1,12 +1,12 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 8,6,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2475, 2488, 2494, 2442, 2457, 2497]"
 18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.33,"[2451, 2464, 2468]"
-42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
+1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,2.0,"[2467, 2500]"
 118,2,Rind,Boeuf,Manzo,Beef,1.0,"[2454, 2446]"
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,3.0,[2467]
-3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2472]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2472]
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2453]
+34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2472]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2472]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[2479]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2493]
 54,1,Geflügel,Volailles,Pollame,Poultry,2.0,[2455]
