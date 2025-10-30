@@ -1,7 +1,5 @@
-matrix_id,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Ecology,Economy
-1,0,0,0,1,1,1,1
-8,0,0,2,0,0,0,0
-18,0,0,0,0,0,1,0
-24,0,0,1,0,0,0,1
-81,0,1,0,0,0,0,0
-98,1,0,0,0,0,0,0
+matrix_id,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Economy
+1,0,0,1,0
+8,0,1,0,0
+24,0,1,0,1
+81,1,0,0,0
