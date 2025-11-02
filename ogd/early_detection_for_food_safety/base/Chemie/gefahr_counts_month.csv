@@ -1,21 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2456, 2476, 2490, 2495]"
 518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2456, 2503, 2495]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[2498, 2478]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2485, 2473]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
-554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2496]
+554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2503]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2501]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
@@ -23,6 +21,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2492]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2481]
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
