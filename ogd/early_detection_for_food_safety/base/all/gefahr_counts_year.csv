@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,42,Mikroplastik,microplastiques,microplastica,microplastics,1.19,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2456, 1845, 1885, 2077, 2476, 1991, 2086, 2392, 2462, 2214, 1992, 2121, 1783, 2490, 1895, 2022, 2037, 2148, 2156, 2389, 2348, 2417, 2495, 1812, 1889, 2092, 1903, 1921, 1931, 2201, 2194, 2169, 2232, 2284, 2331]"
+125,43,Mikroplastik,microplastiques,microplastica,microplastics,1.19,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2456, 1845, 1885, 2077, 2476, 1991, 2086, 2392, 2462, 2214, 1992, 2121, 1783, 2490, 1895, 2022, 2037, 2148, 2156, 2389, 2348, 2417, 2495, 2513, 1812, 1889, 2092, 1903, 1921, 1931, 2201, 2194, 2169, 2232, 2284, 2331]"
 26,36,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.19,"[2488, 1793, 1863, 2080, 2177, 2364, 2319, 2510, 2403, 2453, 1843, 1807, 1929, 1871, 2352, 2270, 2410, 2461, 2411, 2471, 2011, 2271, 1839, 2073, 2013, 2103, 2138, 2391, 2407, 1784, 1830, 1803, 2108, 2190, 2227, 2446]"
 93,35,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.2,"[1803, 1968, 1973, 1863, 2049, 2102, 2336, 1843, 2036, 1901, 1871, 2078, 2309, 1961, 2181, 2089, 2265, 1811, 1822, 1880, 2073, 2257, 2356, 2314, 2391, 2464, 1784, 1794, 1838, 1867, 2072, 2131, 2149, 2173, 2401]"
 111,26,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[1979, 2066, 2282, 2329, 2450, 2017, 1886, 2325, 2176, 2222, 1923, 2002, 2246, 2363, 2397, 2366, 2349, 1787, 1884, 1842, 1998, 2186, 2213, 2350, 2306, 2401]"
@@ -13,8 +13,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,15,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[1917, 2099, 2269, 1836, 1974, 2254, 2487, 1913, 1848, 1898, 1859, 2180, 2215, 2243, 2418]"
 19,14,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.36,"[1909, 1944, 2308, 1785, 2322, 2318, 1821, 1949, 2073, 2314, 2391, 2454, 1784, 2134]"
 181,13,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.85,"[1906, 2393, 1900, 2277, 2484, 2255, 2076, 1874, 2031, 2250, 1797, 2159, 2300]"
+518,12,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2456, 2503, 2392, 2389, 2358, 2413, 2495, 2513, 2193, 2175, 2169, 2331]"
 361,11,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.27,"[1954, 1965, 2308, 2114, 1853, 2494, 2455, 2275, 2039, 1813, 2391]"
-518,11,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2456, 2503, 2392, 2389, 2358, 2413, 2495, 2193, 2175, 2169, 2331]"
 528,10,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.1,"[2223, 2298, 2371, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
 119,10,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[1803, 2055, 2143, 2198, 2028, 2119, 1976, 2333, 1928, 2150]"
 86,9,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.33,"[1803, 1863, 1843, 2089, 2265, 1822, 2007, 2174, 2464]"

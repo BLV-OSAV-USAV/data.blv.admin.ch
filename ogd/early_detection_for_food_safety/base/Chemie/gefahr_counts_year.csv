@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,39,Mikroplastik,microplastiques,microplastica,microplastics,1.21,"[2064, 2069, 2099, 2116, 2122, 2249, 2456, 1845, 1885, 2077, 2476, 1991, 2086, 2392, 2214, 1992, 2121, 1783, 2490, 1895, 2022, 2037, 2148, 2156, 2389, 2348, 2417, 2495, 1812, 1889, 2092, 1921, 1931, 2201, 2194, 2169, 2232, 2284, 2331]"
+125,40,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2064, 2069, 2099, 2116, 2122, 2249, 2456, 1845, 1885, 2077, 2476, 1991, 2086, 2392, 2214, 1992, 2121, 1783, 2490, 1895, 2022, 2037, 2148, 2156, 2389, 2348, 2417, 2495, 2513, 1812, 1889, 2092, 1921, 1931, 2201, 2194, 2169, 2232, 2284, 2331]"
 111,25,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.28,"[1979, 2066, 2282, 2329, 2450, 2017, 1886, 2325, 2176, 2222, 1923, 2002, 2246, 2363, 2397, 2366, 2349, 1787, 1884, 1998, 2186, 2213, 2350, 2306, 2401]"
 126,22,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.23,"[2440, 1854, 2372, 2033, 2024, 2023, 2398, 2151, 1918, 2003, 1988, 2140, 2241, 1795, 1806, 1826, 1878, 2307, 2243, 2262, 2406, 2426]"
 91,18,Pestizide,pesticides,pesticidi,pesticide,1.28,"[2279, 1938, 2315, 2305, 2117, 2441, 2324, 2325, 2316, 2428, 2311, 1926, 2349, 2485, 2209, 2261, 2473, 2401]"
@@ -7,7 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 165,16,Cadmium,Cadmium,Cadmio,Cadmium,1.12,"[1917, 1963, 2269, 2188, 1836, 1974, 2230, 2254, 2368, 2438, 2503, 1913, 1898, 1908, 1859, 2418]"
 128,16,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.06,"[1917, 1963, 2122, 2269, 2476, 2478, 2152, 2188, 1783, 1974, 2351, 2349, 2368, 1908, 2193, 2400]"
 187,14,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[1917, 2099, 2269, 1836, 1974, 2254, 1913, 1848, 1898, 1859, 2180, 2215, 2243, 2418]"
-518,11,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2456, 2503, 2392, 2389, 2358, 2413, 2495, 2193, 2175, 2169, 2331]"
+518,12,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2456, 2503, 2392, 2389, 2358, 2413, 2495, 2513, 2193, 2175, 2169, 2331]"
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1917, 1970, 2376, 2486, 2024, 2327, 1988]"
 109,7,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.29,"[1951, 2313, 2214, 1992, 2002, 1921, 2189]"
 503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.17,"[2282, 2017, 2273, 2366, 2427, 2306]"
