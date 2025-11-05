@@ -1,23 +1,24 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2464, 2504, 2514]"
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2488, 2510, 2461, 2471]"
-1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2464, 2504]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2462, 2464, 2508]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2464, 2514]"
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2460]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2465]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2460]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2484]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2462]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2472]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2475]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
+361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2474]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2464]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2464]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2464]
+88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[2514]
 57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2468]
