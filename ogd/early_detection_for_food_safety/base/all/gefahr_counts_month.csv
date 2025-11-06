@@ -2,21 +2,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2464, 2504, 2514]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2476, 2462, 2490, 2495, 2513]"
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2488, 2510, 2461, 2471]"
-128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478, 2487]"
+102,3,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2478, 2487]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2462, 2464, 2508]"
 518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2503, 2495, 2513]"
-102,3,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2478, 2487]"
+128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478, 2487]"
+528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.5,"[2483, 2466]"
 297,2,Gluten,gluten,glutine,gluten,1.5,"[2496, 2506]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[2464, 2514]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2485, 2473]"
-528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.5,"[2483, 2466]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
+530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2460]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2484]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[2460]
-530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,1.0,[2460]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2465]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
