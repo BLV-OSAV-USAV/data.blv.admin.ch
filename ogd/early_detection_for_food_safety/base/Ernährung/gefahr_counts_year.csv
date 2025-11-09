@@ -4,37 +4,36 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,6,Blei,Plomb,Piombo,Lead,1.33,"[1917, 2498, 2478, 1836, 2487, 1908]"
 165,4,Cadmium,Cadmium,Cadmio,Cadmium,1.25,"[1917, 1836, 1898, 1908]"
 187,4,Arsen,Arsenic,Arsenico,Arsenic,1.25,"[1917, 1836, 2487, 1898]"
-128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 2478, 2487, 1908]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2282, 2450, 1886, 1923]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 2478, 2487, 1908]"
 45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2480]"
-203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1908]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
+203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1835]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2409]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
+492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),2.0,[1841]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2487]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1794]
 225,1,Barium,Baryum,Bario,Barium,1.0,[1898]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[1898]
