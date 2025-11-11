@@ -1,6 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2475, 2488, 2494, 2497]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,2.0,"[2467, 2500]"
 42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2474, 2484]"
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2472]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2472]
@@ -8,7 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2493]
 38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",2.0,[2484]
 27,1,Pilze,Champignons,Funghi,Mushrooms,2.0,[2471]
-18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[2468]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[2499]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2500]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[2508]
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[2516]

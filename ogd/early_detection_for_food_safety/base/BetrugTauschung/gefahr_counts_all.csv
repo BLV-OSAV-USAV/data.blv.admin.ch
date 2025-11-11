@@ -2,27 +2,27 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 91,7,Pestizide,pesticides,pesticidi,pesticide,1.57,"[417, 2279, 1499, 56, 1619, 415, 1397]"
 102,6,Blei,Plomb,Piombo,Lead,1.67,"[1137, 1290, 2436, 1836, 996, 2268]"
 103,4,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.5,"[1720, 31, 441, 1866]"
-128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.33,"[929, 996, 2268]"
 93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[603, 1619, 492]"
-390,3,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1601, 1619, 1250]"
-66,3,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.33,"[467, 1145, 32]"
-165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[1290, 1836, 989]"
+128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.33,"[929, 996, 2268]"
 63,3,Antibiotika,antibiotiques,antibiotici,antibiotics,1.67,"[1542, 2127, 67]"
+165,3,Cadmium,Cadmium,Cadmio,Cadmium,1.67,"[1290, 1836, 989]"
+66,3,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.33,"[467, 1145, 32]"
+390,3,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1601, 1619, 1250]"
 281,2,Ethylendioxid,dioxyde d'éthylène,Ossido di etilene,ethylene dioxide,1.5,"[663, 1192]"
-58,2,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,2.0,"[1619, 31]"
+58,2,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,2.0,"[156, 989]"
-374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
+280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]
 196,1,Grayanotoxine,Grayanotoxine,Graianotossina,Grayanotoxin,1.0,[225]
+374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
+203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[1619]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[1619]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[1290]
-280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]
-394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[1619]
 354,1,Tianeptin,Tianeptine,Tianeptina,Tianeptin,1.0,[1100]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[1619]
 80,1,Salz,sel,sale,salt,1.0,[1580]
+394,1,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.0,[1619]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[1836]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[1756]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
@@ -46,3 +46,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.0,[2384]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2268]
+561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]

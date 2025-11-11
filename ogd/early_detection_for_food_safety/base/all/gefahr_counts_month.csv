@@ -1,41 +1,41 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2476, 2490, 2495, 2513, 2518]"
+518,4,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.25,"[2503, 2495, 2513, 2518]"
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2504, 2514]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2476, 2490, 2495, 2513]"
-26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2488, 2510, 2471]"
-518,3,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,"[2503, 2495, 2513]"
 102,3,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2478, 2487]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2488, 2510, 2471]"
 128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2476, 2478, 2487]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[2487, 2517]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2485, 2473]"
 297,2,Gluten,gluten,glutine,gluten,1.5,"[2496, 2506]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2484]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
-553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 5,1,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.0,[2472]
-361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
-528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),2.0,[2483]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2475]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
-554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
-557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
+361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2494]
+553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
+557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
+554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2474]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2501]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2503]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2501]
+528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),2.0,[2483]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2475]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2508]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2487]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2491]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2492]
-550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
+561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[2514]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2481]
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
@@ -43,6 +43,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
 57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
-89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2468]
-261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.0,[2468]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2514]
