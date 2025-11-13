@@ -2,8 +2,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2504, 2514]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2488, 2510, 2471]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[2494, 2523]"
-90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2522]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2534]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
+120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2534]
+320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
+90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2522]
+540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2484]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2472]
