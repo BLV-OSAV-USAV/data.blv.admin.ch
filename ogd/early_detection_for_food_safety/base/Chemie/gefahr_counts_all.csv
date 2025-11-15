@@ -93,8 +93,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
+49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1273, 2537]"
 332,2,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.5,"[1259, 2213]"
-252,2,Morcheln,morilles,spugnola,morel mushroom,1.0,"[494, 1221]"
 143,2,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.5,"[73, 613]"
 221,2,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.5,"[300, 534]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
@@ -109,8 +109,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
 371,2,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,2.0,"[1159, 2433]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
-224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[943, 1718]"
+252,2,Morcheln,morilles,spugnola,morel mushroom,1.0,"[494, 1221]"
 198,2,Hexamethoxymethylmelamin (HMMM),Hexaméthoxyméthylmélamine (HMMM),Esametossimetilmelamina (HMMM),Hexamethoxymethylmelamine (HMMM),3.0,"[229, 735]"
 199,2,Benzothiazol (BTZ),Benzothiazole (BTZ),Benzothiazolo (BTZ),Benzothiazole (BTZ),2.5,"[229, 1434]"
 442,2,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,"[1558, 2002]"
@@ -125,8 +125,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 124,2,Melamin,Mélamine,Melammina,Melamine,1.0,"[46, 1518]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 188,2,Thebain,Thébaïne,Tebaina,Thebaine,1.0,"[179, 604]"
+224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
-561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
 80,1,Salz,sel,sale,salt,2.0,[1119]
@@ -141,7 +141,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
 389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
 321,1,Fluconazol,Fluconazole,Fluconazolo,Fluconazole,2.0,[926]
-144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[74]
+561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 421,1,Dimethylarsinsäure (DMA),Acide diméthylarsinique (DMA),acido dimetilarsinico (DMA),dimethylarsinic acid (DMA),1.0,[1473]
 415,1,monacoline K,monacoline K,monacolina K,monacolin K,1.0,[1454]
@@ -188,12 +188,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[55]
 191,1,Solanum sp,Solanum sp,Solanum sp,Solanum sp,2.0,[213]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
-131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[984]
+144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[74]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 186,1,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,2.0,[700]
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[1324]
-372,1,dicamba,dicamba,dicamba,dicamba,1.0,[1160]
+131,1,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,[984]
 267,1,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.0,[1085]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 395,1,Tropan-Alkaloide,Alcaloïde tropanique,Alcaloide tropanico,tropane alkaloids,2.0,[1284]
@@ -232,29 +232,29 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 254,1,Polyethylenterephthalat,Polytéréphtalate d'éthylène,Polietilene tereftalato,polyethylene terephthalate,1.0,[508]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 279,1,"Organische Phosphit-Antioxidantien, OPA","Phosphites organiques antioxydants, OPA","Antiossidanti organici al fosfito, OPA","Organic phosphite antioxidants, OPA",1.0,[651]
-443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
+372,1,dicamba,dicamba,dicamba,dicamba,1.0,[1160]
 278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,3.0,[203]
 471,1,Aluminiumsulfat,Sulfate d'aluminium,Solfato di alluminio,Aluminum sulfate,1.0,[1756]
-311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
+459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
 449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
-492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
+443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]
 258,1,"2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine","2,3,5-Trimethylpyrazine",1.0,[537]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
-459,1,Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),Hexahydrocannabinol (HHC),2.0,[1672]
+492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 259,1,furfural,furfural,furfurale,furfural,1.0,[537]
 352,1,Scopolamin,scopolamine,scopolamina,scopolamine,2.0,[1087]
 364,1,Maillard-Reaktion,Réaction de Maillard,Reazione di Maillard,Maillard reaction,2.0,[1140]
 54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[1273]
-237,1,Quaternäre Ammoniumverbindungen,Composées quaternaires d'ammonium,-,quaternary ammonium compounds,0.0,[414]
 207,1,Decansäure,Acide décanoïque,acido decanoico,decanoic acid,1.0,[250]
 233,1,Glutaminsäure,Acide glutamique,Acido glutammico,Glutamic acid,1.0,[381]
+237,1,Quaternäre Ammoniumverbindungen,Composées quaternaires d'ammonium,-,quaternary ammonium compounds,0.0,[414]
+235,1,α-Tomatin,α-Tomatine,Tomatina,tomatine,1.0,[408]
 240,1,Lithium,Lithium,Litio,Lithium,2.0,[423]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
-235,1,α-Tomatin,α-Tomatine,Tomatina,tomatine,1.0,[408]
+311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
 206,1,Caprinsäure,Acide caprique,Acido caprico,Capric acid,1.0,[250]
 217,1,"2,6-diisopropylnaphthalene (DIPN)","2,6-diisopropylnaphtalène (DIPN)","2,6-diisopropilnaftalene (DIPN)","2,6-diisopropylnaphthalene (DIPN)",1.0,[277]
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]

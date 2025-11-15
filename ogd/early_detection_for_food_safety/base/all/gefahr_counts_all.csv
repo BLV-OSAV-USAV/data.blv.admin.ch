@@ -99,12 +99,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 241,4,Alternariol,alternariol,alternariolo,alternariol,1.25,"[436, 1169, 1605, 1890]"
 284,4,MOSH,MOSH,MOSH,MOSH,1.0,"[674, 1511, 773, 2244]"
 485,4,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[1811, 2395, 2424, 2499]"
-101,4,Brucella spp.,Brucella spp.,Brucella spp.,Brucella spp.,2.0,"[25, 730, 1469, 581]"
+49,4,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273, 2537]"
 308,4,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,"[1529, 1979, 836, 2017]"
-468,4,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.5,"[1741, 2142, 1980, 2139]"
+101,4,Brucella spp.,Brucella spp.,Brucella spp.,Brucella spp.,2.0,"[25, 730, 1469, 581]"
 401,4,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.25,"[1350, 1650, 2409, 1818]"
+468,4,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.5,"[1741, 2142, 1980, 2139]"
 287,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.5,"[1217, 1498, 949, 1394]"
-483,4,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.25,"[2151, 2140, 1806, 2406]"
 156,4,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,2.0,"[267, 1453, 2270, 195]"
 137,4,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.25,"[1927, 2002, 1673, 2154]"
 234,4,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[543, 386, 2111, 2297]"
@@ -116,11 +116,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,4,Enniatin,Ennitatine,Ennitatina,Enniatin,1.25,"[2282, 2176, 2246, 1787]"
 251,4,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,"[486, 1398, 1638, 1730]"
 153,4,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 146, 112, 2150]"
-58,3,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993, 2342]"
+483,4,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.25,"[2151, 2140, 1806, 2406]"
 470,3,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.33,"[2044, 1743, 2421]"
 97,3,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,1.67,"[17, 2382, 294]"
 332,3,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,1.67,"[1259, 2157, 2213]"
-318,3,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[891, 2144, 2216]"
+58,3,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 1993, 2342]"
 211,3,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,1.67,"[258, 857, 2206]"
 289,3,HT-2,HT-2,HT-2,HT-2,1.33,"[1675, 682, 1998]"
 227,3,Erythrit,Érythritol,Eritritolo,Erythritol,1.33,"[1551, 323, 2295]"
@@ -136,7 +136,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 186,3,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,1.33,"[700, 1422, 168]"
 269,3,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.33,"[560, 865, 1988]"
 324,3,Polychlorierte Dibenzodioxine und Dibenzofurane (PCDD/PCDF),Polychlorodibenzo-p-dioxine (PCDD/PCDF),policloro-dibenzo-p-diossine (PCDD/PCDF),Polychlorinated dibenzodioxins (PCDD/PCDF),2.0,"[1092, 953, 1668]"
-310,3,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.67,"[849, 2392, 1465]"
+318,3,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[891, 2144, 2216]"
 144,3,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.33,"[74, 1524, 1494]"
 92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
 300,3,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,Vibrio vulnificus,1.0,"[777, 1864, 2060]"
@@ -149,7 +149,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 360,3,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,Echinococcus granulosus,1.33,"[1952, 1133, 1905]"
 145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.33,"[1208, 1664, 76]"
 107,3,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.33,"[951, 106, 1134]"
-448,3,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.67,"[1590, 2070, 2125]"
+310,3,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.67,"[849, 2392, 1465]"
 422,3,Muscimol,MuscimolE,Muscimolo,Muscimol,2.0,"[1590, 1915, 1475]"
 376,3,Histamin,Histamine,Istamina,Histamine,1.0,"[1185, 1173, 1962]"
 122,3,Diabetes,diabète,diabete,diabetes,1.33,"[1578, 448, 94]"
@@ -157,7 +157,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 231,3,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,Campylobacter fetus,2.0,"[1652, 992, 355]"
 390,3,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1601, 1619, 1250]"
 178,3,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.67,"[1653, 99, 2157]"
-49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
+448,3,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.67,"[1590, 2070, 2125]"
 31,3,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,"[1354, 1793, 2334]"
 392,3,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.67,"[1265, 2431, 2264]"
 200,3,6-PPD,6-PPD,6-PPD,6-PPD,2.67,"[229, 735, 1434]"
@@ -226,6 +226,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 341,2,Schimmelpilze,Moisissure,Muffa,Mold,1.5,"[1223, 989]"
 39,2,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,"[2239, 2163]"
 375,2,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,2.0,"[2202, 1170]"
+78,2,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.0,"[2084, 2536]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[1696, 2501]"
 409,2,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,Cronobacter spp.,1.0,"[1478, 1409]"
 458,2,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,Salmonella enterica serovar Umbilo,1.0,"[1671, 1661]"
@@ -274,7 +275,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 328,1,Cholesterin-Oxidationsprodukte,Produits d'oxydation du cholestérol,Prodotti di ossidazione del colesterolo,Cholesterol oxidation products,1.0,[961]
 374,1,Rhodamin-B,Rhodamine-B,Rhodamina-B,Rhodamine-B,1.0,[1167]
 424,1,"Flüchtige, organische Verbindungen",Les composés organiques volatils,Composti organici volatili,volatile organic compounds,1.0,[1481]
-78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.0,[2084]
 159,1,Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),1.0,[2403]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 501,1,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,Staphylococcus epidermidis,1.0,[1985]
