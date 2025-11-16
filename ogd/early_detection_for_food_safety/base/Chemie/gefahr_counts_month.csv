@@ -1,10 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2533, 2490, 2495, 2513, 2518]"
 518,4,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.25,"[2503, 2495, 2513, 2518]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[2498, 2478]"
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
+102,1,Blei,Plomb,Piombo,Lead,2.0,[2498]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2478]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2480]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
