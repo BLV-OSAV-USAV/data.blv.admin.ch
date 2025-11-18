@@ -3,32 +3,28 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,4,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2497, 2494, 2504, 2514]"
 518,4,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.25,"[2503, 2495, 2513, 2518]"
 297,3,Gluten,gluten,glutine,gluten,1.33,"[2496, 2506, 2527]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[2498, 2487]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2508, 2535]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[2494, 2523]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2488, 2510]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.5,"[2487, 2517]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2508, 2535]"
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2510]
+102,1,Blei,Plomb,Piombo,Lead,2.0,[2498]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),1.0,[2497]
-116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2534]
-90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2522]
-320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
-540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2534]
+540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
+119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2534]
+116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
+90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.0,[2522]
+314,1,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,2.0,[2538]
+10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,2.0,[2538]
+78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2536]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
-78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.0,[2536]
-181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2484]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2486]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2503]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2503]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2501]
+320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2485]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2516]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2487]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2487]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2491]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2492]
@@ -38,6 +34,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2514]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,2.0,[2517]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.0,[2529]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2524]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2524]
