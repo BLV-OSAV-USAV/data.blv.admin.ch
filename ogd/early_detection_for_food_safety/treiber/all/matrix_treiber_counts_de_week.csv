@@ -1,8 +1,7 @@
-matrix_id,Klimawandel,Neue Lebensmittel und Lebensmittelproduktionssysteme,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt
-1,0,0,0,1,0
-6,1,1,0,0,0
-8,1,1,0,1,1
-9,0,0,0,1,1
-18,0,1,1,0,1
-56,0,0,0,0,1
-82,0,0,0,0,1
+matrix_id,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Gesellschaft,Umwelt
+1,0,1,0,0
+8,0,0,0,1
+9,0,1,0,1
+18,1,0,1,1
+56,0,0,0,1
+82,0,0,0,1
