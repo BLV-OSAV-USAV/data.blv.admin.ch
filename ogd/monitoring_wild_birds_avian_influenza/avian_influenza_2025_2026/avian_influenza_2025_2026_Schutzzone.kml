@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="zone_schutzzone_wil" id="zone_schutzzone_wil">
+	<SimpleField name="key" type="string"></SimpleField>
+</Schema>
+<Folder><name>zone_schutzzone_wil</name>
+  <Placemark id="zone_schutzzone_wil.1">
+	<name>Schutzzone / Zone de protection / zona di protezione // Aviäre Influenza (AI) / Influenza aviaire (AI) / Influenza aviaria (AI) // 25.11.2025</name>
+	<Style><LineStyle><color>FF5a10f0</color><width>5.83936</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#zone_schutzzone_wil">
+		<SimpleData name="key">78a59b08-3109-764b-91ff-40bf35ceb4f2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>9.04745460062379,47.4680592778809 9.04679876733078,47.4674296903089 9.04677653478871,47.4671331356274 9.04704767021785,47.4668864774218 9.04744277293539,47.466791024341 9.0478084296146,47.4670378227703 9.04860660204667,47.4675484774839 9.04894765305563,47.4678585859691 9.04871167725003,47.4679518293865 9.0481057520733,47.4680951994536 9.04773607486636,47.4681543174905 9.04756340900654,47.4681477232745 9.04745460062379,47.4680592778809</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
