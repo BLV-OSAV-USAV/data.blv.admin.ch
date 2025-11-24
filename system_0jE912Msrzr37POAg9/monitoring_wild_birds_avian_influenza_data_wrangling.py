@@ -18,6 +18,7 @@ df['Probenahme-Datum'] = pd.to_datetime(df['Probenahme-Datum'], format='%d.%m.%Y
 
 result = pd.concat([df_vor2024, df], ignore_index=True)
 result = result.sort_values(by="Probenahme-Datum")
+result = result.drop(columns=["Y-Koordinaten", "X-Koordinaten"])
 result.to_csv("./ogd/monitoring_wild_birds_avian_influenza/monitoring_wild_birds_avian_influenza.csv", index=False)
 
 filtered_df = result.copy()
