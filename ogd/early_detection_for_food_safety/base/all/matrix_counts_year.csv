@@ -39,20 +39,20 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 73,3,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,"[2070, 2092, 2135]"
 155,3,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,"[2063, 2486, 2520]"
 13,2,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.5,"[1980, 2104]"
-22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,"[2014, 2140]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.5,"[2204, 2328]"
-26,2,Kohlgemüse,Choux,Cavoli,Cabbages,1.0,"[2040, 2012]"
+67,2,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2166, 2548]"
+22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.0,"[2014, 2140]"
 86,2,Bier,Bière,Birra,Beer,1.0,"[2327, 2406]"
 21,2,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,"[2270, 2361]"
 115,2,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,"[1979, 2353]"
-79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,2.0,[1883]
+26,2,Kohlgemüse,Choux,Cavoli,Cabbages,1.0,"[2040, 2012]"
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,2.0,[1980]
 72,1,"Zucker, Konfitüre, Honig, süsse Aufstriche und Saucen sowie Sirup","Sucre, pâtes à tartiner sucrées, miel, confitures, sauces sucrées et sirop","Zucchero, miele, marmellata, prodotti da spalmare e salse dolci, sciroppo","Sugar, Honey, Jam, Syrup",2.0,[1869]
 101,1,Nicht spezifizierte sowie gemischte salzige Snacks,Snacks salés non spécifiés ou mélangés,Spuntini salati non classificati o misti,Unclassified Or Combined Snacks,1.0,[1894]
-33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,[1914]
-67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2166]
-142,1,"Nicht spezifizierte sowie gemischte Kaffee-, Tee-, Frucht- und Kräuterteegetränke","Café, thé, tisane aux fruits et aux herbes non spécifié ou mélangé","Caffè, tè, tè di frutti e di erbe non classificati e misti",Unclassified And Combined Coffee/Tea Drin,1.0,[2057]
+79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,2.0,[1883]
 43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace) ","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
+142,1,"Nicht spezifizierte sowie gemischte Kaffee-, Tee-, Frucht- und Kräuterteegetränke","Café, thé, tisane aux fruits et aux herbes non spécifié ou mélangé","Caffè, tè, tè di frutti e di erbe non classificati e misti",Unclassified And Combined Coffee/Tea Drin,1.0,[2057]
+33,1,"Nicht spezifizierte sowie gemischte Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines non spécifiés ou mélangés","Frutta, frutta oleaginosa e semi non specificati e misti","Unclassified, Mixed Fruits, Nuts And Seed",1.0,[1914]
 139,1,Schokoriegel,Barres de chocolat,Barrette di cioccolato,Chocolate Candy Bars,1.0,[2072]
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2302]
 65,1,Eier,Oeufs,Uova,Egg,1.0,[2296]
