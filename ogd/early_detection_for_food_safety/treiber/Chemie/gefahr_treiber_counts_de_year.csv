@@ -1,6 +1,6 @@
 gefahr_id,Klimawandel,Technologische Innovationen und wissenschaftliche Fortschritte,Verstädterung und urbane Landwirtschaft,Kreislaufwirtschaft,Mikrobiome und Lebensmittelsicherheit,Neue Lebensmittel und Lebensmittelproduktionssysteme,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Gesellschaft,Technologie,Umwelt,Wirtschaft,Politik
 1,0,0,0,0,0,0,0,1,0,0,0,0,0
-42,0,0,0,0,0,0,0,0,0,0,2,0,0
+42,0,0,0,0,0,0,0,0,0,0,3,0,0
 43,0,1,0,0,0,0,0,0,0,0,2,0,0
 45,0,1,0,0,0,0,1,0,0,0,0,0,0
 46,1,0,0,0,0,0,0,0,0,0,0,0,0
@@ -33,7 +33,7 @@ gefahr_id,Klimawandel,Technologische Innovationen und wissenschaftliche Fortschr
 167,0,0,0,0,0,0,1,0,0,0,4,0,0
 172,1,0,0,0,0,0,0,0,0,0,0,0,0
 174,0,0,0,0,0,0,0,0,0,0,1,0,0
-180,0,0,0,0,0,0,0,0,0,0,1,0,0
+180,1,0,0,0,0,0,0,0,0,0,1,0,0
 182,0,0,0,0,0,0,0,0,0,0,1,0,0
 187,2,1,0,0,0,0,2,0,0,0,7,1,0
 203,2,1,0,0,0,1,1,0,0,0,1,0,0
@@ -76,7 +76,8 @@ gefahr_id,Klimawandel,Technologische Innovationen und wissenschaftliche Fortschr
 450,0,0,0,0,0,0,2,0,0,0,1,0,1
 453,0,0,0,0,0,0,0,0,0,0,1,0,0
 461,0,0,0,0,0,0,1,0,0,0,0,0,0
-465,0,0,1,0,0,0,0,0,1,0,0,0,0
+465,0,0,1,0,0,0,1,0,1,0,0,0,0
+466,0,0,0,0,0,0,1,0,0,0,0,0,0
 468,0,0,0,0,0,1,0,0,0,1,1,0,0
 473,1,0,0,0,0,0,0,0,0,0,1,0,0
 474,1,0,0,0,0,1,1,0,0,0,1,0,0
