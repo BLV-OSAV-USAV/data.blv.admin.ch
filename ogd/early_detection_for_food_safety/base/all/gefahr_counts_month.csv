@@ -1,23 +1,24 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2565, 2570, 2554, 2577]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2573, 2546, 2543]"
-93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2565, 2570, 2554]"
+314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.5,"[2561, 2544]"
 528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2545, 2575]"
 10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2538, 2542]"
-314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
-181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2566, 2564]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2572, 2579]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2554, 2567]"
+181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2566, 2564]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2553, 2549]"
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2563]
-565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
-566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
-221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[2548]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2572]
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
+566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
+565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs), medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2557]
+221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[2548]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2563]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2557]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2576]
+45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2578]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2547]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2562]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2551]
