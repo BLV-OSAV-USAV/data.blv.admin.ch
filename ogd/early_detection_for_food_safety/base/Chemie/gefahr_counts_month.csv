@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2573, 2546, 2543]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2553, 2549]"
+126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.33,"[2586, 2553, 2549]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.5,"[2561, 2544]"
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
@@ -14,8 +14,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2547]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2576]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2578]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2551]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2562]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2551]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2574]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2556]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2558]
