@@ -2,9 +2,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[2565, 2570, 2554, 2577]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2554, 2567, 2584]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2566, 2564]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2572, 2579]"
-238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2581]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2581]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2572]
+238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2581]
 314,1,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.0,[2542]
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2542]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2550]
