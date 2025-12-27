@@ -1,8 +1,6 @@
-matrix_id,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Ecologia,Economia
-6,1,0,0,0,0
-9,0,0,0,1,0
-18,0,1,1,0,0
-23,0,0,0,0,1
-34,0,0,0,0,1
-49,1,0,1,0,0
-50,0,0,0,1,0
+matrix_id,Società,Ecologia,Economia
+9,0,1,0
+18,1,0,0
+23,0,0,1
+34,0,0,1
+50,0,1,0
