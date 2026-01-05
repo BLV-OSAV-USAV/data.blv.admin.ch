@@ -3,24 +3,21 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2581, 2592, 2568]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2573, 2601]"
 45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2594, 2578]"
-42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.5,"[2561, 2598]"
-145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2571, 2588]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2567, 2584]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2574, 2600]"
 181,2,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2566, 2564]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2567, 2584]"
+145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2571, 2588]"
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2581]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2575]
-466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2563]
 18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2591]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2586]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2576]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2572]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2593]
-180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2562]
 128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2589]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2593]
 23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2597]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]
 40,1,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,2.0,[2582]
+42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2598]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2599]
