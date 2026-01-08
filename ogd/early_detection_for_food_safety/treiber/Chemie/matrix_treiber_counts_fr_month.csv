@@ -1,7 +1,9 @@
-matrix_id,Comportement des consommateurs et tendances de consommation,Société,Ecologie,Économie
-6,1,0,0,0
-18,0,1,0,0
-23,0,0,0,1
-34,0,0,0,1
-50,0,0,1,0
-82,0,0,2,0
+matrix_id,Innovations technologiques et progrès scientifiques,Comportement des consommateurs et tendances de consommation,Société,Ecologie,Économie
+1,1,0,0,0,0
+6,0,1,0,0,0
+18,1,1,1,1,0
+23,0,0,0,0,1
+34,0,0,0,0,1
+50,0,0,0,1,0
+60,0,0,0,1,0
+82,0,0,0,2,0
