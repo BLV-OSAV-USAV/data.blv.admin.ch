@@ -1,10 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2596, 2615, 2618]"
+18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2596, 2615, 2618, 2627]"
 82,2,Wasser,Eau,Acqua,Waters,1.5,"[2602, 2605]"
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2593]
-23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,[2600]
 50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,[2598]
+23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,[2600]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2600]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[2616]
 1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2617]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2625]
+15,1,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,2.0,[2623]
