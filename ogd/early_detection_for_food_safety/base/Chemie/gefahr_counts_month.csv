@@ -1,15 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.17,"[2616, 2602, 2618, 2586, 2626, 2605]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2573, 2601]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,"[2625, 2620]"
 45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2615]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2574, 2600]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,"[2608, 2617]"
-150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2576]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2593]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2589]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2576]
+150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2589]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2601]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2600]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2593]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2606]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,2.0,[2611]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
