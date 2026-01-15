@@ -1,23 +1,23 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 528,12,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
-79,7,Zucker,sucre,zucchero,sugar,1.0,"[2088, 1907, 2191, 2015, 2439, 2056, 2340]"
+79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2015, 2439, 2056, 2340]"
 45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2594, 2480, 2615]"
-102,5,Blei,Plomb,Piombo,Lead,1.2,"[1917, 2498, 2487, 1908, 2478]"
+102,4,Blei,Plomb,Piombo,Lead,1.25,"[1917, 2498, 2487, 2478]"
 145,4,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2607, 2571, 2588, 2622]"
-128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 2487, 1908, 2478]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2282, 2450, 1923]"
+128,3,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[1917, 2487, 2478]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[1917, 1908]"
-167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[1917, 1908]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[1917, 2487]"
-507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
+507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,[1920]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[1917]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[1917]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[1917]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
