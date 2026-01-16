@@ -1,21 +1,25 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2604, 2581, 2592, 2606, 2629]"
 126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.2,"[2616, 2602, 2618, 2586, 2605]"
-45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2594, 2578, 2615]"
 145,3,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2607, 2588, 2622]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2610, 2584]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,"[2625, 2620]"
+45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2594, 2615]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2610, 2584]"
+238,2,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2581, 2634]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,"[2608, 2617]"
-238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2581]
-18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2591]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2634]
+9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2634]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2634]
+18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2591]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 99,1,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.0,[2609]
-128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2589]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2593]
+128,1,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,[2589]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2601]
 23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2597]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2634]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2600]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,2.0,[2611]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
@@ -25,7 +29,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,2.0,[2623]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,2.0,[2621]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2629]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[2577]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]
 40,1,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,2.0,[2582]
