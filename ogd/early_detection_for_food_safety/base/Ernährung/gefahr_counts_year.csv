@@ -1,39 +1,43 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 528,12,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
 79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2015, 2439, 2056, 2340]"
-45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2594, 2480, 2615]"
+45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2480, 2594, 2615]"
+102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2478, 2639]"
 145,4,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2607, 2571, 2588, 2622]"
-102,3,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2487, 2478]"
-234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
-128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
-203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
-507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2282, 2450]"
-448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
-113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
-536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2487]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
+203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
+128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
+234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
+344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
+507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
-450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
+448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
+536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2487]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
+51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
+538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
+113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
-363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2620]
+9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2409]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
+363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2139]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
-51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
+249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
