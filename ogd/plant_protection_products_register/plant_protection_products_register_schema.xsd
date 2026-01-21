@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSpy v2009 (http://www.altova.com) by lua (n) -->
+<!--Created with Liquid XML Studio - FREE Community Edition 7.0.5.906 (http://www.liquid-technologies.com)-->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="unqualified" attributeFormDefault="unqualified">
+	<xs:element name="PublicationData">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Products" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Product" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element ref="ProductInformation" minOccurs="0" maxOccurs="1"/>
+									</xs:sequence>
+									<xs:attribute name="id" type="xs:string" use="required"/>
+									<xs:attribute name="wNbr" type="xs:string" use="required"/>
+									<xs:attribute name="name" type="xs:string" use="required"/>
+									<xs:attribute name="exhaustionDeadline" type="xs:string" use="required"/>
+									<xs:attribute name="soldoutDeadline" type="xs:string" use="required"/>
+									<xs:attribute name="isSalePermission" type="xs:boolean" use="required">
+										<xs:annotation>
+											<xs:documentation>Das Attribute wird im Moment nicht verwendet, vielleicht ergibt sich aber einmal für die Verkaufserlaubnisse (SalesPermissions) eine andere Anzeige oder Verarbeitung</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+									<xs:attribute name="terminationReason" type="TerminationReasonType" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="numberOfProducts" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Parallelimports" minOccurs="0" maxOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Parallelimport" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element ref="ProductInformation" minOccurs="0" maxOccurs="1"/>
+									</xs:sequence>
+									<xs:attribute name="id" type="xs:string" use="required"/>
+									<xs:attribute name="wNbr" type="xs:string" use="required"/>
+									<xs:attribute name="name" type="xs:string" use="required"/>
+									<xs:attribute name="admissionnumber" type="xs:string" use="required"/>
+									<xs:attribute name="producingCountryPrimaryKey" type="xs:string" use="required"/>
+									<xs:attribute name="exhaustionDeadline" type="xs:string" use="required"/>
+									<xs:attribute name="soldoutDeadline" type="xs:string" use="required"/>
+									<xs:attribute name="packageInsert" type="xs:string" use="required"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute name="numberOfParallelimports" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="MetaData" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+
+						<xs:sequence>
+							<xs:element name="Detail" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Parent" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:attribute name="primaryKey" type="xs:string" use="required"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Description" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence minOccurs="0">
+													<xs:element name="Code" minOccurs="0">
+														<xs:complexType>
+															<xs:attribute name="value" type="xs:string" use="required"/>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+												<xs:attribute name="value" type="xs:string" use="required"/>
+												<xs:attribute name="language" type="xs:string" use="required"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute name="primaryKey" type="xs:string" use="required"/>
+									<xs:attribute name="iupacName" type="xs:string" use="optional">
+										<xs:annotation>
+											<xs:documentation>iupacName wird nur für die MetaDaten der Wirkstoffe (Substance) verwendet</xs:documentation>
+										</xs:annotation>
+									</xs:attribute>
+								</xs:complexType>
+							</xs:element>
+							<xs:element ref="PermissionHolder" minOccurs="0" maxOccurs="unbounded" />
+						</xs:sequence>
+						<xs:attribute name="name" type="xs:string" use="required"/>
+						<xs:attribute name="numberOfRows" type="xs:string" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ProductInformation">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="ProductCategory" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="FormulationCode" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="DangerSymbol" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="SignalWords" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="CodeS" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="CodeR" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="PermissionHolderKey" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Ingredient" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Indication" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	    <xs:element name="Indication">
+      <xs:complexType>
+        <xs:sequence>
+          <xs:element name="Measure" minOccurs="0">
+            <xs:complexType>
+              <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="TimeMeasure" minOccurs="0">
+            <xs:complexType>
+              <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ApplicationArea" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+              <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="ApplicationComment" minOccurs="0" maxOccurs="unbounded">
+            <xs:complexType>
+              <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+            </xs:complexType>
+          </xs:element>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="CultureForm" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Culture" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+                <xs:attribute name="additionalTextPrimaryKey" type="xs:string" use="required"/>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pest" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+                <xs:attribute name="additionalTextPrimaryKey" type="xs:string" use="required"/>
+                <xs:attribute name="type" type="xs:string" use="required"/>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Obligation" minOccurs="0" maxOccurs="unbounded">
+              <xs:complexType>
+                <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:sequence>
+        <xs:attribute name="dosageFrom" type="xs:string" use="required"/>
+        <xs:attribute name="dosageTo" type="xs:string" use="required"/>
+        <xs:attribute name="waitingPeriod" type="xs:string" use="required"/>
+        <xs:attribute name="expenditureForm" type="xs:string" use="required"/>
+        <xs:attribute name="expenditureTo" type="xs:string" use="required"/>
+      </xs:complexType>
+    </xs:element>
+    <xs:element name="Ingredient">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="SubstanceType" minOccurs="1" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:attribute name="SubstanceType" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Substance" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="inPercent" type="xs:string" use="optional"/>
+            <xs:attribute name="inGrammPerLitre" type="xs:string" use="optional"/>
+            <xs:attribute name="additionalTextPrimaryKey" type="xs:string" use="optional"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PermissionHolder">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Name" type="xs:string"/>
+                <xs:element name="AdditionalInformation" type="xs:string"/>
+                <xs:element name="Street" type="xs:string"/>
+                <xs:element name="PostOfficeBox" type="xs:string"/>
+                <xs:element name="City">
+                    <xs:complexType>
+                        <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Phone" type="xs:string" minOccurs="0"/>
+                <xs:element name="Fax" type="xs:string" minOccurs="0"/>
+                <xs:element name="Country" minOccurs="0">
+                    <xs:complexType>
+                        <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="ProductCategory">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="FormulationCode">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="DangerSymbol">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CodeS">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="CodeR">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="PermissionHolderKey">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="SignalWords">
+        <xs:complexType>
+            <xs:attribute name="primaryKey" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="SubstanceType">
+        <xs:simpleType>
+            <xs:restriction base="xs:token">
+                <xs:enumeration value="ACTIVE_INGREDIENT">
+                    <xs:annotation>
+                        <xs:documentation>Wirkstoff</xs:documentation>
+                    </xs:annotation>
+                </xs:enumeration>
+                <xs:enumeration value="SYNERGIST">
+                    <xs:annotation>
+                        <xs:documentation>Synergist</xs:documentation>
+                    </xs:annotation>
+                </xs:enumeration>
+                <xs:enumeration value="SAFENER">
+                    <xs:annotation>
+                        <xs:documentation>Safener</xs:documentation>
+                    </xs:annotation>
+                </xs:enumeration>
+                <xs:enumeration value="ADDITIVE_TO_DECLARE">
+                    <xs:annotation>
+                        <xs:documentation>Beistoff, zusätzlich zu deklarierend</xs:documentation>
+                    </xs:annotation>
+                </xs:enumeration>
+            </xs:restriction>
+        </xs:simpleType>
+    </xs:element>
+    <xs:simpleType name="TerminationReasonType">
+      <xs:restriction base="xs:string"/>
+    </xs:simpleType>
+</xs:schema>
