@@ -70,7 +70,7 @@ def html_parser(path):
     Returns:
     - DataFrame: Parsed DataFrame with HTML content replaced by text.
     """
-    csv_file = pd.read_csv(path, sep=None, engine="python")
+    csv_file = pd.read_csv(path, sep='Ð')
     csv_file = csv_file.apply(lambda x: BeautifulSoup(x, 'html.parser').text if isinstance(x, str) else x)
     return csv_file
 
