@@ -1,18 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2613, 2615, 2619, 2624, 2627, 2631, 2634, 2596, 2618]"
+18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2613, 2615, 2619, 2624, 2627, 2631, 2634, 2618, 2633, 2614]"
 1,3,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2617, 2630, 2603]"
+14,3,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2638, 2644, 2635]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[2604, 2629]"
+60,2,Fische,Poissons,Pesce,Fish,1.0,"[2616, 2647]"
 82,2,Wasser,Eau,Acqua,Waters,1.5,"[2605, 2602]"
-60,1,Fische,Poissons,Pesce,Fish,1.0,[2616]
-67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2642]
-14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[2638]
-6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2639]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2625]
+67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2642]
+6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2639]
 8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2639]
-9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2597]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,[2610]
 15,1,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,1.0,[2623]
-50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,[2598]
-23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,[2600]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2600]
-80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2594]
+157,1,Mahlzeitenersatz und Sportlernahrung,Substituts de repas et aliments pour sportifs,Prodotti sostitutivi dei pasti e alimenti per sportivi,Meal Substitutes,1.0,[2644]
+58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2632]
+99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
+36,1,Oliven,Olives,Olive,Olives,1.0,[2645]

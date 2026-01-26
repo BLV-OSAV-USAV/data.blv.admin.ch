@@ -1,4 +1,8 @@
-matrix_id,Consumer behaviour and consumption trends,Society,Economy
-6,1,1,0
-8,1,1,0
-67,0,0,1
+matrix_id,Consumer behaviour and consumption trends,Society,Ecology,Economy
+6,1,1,0,0
+8,1,1,0,0
+14,1,0,0,0
+36,0,0,1,1
+60,0,0,1,0
+67,0,0,0,1
+157,1,0,0,0

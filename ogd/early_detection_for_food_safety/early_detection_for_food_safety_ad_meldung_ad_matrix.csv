@@ -1114,7 +1114,6 @@
 3562#1688#60#tuna 
 3563#1690#60#fresh water fish
 3564#1696#15#
-3566#1682#48#rice salad
 3568#1703#38#Breast and formula milk 
 3569#1702#82#tap water, bottled water 
 3570#1656#138#
@@ -1209,7 +1208,6 @@
 3808#1802#13#Patisserie
 3810#1787#18#infant foods
 3811#1734#9#Mussels, oysters
-3812#1804#18#
 3813#1789#60#Cyprinidae
 3815#1728#3#Red onions
 3816#1794#118#Ground Beef
@@ -1225,11 +1223,7 @@
 3853#1810#8#
 3854#1810#82#
 3855#1809#58#surrogate meat, meat alternatives, cultured meat 
-3858#1798#6#raw milk 
 3864#1826#9#
-3866#1831#82#drinking water
-3867#1832#38#
-3868#1834#38#
 3874#1817#23#
 3878#1823#38#
 3881#1838#34#melons - cantaloupe, honeydew melon, watermelon, and Galia melon
@@ -1237,9 +1231,6 @@
 3883#1848#82#
 3887#1853#3#
 3888#1854#82#
-3891#1857#60#Swordfish
-3895#1860#60#Cold-smoked salmon
-3896#1861#1#Nori Algae
 3899#1800#18#fried food
 3900#1799#1#Probiotics 
 3901#1807#6#dairy alternatives, surogate milk
@@ -1252,9 +1243,7 @@
 3908#1818#9#
 3909#1821#30#alfalfa sprouts 
 3910#1824#1#fortified food
-3911#1862#3#Zucchini and tomato
 3934#178#48#rice snacks
-3935#1856#60#
 3936#1707#23#
 3937#1707#93#herbs
 3938#898#138#
@@ -1387,7 +1376,6 @@
 4298#2047#6#
 4299#2047#50#
 4300#2047#14#
-4302#2050#18#ultra processed food
 4307#2053#18#
 4308#2054#148#
 4321#2063#155#Supplements
@@ -1442,7 +1430,6 @@
 4430#2092#73#chewing gum
 4432#2102#9#shrimp
 4434#2105#18#Ultra processed food (UPF)
-4435#2106#18#
 4440#2110#1#starchy foods
 4445#2112#82#
 4446#2113#18#precision fermentation
@@ -1469,8 +1456,6 @@
 4487#2082#82#
 4488#2065#18#
 4489#2085#6#
-4491#2130#54#
-4496#2136#18#supplements and fortified foods
 4514#2157#8#
 4515#2158#133#
 4518#2149#8#Frozen meat in ready-to-eat products
@@ -1725,7 +1710,6 @@
 5377#2445#98#Ultra-processed food
 5378#2446#118# beef tartare 
 5390#2456#18#
-5394#2459#60#
 5395#2011#8#Deli meats
 5424#2467#1#
 5434#2473#5#Strawberries
@@ -1850,7 +1834,6 @@
 5751#2243#82#Irrigation water
 5752#921#23#lettuce
 5753#921#32#beans
-5756#2614#18#
 5761#2613#18#oils, honey, grains, dairy, and spices
 5763#2615#18#
 5764#2616#60#
@@ -1862,9 +1845,6 @@
 5780#2629#54#pre-cooked chicken
 5781#2630#1#
 5785#2631#18#
-5786#2632#58#fungal protein for meat analouges
-5787#2633#18#
-5789#2635#14#sugar-sweetened beverages (SSB), artificially sweetened beverages (ASB), pure fruit/vegetable juice
 5790#2634#18#
 5799#2642#67#
 5800#2638#14#dealcoholized wines
@@ -1886,6 +1866,29 @@
 5818#2618#18#
 5820#2594#80#
 5821#2603#1#supplements
-5822#2643#99#Sufu or fermented soybean curd
-5823#2644#157#Food Supplements
-5824#2644#14#
+5851#2644#14#
+5852#2644#157#Food Supplements
+5855#2632#58#fungal protein for meat analouges
+5856#2635#14#sugar-sweetened beverages (SSB), artificially sweetened beverages (ASB), pure fruit/vegetable juice
+5857#2633#18#
+5858#2614#18#
+5859#2459#60#
+5860#2130#54#
+5861#2136#18#supplements and fortified foods
+5862#2106#18#
+5863#2050#18#ultra processed food
+5864#1862#3#Zucchini and tomato
+5865#1861#1#Nori Algae
+5866#1857#60#Swordfish
+5867#1860#60#Cold-smoked salmon
+5868#1856#60#
+5869#1834#38#
+5870#1832#38#
+5871#1831#82#drinking water
+5872#1804#18#
+5873#1798#6#raw milk 
+5874#1682#48#rice salad
+5875#2643#99#Sufu or fermented soybean curd
+5876#2645#36#olive oil
+5878#2647#60#
+5879#2649#6#

@@ -4,34 +4,35 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2480, 2594, 2615]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2478, 2639]"
 145,4,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2607, 2571, 2588, 2622]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
+234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2282, 2450]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
-234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
-344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2013, 2407]"
-507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
-517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
+344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
+51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,"[2603, 2136]"
+333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,"[2409, 2643]"
+507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
+26,2,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,"[2013, 2407]"
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[1938]
+517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
+503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
+538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
+113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
-51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
-538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
-113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
-333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2409]
+9,1,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,[2409]
+401,1,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,1.0,[2409]
+106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2643]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
+210,1,Jod,Iode,Iodo,Iodine,1.0,[2136]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2139]

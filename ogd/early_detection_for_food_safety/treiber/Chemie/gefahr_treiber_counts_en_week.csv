@@ -1,9 +1,11 @@
-gefahr_id,Technological innovations and scientific advances,Consumer behaviour and consumption trends,Society
-56,0,1,1
-102,0,1,1
-130,1,0,0
-165,0,1,1
-187,0,1,1
-209,0,1,1
-249,0,1,1
-344,0,1,1
+gefahr_id,Consumer behaviour and consumption trends,Society,Ecology,Economy
+56,1,1,0,0
+91,0,0,1,1
+102,1,1,0,0
+126,0,0,1,0
+165,1,1,0,0
+187,2,1,0,0
+209,1,1,0,0
+249,1,1,0,0
+344,1,1,0,0
+574,1,0,0,0

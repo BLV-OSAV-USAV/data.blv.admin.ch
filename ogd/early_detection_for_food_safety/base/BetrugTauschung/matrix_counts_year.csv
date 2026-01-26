@@ -1,11 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,15,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.13,"[2018, 2020, 2053, 2062, 2071, 2238, 2355, 2279, 2287, 2430, 2463, 2580, 2585, 2613, 2624]"
+18,16,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.12,"[2018, 2020, 2053, 2062, 2071, 2238, 2355, 2279, 2287, 2430, 2463, 2580, 2585, 2613, 2624, 2106]"
 8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.4,"[2079, 2251, 2405, 2399, 2457]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.25,"[2074, 2127, 2374, 2425]"
+60,3,Fische,Poissons,Pesce,Fish,1.0,"[2067, 2470, 2459]"
 11,3,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2160, 2286, 2240]"
-148,2,Wein,Vin,Vino,Wine,1.0,"[1994, 2054]"
-60,2,Fische,Poissons,Pesce,Fish,1.0,"[2067, 2470]"
 133,2,Honig,Miel,Miele,Honey,1.0,"[1971, 2158]"
+148,2,Wein,Vin,Vino,Wine,1.0,"[1994, 2054]"
 93,2,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.5,"[2373, 2436]"
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[1984]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[1993]
@@ -14,3 +14,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 155,1,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,[2520]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,[2519]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2642]
+36,1,Oliven,Olives,Olive,Olives,1.0,[2645]
