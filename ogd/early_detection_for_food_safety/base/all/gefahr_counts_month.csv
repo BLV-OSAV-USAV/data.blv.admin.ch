@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.17,"[2616, 2605, 2614, 2647, 2602, 2618]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2604, 2606, 2629]"
+244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2604, 2654, 2606, 2629]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2625, 2620]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
@@ -9,6 +9,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 26,2,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,"[2634, 2652]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2648, 2639]"
 123,2,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.0,"[2650, 2640]"
+90,1,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,[2655]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2645]
 99,1,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,2.0,[2609]

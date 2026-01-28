@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2613, 2615, 2619, 2624, 2627, 2631, 2634, 2618, 2633, 2614]"
+18,11,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2613, 2615, 2619, 2624, 2627, 2631, 2634, 2618, 2633, 2614, 2655]"
 54,3,Geflügel,Volailles,Pollame,Poultry,1.0,"[2604, 2629, 2650]"
 60,3,Fische,Poissons,Pesce,Fish,1.33,"[2616, 2647, 2653]"
 1,3,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2617, 2630, 2603]"
@@ -15,3 +15,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2632]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
 36,1,Oliven,Olives,Olive,Olives,1.0,[2645]
+9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2654]
