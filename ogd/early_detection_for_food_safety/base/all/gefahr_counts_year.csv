@@ -10,16 +10,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,18,Blei,Plomb,Piombo,Lead,1.28,"[1963, 2269, 2498, 2487, 2436, 2024, 2317, 1974, 2254, 2351, 2368, 2268, 2558, 2243, 2400, 2418, 2478, 2639]"
 128,17,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.12,"[1963, 2122, 2269, 2487, 2152, 2188, 2557, 1974, 2589, 2351, 2349, 2368, 2268, 2193, 2400, 2476, 2478]"
 187,13,Arsen,Arsenic,Arsenico,Arsenic,1.08,"[2099, 2269, 2487, 2547, 2648, 1974, 2254, 2243, 2180, 2215, 2418, 2517, 2639]"
-19,13,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.54,"[2308, 2584, 2322, 2610, 2318, 2554, 1949, 2073, 2314, 2391, 2454, 2567, 2134]"
 518,13,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2193, 2175, 2169, 2331, 2518]"
 528,12,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
+19,12,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.58,"[2308, 2584, 2322, 2610, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2134]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[1963, 2269, 2503, 2188, 1974, 2230, 2254, 2368, 2438, 2418, 2639]"
 181,11,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.73,"[2393, 2277, 2484, 2566, 2255, 2076, 2031, 2250, 2564, 2159, 2300]"
-361,10,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.2,"[1954, 1965, 2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
+361,9,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.22,"[1965, 2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
 166,9,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 2376, 2486, 2024, 2327, 1988, 2556, 2569, 2617]"
 119,9,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2055, 2534, 2143, 2198, 2028, 2119, 1976, 2333, 2150]"
 503,8,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.12,"[2282, 2017, 2273, 2366, 2427, 2593, 2219, 2306]"
-109,7,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.29,"[1951, 2313, 2627, 2214, 1992, 2002, 2189]"
 90,7,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2655, 2522, 2098, 2357, 2338, 2353, 2339]"
 42,7,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.29,"[2561, 2544, 2204, 2598, 2129, 2481, 2437]"
 63,7,Antibiotika,antibiotiques,antibiotici,antibiotics,1.43,"[2127, 2041, 2081, 2185, 2524, 2118, 2325]"
@@ -29,6 +28,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 45,6,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2578, 2480, 2594, 2615]"
 106,6,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.33,"[2110, 2181, 2643, 2328, 2391, 2472]"
 450,6,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2052, 2551, 2082]"
+109,6,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.33,"[2313, 2627, 2214, 1992, 2002, 2189]"
 203,6,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.17,"[2282, 2450, 2017, 2474, 2366, 2306]"
 238,6,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,"[2581, 2419, 2634, 2102, 2365, 2341]"
 10,5,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,1.4,"[2006, 2239, 2538, 2542, 2226]"
@@ -116,9 +116,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2215, 2639]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.0,"[2420, 2367]"
-147,1,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,1.0,[1952]
-360,1,<em><strong>Echinococcus granulosus</strong></em>,<em><strong>Echinococcus granulosus</strong></em>,<em><strong>Echinococcus granulosus</strong></em>,<em><strong>Echinococcus granulosus</strong></em>,1.0,[1952]
-495,1,<em>Yersinia</em> spp.,<em>Yersinia</em> spp.,<em>Yersinia</em> spp.,<em>Yersinia</em> spp.,1.0,[1953]
 351,1,Brom,brom,bromo,bromine,1.0,[1955]
 453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 501,1,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,1.0,[1985]
