@@ -31,6 +31,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 18,3,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,1.0,"[2025, 2591, 1989]"
 23,3,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,1.33,"[2344, 2597, 2429]"
 504,3,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,1.33,"[2029, 2163, 2582]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2660, 2401, 2325]"
 261,3,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,1.0,"[2220, 2163, 2468]"
 121,3,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.33,"[2451, 1976, 2150]"
 232,3,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,1.67,"[2404, 2253, 2205]"
@@ -62,7 +63,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 5,2,<em>Bacillus thuringiensis</em>,<em>Bacillus thuringiensis</em>,<em>Bacillus thuringiensis</em>,<em>Bacillus thuringiensis</em>,1.5,"[2328, 2472]"
 332,2,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,2.0,"[2157, 2213]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2175, 2169]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2401, 2325]"
 501,1,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,1.0,[1985]
 515,1,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,2.0,[2109]
 375,1,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,1.0,[2202]
@@ -82,6 +82,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 529,1,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,1.0,[2379]
 541,1,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,Staphylococcus xylosus,1.0,[2337]
 549,1,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,1.0,[2442]
+126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 498,1,<em>Helicobacter suis</em>,<em>Helicobacter suis</em>,<em>Helicobacter suis</em>,<em>Helicobacter suis</em>,1.0,[1957]
 496,1,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,Providencia rustigianii,1.0,[1956]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]

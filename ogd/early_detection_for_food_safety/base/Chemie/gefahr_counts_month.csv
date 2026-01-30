@@ -1,14 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.17,"[2616, 2605, 2614, 2647, 2602, 2618]"
+126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2616, 2605, 2614, 2660, 2647, 2602, 2618]"
+187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2648, 2639, 2659]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2625, 2620]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2648, 2639]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2639, 2659]"
+102,2,Blei,Plomb,Piombo,Lead,1.0,"[2639, 2659]"
 90,1,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,[2655]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2645]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2623]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2606]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
@@ -19,9 +22,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2615]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2631]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2639]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2639]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2659]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2659]
