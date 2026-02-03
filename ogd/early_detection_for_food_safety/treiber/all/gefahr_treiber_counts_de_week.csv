@@ -1,14 +1,17 @@
-gefahr_id,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Gesellschaft,Technologie,Umwelt
-26,0,0,0,1,0
-29,0,1,0,0,0
-90,0,1,0,0,0
-93,1,0,1,0,0
-94,1,0,1,0,0
-102,0,0,0,0,1
-123,1,0,1,0,0
-165,0,0,0,0,1
-167,0,0,0,0,1
-187,0,0,0,0,1
-244,0,1,0,0,0
-516,0,0,0,0,1
-544,1,0,1,0,0
+gefahr_id,Technologische Innovationen und wissenschaftliche Fortschritte,Neue Lebensmittel und Lebensmittelproduktionssysteme,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt,Politik
+1,1,0,0,0,0,0
+9,0,0,0,1,0,0
+19,1,0,0,0,0,0
+26,1,0,0,0,0,0
+90,1,0,0,1,0,0
+91,0,0,0,0,1,0
+93,1,1,1,0,0,0
+94,0,1,1,0,0,0
+102,0,0,0,0,1,0
+144,0,1,1,0,0,0
+165,0,0,0,0,1,0
+167,0,0,0,0,1,0
+176,1,0,0,0,0,0
+187,1,0,0,0,1,1
+244,0,0,0,1,0,0
+516,0,0,0,0,1,0

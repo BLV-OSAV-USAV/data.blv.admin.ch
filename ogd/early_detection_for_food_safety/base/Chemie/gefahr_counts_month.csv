@@ -1,9 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2616, 2605, 2614, 2660, 2647, 2602, 2618]"
-187,3,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2648, 2639, 2659]"
+187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2663, 2648, 2639, 2659]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660, 2662]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2625, 2620]"
 548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2639, 2659]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2639, 2659]"
@@ -21,6 +21,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2617]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2615]
+276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2631]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
