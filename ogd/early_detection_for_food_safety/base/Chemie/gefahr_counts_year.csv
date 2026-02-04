@@ -8,12 +8,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,14,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.07,"[2122, 2269, 2152, 2188, 2557, 1974, 2589, 2351, 2349, 2368, 2193, 2400, 2476, 2478]"
 518,13,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2193, 2175, 2169, 2331, 2518]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[2269, 2503, 2188, 1974, 2230, 2254, 2368, 2438, 2418, 2639, 2659]"
-166,9,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[1970, 2376, 2486, 2024, 2327, 1988, 2556, 2569, 2617]"
+166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2024, 2327, 1988, 2556, 2569, 2617]"
 503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.14,"[2282, 2017, 2273, 2366, 2427, 2593, 2306]"
 42,7,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.29,"[2561, 2544, 2204, 2598, 2129, 2481, 2437]"
 450,6,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2052, 2551, 2082]"
 109,6,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.33,"[2313, 2627, 2214, 1992, 2002, 2189]"
-130,5,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.2,"[1970, 2637, 1988, 2384, 2617]"
 298,5,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.2,"[1979, 2282, 2017, 2246, 2366]"
 203,5,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.2,"[2282, 2450, 2017, 2366, 2306]"
 127,5,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.2,"[2151, 2182, 2140, 2241, 2406]"
@@ -21,6 +20,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2615]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 437,4,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.25,"[2017, 2222, 2246, 2366]"
+130,4,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.25,"[2637, 1988, 2384, 2617]"
 96,4,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.25,"[2086, 2408, 2392, 2175]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2005, 2568, 2606, 2118]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2123, 2362, 2237]"
@@ -75,6 +75,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2563]
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2537]
+576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
+106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]

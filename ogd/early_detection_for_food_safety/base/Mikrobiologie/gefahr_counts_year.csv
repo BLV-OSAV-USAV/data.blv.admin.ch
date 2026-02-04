@@ -1,17 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.19,"[1968, 1973, 2049, 2102, 2336, 2565, 2661, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
 26,30,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.23,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2661, 2352, 2572, 2270, 2410, 2461, 2411, 2471, 2634, 2011, 2271, 2073, 2013, 2103, 2138, 2391, 2407, 2510, 2108, 2190, 2227, 2446, 2652]"
+93,30,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.2,"[1973, 2049, 2102, 2336, 2565, 2661, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
 244,27,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.19,"[2102, 2292, 2604, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2118, 2205, 2173, 2341]"
 1,20,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.15,"[2032, 2085, 2030, 2248, 2661, 2077, 2228, 2220, 2494, 2634, 2497, 2314, 2402, 2464, 2454, 2102, 2153, 2175, 2504, 2514]"
 19,13,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.54,"[2308, 2584, 2661, 2322, 2610, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2134]"
-181,11,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.73,"[2393, 2277, 2484, 2566, 2255, 2076, 2031, 2250, 2564, 2159, 2300]"
+181,12,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.67,"[2393, 2277, 2668, 2484, 2566, 2255, 2076, 2031, 2250, 2564, 2159, 2300]"
 111,10,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2329, 2176, 2222, 2002, 2397, 2186, 2213, 2401, 2325, 2631]"
 119,9,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2055, 2534, 2143, 2198, 2028, 2119, 1976, 2333, 2150]"
 90,8,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2655, 2522, 2661, 2098, 2357, 2338, 2353, 2339]"
 361,8,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
+106,7,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.29,"[2110, 2669, 2181, 2643, 2328, 2391, 2472]"
 86,7,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.57,"[2089, 2265, 2550, 2007, 2174, 2464, 2621]"
 94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2664, 2475, 2650, 2314]"
-106,6,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.33,"[2110, 2181, 2643, 2328, 2391, 2472]"
 9,6,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,"[2292, 2403, 2114, 2667, 2409, 2634]"
 238,6,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,"[2581, 2419, 2634, 2102, 2365, 2341]"
 63,6,Antibiotika,antibiotiques,antibiotici,antibiotics,1.33,"[2041, 2081, 2185, 2524, 2118, 2325]"
@@ -20,7 +20,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2058, 2064, 2077, 2462, 2169]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2451, 2289, 2060, 2150]"
 123,5,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.2,"[2309, 2130, 2650, 2640, 2173]"
-176,4,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,1.5,"[1966, 2281, 2661, 2060]"
 35,4,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,1.5,"[2239, 2046, 2259, 2460]"
 7,4,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,1.25,"[2239, 2465, 2014, 2060]"
 118,4,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,1.5,"[2183, 1977, 2157, 2213]"
@@ -29,6 +28,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 333,4,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.25,"[2409, 2643, 2206, 2328]"
 18,3,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,1.0,"[2025, 2591, 1989]"
 348,3,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,1.0,"[2336, 2130, 2220]"
+176,3,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,1.0,"[2281, 2661, 2060]"
 23,3,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,<em>Anisakis spp.</em>,1.33,"[2344, 2597, 2429]"
 504,3,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,1.33,"[2029, 2163, 2582]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2660, 2401, 2325]"
@@ -74,6 +74,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 546,1,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,1.0,[2403]
 159,1,<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),1.0,[2403]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
+576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
 506,1,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,1.0,[2040]
 510,1,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,1.0,[2087]
 156,1,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,1.0,[2270]
