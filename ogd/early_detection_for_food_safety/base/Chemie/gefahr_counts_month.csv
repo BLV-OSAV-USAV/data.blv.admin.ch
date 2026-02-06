@@ -1,9 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,7,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2616, 2605, 2614, 2660, 2647, 2602, 2618]"
-187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2663, 2648, 2639, 2659]"
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2616, 2614, 2660, 2647, 2618]"
+187,5,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2663, 2673, 2648, 2639, 2659]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660, 2662]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2625, 2620]"
-548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2639, 2659]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2639, 2659]"
@@ -15,11 +14,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2623]
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2606]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,2.0,[2611]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),<strong>Benzothiazole (BTH)</strong>,2.0,[2611]
+548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2617]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2617]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2615]
