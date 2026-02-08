@@ -1,47 +1,41 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2616, 2614, 2660, 2647, 2618]"
 187,5,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2663, 2673, 2648, 2639, 2659]"
 93,4,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.0,"[2661, 2664, 2634, 2650]"
 26,3,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,"[2661, 2634, 2652]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660, 2662]"
 90,2,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2655, 2661]"
-363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2625, 2620]"
 1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,"[2661, 2634]"
 106,2,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,"[2669, 2643]"
-130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,"[2667, 2634]"
 181,2,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.0,"[2668, 2678]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2654, 2629]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2660, 2647]"
 94,2,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.0,"[2664, 2650]"
-145,2,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2622]"
 123,2,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.0,"[2650, 2640]"
 114,2,<em>Klebsiella</em>,<em>Klebsiella</em>,<em>Klebsiella</em>,<em>Klebsiella</em>,1.0,"[2629, 2674]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2639, 2659]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2639, 2659]"
 576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
+363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.0,[2625]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
 176,1,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,1.0,[2661]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2661]
+130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,2.0,[2637]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2672]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
+145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2677]
 238,1,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,[2634]
 333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,[2643]
-122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 544,1,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,1.0,[2650]
-461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2623]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
-548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2617]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2617]
-86,1,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,2.0,[2621]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2679]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 29,1,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,2.0,[2653]
-45,1,Aspartam,Aspartam,Aspartam,Aspartam,1.0,[2615]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2631]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
