@@ -4,9 +4,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,29,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.21,"[2049, 2102, 2336, 2565, 2661, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
 244,29,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2102, 2292, 2604, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2118, 2205, 2173, 2341]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.27,"[2440, 2616, 2372, 2605, 2614, 2660, 2647, 2586, 2033, 2024, 2023, 2398, 2151, 2553, 2003, 1988, 2140, 2241, 2549, 2602, 2618, 2243, 2307, 2262, 2406, 2426]"
-111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.32,"[2066, 2282, 2329, 2450, 2017, 2176, 2222, 2002, 2246, 2363, 2397, 2366, 2349, 2576, 1998, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
+111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2066, 2282, 2329, 2450, 2017, 2176, 2222, 2002, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 1998, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 91,21,Pestizide,pesticides,pesticidi,pesticide,1.19,"[2279, 2315, 2305, 2117, 2441, 2645, 2324, 2316, 2428, 2660, 2662, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
-1,20,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.15,"[2032, 2085, 2030, 2248, 2661, 2077, 2228, 2220, 2494, 2634, 2497, 2314, 2402, 2464, 2454, 2102, 2153, 2175, 2504, 2514]"
+1,21,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.14,"[2032, 2085, 2030, 2248, 2661, 2077, 2228, 2220, 2494, 2634, 2497, 2314, 2402, 2464, 2454, 2102, 2153, 2175, 2504, 2514, 2680]"
 102,17,Blei,Plomb,Piombo,Lead,1.29,"[2269, 2498, 2487, 2436, 2024, 2317, 2254, 2351, 2368, 2268, 2558, 2243, 2400, 2418, 2478, 2639, 2659]"
 187,15,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[2099, 2269, 2487, 2663, 2673, 2547, 2648, 2254, 2243, 2180, 2215, 2418, 2517, 2639, 2659]"
 128,15,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.13,"[2122, 2269, 2487, 2152, 2188, 2557, 2589, 2351, 2349, 2368, 2268, 2193, 2400, 2476, 2478]"
@@ -20,8 +20,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,8,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.12,"[2282, 2017, 2273, 2366, 2427, 2593, 2219, 2306]"
 361,8,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2024, 2327, 1988, 2556, 2569, 2617]"
+42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2544, 2204, 2598, 2129, 2481, 2437, 2681]"
 106,7,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.29,"[2110, 2669, 2181, 2643, 2328, 2391, 2472]"
-42,7,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.29,"[2561, 2544, 2204, 2598, 2129, 2481, 2437]"
 63,7,Antibiotika,antibiotiques,antibiotici,antibiotics,1.43,"[2127, 2041, 2081, 2185, 2524, 2118, 2325]"
 86,7,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.57,"[2089, 2265, 2550, 2007, 2174, 2464, 2621]"
 79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2015, 2439, 2056, 2340]"
@@ -236,3 +236,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
+239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]
