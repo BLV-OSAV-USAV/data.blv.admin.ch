@@ -3,13 +3,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,4,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.0,"[2661, 2664, 2634, 2650]"
 1,3,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,"[2661, 2634, 2680]"
 26,3,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,"[2661, 2634, 2652]"
+126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2685, 2660, 2647]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2684, 2654, 2629]"
 91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2660, 2662]"
 90,2,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2655, 2661]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2661, 2686]"
 106,2,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,"[2669, 2643]"
+125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2685, 2672]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,"[2667, 2634]"
 181,2,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.0,"[2668, 2678]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2654, 2629]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2660, 2647]"
 94,2,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.0,"[2664, 2650]"
 123,2,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.0,"[2650, 2640]"
 114,2,<em>Klebsiella</em>,<em>Klebsiella</em>,<em>Klebsiella</em>,<em>Klebsiella</em>,1.0,"[2629, 2674]"
@@ -18,14 +20,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2639, 2659]"
 576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
 176,1,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,1.0,[2661]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2661]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 130,1,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,2.0,[2637]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2672]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2677]
+55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.0,[2683]
 238,1,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,[2634]
 333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,[2643]
 544,1,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,1.0,[2650]

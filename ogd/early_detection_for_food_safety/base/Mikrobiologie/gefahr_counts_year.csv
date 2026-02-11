@@ -1,9 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,30,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.23,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2661, 2352, 2572, 2270, 2410, 2461, 2411, 2471, 2634, 2011, 2271, 2073, 2013, 2103, 2138, 2391, 2407, 2510, 2108, 2190, 2227, 2446, 2652]"
 93,29,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.21,"[2049, 2102, 2336, 2565, 2661, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
-244,27,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.19,"[2102, 2292, 2604, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2118, 2205, 2173, 2341]"
+244,28,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.18,"[2102, 2292, 2604, 2684, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2118, 2205, 2173, 2341]"
 1,21,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.14,"[2032, 2085, 2030, 2248, 2661, 2077, 2228, 2220, 2494, 2634, 2497, 2314, 2402, 2464, 2454, 2102, 2153, 2175, 2504, 2514, 2680]"
-19,13,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.54,"[2308, 2584, 2661, 2322, 2610, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2134]"
+19,14,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2308, 2584, 2661, 2686, 2322, 2610, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2134]"
 181,13,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.62,"[2393, 2277, 2668, 2484, 2678, 2566, 2255, 2076, 2031, 2250, 2564, 2159, 2300]"
 111,10,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2329, 2176, 2222, 2002, 2397, 2186, 2213, 2401, 2325, 2631]"
 90,8,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2655, 2522, 2661, 2098, 2357, 2338, 2353, 2339]"
@@ -37,7 +37,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 202,3,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.67,"[2287, 2524, 2231]"
 485,3,<em>Salmonella</em> Strathcona,<em>Salmonella</em> Strathcona,<em>Salmonella</em> Strathcona,<em>Salmonella</em> Strathcona,1.0,"[2395, 2424, 2499]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.5,"[2239, 2208]"
-255,2,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[2027, 1986]"
 226,2,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,"[2012, 2040]"
 39,2,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,1.0,"[2239, 2163]"
 476,2,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,1.0,"[2239, 2423]"
@@ -62,7 +61,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 89,2,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,1.0,"[2060, 2468]"
 332,2,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,2.0,"[2157, 2213]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2175, 2169]"
-501,1,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,<em>Staphylococcus epidermidis</em>,1.0,[1985]
+255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
 515,1,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,2.0,[2109]
 375,1,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,1.0,[2202]
 36,1,<em>Giardia spp.</em>,<em>Giardia spp.</em>,<em>Giardia spp.</em>,<em>Giardia spp.</em>,1.0,[2239]
