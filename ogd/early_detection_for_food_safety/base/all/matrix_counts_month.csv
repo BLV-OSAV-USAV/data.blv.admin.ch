@@ -1,14 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2631, 2634, 2633, 2655, 2667, 2670, 2681, 2680, 2685]"
-54,3,Geflügel,Volailles,Pollame,Poultry,1.0,"[2629, 2650, 2674]"
+18,10,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2631, 2634, 2633, 2655, 2667, 2670, 2681, 2680, 2685, 2687]"
+1,3,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2630, 2657, 2689]"
 14,3,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2638, 2644, 2635]"
 9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2654, 2673, 2684]"
+54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[2629, 2650]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2639, 2678]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2639, 2661]"
 60,2,Fische,Poissons,Pesce,Fish,1.5,"[2647, 2653]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2662, 2686]"
 7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,"[2679, 2682]"
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2630]
 67,1,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,[2642]
 157,1,Mahlzeitenersatz und Sportlernahrung,Substituts de repas et aliments pour sportifs,Prodotti sostitutivi dei pasti e alimenti per sportivi,Meal Substitutes,1.0,[2644]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2632]
