@@ -11,6 +11,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
+516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2115]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,"[2603, 2136]"
 333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,"[2409, 2643]"
 507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
@@ -24,6 +25,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2660]
@@ -31,7 +33,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,1,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,[2409]
 401,1,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,1.0,[2409]
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2643]
-516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2115]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
