@@ -4,8 +4,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,30,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2661, 2693, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
 244,30,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2102, 2292, 2604, 2684, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2118, 2205, 2173, 2341]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.27,"[2440, 2616, 2685, 2372, 2605, 2614, 2660, 2647, 2586, 2033, 2024, 2023, 2398, 2151, 2553, 2003, 2140, 2241, 2549, 2602, 2618, 2243, 2307, 2262, 2406, 2426]"
-111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2066, 2282, 2329, 2450, 2017, 2176, 2222, 2002, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 1998, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 1,22,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.18,"[2032, 2085, 2030, 2248, 2661, 2693, 2077, 2228, 2220, 2494, 2634, 2497, 2314, 2402, 2464, 2454, 2102, 2153, 2175, 2504, 2514, 2680]"
+111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.32,"[2066, 2282, 2329, 2450, 2017, 2176, 2222, 2002, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 91,21,Pestizide,pesticides,pesticidi,pesticide,1.19,"[2279, 2315, 2305, 2117, 2441, 2645, 2324, 2316, 2428, 2660, 2662, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
 102,18,Blei,Plomb,Piombo,Lead,1.33,"[2269, 2498, 2487, 2436, 2691, 2024, 2317, 2254, 2351, 2368, 2268, 2558, 2243, 2400, 2418, 2478, 2639, 2659]"
 187,15,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[2099, 2269, 2487, 2663, 2673, 2547, 2648, 2254, 2243, 2180, 2215, 2418, 2517, 2639, 2659]"
@@ -61,7 +61,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,3,Enniatin,Ennitatine,Ennitatina,Enniatin,1.33,"[2282, 2176, 2246]"
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2254, 2639]"
 516,3,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2115, 2659]"
-288,3,T-2,T-2,T-2,T-2,1.0,"[2017, 2090, 1998]"
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 504,3,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,1.33,"[2029, 2163, 2582]"
 277,3,Microcystine,Microcystine,Microcistina,Microcystin,1.33,"[2026, 2164, 2280]"
@@ -84,6 +83,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 476,2,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,1.0,"[2239, 2423]"
 120,2,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2333]"
 320,2,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,1.5,"[2532, 2187]"
+288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 2090]"
 314,2,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,1.5,"[2538, 2542]"
 392,2,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,1.5,"[2431, 2264]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -176,7 +176,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
-148,1,Radioaktivität,Radioactivité,Radioattività,Radioactivity,2.0,[2000]
 512,1,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,1.0,[2096]
 513,1,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,1.0,[2096]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
@@ -203,7 +202,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 300,1,<em>Vibrio vulnificus</em>,<em>Vibrio vulnificus</em>,<em>Vibrio vulnificus</em>,<em>Vibrio vulnificus</em>,1.0,[2060]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
-289,1,HT-2,HT-2,HT-2,HT-2,1.0,[1998]
 508,1,<em>Macrococcus psychrotolerans</em> sp. nov.,<em>Macrococcus psychrotolerans</em> sp. nov.,<em>Macrococcus psychrotolerans</em> sp. nov.,<em>Macrococcus psychrotolerans</em> sp. nov.,2.0,[2065]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 178,1,<em>Fusarium sambucinum</em>,<em>Fusarium sambucinum</em>,<em>Fusarium sambucinum</em>,<em>Fusarium sambucinum</em>,2.0,[2157]
