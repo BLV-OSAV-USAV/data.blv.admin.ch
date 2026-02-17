@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,40,Mikroplastik,microplastiques,microplastica,microplastics,1.15,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2685, 2077, 2672, 2086, 2392, 2546, 2462, 2214, 2121, 2543, 2037, 2022, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573]"
+125,41,Mikroplastik,microplastiques,microplastica,microplastics,1.15,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2685, 2698, 2077, 2672, 2086, 2392, 2546, 2462, 2214, 2121, 2543, 2037, 2022, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573]"
 26,31,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.23,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2661, 2352, 2688, 2572, 2270, 2410, 2461, 2411, 2471, 2634, 2011, 2271, 2073, 2013, 2103, 2138, 2391, 2407, 2510, 2108, 2190, 2227, 2446, 2652]"
 93,30,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2661, 2693, 2036, 2078, 2309, 2664, 2181, 2634, 2650, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2072, 2131, 2149, 2173, 2401, 2577, 2514]"
 244,30,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2102, 2292, 2604, 2684, 2128, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2005, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2118, 2205, 2173, 2341]"
@@ -83,6 +83,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 476,2,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,1.0,"[2239, 2423]"
 120,2,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2333]"
 320,2,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,1.5,"[2532, 2187]"
+46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,"[2699, 2019]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 2090]"
 314,2,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,1.5,"[2538, 2542]"
 392,2,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,1.5,"[2431, 2264]"
@@ -175,7 +176,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 442,1,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,[2002]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
-46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2019]
 512,1,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,<em>Salmonella</em> Wandsworth,1.0,[2096]
 513,1,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,<em>Salmonella</em> Stanley,1.0,[2096]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
