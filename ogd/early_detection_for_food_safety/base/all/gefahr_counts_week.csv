@@ -1,17 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 167,2,Quecksilber,Mercure,Mercurio,Mercury,1.5,"[2695, 2691]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
-528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2689]
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 93,1,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,2.0,[2693]
 1,1,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,2.0,[2693]
 86,1,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,2.0,[2693]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2698]
-26,1,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,[2688]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2701]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2701]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2691]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[2691]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2691]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]

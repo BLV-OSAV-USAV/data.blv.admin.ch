@@ -16,6 +16,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 94,2,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.0,"[2664, 2650]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2691, 2639]"
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 123,2,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.0,"[2640, 2650]"
 90,2,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.0,"[2661, 2655]"
 181,2,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.0,"[2668, 2678]"
@@ -31,7 +32,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2677]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.0,[2683]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]
 333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,[2643]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]

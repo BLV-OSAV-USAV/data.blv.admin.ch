@@ -37,13 +37,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 273,5,Koffein,Caféine,Caffeina,caffein,1.2,"[622, 747, 926, 1574, 1742]"
 306,5,Furan,Furane,Furano,Furan,2.2,"[824, 967, 953, 1411, 1770]"
 93,5,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.2,"[568, 1619, 1718, 1867, 2401]"
-43,5,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.4,"[848, 2313, 2214, 2330, 1756]"
 425,5,Kupfer,Cuivre,Rame,Copper,1.0,"[1521, 1487, 2254, 1859, 2418]"
 437,5,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.2,"[1529, 2017, 2222, 2246, 2366]"
 379,5,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.2,"[1774, 1902, 1182, 1388, 2482]"
 69,5,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.4,"[656, 2247, 199, 1636, 2135]"
 344,5,Chrom,Chrome,Cromo,Chromium,1.2,"[1116, 1017, 1668, 2254, 2639]"
 271,5,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.6,"[2376, 607, 2142, 1980, 2216]"
+43,5,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.4,"[2313, 2214, 848, 2330, 1756]"
 1,5,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.2,"[1619, 2077, 201, 1718, 2175]"
 277,5,Microcystine,Microcystine,Microcistina,Microcystin,1.2,"[2026, 643, 1200, 1325, 2280]"
 483,5,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.2,"[2151, 2140, 1806, 1861, 2406]"
@@ -116,6 +116,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 454,2,Farbstoffe,Colorant,Colorante,Dye,1.0,"[1619, 2106]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 313,2,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,"[1160, 871]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 1787]"
@@ -205,7 +206,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 488,1,DDT,DDT,DDT,DDT,1.0,[1862]
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs),<strong> medium-chain chlorinated paraffins (MCCPs)</strong>,1.0,[2548]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 263,1,benzol,benzène,benzene,benzene,1.0,[542]

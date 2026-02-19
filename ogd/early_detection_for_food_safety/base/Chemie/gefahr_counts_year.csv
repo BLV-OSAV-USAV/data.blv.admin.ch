@@ -44,6 +44,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2691, 2639]"
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,"[2142, 2679]"
 180,2,Phthalate,phtalates,ftalati,phthalates,1.5,"[2562, 2426]"
 507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
@@ -84,7 +85,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs),<strong> medium-chain chlorinated paraffins (MCCPs)</strong>,1.0,[2548]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,<strong>Diazepam</strong>,1.0,[2541]
 297,1,Gluten,gluten,glutine,gluten,3.0,[2496]

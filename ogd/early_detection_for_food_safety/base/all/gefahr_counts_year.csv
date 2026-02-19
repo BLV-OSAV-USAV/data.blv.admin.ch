@@ -31,7 +31,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,6,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,"[2292, 2403, 2114, 2667, 2634, 2409]"
 203,6,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.17,"[2282, 2450, 2017, 2474, 2366, 2306]"
 238,6,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,"[2634, 2581, 2419, 2102, 2365, 2341]"
-10,5,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,1.4,"[2006, 2239, 2538, 2542, 2226]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2451, 2289, 2060, 2150]"
 167,5,Quecksilber,Mercure,Mercurio,Mercury,1.2,"[2492, 2695, 2659, 2691, 2368]"
 123,5,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.2,"[2309, 2130, 2640, 2173, 2650]"
@@ -39,6 +38,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,5,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.2,"[2151, 2182, 2140, 2241, 2406]"
 35,4,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,1.5,"[2239, 2046, 2259, 2460]"
 7,4,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,<em>Cyclospora spp.</em>,1.25,"[2239, 2465, 2014, 2060]"
+10,4,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,<em>Toxoplasma gondii</em>,1.5,"[2239, 2538, 2542, 2226]"
 271,4,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.5,"[2376, 2142, 2139, 2216]"
 298,4,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.25,"[2282, 2017, 2246, 2366]"
 109,4,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.25,"[2313, 2627, 2214, 2189]"
@@ -93,6 +93,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 533,2,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,"[2675, 2280]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.5,"[2143, 2028]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2451, 2150]"
@@ -163,7 +164,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,<strong>Diazepam</strong>,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]

@@ -88,12 +88,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 147,5,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,<em>Echinococcus multilocularis</em>,1.6,"[970, 1952, 1133, 1098, 1905]"
 120,5,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.2,"[1042, 2534, 42, 920, 2333]"
 365,5,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.2,"[1151, 1540, 1193, 1304, 2429]"
-43,5,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.4,"[848, 2313, 2214, 2330, 1756]"
 425,5,Kupfer,Cuivre,Rame,Copper,1.0,"[1521, 1487, 2254, 1859, 2418]"
 437,5,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.2,"[1529, 2017, 2222, 2246, 2366]"
 379,5,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.2,"[1774, 1902, 1182, 1388, 2482]"
 468,5,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.4,"[1741, 2142, 1980, 2679, 2139]"
 69,5,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.4,"[656, 2247, 199, 1636, 2135]"
+43,5,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.4,"[2313, 2214, 848, 2330, 1756]"
 103,5,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.4,"[1720, 138, 31, 441, 1866]"
 174,5,Fungizid,Fongicide,Fungicida,Fungicide,1.4,"[426, 495, 525, 377, 2473]"
 232,5,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,<em>Shewanella</em> spp.,1.4,"[2404, 1013, 2253, 1941, 2205]"
@@ -223,6 +223,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 533,2,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,"[2675, 2280]"
+577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.5,"[2691, 2703]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 494,2,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,1.0,"[1933, 2245]"
 334,2,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,1.5,"[1469, 2338]"
@@ -360,7 +361,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs),<strong> medium-chain chlorinated paraffins (MCCPs)</strong>,1.0,[2548]
 549,1,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,<em>Empedobacter spp.</em>,1.0,[2442]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,2.0,[2691]
 184,1,<em>Morganella morganii</em>,<em>Morganella morganii</em>,<em>Morganella morganii</em>,<em>Morganella morganii</em>,2.0,[143]
 136,1,Prion,Prion,Prione,Prion,1.0,[431]
 140,1,<em>Streptococcus</em> spp.,<em>Streptococcus</em> spp.,<em>Streptococcus</em> spp.,<em>Streptococcus</em> spp.,3.0,[456]
