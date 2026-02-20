@@ -1,10 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 79,13,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2088, 1907, 2191, 1123, 2015, 2439, 712, 846, 1744, 1892, 2056, 2340]"
-165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.31,"[1095, 1917, 263, 1290, 750, 392, 532, 1836, 989, 1689, 1898, 1908, 2639]"
+165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.31,"[1095, 1917, 263, 1290, 2639, 750, 392, 532, 1836, 989, 1689, 1898, 1908]"
 528,13,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2689, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
-102,12,Blei,Plomb,Piombo,Lead,1.25,"[1917, 2498, 2487, 263, 1290, 750, 701, 1836, 1689, 1908, 2478, 2639]"
+102,12,Blei,Plomb,Piombo,Lead,1.25,"[1917, 2498, 2487, 263, 1290, 2639, 750, 701, 1836, 1689, 1908, 2478]"
 45,10,Aspartam,Aspartam,Aspartam,Aspartam,1.3,"[809, 813, 602, 2009, 2297, 691, 938, 2480, 2594, 2615]"
-187,10,Arsen,Arsenic,Arsenico,Arsenic,1.2,"[1095, 1917, 2487, 750, 392, 532, 1836, 659, 1898, 2639]"
+187,10,Arsen,Arsenic,Arsenico,Arsenic,1.2,"[1095, 1917, 2487, 2639, 750, 392, 532, 1836, 659, 1898]"
 167,9,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[321, 1095, 1917, 2695, 750, 273, 532, 1689, 1908]"
 125,9,Mikroplastik,microplastiques,microplastica,microplastics,1.22,"[524, 2064, 2116, 1030, 310, 453, 1362, 1235, 1314]"
 128,8,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[533, 1917, 2487, 263, 392, 783, 1908, 2478]"
@@ -74,6 +74,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 359,1,<em>Magnaporthe oryzae</em>,<em>Magnaporthe oryzae</em>,<em>Magnaporthe oryzae</em>,<em>Magnaporthe oryzae</em>,1.0,[1129]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
+249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[750]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
@@ -112,6 +115,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
-209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
-249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]

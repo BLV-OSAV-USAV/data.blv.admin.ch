@@ -3,7 +3,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2015, 2439, 2056, 2340]"
 45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2009, 2297, 2480, 2594, 2615]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
-102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2478, 2639]"
+102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2639, 2478]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2282, 2450]"
@@ -26,6 +26,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
+56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
+249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2660]
@@ -42,7 +46,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2139]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
-209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
-249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
