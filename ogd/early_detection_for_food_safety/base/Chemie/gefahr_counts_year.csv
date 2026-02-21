@@ -40,6 +40,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,"[2699, 2019]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 2090]"
 1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,"[2077, 2175]"
+576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2639, 2691]"
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2254]"
@@ -56,7 +57,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 522,2,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,"[2384, 2211]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
-453,1,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,[2010]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
 272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
 532,1,Molybdän,Molybdène,Molibdeno,<strong>molybdenum</strong>,1.0,[2269]
@@ -78,7 +78,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
 308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
-576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]

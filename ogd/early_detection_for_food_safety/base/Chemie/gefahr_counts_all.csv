@@ -115,6 +115,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
 454,2,Farbstoffe,Colorant,Colorante,Dye,1.0,"[1619, 2106]"
+576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
@@ -192,7 +193,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 283,1,Borax,Borax,Borace,Borax,1.0,[671]
 478,1,Biobasierte Fasern,Fibres biosourcées,Fibre a base biologica,Biobased fibers,1.0,[1790]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
-576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 279,1,"Organische Phosphit-Antioxidantien, OPA","Phosphites organiques antioxydants, OPA","Antiossidanti organici al fosfito, OPA","Organic phosphite antioxidants, OPA",1.0,[651]
 294,1,Benzo(a)pyren,Benzopyrène,Benzo[a]pirene,Benzo[a]pyrene,1.0,[714]

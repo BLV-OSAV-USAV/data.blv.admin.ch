@@ -1,17 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+93,5,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.2,"[2693, 2661, 2709, 2664, 2650]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2654, 2684]"
-93,4,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.25,"[2693, 2661, 2664, 2650]"
+1,4,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.5,"[2693, 2680, 2711, 2661]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2685, 2704, 2672]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2701, 2660, 2662]"
+26,4,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.5,"[2688, 2711, 2661, 2652]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2660, 2647, 2685, 2710]"
 187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2673, 2648, 2659, 2663]"
-1,3,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.33,"[2693, 2680, 2661]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.33,"[2695, 2691, 2659]"
-26,3,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.33,"[2688, 2661, 2652]"
 577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.33,"[2691, 2703, 2704]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2686, 2661]"
+86,2,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.5,"[2693, 2709]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2659]"
-106,2,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,"[2669, 2643]"
+576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
+9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.5,"[2667, 2711]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[2691, 2659]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[2691, 2659]"
@@ -22,19 +24,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 226,1,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,[2707]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2689]
-86,1,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,2.0,[2693]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
-576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2669]
-9,1,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.0,[2667]
-574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
+106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2677]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.0,[2683]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2691]
-333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,[2643]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]
+156,1,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,2.0,[2711]
+333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,[2711]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2679]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2682]
