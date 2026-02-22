@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-91,4,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2645, 2701, 2660, 2662]"
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2660, 2647, 2685, 2710]"
 187,4,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2673, 2648, 2659, 2663]"
 167,3,Quecksilber,Mercure,Mercurio,Mercury,1.33,"[2695, 2691, 2659]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2701, 2660, 2662]"
 577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.33,"[2691, 2703, 2704]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2685, 2704, 2672]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2659]"
@@ -22,6 +22,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2682]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2681]
-74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 90,1,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,2.0,[2655]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
