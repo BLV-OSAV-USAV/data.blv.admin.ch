@@ -2,7 +2,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,42,Mikroplastik,microplastiques,microplastica,microplastics,1.14,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2698, 2077, 2086, 2392, 2546, 2462, 2214, 2685, 2121, 2704, 2543, 2037, 2022, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
 26,31,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.29,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2352, 2688, 2634, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2073, 2013, 2103, 2138, 2391, 2407, 2510, 2661, 2108, 2190, 2227, 2446, 2652]"
 244,31,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.16,"[2705, 2102, 2292, 2604, 2128, 2701, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2118, 2205, 2173, 2341]"
-93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2693, 2036, 2634, 2078, 2309, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2664, 2650]"
+93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2693, 2036, 2634, 2078, 2309, 2664, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2650]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.27,"[2440, 2616, 2372, 2605, 2614, 2660, 2647, 2586, 2685, 2033, 2024, 2023, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2710, 2618, 2243, 2307, 2262, 2406, 2426]"
 1,23,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.22,"[2032, 2085, 2030, 2248, 2693, 2077, 2634, 2228, 2220, 2494, 2680, 2711, 2497, 2314, 2402, 2464, 2454, 2661, 2102, 2153, 2175, 2504, 2514]"
 91,22,Pestizide,pesticides,pesticidi,pesticide,1.18,"[2279, 2315, 2305, 2117, 2441, 2645, 2701, 2324, 2316, 2428, 2660, 2662, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
@@ -26,7 +26,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,7,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.14,"[2292, 2403, 2114, 2667, 2634, 2409, 2711]"
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2024, 2327, 2556, 2569, 2617]"
 79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2015, 2439, 2056, 2340]"
-94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2475, 2314, 2664, 2650]"
+94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2664, 2475, 2314, 2650]"
 450,6,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2052, 2551, 2082]"
 203,6,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.17,"[2282, 2450, 2017, 2474, 2366, 2306]"
 238,6,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,"[2634, 2581, 2419, 2102, 2365, 2341]"
@@ -163,6 +163,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,<em>EHEC</em>,<em>EHEC</em>,<em>EHEC</em>,<em>EHEC</em>,1.0,[2599]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
+144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,<strong>Diazepam</strong>,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
@@ -230,5 +231,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
-144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]

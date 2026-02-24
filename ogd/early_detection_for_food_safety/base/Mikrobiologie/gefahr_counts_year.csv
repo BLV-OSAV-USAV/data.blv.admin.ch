@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,31,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.29,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2352, 2688, 2634, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2073, 2013, 2103, 2138, 2391, 2407, 2510, 2661, 2108, 2190, 2227, 2446, 2652]"
-93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2693, 2036, 2634, 2078, 2309, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2664, 2650]"
+93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.23,"[2049, 2102, 2336, 2565, 2693, 2036, 2634, 2078, 2309, 2664, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2650]"
 244,29,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2705, 2102, 2292, 2604, 2128, 2701, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2118, 2205, 2173, 2341]"
 1,23,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.22,"[2032, 2085, 2030, 2248, 2693, 2077, 2634, 2228, 2220, 2494, 2680, 2711, 2497, 2314, 2402, 2464, 2454, 2661, 2102, 2153, 2175, 2504, 2514]"
 19,14,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2308, 2584, 2686, 2322, 2610, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2661, 2134]"
@@ -13,7 +13,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,7,Mikroplastik,microplastiques,microplastica,microplastics,1.14,"[2058, 2064, 2698, 2077, 2462, 2704, 2169]"
 106,7,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.29,"[2110, 2669, 2181, 2643, 2328, 2391, 2472]"
 9,7,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.14,"[2292, 2403, 2114, 2667, 2634, 2409, 2711]"
-94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2475, 2314, 2664, 2650]"
+94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2664, 2475, 2314, 2650]"
 238,6,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.0,"[2634, 2581, 2419, 2102, 2365, 2341]"
 63,6,Antibiotika,antibiotiques,antibiotici,antibiotics,1.33,"[2041, 2081, 2185, 2524, 2118, 2325]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2451, 2289, 2060, 2150]"
@@ -82,6 +82,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,<em>EHEC</em>,<em>EHEC</em>,<em>EHEC</em>,<em>EHEC</em>,1.0,[2599]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
+144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
@@ -124,4 +125,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 31,1,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,1.0,[2334]
 34,1,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,2.0,[2582]
 40,1,<em>Coxiella burnetti</em>,<em>Coxiella burnetti</em>,<em>Coxiella burnetti</em>,<em>Coxiella burnetti</em>,2.0,[2582]
-144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
