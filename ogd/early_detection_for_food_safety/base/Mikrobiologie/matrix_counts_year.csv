@@ -5,11 +5,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 6,15,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.4,"[2032, 2085, 2206, 2250, 2255, 2257, 2273, 2300, 2320, 2403, 2379, 2393, 2399, 2535, 2678]"
 60,14,Fische,Poissons,Pesce,Fish,1.36,"[2108, 2200, 2245, 2221, 2271, 2344, 2356, 2290, 2320, 2419, 2429, 2508, 2653, 2459]"
 54,9,Geflügel,Volailles,Pollame,Poultry,1.44,"[2076, 2174, 2173, 2455, 2516, 2604, 2130, 2650, 2629]"
-34,8,Früchte,Fruits,Frutta,Fruits,1.25,"[2014, 2227, 2239, 2337, 2342, 2391, 2472, 2686]"
 82,8,Wasser,Eau,Acqua,Waters,1.25,"[2039, 2112, 2143, 2164, 2185, 2310, 2320, 2479]"
 3,8,Gemüse,Légumes,Ortaggi,Vegetables,1.38,"[2239, 2270, 2357, 2293, 2314, 2407, 2424, 2472]"
 1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.57,"[2031, 2041, 2110, 2303, 2467, 2532, 2500]"
 42,7,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.43,"[2187, 2271, 2281, 2364, 2474, 2484, 2582]"
+34,7,Früchte,Fruits,Frutta,Fruits,1.29,"[2227, 2239, 2337, 2342, 2391, 2472, 2686]"
 23,5,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.6,"[2226, 2259, 2332, 2328, 2465]"
 56,4,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2027, 2271, 2538, 2542]"
 5,4,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.25,"[2044, 2081, 2219, 2410]"
@@ -20,7 +20,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 35,3,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.33,"[2181, 2338, 2610]"
 24,3,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,"[2395, 2423, 2499]"
 10,2,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,"[2076, 2336]"
-22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.5,"[2014, 2554]"
 27,2,Pilze,Champignons,Funghi,Mushrooms,2.0,"[2190, 2471]"
 48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.5,"[2207, 2453]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2329, 2632]"
@@ -40,6 +39,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2493]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,2.0,[2431]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[2397]
+22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,[2554]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
 14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[2638]
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,2.0,[2711]

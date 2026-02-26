@@ -1,10 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,42,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[2016, 2105, 2113, 2124, 2111, 2068, 2141, 2137, 2118, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2359, 2295, 2282, 2283, 2298, 2304, 2347, 2354, 2409, 2430, 2450, 2396, 2448, 2458, 2540, 2480, 2483, 2545, 2615, 2619, 2596, 2136, 2050, 2670, 2687]"
+18,41,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.15,"[2105, 2113, 2124, 2111, 2068, 2141, 2137, 2118, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2359, 2295, 2282, 2283, 2298, 2304, 2347, 2354, 2409, 2430, 2450, 2396, 2448, 2458, 2540, 2480, 2483, 2545, 2615, 2619, 2596, 2136, 2050, 2670, 2687]"
 1,9,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2059, 2294, 2297, 2371, 2435, 2452, 2630, 2603, 2689]"
 80,7,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,"[2056, 2191, 2266, 2340, 2439, 2447, 2594]"
 6,4,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2093, 2335, 2509, 2639]"
 14,3,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2088, 2635, 2638]"
-38,2,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,"[2015, 2116]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2043, 2632]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2165, 2639]"
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2266, 2326]"
@@ -13,6 +12,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 155,1,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,[2063]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2070]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2115]
+38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2116]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2139]
 148,1,Wein,Vin,Vino,Wine,1.0,[2184]
 39,1,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.0,[2229]
