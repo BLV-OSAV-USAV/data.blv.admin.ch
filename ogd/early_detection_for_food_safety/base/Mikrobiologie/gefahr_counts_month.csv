@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-93,5,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.2,"[2693, 2664, 2661, 2709, 2650]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2654, 2684]"
+93,4,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.25,"[2693, 2664, 2661, 2709]"
 1,4,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.5,"[2693, 2680, 2711, 2661]"
-26,4,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.5,"[2688, 2711, 2661, 2652]"
+26,3,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.33,"[2688, 2711, 2661]"
 86,2,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.5,"[2693, 2709]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2704]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.5,"[2667, 2711]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2701, 2660]"
-94,2,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.0,"[2664, 2650]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2661, 2686]"
 90,2,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.5,"[2661, 2655]"
 181,2,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.0,"[2668, 2678]"
@@ -16,6 +15,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
+94,1,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.0,[2664]
 144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]
@@ -23,6 +23,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,[2711]
 577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2704]
 176,1,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,<em>Yersinia enterocolitica</em>,1.0,[2661]
-29,1,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,<em>Streptococcus agalactiae</em>,2.0,[2653]
-123,1,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,<em>Salmonella</em> Infantis,1.0,[2650]
-544,1,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,1.0,[2650]

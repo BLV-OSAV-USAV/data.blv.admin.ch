@@ -2,24 +2,22 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,39,Mikroplastik,microplastiques,microplastica,microplastics,1.15,"[2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2077, 2086, 2392, 2546, 2214, 2685, 2121, 2704, 2543, 2037, 2022, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.27,"[2440, 2616, 2372, 2605, 2614, 2660, 2647, 2586, 2685, 2033, 2024, 2023, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2710, 2618, 2243, 2307, 2262, 2406, 2426]"
 91,22,Pestizide,pesticides,pesticidi,pesticide,1.18,"[2279, 2315, 2305, 2117, 2441, 2645, 2701, 2324, 2316, 2428, 2660, 2662, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
-111,21,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2066, 2282, 2329, 2450, 2017, 2176, 2222, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
+111,20,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2066, 2282, 2329, 2450, 2176, 2222, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 102,15,Blei,Plomb,Piombo,Lead,1.27,"[2269, 2498, 2639, 2691, 2024, 2659, 2317, 2254, 2351, 2368, 2558, 2243, 2400, 2418, 2478]"
 187,14,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[2099, 2269, 2639, 2547, 2673, 2648, 2659, 2254, 2243, 2180, 2215, 2418, 2517, 2663]"
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
 128,13,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.08,"[2122, 2269, 2152, 2188, 2557, 2589, 2351, 2349, 2368, 2193, 2400, 2476, 2478]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.18,"[2269, 2503, 2639, 2691, 2188, 2659, 2230, 2254, 2368, 2438, 2418]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
-503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.14,"[2282, 2017, 2273, 2366, 2427, 2593, 2306]"
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2024, 2327, 2556, 2569, 2617]"
 450,6,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2052, 2551, 2082]"
-203,5,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.2,"[2282, 2450, 2017, 2366, 2306]"
+503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.17,"[2282, 2273, 2366, 2427, 2593, 2306]"
 167,5,Quecksilber,Mercure,Mercurio,Mercury,1.2,"[2492, 2695, 2691, 2659, 2368]"
 127,5,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.2,"[2151, 2182, 2140, 2241, 2406]"
-298,4,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.25,"[2282, 2017, 2246, 2366]"
 109,4,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.25,"[2313, 2627, 2214, 2189]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2615]"
+203,4,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.25,"[2282, 2450, 2366, 2306]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
-437,4,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.25,"[2017, 2222, 2246, 2366]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606, 2118]"
 96,4,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.25,"[2086, 2408, 2392, 2175]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[2690, 2691, 2420, 2367]"
@@ -28,17 +26,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 271,3,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.67,"[2376, 2142, 2216]"
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[2278, 2625, 2620]"
 43,3,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.33,"[2313, 2214, 2330]"
+298,3,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.33,"[2282, 2246, 2366]"
 474,3,Enniatin,Ennitatine,Ennitatina,Enniatin,1.33,"[2282, 2176, 2246]"
 516,3,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2659, 2115]"
 577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.33,"[2691, 2703, 2704]"
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
+437,3,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.33,"[2222, 2246, 2366]"
 483,3,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.33,"[2151, 2140, 2406]"
 448,2,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,"[2070, 2125]"
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,"[2122, 2491]"
 69,2,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,"[2247, 2135]"
 118,2,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,1.5,"[2183, 2213]"
-46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,"[2699, 2019]"
-288,2,T-2,T-2,T-2,T-2,1.0,"[2017, 2090]"
 1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,"[2077, 2175]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2639, 2691]"
@@ -76,7 +74,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2537]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
-308,1,Fumonisine,Fumonisines,Fumonisine,Fumonisins,1.0,[2017]
+46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
@@ -85,6 +83,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs),<strong> medium-chain chlorinated paraffins (MCCPs)</strong>,1.0,[2548]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
+288,1,T-2,T-2,T-2,T-2,1.0,[2090]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,<strong>Diazepam</strong>,1.0,[2541]
 297,1,Gluten,gluten,glutine,gluten,3.0,[2496]
