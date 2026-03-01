@@ -42,7 +42,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2639, 2691]"
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2254]"
-277,2,Microcystine,Microcystine,Microcistina,Microcystin,1.5,"[2026, 2280]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
@@ -117,6 +116,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
 337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
+277,1,Microcystine,Microcystine,Microcistina,Microcystin,1.0,[2280]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2280]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,1.0,[2342]

@@ -1,9 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,6,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.17,"[2691, 2701, 2685, 2681, 2704, 2712]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2665, 2690]"
 7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,"[2679, 2682]"
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2662]
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2657]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2690]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[2699]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[2673]
-12,1,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,[2663]

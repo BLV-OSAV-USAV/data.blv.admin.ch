@@ -15,12 +15,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 528,13,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2689, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
 181,13,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.62,"[2393, 2277, 2484, 2566, 2255, 2076, 2031, 2250, 2564, 2159, 2300, 2668, 2678]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.18,"[2269, 2503, 2639, 2691, 2188, 2659, 2230, 2254, 2368, 2438, 2418]"
-119,8,Norovirus,Norovirus,Norovirus,Norovirus,1.0,"[2055, 2534, 2143, 2198, 2028, 2119, 2333, 2150]"
 361,8,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 90,8,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.12,"[2522, 2098, 2357, 2338, 2353, 2661, 2339, 2655]"
 86,8,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.62,"[2693, 2089, 2265, 2550, 2174, 2464, 2621, 2709]"
 63,8,Antibiotika,antibiotiques,antibiotici,antibiotics,1.38,"[2127, 2041, 2685, 2081, 2185, 2524, 2118, 2325]"
+119,7,Norovirus,Norovirus,Norovirus,Norovirus,1.14,"[2055, 2534, 2143, 2198, 2119, 2333, 2150]"
 106,7,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.29,"[2110, 2669, 2181, 2643, 2328, 2391, 2472]"
 503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.14,"[2282, 2273, 2366, 2427, 2593, 2219, 2306]"
 9,7,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.14,"[2292, 2403, 2114, 2667, 2634, 2409, 2711]"
@@ -61,8 +61,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639, 2254]"
 516,3,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2659, 2115]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.67,"[2639, 2691, 2268]"
-504,3,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,1.33,"[2029, 2163, 2582]"
-277,3,Microcystine,Microcystine,Microcistina,Microcystin,1.33,"[2026, 2164, 2280]"
 577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.33,"[2691, 2703, 2704]"
 468,3,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,"[2142, 2679, 2139]"
 261,3,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,1.0,"[2220, 2163, 2468]"
@@ -94,12 +92,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 533,2,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,"[2675, 2280]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
-8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,0.5,"[2143, 2028]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2451, 2150]"
 180,2,Phthalate,phtalates,ftalati,phthalates,1.5,"[2562, 2426]"
 507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
 470,2,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,1.5,"[2044, 2421]"
+277,2,Microcystine,Microcystine,Microcistina,Microcystin,1.0,"[2164, 2280]"
 521,2,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,1.5,"[2207, 2328]"
 318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),<strong>diethylhexyl phthalate (DEHP)</strong>,2.0,"[2144, 2216]"
 88,2,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,2.0,"[2174, 2514]"
@@ -112,9 +110,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 89,2,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,<em>Cronobacter sakazakii</em>,1.0,"[2060, 2468]"
 332,2,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,<em>Penicillium</em> spp.,2.0,"[2157, 2213]"
+504,2,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,<em>Dientamoeba fragilis</em>,1.5,"[2163, 2582]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
 544,2,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,<em>Salmonella </em>Mbandaka,1.0,"[2370, 2650]"
-255,1,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),2.0,[2027]
 515,1,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,<em>Salmonella blockley</em>,2.0,[2109]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 375,1,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,1.0,[2202]
@@ -162,13 +160,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 144,1,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,<em>Salmonella</em> Newport,1.0,[2664]
+8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2143]
 288,1,T-2,T-2,T-2,T-2,1.0,[2090]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,<strong>Diazepam</strong>,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
 401,1,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,<em>Enterococcus</em> spp.,1.0,[2409]
 239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]
-218,1,Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),Human circovirus 1 (HCirV-1),0.0,[2028]
 520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2327]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
