@@ -1,0 +1,39 @@
+name: animal disease report
+
+on: 
+  workflow_dispatch:
+  schedule:
+    - cron: "0 4 * * *" #runs at 04:00
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    
+      - name: checkout repo content
+        uses: actions/checkout@v4
+        
+      - name: setup python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' #install the python needed
+
+      - name: install python packages
+        run: |
+          pip install -r system_0jE912Msrzr37POAg9/early_detection_for_food_safety_requirements.txt
+          
+      - name: execute py script
+        run: python system_0jE912Msrzr37POAg9/animal_disease_report.py
+
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          git add -A
+          git commit -m "animal disease report" -a --allow-empty
+          
+      - name: push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
