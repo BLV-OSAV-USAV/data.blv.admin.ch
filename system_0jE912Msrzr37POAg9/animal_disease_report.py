@@ -13,9 +13,9 @@ PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX disease: <https://agriculture.ld.admin.ch/fsvo/animal-disease/>
 
 SELECT 
-  (?date AS ?REPORTDATE)
+  (?date AS ?reportDate)
   ?canton
-  (?town AS ?MUNICIPALITY)
+  (?town AS ?municipality)
 
   ?diseasesGroup_de ?diseasesGroup_fr ?diseasesGroup_it ?diseasesGroup_en
   ?diseases_de ?diseases_fr ?diseases_it ?diseases_en
@@ -84,9 +84,13 @@ if "count" in df.columns:
     df["count"] = df["count"].astype(int)
 
 # CSV speichern
-output_file = "./ogd/animal_disease_notifications/animal_disease_report.csv"
-
-df.to_csv(output_file, index=False, encoding="utf-8")
+output_file = "./ogd/animal_disease_notifications/animal_disease_report.zip"
+df.to_csv(
+    output_file,
+    index=False,
+    encoding="utf-8",
+    compression={"method": "zip", "archive_name": "animal_disease_report.csv"}
+)
 
 print(f"CSV erfolgreich gespeichert: {output_file}")
 #df.shape
