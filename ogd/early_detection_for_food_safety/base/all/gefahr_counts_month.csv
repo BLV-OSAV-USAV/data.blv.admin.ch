@@ -1,16 +1,22 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2685, 2704, 2672]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2717, 2685, 2704, 2672]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2685, 2710, 2726]"
+577,4,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.25,"[2691, 2703, 2704, 2718]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2684]"
+93,3,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.67,"[2693, 2723, 2709]"
 1,3,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.67,"[2693, 2680, 2711]"
-577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.33,"[2691, 2703, 2704]"
-93,2,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.5,"[2693, 2709]"
+167,3,Quecksilber,Mercure,Mercurio,Mercury,1.33,"[2695, 2691, 2718]"
+26,3,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.67,"[2688, 2711, 2719]"
 86,2,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.5,"[2693, 2709]"
-167,2,Quecksilber,Mercure,Mercurio,Mercury,1.5,"[2695, 2691]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
-26,2,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.5,"[2688, 2711]"
-9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.5,"[2667, 2711]"
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
-126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2685, 2710]"
+102,2,Blei,Plomb,Piombo,Lead,1.5,"[2691, 2718]"
+165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[2691, 2718]"
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,"[2727, 2686]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2673, 2718]"
+333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,"[2711, 2719]"
+9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,2.0,"[2711, 2719]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2715, 2682]"
 181,2,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.0,"[2668, 2678]"
 78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2706]
 226,1,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,[2707]
@@ -22,16 +28,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2677]
 55,1,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.0,[2683]
-102,1,Blei,Plomb,Piombo,Lead,2.0,[2691]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,2.0,[2691]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2691]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2673]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 239,1,enteroinvasive <em>Escherichia coli </em>(EIEC),<em>Escherichia coli </em>entéro-invasif<em> </em>(EIEC),<em>Escherichia coli</em> enteroinvasiva (EIEC),enteroinvasive <em>Escherichia coli </em>(EIEC),1.0,[2680]
 156,1,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,2.0,[2711]
-333,1,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,[2711]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2679]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2682]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2681]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2686]
+31,1,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,2.0,[2719]
+261,1,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,2.0,[2719]
+79,1,Zucker,sucre,zucchero,sugar,1.0,[2716]
+344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
