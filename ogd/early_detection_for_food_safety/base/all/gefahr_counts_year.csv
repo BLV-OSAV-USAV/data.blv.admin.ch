@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,42,Mikroplastik,microplastiques,microplastica,microplastics,1.14,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2698, 2077, 2717, 2086, 2392, 2546, 2462, 2214, 2685, 2121, 2704, 2543, 2037, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
+125,41,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2058, 2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2698, 2077, 2717, 2086, 2392, 2546, 2462, 2214, 2685, 2121, 2704, 2543, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
 26,31,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.32,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2352, 2688, 2634, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2073, 2103, 2138, 2391, 2407, 2510, 2661, 2719, 2108, 2190, 2227, 2446, 2652]"
 244,31,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.16,"[2705, 2102, 2292, 2604, 2128, 2701, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2118, 2205, 2173, 2341]"
 93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.26,"[2049, 2102, 2336, 2565, 2693, 2634, 2078, 2309, 2664, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2723, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2650]"
@@ -16,14 +16,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 165,12,Cadmium,Cadmium,Cadmio,Cadmium,1.17,"[2269, 2503, 2639, 2691, 2188, 2659, 2230, 2254, 2368, 2438, 2418, 2718]"
 181,12,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.58,"[2393, 2277, 2484, 2566, 2255, 2076, 2250, 2564, 2159, 2300, 2668, 2678]"
 9,8,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.25,"[2292, 2403, 2114, 2667, 2634, 2409, 2711, 2719]"
-361,8,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2308, 2114, 2494, 2455, 2275, 2039, 2391, 2523]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 90,8,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.12,"[2522, 2098, 2357, 2338, 2353, 2661, 2339, 2655]"
 86,8,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.62,"[2693, 2089, 2265, 2550, 2174, 2464, 2621, 2709]"
-63,8,Antibiotika,antibiotiques,antibiotici,antibiotics,1.38,"[2127, 2041, 2685, 2081, 2185, 2524, 2118, 2325]"
 119,7,Norovirus,Norovirus,Norovirus,Norovirus,1.14,"[2055, 2534, 2143, 2198, 2119, 2333, 2150]"
 106,7,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.29,"[2110, 2669, 2181, 2643, 2328, 2391, 2472]"
 503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.14,"[2282, 2273, 2366, 2427, 2593, 2219, 2306]"
+361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2114, 2494, 2455, 2275, 2391, 2523]"
+63,7,Antibiotika,antibiotiques,antibiotici,antibiotics,1.43,"[2127, 2685, 2081, 2185, 2524, 2118, 2325]"
 79,6,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2439, 2056, 2340, 2716]"
 94,6,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.33,"[2049, 2130, 2664, 2475, 2314, 2650]"
 450,6,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2052, 2551, 2082]"
@@ -81,7 +81,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 476,2,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,<em>Trypanosoma cruzi</em>,1.0,"[2239, 2423]"
 120,2,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2333]"
 320,2,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,<em>Citrobacter spp.</em>,1.5,"[2532, 2187]"
-226,2,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,"[2707, 2040]"
+284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[2730, 2244]"
 314,2,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,<em>Sarcocystis </em>spp.,1.5,"[2538, 2542]"
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
 392,2,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,<em>Burkholderia gladioli</em>,1.5,"[2431, 2264]"
@@ -143,9 +143,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2563]
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2537]
+226,1,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,[2707]
+285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
-506,1,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,<em>Shigella flexneri</em>,1.0,[2040]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 510,1,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,1.0,[2087]
@@ -183,7 +184,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 211,1,<em>Bacillus subtilis</em>,<em>Bacillus subtilis</em>,<em>Bacillus subtilis</em>,<em>Bacillus subtilis</em>,2.0,[2206]
 519,1,<em>Citrobacter braakii</em>,<em>Citrobacter braakii</em>,<em>Citrobacter braakii</em>,<em>Citrobacter braakii</em>,2.0,[2187]
 32,1,<em>Shewanella haliotis</em>,<em>Shewanella haliotis</em>,<em>Shewanella haliotis</em>,<em>Shewanella haliotis</em>,2.0,[2253]
-284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2244]
 334,1,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,<em>Clostridium </em>spp.,1.0,[2338]
 4,1,<em>Bacillus cytotoxicus</em>,<em>Bacillus cytotoxicus</em>,<em>Bacillus cytotoxicus</em>,<em>Bacillus cytotoxicus</em>,1.0,[2328]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]

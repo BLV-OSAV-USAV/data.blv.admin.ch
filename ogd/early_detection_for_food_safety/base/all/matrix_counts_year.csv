@@ -4,8 +4,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 8,33,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.39,"[2084, 2079, 2089, 2157, 2149, 2165, 2213, 2187, 2182, 2251, 2334, 2360, 2292, 2309, 2306, 2332, 2405, 2382, 2475, 2494, 2442, 2399, 2457, 2525, 2536, 2488, 2497, 2570, 2523, 2661, 2706, 2639, 2711]"
 6,25,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.28,"[2093, 2085, 2206, 2241, 2250, 2255, 2257, 2273, 2300, 2330, 2335, 2320, 2313, 2403, 2379, 2393, 2491, 2399, 2469, 2525, 2535, 2509, 2593, 2678, 2639]"
 60,24,Fische,Poissons,Pesce,Fish,1.21,"[2067, 2108, 2200, 2245, 2221, 2271, 2254, 2234, 2344, 2356, 2290, 2320, 2398, 2416, 2419, 2429, 2470, 2508, 2616, 2653, 2459, 2699, 2700, 2647]"
-82,22,Wasser,Eau,Acqua,Waters,1.23,"[2052, 2039, 2112, 2100, 2082, 2143, 2164, 2185, 2083, 2237, 2310, 2301, 2317, 2320, 2362, 2389, 2477, 2479, 2533, 2243, 2605, 2602]"
-1,20,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.15,"[2042, 2041, 2110, 2059, 2294, 2303, 2297, 2371, 2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689]"
+82,21,Wasser,Eau,Acqua,Waters,1.24,"[2052, 2112, 2100, 2082, 2143, 2164, 2185, 2083, 2237, 2310, 2301, 2317, 2320, 2362, 2389, 2477, 2479, 2533, 2243, 2605, 2602]"
+1,19,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.16,"[2110, 2059, 2294, 2303, 2297, 2371, 2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730]"
 34,12,Früchte,Fruits,Frutta,Fruits,1.17,"[2117, 2227, 2239, 2269, 2337, 2342, 2391, 2441, 2472, 2600, 2662, 2686]"
 3,12,Gemüse,Légumes,Ortaggi,Vegetables,1.25,"[2239, 2269, 2270, 2357, 2293, 2314, 2407, 2424, 2472, 2665, 2690, 2718]"
 23,10,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.3,"[2099, 2226, 2262, 2274, 2259, 2375, 2332, 2328, 2465, 2600]"
@@ -47,7 +47,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 49,2,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,"[2481, 2590]"
 100,2,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,"[2487, 2664]"
 139,1,Schokoriegel,Barres de chocolat,Barrette di cioccolato,Chocolate Candy Bars,1.0,[2072]
-26,1,Kohlgemüse,Choux,Cavoli,Cabbages,1.0,[2040]
 43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace) ","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
 142,1,"Nicht spezifizierte sowie gemischte Kaffee-, Tee-, Frucht- und Kräuterteegetränke","Café, thé, tisane aux fruits et aux herbes non spécifié ou mélangé","Caffè, tè, tè di frutti e di erbe non classificati e misti",Unclassified And Combined Coffee/Tea Drin,1.0,[2057]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.0,[2104]

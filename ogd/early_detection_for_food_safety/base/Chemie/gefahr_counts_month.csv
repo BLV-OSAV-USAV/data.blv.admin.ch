@@ -7,8 +7,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[2691, 2718]"
 165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[2691, 2718]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2673, 2718]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2715, 2682]"
+284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
+285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2701]
@@ -21,3 +22,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2681]
 93,1,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,2.0,[2723]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2718]
