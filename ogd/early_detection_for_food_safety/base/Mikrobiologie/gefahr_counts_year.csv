@@ -1,11 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,31,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.32,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2352, 2688, 2634, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2073, 2103, 2138, 2391, 2407, 2510, 2661, 2719, 2108, 2190, 2227, 2446, 2652]"
+26,32,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.34,"[2488, 2080, 2177, 2364, 2319, 2403, 2453, 2732, 2352, 2688, 2634, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2073, 2103, 2138, 2391, 2407, 2510, 2661, 2719, 2108, 2190, 2227, 2446, 2652]"
 93,31,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,1.26,"[2049, 2102, 2336, 2565, 2693, 2634, 2078, 2309, 2664, 2181, 2089, 2265, 2570, 2554, 2073, 2257, 2356, 2314, 2391, 2464, 2661, 2723, 2072, 2131, 2149, 2173, 2401, 2577, 2514, 2709, 2650]"
-244,29,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.17,"[2705, 2102, 2292, 2604, 2128, 2701, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2048, 2287, 2045, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2118, 2205, 2173, 2341]"
+244,28,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.18,"[2705, 2102, 2292, 2604, 2128, 2701, 2581, 2462, 2592, 2654, 2089, 2275, 2360, 2048, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2118, 2205, 2173, 2341]"
 1,21,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.24,"[2085, 2248, 2693, 2077, 2634, 2228, 2220, 2494, 2680, 2711, 2497, 2314, 2402, 2464, 2454, 2661, 2102, 2153, 2175, 2504, 2514]"
 19,15,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.47,"[2308, 2584, 2322, 2610, 2727, 2318, 2554, 2073, 2314, 2391, 2454, 2567, 2661, 2134, 2686]"
 181,12,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,1.58,"[2393, 2277, 2484, 2566, 2255, 2076, 2250, 2564, 2159, 2300, 2668, 2678]"
-111,9,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.44,"[2329, 2176, 2222, 2397, 2186, 2213, 2401, 2325, 2631]"
+111,10,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.4,"[2329, 2731, 2176, 2222, 2397, 2186, 2213, 2401, 2325, 2631]"
 9,8,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,1.25,"[2292, 2403, 2114, 2667, 2634, 2409, 2711, 2719]"
 90,8,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.12,"[2522, 2098, 2357, 2338, 2353, 2661, 2339, 2655]"
 86,8,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.62,"[2693, 2089, 2265, 2550, 2174, 2464, 2621, 2709]"
@@ -47,7 +47,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2451, 2150]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2219]"
-470,2,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,1.5,"[2044, 2421]"
 521,2,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,<em>Bacillus paranthracis</em>,1.5,"[2207, 2328]"
 88,2,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,<em>Campylobacter coli</em>,2.0,"[2174, 2514]"
 530,2,<em>Cryptosporidium parvum</em>,<em>Cryptosporidium parvum</em>,<em>Cryptosporidium parvum</em>,<em>Cryptosporidium parvum</em>,2.0,"[2259, 2460]"
@@ -71,6 +70,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 159,1,<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),1.0,[2403]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
 226,1,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,[2707]
+288,1,T-2,T-2,T-2,T-2,1.0,[2731]
+289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 510,1,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,<em>Salmonella enterica</em> serovar Braenderup,1.0,[2087]
 286,1,<em>Salmonella Senftenberg</em>,<em>Salmonella Senftenberg</em>,<em>Salmonella Senftenberg</em>,<em>Salmonella Senftenberg</em>,1.0,[2309]
 529,1,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,<em>Salmonella</em> Dublin,1.0,[2379]
@@ -118,6 +119,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 494,1,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,<em>Dibothriocephalus latus</em>,1.0,[2245]
 189,1,<em>Helicobacter pylori</em>,<em>Helicobacter pylori</em>,<em>Helicobacter pylori</em>,<em>Helicobacter pylori</em>,2.0,[2320]
 531,1,<em>Corynebacterium silvaticum</em>,<em>Corynebacterium silvaticum</em>,<em>Corynebacterium silvaticum</em>,<em>Corynebacterium silvaticum</em>,1.0,[2263]
+470,1,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,<em>Blastocystis</em> sp.,1.0,[2421]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,<em>Cryptococcus laurentii</em>,1.0,[2342]
 34,1,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,<em>Enterocytozoon bieneusi</em>,2.0,[2582]
