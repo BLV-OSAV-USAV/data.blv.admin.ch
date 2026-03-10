@@ -15,7 +15,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 86,39,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,1.62,"[87, 610, 970, 1803, 1073, 990, 1214, 1281, 1399, 1490, 27, 1863, 2693, 670, 1843, 709, 758, 992, 705, 1469, 998, 1059, 2089, 2265, 5, 103, 372, 1196, 189, 355, 1074, 1674, 2550, 1822, 2007, 2174, 2464, 2621, 2709]"
 63,38,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[879, 74, 407, 438, 919, 1090, 133, 307, 376, 707, 1065, 1333, 1354, 1376, 1542, 1910, 923, 2127, 139, 201, 2041, 2685, 292, 1429, 2081, 1501, 73, 203, 930, 67, 279, 823, 1647, 2185, 2524, 2118, 1832, 2325]"
 99,34,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,<em>Vibrio</em> spp.,1.53,"[20, 278, 502, 777, 940, 1073, 1296, 1519, 1503, 558, 903, 1507, 1864, 626, 1327, 1555, 2609, 705, 1469, 789, 1932, 1691, 434, 741, 841, 995, 1275, 174, 1072, 1139, 2203, 2464, 1872, 2290]"
-119,32,Norovirus,Norovirus,Norovirus,Norovirus,1.16,"[78, 305, 95, 774, 947, 1803, 1051, 1281, 1091, 1399, 1782, 2055, 2534, 42, 734, 1683, 2143, 2198, 358, 1390, 1749, 2028, 2119, 1722, 1976, 920, 943, 1635, 1718, 2333, 1928, 2150]"
+119,33,Norovirus,Norovirus,Norovirus,Norovirus,1.15,"[78, 305, 95, 774, 947, 1803, 1051, 1281, 1091, 1399, 1782, 2055, 2534, 2734, 42, 734, 1683, 2143, 2198, 358, 1390, 1749, 2028, 2119, 1722, 1976, 920, 943, 1635, 1718, 2333, 1928, 2150]"
 106,28,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.25,"[37, 1667, 239, 857, 912, 1184, 1150, 1268, 2110, 1571, 1682, 2669, 1049, 505, 1144, 2181, 2643, 769, 918, 1211, 1287, 194, 851, 2328, 2391, 1830, 1803, 2472]"
 166,27,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.41,"[346, 782, 820, 1225, 1550, 1917, 1970, 1177, 1698, 2376, 263, 2486, 542, 891, 1468, 2024, 2327, 444, 680, 796, 953, 1331, 1451, 1988, 2556, 2569, 2617]"
 167,26,Quecksilber,Mercure,Mercurio,Mercury,1.12,"[258, 321, 471, 1095, 1185, 772, 1772, 1917, 1963, 391, 1116, 1538, 2492, 2695, 130, 750, 2691, 273, 532, 2659, 1689, 1715, 2368, 1913, 1908, 2718]"
@@ -26,8 +26,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 90,19,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,1.42,"[7, 113, 105, 970, 40, 11, 348, 1371, 2522, 2098, 649, 2357, 306, 1569, 2338, 2353, 2661, 2339, 2655]"
 246,18,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.39,"[458, 591, 1480, 1902, 1920, 967, 1639, 2690, 2691, 718, 962, 1172, 1593, 1770, 1894, 1858, 2420, 2367]"
 94,17,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,<em>Salmonella</em> Typhimurium,1.18,"[1573, 1498, 1965, 2049, 1769, 2130, 2664, 123, 2475, 9, 294, 465, 715, 1424, 1709, 2314, 2650]"
-127,15,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.53,"[246, 389, 58, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
-2,15,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.73,"[484, 774, 1091, 61, 834, 2303, 2451, 1749, 1726, 13, 1247, 1679, 2289, 2060, 2150]"
+127,16,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[246, 389, 58, 2735, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
+2,16,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.69,"[484, 774, 1091, 61, 834, 2303, 2734, 2451, 1749, 1726, 13, 1247, 1679, 2289, 2060, 2150]"
 238,15,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,<em>Vibrio parahaemolyticus</em>,1.2,"[502, 741, 777, 1519, 1864, 2634, 1555, 2581, 2419, 1777, 434, 1275, 2102, 2365, 2341]"
 35,14,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,<em>Cryptosporidium spp.</em>,1.64,"[35, 87, 280, 52, 2239, 705, 63, 83, 455, 1353, 2046, 2259, 2460, 1817]"
 79,14,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2088, 1907, 2191, 1123, 2015, 2439, 712, 846, 1744, 1892, 2056, 2340, 2716]"
@@ -63,6 +63,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 202,7,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.86,"[233, 919, 424, 696, 2287, 2524, 2231]"
 118,7,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,1.43,"[252, 976, 1653, 2183, 1977, 2157, 2213]"
 249,7,Nickel,Nickel,Nichel,Nickel,1.29,"[480, 1116, 2639, 1526, 1412, 1604, 1668]"
+8,7,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.14,"[774, 1051, 2734, 2143, 1045, 2028, 920]"
 348,7,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,<em>Salmonella enterica</em>,1.0,"[1161, 1965, 2336, 2130, 2220, 1752, 1068]"
 256,7,Parasiten,Parasites,Parassiti,Parasites,1.29,"[681, 2239, 520, 1711, 1304, 578, 2208]"
 344,7,Chrom,Chrome,Cromo,Chromium,1.14,"[1116, 2487, 2639, 1017, 1668, 2254, 2718]"
@@ -73,7 +74,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,6,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[258, 921, 2639, 1027, 1172, 2215]"
 255,6,Chronic Wasting Disease (CWD),Maladie débilitante chronique (CWD),Malattia del deperimento cronico (CWD),Chronic Wasting Disease (CWD),1.5,"[514, 2027, 1899, 1532, 1328, 1986]"
 273,6,Koffein,Caféine,Caffeina,caffein,1.17,"[622, 747, 1374, 926, 1574, 1742]"
-8,6,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.17,"[774, 1051, 2143, 1045, 2028, 920]"
 18,6,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,<em>Escherichia albertii</em>,1.33,"[1158, 2025, 1896, 2591, 1700, 1989]"
 80,6,Salz,sel,sale,salt,1.33,"[1119, 1612, 1367, 1580, 1437, 1825]"
 96,6,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.67,"[14, 2086, 2408, 2392, 1465, 2175]"
@@ -212,6 +212,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 409,2,<em>Cronobacter</em> spp.,<em>Cronobacter</em> spp.,<em>Cronobacter</em> spp.,<em>Cronobacter</em> spp.,1.0,"[1478, 1409]"
 375,2,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,<em>Leptospira spp.</em>,2.0,"[2202, 1170]"
 39,2,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,<em>Entamoeba histolytica</em>,1.0,"[2239, 2163]"
+540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 315,2,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,"[2434, 881]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918]"
 266,2,<em>Legionella</em>,<em>Legionella</em>,<em>Legionella</em>,<em>Legionella</em>,1.5,"[558, 2163]"
@@ -330,11 +331,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 546,1,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,<em>Corynebacterium pseudotuberculosis</em>,1.0,[2403]
 159,1,<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),<em>Mycobacterium avium</em> ssp. <em>paratuberculosis </em>(MAP),1.0,[2403]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
-540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2534]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
+580,1,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,1.0,[2736]
 229,1,<em>Streptococcus pyogenes</em> (GAS),<em>Streptococcus pyogenes</em> (SGA),<em>Streptococcus pyogenes</em> (SGA),<em>Streptococcus pyogenes</em> (GAS),1.0,[341]
 282,1,Ketoprofen,Kétoprofène,Ketoprofene,Ketoprofen,1.0,[667]
 280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]
