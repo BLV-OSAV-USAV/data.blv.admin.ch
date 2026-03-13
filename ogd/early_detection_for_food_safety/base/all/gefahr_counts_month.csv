@@ -1,17 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2741, 2710, 2726]"
 26,4,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,2.0,"[2732, 2711, 2719, 2722]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2737, 2698, 2717, 2704]"
-577,4,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.25,"[2691, 2703, 2704, 2718]"
-126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2710, 2726]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2740]"
-1,3,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.67,"[2693, 2740, 2711]"
-167,3,Quecksilber,Mercure,Mercurio,Mercury,1.33,"[2695, 2691, 2718]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2743, 2731, 2715]"
+577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,"[2703, 2704, 2718]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2728, 2712]"
-93,2,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,2.0,"[2693, 2723]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2731, 2715]"
-246,2,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2690, 2691]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[2691, 2718]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.5,"[2691, 2718]"
+167,2,Quecksilber,Mercure,Mercurio,Mercury,1.0,"[2695, 2718]"
+1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.5,"[2740, 2711]"
 333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,"[2711, 2719]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,2.0,"[2711, 2719]"
 78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2706]
@@ -20,7 +16,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 580,1,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,<em>Kudoa septempunctata</em>,1.0,[2736]
-86,1,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,<em>Campylobacter</em> spp.,2.0,[2693]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2734]
@@ -31,15 +26,19 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2738]
+581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
+528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2742]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2701]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2735]
-56,1,Aluminium,Aluminium,Alluminio,Aluminium,2.0,[2691]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2727]
 156,1,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,<em>Listeria innocua</em>,2.0,[2711]
 31,1,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,2.0,[2719]
 261,1,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,2.0,[2719]
+93,1,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,2.0,[2723]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[2716]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2718]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]

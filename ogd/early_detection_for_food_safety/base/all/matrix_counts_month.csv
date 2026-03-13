@@ -1,16 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,13,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.31,"[2691, 2698, 2701, 2704, 2705, 2707, 2712, 2716, 2721, 2723, 2728, 2732, 2739]"
-3,5,Gemüse,Légumes,Ortaggi,Vegetables,1.2,"[2690, 2718, 2734, 2722, 2740]"
+18,12,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.25,"[2698, 2701, 2704, 2705, 2707, 2712, 2716, 2721, 2723, 2728, 2732, 2739]"
+3,5,Gemüse,Légumes,Ortaggi,Vegetables,1.2,"[2718, 2734, 2722, 2740, 2741]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.67,"[2706, 2711, 2733]"
 60,2,Fische,Poissons,Pesce,Fish,1.0,"[2699, 2736]"
 39,2,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,2.0,"[2711, 2715]"
 1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2730, 2737]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2734, 2741]"
 38,1,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.0,[2725]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,2.0,[2715]
 51,1,"Teige (z.B. Blätter-, Brot-, Mürbe-, Pizzateig)","Pâtes feuilletée, brisée, à pain, à pizza","Paste (per il pane, sfoglia, frolla, per pizza)","Dough And Pastry (Plain Puff, Short-Crust",1.0,[2727]
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2731]
 50,1,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,[2731]
 37,1,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,[2733]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2734]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[2734]
 133,1,Honig,Miel,Miele,Honey,1.0,[2735]
+48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2743]

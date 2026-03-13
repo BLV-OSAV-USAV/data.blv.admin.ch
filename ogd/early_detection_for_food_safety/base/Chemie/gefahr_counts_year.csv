@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,39,Mikroplastik,microplastiques,microplastica,microplastics,1.13,"[2064, 2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2737, 2077, 2717, 2086, 2392, 2546, 2214, 2685, 2121, 2704, 2543, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
-126,25,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.24,"[2725, 2440, 2616, 2372, 2605, 2614, 2660, 2647, 2586, 2685, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2710, 2618, 2243, 2307, 2262, 2406, 2426, 2726]"
+125,38,Mikroplastik,microplastiques,microplastica,microplastics,1.13,"[2069, 2099, 2116, 2122, 2249, 2490, 2601, 2456, 2737, 2077, 2717, 2086, 2392, 2546, 2214, 2685, 2121, 2704, 2543, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
+126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.23,"[2725, 2440, 2616, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2710, 2618, 2243, 2307, 2262, 2406, 2426, 2726]"
+111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2066, 2282, 2329, 2450, 2743, 2731, 2176, 2222, 2715, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 91,22,Pestizide,pesticides,pesticidi,pesticide,1.18,"[2279, 2315, 2305, 2117, 2441, 2645, 2701, 2324, 2316, 2428, 2660, 2662, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
-111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.32,"[2066, 2282, 2329, 2450, 2731, 2176, 2222, 2715, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
 187,15,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[2099, 2269, 2639, 2547, 2673, 2648, 2659, 2254, 2243, 2180, 2215, 2418, 2517, 2663, 2718]"
 102,15,Blei,Plomb,Piombo,Lead,1.27,"[2269, 2498, 2639, 2691, 2659, 2317, 2254, 2351, 2368, 2558, 2243, 2400, 2418, 2478, 2718]"
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
@@ -50,7 +50,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
 468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,"[2142, 2679]"
-507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
 318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),<strong>diethylhexyl phthalate (DEHP)</strong>,2.0,"[2144, 2216]"
 425,2,Kupfer,Cuivre,Rame,Copper,1.0,"[2254, 2418]"
 210,2,Jod,Iode,Iodo,Iodine,1.0,"[2375, 2136]"
@@ -80,6 +79,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.0,[2699]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
+581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2669]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
@@ -96,6 +96,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 181,1,<strong>hochpathogene Aviären Influenza (HPAI)</strong>,<strong>virus de l'influenza aviaire hautement pathogène (IAHP)</strong>,<strong>virus ad alta patogenicità (HPAI) di influenza aviaria</strong>,<strong>highly pathogenic avian influenza (HPAI) virus</strong>,2.0,[2566]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
+507,1,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,[2299]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
@@ -104,7 +105,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),<strong>Benzothiazole (BTH)</strong>,2.0,[2611]
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2136]
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[2106]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2057]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]

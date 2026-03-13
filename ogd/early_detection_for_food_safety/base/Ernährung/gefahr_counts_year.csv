@@ -1,10 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,13,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2223, 2298, 2371, 2545, 2575, 2689, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
+528,14,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.07,"[2223, 2298, 2371, 2545, 2575, 2689, 2742, 2283, 2483, 2224, 2466, 2445, 2448, 2396]"
 79,5,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2439, 2340, 2716]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2480, 2594, 2615]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2639, 2478]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2064, 2116]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[2111, 2297]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2282, 2450]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
@@ -14,9 +13,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2115]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,"[2603, 2136]"
 333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,1.0,"[2409, 2643]"
-507,2,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,"[2063, 2299]"
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2070]
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2116]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
@@ -38,6 +37,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 106,1,<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),<em>Bacillus cereus</em> (sensu lato),1.0,[2643]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
+507,1,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,<em>Garcinia cambogia</em>,1.0,[2299]
 26,1,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,1.0,[2407]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2136]
