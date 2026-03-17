@@ -1,9 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2740, 2741, 2734]"
-34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[2741, 2734]"
-133,1,Honig,Miel,Miele,Honey,1.0,[2735]
-60,1,Fische,Poissons,Pesce,Fish,1.0,[2736]
-18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[2739]
+18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,"[2739, 2747, 2748]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2740, 2741]"
+34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2741]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2743]
-93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[2734]
 1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2737]
+7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2749]
