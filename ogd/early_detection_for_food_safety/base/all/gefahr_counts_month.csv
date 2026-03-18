@@ -1,14 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2741, 2710, 2726]"
-244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2748, 2740]"
 26,4,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,2.0,"[2732, 2719, 2711, 2722]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2715, 2749]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2737, 2752, 2704, 2717]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2748, 2740]"
 577,3,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,"[2703, 2704, 2718]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2728, 2712]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,2.0,"[2719, 2711]"
 333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,"[2719, 2711]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2701, 2753]"
 1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.5,"[2740, 2711]"
 78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2706]
 226,1,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,<em>Shigella</em> spp.,1.0,[2707]
@@ -31,6 +30,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2734]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2734]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
+91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2738]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]

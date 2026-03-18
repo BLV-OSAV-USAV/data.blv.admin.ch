@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2701, 2748, 2740]"
 26,4,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,<em>Listeria monocytogenes</em>,2.0,"[2732, 2719, 2711, 2722]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2748, 2740]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2728, 2712]"
 9,2,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,<em>Staphylococcus aureus</em>,2.0,"[2719, 2711]"
 333,2,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,<em>Bacillus</em> spp.,2.0,"[2719, 2711]"
@@ -12,7 +12,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 31,1,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,<em>Acinetobacter spp.</em>,2.0,[2719]
 261,1,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,<em>Pseudomonas</em>,2.0,[2719]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2701]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 93,1,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,<em>Salmonella </em>spp.,2.0,[2723]
