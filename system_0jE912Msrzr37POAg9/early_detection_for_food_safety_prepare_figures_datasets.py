@@ -77,6 +77,12 @@ def count_gefahr(timeFilter, bereichName, lg):
 
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/gefahr_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+    
+    text_cols = gefahr_counts.select_dtypes(include="object").columns
+    gefahr_counts[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
+
     gefahr_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
@@ -94,6 +100,12 @@ def count_gefahr(timeFilter, bereichName, lg):
     # Save the result to a CSV file
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/gefahr_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+    text_cols = result_df_gefahr.select_dtypes(include="object").columns
+    result_df_gefahr[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
+
     result_df_gefahr.to_csv(output_file_path, index=False)
 
 
@@ -168,6 +180,12 @@ def count_matrix(timeFilter, bereichName, lg):
 
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/matrix_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+    text_cols = matrix_counts.select_dtypes(include="object").columns
+    matrix_counts[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
+    
     matrix_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
@@ -185,6 +203,12 @@ def count_matrix(timeFilter, bereichName, lg):
     # Save the result to a CSV file   
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/matrix_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+    text_cols = result_df_matrix.select_dtypes(include="object").columns
+    result_df_matrix[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
+
     result_df_matrix.to_csv(output_file_path, index=False)
 
 def count_steckbrief(timeFilter, bereichName, lg):
@@ -271,6 +295,11 @@ def count_steckbrief(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/steckbrief_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
+    text_cols = steckbrief_counts.select_dtypes(include="object").columns
+    steckbrief_counts[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
+
     steckbrief_counts.to_csv(output_file_path, index=False)
 
     # Merge and count treiber_id occurrences
@@ -290,6 +319,11 @@ def count_steckbrief(timeFilter, bereichName, lg):
 
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
+
+    text_cols = result_df_steckbrief.select_dtypes(include="object").columns
+    result_df_steckbrief[text_cols] = df[text_cols].apply(
+        lambda col: col.str.replace(r"<.*?>", "", regex=True)
+    )
 
     # Save the result to a CSV file
     result_df_steckbrief.to_csv(output_file_path, index=False)
