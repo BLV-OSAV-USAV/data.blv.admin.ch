@@ -79,7 +79,7 @@ def count_gefahr(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
     
     text_cols = gefahr_counts.select_dtypes(include="object").columns
-    gefahr_counts[text_cols] = df[text_cols].apply(
+    gefahr_counts[text_cols] = gefahr_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
 
@@ -102,7 +102,7 @@ def count_gefahr(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
     text_cols = result_df_gefahr.select_dtypes(include="object").columns
-    result_df_gefahr[text_cols] = df[text_cols].apply(
+    result_df_gefahr[text_cols] = result_df_gefahr[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
 
@@ -182,7 +182,7 @@ def count_matrix(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
     text_cols = matrix_counts.select_dtypes(include="object").columns
-    matrix_counts[text_cols] = df[text_cols].apply(
+    matrix_counts[text_cols] = matrix_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
     
@@ -205,7 +205,7 @@ def count_matrix(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
     text_cols = result_df_matrix.select_dtypes(include="object").columns
-    result_df_matrix[text_cols] = df[text_cols].apply(
+    result_df_matrix[text_cols] = result_df_matrix[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
 
@@ -296,7 +296,7 @@ def count_steckbrief(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
     text_cols = steckbrief_counts.select_dtypes(include="object").columns
-    steckbrief_counts[text_cols] = df[text_cols].apply(
+    steckbrief_counts[text_cols] = steckbrief_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
 
@@ -321,7 +321,7 @@ def count_steckbrief(timeFilter, bereichName, lg):
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
     text_cols = result_df_steckbrief.select_dtypes(include="object").columns
-    result_df_steckbrief[text_cols] = df[text_cols].apply(
+    result_df_steckbrief[text_cols] = result_df_steckbrief[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
 
