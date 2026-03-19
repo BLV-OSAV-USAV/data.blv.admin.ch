@@ -77,8 +77,8 @@ def count_gefahr(timeFilter, bereichName, lg):
 
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/gefahr_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
-    
-    text_cols = gefahr_counts.select_dtypes(include="object").columns
+
+    text_cols = gefahr_counts.select_dtypes(include=["string"]).columns
     gefahr_counts[text_cols] = gefahr_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
@@ -101,7 +101,7 @@ def count_gefahr(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/gefahr_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_gefahr.select_dtypes(include="object").columns
+    text_cols = result_df_gefahr.select_dtypes(include=["string"]).columns
     result_df_gefahr[text_cols] = result_df_gefahr[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
@@ -181,7 +181,7 @@ def count_matrix(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/matrix_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = matrix_counts.select_dtypes(include="object").columns
+    text_cols = matrix_counts.select_dtypes(include=["string"]).columns
     matrix_counts[text_cols] = matrix_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
@@ -204,7 +204,7 @@ def count_matrix(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/matrix_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_matrix.select_dtypes(include="object").columns
+    text_cols = result_df_matrix.select_dtypes(include=["string"]).columns
     result_df_matrix[text_cols] = result_df_matrix[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
@@ -295,7 +295,7 @@ def count_steckbrief(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/steckbrief_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = steckbrief_counts.select_dtypes(include="object").columns
+    text_cols = steckbrief_counts.select_dtypes(include=["string"]).columns
     steckbrief_counts[text_cols] = steckbrief_counts[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
@@ -320,7 +320,7 @@ def count_steckbrief(timeFilter, bereichName, lg):
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_steckbrief.select_dtypes(include="object").columns
+    text_cols = result_df_steckbrief.select_dtypes(include=["string"]).columns
     result_df_steckbrief[text_cols] = result_df_steckbrief[text_cols].apply(
         lambda col: col.str.replace(r"<.*?>", "", regex=True)
     )
