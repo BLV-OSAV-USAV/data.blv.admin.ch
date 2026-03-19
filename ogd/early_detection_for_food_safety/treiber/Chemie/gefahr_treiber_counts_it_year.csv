@@ -1,5 +1,4 @@
 gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici,Urbanizzazione e agricoltura urbana,Economie circolare,Nuovi alimenti e sistemi di produzione alimentare,Comportamento dei consumatori e tendenze di consumo,Evoluzione microbica e resistenza agli antibiotici,Società,Tecnologia,Ecologia,Economia,Politica
-1,0,0,0,0,0,0,1,0,0,0,0,0
 42,0,0,0,0,0,0,0,1,0,4,0,0
 43,0,1,0,0,0,0,0,0,0,2,0,0
 45,0,2,0,0,0,2,0,0,1,0,0,0
@@ -24,8 +23,8 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 116,1,0,0,0,1,0,0,0,0,0,0,0
 117,0,0,0,0,0,1,0,0,0,0,0,0
 118,1,0,0,0,0,0,0,0,0,0,0,0
-125,2,7,0,0,0,2,2,0,2,17,2,0
-126,1,2,2,0,1,1,0,0,2,18,1,0
+125,2,7,0,0,0,2,1,0,2,17,2,0
+126,1,2,2,0,1,1,0,0,3,18,1,0
 127,0,1,2,0,1,0,0,0,0,4,0,0
 128,0,2,0,1,0,3,0,0,0,6,2,0
 130,0,2,0,0,0,1,0,0,0,0,0,0
@@ -39,7 +38,7 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 180,1,0,0,0,0,0,0,0,0,2,0,0
 181,0,0,0,0,0,0,1,0,0,0,0,0
 182,0,0,0,0,0,0,0,0,0,1,0,0
-187,2,2,0,0,0,2,0,1,0,8,1,1
+187,2,3,0,0,0,2,0,1,0,8,1,1
 200,0,0,0,0,0,0,0,0,0,1,0,0
 203,1,1,0,0,1,1,0,0,0,1,0,0
 209,0,0,0,0,0,1,0,1,0,0,0,0
@@ -82,7 +81,7 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 468,0,0,0,0,1,0,0,0,0,0,0,0
 473,1,0,0,0,0,0,0,0,0,1,0,0
 474,1,0,0,0,1,1,0,0,0,1,0,0
-483,0,1,1,0,1,0,0,0,0,1,0,0
+483,0,1,1,0,1,0,0,0,1,1,0,0
 503,3,0,0,0,1,2,0,0,0,2,0,0
 507,0,0,0,0,0,1,0,0,0,0,0,0
 516,0,0,0,0,0,1,0,1,0,1,0,0
@@ -117,3 +116,4 @@ gefahr_id,Cambiamento climatico,Innovazioni tecnologiche e progressi scientifici
 577,1,0,0,0,0,0,0,0,0,4,0,0
 581,0,0,0,0,0,0,0,0,0,1,0,0
 583,0,0,0,0,0,1,0,1,0,0,0,0
+584,0,0,0,0,0,0,0,1,0,0,0,0

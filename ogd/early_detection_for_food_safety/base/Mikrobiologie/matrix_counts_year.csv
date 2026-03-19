@@ -5,7 +5,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 60,15,Fische,Poissons,Pesce,Fish,1.33,"[2108, 2200, 2245, 2221, 2271, 2344, 2356, 2290, 2320, 2419, 2429, 2508, 2653, 2459, 2736]"
 6,14,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.43,"[2085, 2206, 2250, 2255, 2257, 2273, 2300, 2320, 2403, 2379, 2393, 2399, 2535, 2678]"
 3,11,Gemüse,Légumes,Ortaggi,Vegetables,1.36,"[2239, 2270, 2357, 2293, 2314, 2407, 2424, 2472, 2740, 2722, 2734]"
-54,9,Geflügel,Volailles,Pollame,Poultry,1.44,"[2076, 2174, 2173, 2455, 2516, 2604, 2130, 2650, 2629]"
+54,8,Geflügel,Volailles,Pollame,Poultry,1.5,"[2174, 2173, 2455, 2516, 2604, 2130, 2650, 2629]"
 34,8,Früchte,Fruits,Frutta,Fruits,1.25,"[2227, 2239, 2337, 2342, 2391, 2472, 2686, 2734]"
 82,7,Wasser,Eau,Acqua,Waters,1.29,"[2112, 2143, 2164, 2185, 2310, 2320, 2479]"
 42,7,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.43,"[2187, 2271, 2281, 2364, 2474, 2484, 2582]"
@@ -19,8 +19,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 56,3,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.33,"[2271, 2538, 2542]"
 24,3,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,"[2395, 2423, 2499]"
 93,3,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.67,"[2401, 2460, 2734]"
-10,2,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,"[2076, 2336]"
-30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.5,"[2073, 2412]"
 27,2,Pilze,Champignons,Funghi,Mushrooms,2.0,"[2190, 2471]"
 38,2,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.5,"[2322, 2484]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2329, 2632]"
@@ -32,8 +30,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2275]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2270]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
+10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2336]
 76,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,[2339]
 115,1,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,[2353]
+30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",2.0,[2412]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
 98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2493]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[2397]

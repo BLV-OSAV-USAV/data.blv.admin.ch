@@ -1,9 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,38,Mikroplastik,microplastiques,microplastica,microplastics,1.13,"[2099, 2116, 2122, 2249, 2490, 2601, 2456, 2077, 2737, 2752, 2086, 2392, 2546, 2214, 2685, 2121, 2704, 2717, 2543, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
-126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.23,"[2725, 2440, 2616, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2618, 2243, 2307, 2262, 2406, 2426, 2726]"
+125,37,Mikroplastik,microplastiques,microplastica,microplastics,1.14,"[2099, 2116, 2122, 2249, 2490, 2601, 2456, 2737, 2752, 2086, 2392, 2546, 2214, 2685, 2121, 2704, 2717, 2543, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2092, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
+126,27,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.22,"[2725, 2440, 2616, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2618, 2243, 2756, 2307, 2262, 2406, 2426, 2726]"
 91,23,Pestizide,pesticides,pesticidi,pesticide,1.17,"[2279, 2315, 2305, 2117, 2441, 2645, 2701, 2324, 2316, 2428, 2660, 2662, 2753, 2311, 2574, 2349, 2485, 2600, 2209, 2261, 2473, 2401, 2325]"
 111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2282, 2329, 2450, 2743, 2731, 2715, 2176, 2222, 2246, 2363, 2397, 2366, 2349, 2576, 2682, 2749, 2186, 2213, 2350, 2306, 2401, 2325, 2631]"
-187,15,Arsen,Arsenic,Arsenico,Arsenic,1.07,"[2099, 2269, 2639, 2673, 2547, 2648, 2659, 2254, 2243, 2180, 2215, 2418, 2517, 2663, 2718]"
+187,16,Arsen,Arsenic,Arsenico,Arsenic,1.06,"[2099, 2269, 2639, 2673, 2547, 2648, 2659, 2254, 2243, 2757, 2180, 2215, 2418, 2517, 2663, 2718]"
 102,15,Blei,Plomb,Piombo,Lead,1.27,"[2269, 2498, 2639, 2691, 2659, 2317, 2254, 2351, 2368, 2558, 2243, 2400, 2418, 2478, 2718]"
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
 128,13,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.08,"[2122, 2269, 2152, 2188, 2557, 2589, 2351, 2349, 2368, 2193, 2400, 2476, 2478]"
@@ -22,9 +22,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 96,4,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.25,"[2086, 2408, 2392, 2175]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[2690, 2691, 2420, 2367]"
 577,4,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.25,"[2691, 2703, 2704, 2718]"
+483,4,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.25,"[2151, 2140, 2756, 2406]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2123, 2362, 2237]"
 271,3,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.67,"[2376, 2142, 2216]"
-363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[2278, 2625, 2620]"
+363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[2278, 2620, 2625]"
 43,3,Titandioxid (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxide (TiO<sub>2</sub>),Titandioxid (TiO<sub>2</sub>),1.33,"[2313, 2214, 2330]"
 298,3,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.33,"[2282, 2246, 2366]"
 474,3,Enniatin,Ennitatine,Ennitatina,Enniatin,1.33,"[2282, 2176, 2246]"
@@ -35,12 +36,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[2738, 2562, 2426]"
 437,3,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.33,"[2222, 2246, 2366]"
-483,3,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.33,"[2151, 2140, 2406]"
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,"[2122, 2491]"
 69,2,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,"[2247, 2135]"
 118,2,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,<em>Aspergillus</em>,1.5,"[2183, 2213]"
 284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[2730, 2244]"
-1,2,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,"[2077, 2175]"
 56,2,Aluminium,Aluminium,Alluminio,Aluminium,1.5,"[2639, 2691]"
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
 288,2,T-2,T-2,T-2,T-2,1.0,"[2731, 2090]"
@@ -109,6 +108,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 454,1,Farbstoffe,Colorant,Colorante,Dye,1.0,[2106]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[2100]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
+1,1,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,<em>Escherichia coli</em>,1.0,[2175]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
@@ -134,3 +134,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 90,1,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,<em>Clostridium botulinum</em>,2.0,[2655]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,<strong>Phytohaemagglutinin</strong>,1.0,[2665]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
+584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]

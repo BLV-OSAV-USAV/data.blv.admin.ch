@@ -1,9 +1,12 @@
-gefahr_id,Changement climatique,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Comportement des consommateurs et tendances de consommation,Société,Ecologie
-91,0,1,0,0,0,0
-111,1,0,0,0,0,1
-125,0,0,0,0,0,1
-126,0,0,1,0,0,1
-143,0,0,0,0,0,1
-503,1,0,0,0,0,0
-581,0,0,0,0,0,1
-583,0,0,0,1,1,0
+gefahr_id,Changement climatique,Innovations technologiques et progrès scientifiques,Urbanisation et agriculture urbaine,Comportement des consommateurs et tendances de consommation,Société,Technologie,Ecologie
+91,0,1,0,0,0,0,0
+111,1,0,0,0,0,0,1
+125,0,0,0,0,0,0,1
+126,0,0,1,0,0,1,1
+143,0,0,0,0,0,0,1
+187,0,1,0,0,0,0,0
+483,0,0,0,0,0,1,0
+503,1,0,0,0,0,0,0
+581,0,0,0,0,0,0,1
+583,0,0,0,1,1,0,0
+584,0,0,0,0,1,0,0

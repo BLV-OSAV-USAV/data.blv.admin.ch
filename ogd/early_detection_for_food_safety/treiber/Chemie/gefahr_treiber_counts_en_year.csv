@@ -1,5 +1,4 @@
 gefahr_id,Climate change,Technological innovations and scientific advances,Urbanization and urban agriculture,Circular economy,New foods and food production systems,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Society,Technology,Ecology,Economy,Policy
-1,0,0,0,0,0,0,1,0,0,0,0,0
 42,0,0,0,0,0,0,0,1,0,4,0,0
 43,0,1,0,0,0,0,0,0,0,2,0,0
 45,0,2,0,0,0,2,0,0,1,0,0,0
@@ -24,8 +23,8 @@ gefahr_id,Climate change,Technological innovations and scientific advances,Urban
 116,1,0,0,0,1,0,0,0,0,0,0,0
 117,0,0,0,0,0,1,0,0,0,0,0,0
 118,1,0,0,0,0,0,0,0,0,0,0,0
-125,2,7,0,0,0,2,2,0,2,17,2,0
-126,1,2,2,0,1,1,0,0,2,18,1,0
+125,2,7,0,0,0,2,1,0,2,17,2,0
+126,1,2,2,0,1,1,0,0,3,18,1,0
 127,0,1,2,0,1,0,0,0,0,4,0,0
 128,0,2,0,1,0,3,0,0,0,6,2,0
 130,0,2,0,0,0,1,0,0,0,0,0,0
@@ -39,7 +38,7 @@ gefahr_id,Climate change,Technological innovations and scientific advances,Urban
 180,1,0,0,0,0,0,0,0,0,2,0,0
 181,0,0,0,0,0,0,1,0,0,0,0,0
 182,0,0,0,0,0,0,0,0,0,1,0,0
-187,2,2,0,0,0,2,0,1,0,8,1,1
+187,2,3,0,0,0,2,0,1,0,8,1,1
 200,0,0,0,0,0,0,0,0,0,1,0,0
 203,1,1,0,0,1,1,0,0,0,1,0,0
 209,0,0,0,0,0,1,0,1,0,0,0,0
@@ -82,7 +81,7 @@ gefahr_id,Climate change,Technological innovations and scientific advances,Urban
 468,0,0,0,0,1,0,0,0,0,0,0,0
 473,1,0,0,0,0,0,0,0,0,1,0,0
 474,1,0,0,0,1,1,0,0,0,1,0,0
-483,0,1,1,0,1,0,0,0,0,1,0,0
+483,0,1,1,0,1,0,0,0,1,1,0,0
 503,3,0,0,0,1,2,0,0,0,2,0,0
 507,0,0,0,0,0,1,0,0,0,0,0,0
 516,0,0,0,0,0,1,0,1,0,1,0,0
@@ -117,3 +116,4 @@ gefahr_id,Climate change,Technological innovations and scientific advances,Urban
 577,1,0,0,0,0,0,0,0,0,4,0,0
 581,0,0,0,0,0,0,0,0,0,1,0,0
 583,0,0,0,0,0,1,0,1,0,0,0,0
+584,0,0,0,0,0,0,0,1,0,0,0,0
