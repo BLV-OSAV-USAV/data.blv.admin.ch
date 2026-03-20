@@ -10,9 +10,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
-516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2695, 2115]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,"[2603, 2136]"
 333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,"[2409, 2643]"
+516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2115, 2695]"
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2116]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
@@ -22,7 +22,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
@@ -36,6 +35,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2643]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2407]

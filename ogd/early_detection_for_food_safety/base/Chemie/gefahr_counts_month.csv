@@ -1,10 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2741, 2710, 2756, 2726]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2726, 2741, 2756]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2715, 2749]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2737, 2752, 2704, 2717]"
-576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2728, 2712]"
-577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,"[2704, 2718]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2757, 2718]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2752, 2717, 2737]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
@@ -13,6 +11,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2735]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
+576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2712]
+577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2718]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
+344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2738]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
@@ -21,8 +25,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]

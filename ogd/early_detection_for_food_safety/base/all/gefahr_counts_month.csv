@@ -1,22 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2741, 2710, 2756, 2726]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,"[2732, 2719, 2711, 2722]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2726, 2741, 2756]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2715, 2749]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2737, 2752, 2704, 2717]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2705, 2748, 2740]"
-576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2728, 2712]"
-9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,"[2719, 2711]"
-333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,2.0,"[2719, 2711]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[2740, 2711]"
-577,2,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,"[2704, 2718]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2757, 2718]"
-78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2706]
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.33,"[2732, 2719, 2722]"
+244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2740, 2760]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2752, 2717, 2737]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2758]
-226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.0,[2707]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
+9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[2719]
+333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,2.0,[2719]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2742]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,2.0,[2719]
@@ -27,7 +22,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2748]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
+576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2712]
+577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2718]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
+344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2727]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2740]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[2734]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2734]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2734]
@@ -37,13 +39,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2738]
-156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,2.0,[2711]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
 79,1,Zucker,sucre,zucchero,sugar,1.0,[2716]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
