@@ -8,13 +8,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,19,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.16,"[2110, 2294, 2303, 2297, 2371, 2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730, 2737]"
 3,16,Gemüse,Légumes,Ortaggi,Vegetables,1.31,"[2239, 2269, 2270, 2357, 2293, 2314, 2407, 2424, 2472, 2665, 2690, 2740, 2741, 2734, 2718, 2722]"
 34,14,Früchte,Fruits,Frutta,Fruits,1.14,"[2117, 2227, 2239, 2269, 2337, 2342, 2391, 2441, 2472, 2600, 2662, 2686, 2741, 2734]"
-23,10,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.3,"[2099, 2226, 2262, 2274, 2259, 2375, 2332, 2328, 2465, 2600]"
+23,11,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.36,"[2099, 2226, 2262, 2274, 2259, 2375, 2332, 2328, 2465, 2600, 2763]"
 11,10,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2160, 2266, 2286, 2240, 2244, 2326, 2296, 2305, 2348, 2414]"
+42,9,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.44,"[2139, 2187, 2271, 2281, 2364, 2474, 2484, 2582, 2762]"
 54,9,Geflügel,Volailles,Pollame,Poultry,1.44,"[2174, 2173, 2455, 2516, 2604, 2130, 2650, 2629, 2760]"
-5,8,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2081, 2219, 2261, 2363, 2427, 2473, 2410, 2428]"
-42,8,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.38,"[2139, 2187, 2271, 2281, 2364, 2474, 2484, 2582]"
 48,8,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.12,"[2180, 2207, 2249, 2346, 2311, 2453, 2420, 2743]"
 7,8,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.25,"[2188, 2230, 2246, 2431, 2679, 2682, 2731, 2749]"
+5,7,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2219, 2261, 2363, 2427, 2473, 2410, 2428]"
 80,6,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,"[2191, 2266, 2340, 2439, 2447, 2594]"
 93,6,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.5,"[2373, 2436, 2400, 2401, 2460, 2734]"
 133,5,Honig,Miel,Miele,Honey,1.0,"[2098, 2158, 2201, 2211, 2735]"
@@ -45,7 +45,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 49,2,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,"[2481, 2590]"
 155,2,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,"[2486, 2520]"
 100,2,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,"[2487, 2664]"
-43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace) ","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.0,[2104]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2302]
