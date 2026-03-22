@@ -31,7 +31,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,6,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.17,"[2735, 2151, 2182, 2140, 2241, 2406]"
 79,5,Zucker,sucre,zucchero,sugar,1.0,"[2088, 2191, 2439, 2340, 2716]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2734, 2451, 2289, 2150]"
-450,5,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551, 2082]"
 45,5,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2594, 2615]"
 203,5,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.2,"[2282, 2450, 2474, 2366, 2306]"
 123,5,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.2,"[2309, 2130, 2640, 2173, 2650]"
@@ -39,6 +38,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
 10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2538, 2542, 2226]"
 271,4,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.5,"[2376, 2142, 2139, 2216]"
+450,4,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551]"
 109,4,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.25,"[2313, 2627, 2214, 2189]"
 23,4,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.25,"[2344, 2597, 2429, 2345]"
 114,4,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.25,"[2412, 2369, 2629, 2153]"
@@ -51,7 +51,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 96,4,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.25,"[2086, 2408, 2392, 2175]"
 99,4,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.25,"[2609, 2203, 2464, 2290]"
 483,4,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.25,"[2151, 2140, 2756, 2406]"
-78,3,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.67,"[2084, 2706, 2536]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2123, 2362, 2237]"
 35,3,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.67,"[2239, 2259, 2460]"
 118,3,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.67,"[2183, 2157, 2213]"
@@ -81,6 +80,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 120,2,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2333]"
 320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.5,"[2532, 2187]"
+78,2,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,"[2706, 2536]"
 284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[2730, 2244]"
 31,2,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.5,"[2719, 2334]"
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
@@ -210,7 +210,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
 29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2653]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[2245]
-182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2320]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]

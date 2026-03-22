@@ -13,7 +13,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2738, 2327, 2556, 2569, 2617]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 127,6,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.17,"[2735, 2151, 2182, 2140, 2241, 2406]"
-450,5,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551, 2082]"
+450,4,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551]"
 109,4,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.25,"[2313, 2627, 2214, 2189]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2615]"
 203,4,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.25,"[2282, 2450, 2366, 2306]"
@@ -115,7 +115,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
 526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
-182,1,Glyphosat,Glyphosate,Glifosato,glyphosate,2.0,[2083]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
 539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
