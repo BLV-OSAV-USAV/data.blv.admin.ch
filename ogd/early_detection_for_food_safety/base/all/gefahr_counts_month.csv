@@ -4,6 +4,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2715, 2749]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2740, 2760]"
 125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2752, 2717, 2737]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2740]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2763, 2734]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2758]
@@ -29,7 +30,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2727]
-1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2740]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2734]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2734]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
