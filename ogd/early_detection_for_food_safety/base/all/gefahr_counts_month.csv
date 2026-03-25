@@ -1,27 +1,31 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2726, 2741, 2756]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.25,"[2732, 2719, 2722, 2762]"
-111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2715, 2749]"
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2770, 2726, 2741, 2756]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.2,"[2732, 2719, 2722, 2762, 2769]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2770, 2752, 2737]"
+111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2743, 2731, 2749]"
+528,3,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2742, 2772, 2773]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2740, 2760]"
-125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2752, 2717, 2737]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2740]"
+86,2,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.5,"[2758, 2769]"
+9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,"[2719, 2769]"
+166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2770, 2738]"
+180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[2770, 2738]"
+31,2,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.5,"[2719, 2771]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,"[2723, 2769]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2763, 2734]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
-86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2758]
+19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2727, 2769]"
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[2719]
+106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2768]
 333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,2.0,[2719]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
-528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2742]
-31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,2.0,[2719]
 261,1,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,2.0,[2719]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2735]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2748]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2718]
@@ -29,17 +33,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2727]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2734]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2734]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
-166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2738]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
-180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2738]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
+176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[2769]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
-79,1,Zucker,sucre,zucchero,sugar,1.0,[2716]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
