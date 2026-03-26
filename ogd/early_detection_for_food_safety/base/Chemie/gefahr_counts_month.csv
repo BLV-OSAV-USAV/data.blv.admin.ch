@@ -4,7 +4,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2743, 2731, 2749]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2770, 2738]"
 180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[2770, 2738]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
@@ -13,15 +12,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2735]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2718]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
+585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2757]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]

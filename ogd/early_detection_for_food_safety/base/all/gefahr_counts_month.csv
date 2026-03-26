@@ -13,7 +13,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 31,2,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.5,"[2719, 2771]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,"[2723, 2769]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2763, 2734]"
-187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2718, 2757]"
 19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2727, 2769]"
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
@@ -28,11 +27,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2735]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2748]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
-577,1,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.0,[2718]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2718]
-344,1,Chrom,Chrome,Cromo,Chromium,1.0,[2718]
-167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2718]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2718]
+585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,[2734]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2734]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
@@ -43,4 +38,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[2769]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2757]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
