@@ -1,9 +1,8 @@
-matrix_id,Technological innovations and scientific advances,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Economy
-18,0,0,1,1,0
-38,0,1,0,0,1
-42,0,0,1,0,0
-48,0,1,0,0,0
-54,0,0,1,0,1
-58,1,1,0,0,0
-60,0,0,0,0,1
-107,0,1,0,0,0
+matrix_id,Consumer behaviour and consumption trends,Microbial evolution and antibiotic resistance,Ecology,Economy
+7,0,0,0,1
+18,0,1,1,0
+38,1,0,0,1
+42,0,1,0,0
+48,1,0,0,0
+60,0,0,0,1
+107,1,0,0,0
