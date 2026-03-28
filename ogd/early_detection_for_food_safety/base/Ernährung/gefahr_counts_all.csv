@@ -17,11 +17,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 197,4,Nitrite,Nitrite,Nitrito,Nitrite,1.75,"[226, 316, 259, 750]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[458, 1920, 1639, 718]"
 273,4,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374, 1742]"
+234,4,Sucralose,Sucralose,Sucralosio,Sucralose,1.25,"[386, 2111, 2297, 2782]"
 122,4,Diabetes,diabète,diabete,diabetes,1.25,"[1578, 448, 94, 2619]"
 51,4,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.25,"[210, 54, 2603, 2136]"
 92,3,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122]"
 185,3,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.33,"[1094, 2660, 989]"
-234,3,Sucralose,Sucralose,Sucralosio,Sucralose,1.0,"[386, 2111, 2297]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273]"
 166,3,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.33,"[1917, 1177, 263]"
 180,3,Phthalate,phtalates,ftalati,phthalates,1.33,"[295, 1136, 1628]"
@@ -35,6 +35,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 297,2,Gluten,gluten,glutine,gluten,1.0,"[2506, 725]"
+189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,"[2781, 1270]"
 271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[1290, 2139]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
@@ -104,7 +105,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 306,1,Furan,Furane,Furano,Furan,1.0,[1411]
 326,1,Isoleucin,Isoleucine,Isoleucina,Isoleucine,1.0,[958]
 389,1,Frittieröl,huile de friture,Olio per friggere,Frying oil,2.0,[1248]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[1270]
 413,1,Xylit,Xylitol,Xilitolo,Xylitol,1.0,[1446]
 436,1,Ricinolsäure,Acide ricinoléique,Acido ricinoleico,ricinoleic acid,1.0,[1527]
 431,1,Cobalt,Cobalt,Cobalto,Cobalt,1.0,[1689]
