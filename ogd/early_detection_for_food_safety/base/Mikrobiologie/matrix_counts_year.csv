@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,51,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2101, 2113, 2114, 2134, 2138, 2131, 2118, 2196, 2176, 2277, 2228, 2235, 2248, 2265, 2259, 2318, 2321, 2320, 2287, 2319, 2328, 2369, 2409, 2411, 2430, 2451, 2464, 2468, 2325, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2748, 2698, 2701, 2705, 2707, 2704, 2712, 2770, 2771, 2781]"
+18,50,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2113, 2114, 2134, 2138, 2131, 2118, 2196, 2176, 2277, 2228, 2235, 2248, 2265, 2259, 2318, 2321, 2320, 2287, 2319, 2328, 2369, 2409, 2411, 2430, 2451, 2464, 2468, 2325, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2748, 2698, 2701, 2705, 2707, 2704, 2712, 2770, 2771, 2781]"
 8,22,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.36,"[2157, 2149, 2213, 2187, 2334, 2360, 2292, 2309, 2332, 2382, 2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2711, 2733]"
 9,17,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.18,"[2102, 2119, 2205, 2203, 2231, 2253, 2365, 2308, 2333, 2341, 2404, 2421, 2534, 2581, 2597, 2654, 2684]"
 60,16,Fische,Poissons,Pesce,Fish,1.31,"[2108, 2200, 2245, 2221, 2271, 2344, 2356, 2290, 2320, 2419, 2429, 2508, 2653, 2459, 2736, 2766]"
@@ -24,7 +24,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2329, 2632]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2328, 2731]"
 7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.5,"[2431, 2731]"
-133,1,Honig,Miel,Miele,Honey,1.0,[2098]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.0,[2104]
 126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2275]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2270]
