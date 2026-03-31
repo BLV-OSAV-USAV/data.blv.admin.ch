@@ -6,8 +6,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 19,15,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.53,"[2308, 2584, 2322, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2769, 2134, 2686]"
 111,11,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.36,"[2329, 2743, 2731, 2176, 2222, 2397, 2186, 2213, 2401, 2325, 2631]"
 181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.64,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2159, 2300, 2668, 2678]"
+86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.6,"[2758, 2693, 2777, 2786, 2265, 2550, 2174, 2464, 2621, 2769]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2292, 2403, 2719, 2114, 2667, 2634, 2409, 2711, 2769]"
-86,9,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.56,"[2758, 2693, 2777, 2265, 2550, 2174, 2464, 2621, 2769]"
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.25,"[2110, 2768, 2669, 2181, 2643, 2328, 2391, 2472]"
 119,8,Norovirus,Norovirus,Norovirus,Norovirus,1.25,"[2534, 2763, 2734, 2143, 2198, 2119, 2333, 2150]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2114, 2494, 2455, 2275, 2391, 2523]"
@@ -51,6 +51,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,"[2734, 2143]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
+401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2409, 2788]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2219]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,"[2174, 2514]"
@@ -92,7 +93,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
 520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.0,[2222]

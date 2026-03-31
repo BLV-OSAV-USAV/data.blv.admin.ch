@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,38,Mikroplastik,microplastiques,microplastica,microplastics,1.16,"[2116, 2122, 2249, 2490, 2601, 2456, 2770, 2752, 2698, 2392, 2546, 2462, 2214, 2685, 2121, 2717, 2543, 2704, 2737, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2783, 2672]"
+125,39,Mikroplastik,microplastiques,microplastica,microplastics,1.15,"[2116, 2122, 2249, 2490, 2601, 2456, 2770, 2752, 2698, 2789, 2392, 2546, 2462, 2214, 2685, 2121, 2717, 2543, 2704, 2737, 2148, 2156, 2389, 2348, 2417, 2513, 2495, 2533, 2201, 2194, 2169, 2232, 2284, 2331, 2518, 2476, 2573, 2783, 2672]"
 26,34,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.44,"[2488, 2177, 2364, 2319, 2403, 2453, 2732, 2719, 2352, 2688, 2634, 2722, 2762, 2777, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2103, 2138, 2391, 2407, 2510, 2661, 2769, 2108, 2190, 2227, 2446, 2652]"
 244,31,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.13,"[2102, 2292, 2604, 2128, 2748, 2581, 2462, 2592, 2654, 2740, 2760, 2275, 2360, 2701, 2705, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2118, 2205, 2173, 2341]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2770, 2726, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2151, 2553, 2140, 2241, 2549, 2602, 2618, 2243, 2756, 2307, 2262, 2406, 2426]"
@@ -15,8 +15,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
 165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.15,"[2269, 2503, 2639, 2691, 2718, 2188, 2659, 2230, 2254, 2368, 2438, 2418, 2778]"
 181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.64,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2159, 2300, 2668, 2678]"
+86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.6,"[2758, 2693, 2777, 2786, 2265, 2550, 2174, 2464, 2621, 2769]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2292, 2403, 2719, 2114, 2667, 2634, 2409, 2711, 2769]"
-86,9,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.56,"[2758, 2693, 2777, 2265, 2550, 2174, 2464, 2621, 2769]"
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.25,"[2110, 2768, 2669, 2181, 2643, 2328, 2391, 2472]"
 503,8,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.12,"[2282, 2273, 2366, 2427, 2749, 2593, 2219, 2306]"
 119,8,Norovirus,Norovirus,Norovirus,Norovirus,1.25,"[2534, 2763, 2734, 2143, 2198, 2119, 2333, 2150]"
@@ -98,6 +98,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
 8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,"[2734, 2143]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
+401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2409, 2788]"
 216,2,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,"[2738, 2327]"
 277,2,Microcystine,Microcystine,Microcistina,Microcystin,1.0,"[2164, 2280]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
@@ -147,6 +148,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[2657]
+92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2125]
 545,1,Cäsium-137,Césium-137,Cesio-137,Cesium-137,1.0,[2390]
@@ -171,7 +173,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 520,1,Trematoden (Saugwürmer),Trématodes,Trematodi,Trematodes,2.0,[2200]

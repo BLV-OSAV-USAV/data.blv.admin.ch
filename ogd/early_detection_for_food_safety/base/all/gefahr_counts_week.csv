@@ -1,17 +1,17 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2770, 2789, 2783]"
+86,3,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.67,"[2777, 2786, 2769]"
 528,3,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2772, 2773, 2780]"
-1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2777]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2770, 2783]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2777, 2769]"
-86,2,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.5,"[2777, 2769]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2777, 2769]"
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
-106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2768]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2770]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2770]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2781]
+92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2784]
+1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,[2777]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2776]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2779]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2771]
@@ -21,3 +21,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[2769]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[2775]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2778]
+401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,2.0,[2788]
