@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,33,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.45,"[2488, 2177, 2364, 2319, 2403, 2453, 2732, 2719, 2352, 2688, 2634, 2722, 2762, 2777, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2138, 2391, 2407, 2510, 2661, 2769, 2108, 2190, 2227, 2446, 2652]"
+26,32,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.47,"[2488, 2177, 2364, 2319, 2403, 2453, 2732, 2719, 2352, 2688, 2634, 2722, 2762, 2777, 2572, 2270, 2410, 2461, 2411, 2471, 2271, 2711, 2138, 2391, 2407, 2510, 2661, 2769, 2190, 2227, 2446, 2652]"
 244,28,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.14,"[2292, 2604, 2128, 2748, 2581, 2462, 2592, 2654, 2740, 2760, 2275, 2360, 2701, 2705, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2118, 2205, 2173, 2341]"
 93,26,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.31,"[2336, 2565, 2693, 2634, 2723, 2777, 2309, 2664, 2181, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2769, 2131, 2149, 2173, 2401, 2577, 2514, 2650]"
 1,21,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.24,"[2766, 2248, 2693, 2634, 2777, 2228, 2740, 2220, 2494, 2680, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2153, 2175, 2504, 2514]"
@@ -8,10 +8,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.64,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2159, 2300, 2668, 2678]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.6,"[2758, 2693, 2777, 2786, 2265, 2550, 2174, 2464, 2621, 2769]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2292, 2403, 2719, 2114, 2667, 2634, 2409, 2711, 2769]"
-106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.25,"[2110, 2768, 2669, 2181, 2643, 2328, 2391, 2472]"
 119,8,Norovirus,Norovirus,Norovirus,Norovirus,1.25,"[2534, 2763, 2734, 2143, 2198, 2119, 2333, 2150]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2114, 2494, 2455, 2275, 2391, 2523]"
 90,7,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.14,"[2522, 2357, 2338, 2353, 2661, 2339, 2655]"
+106,7,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.29,"[2768, 2669, 2181, 2643, 2328, 2391, 2472]"
 333,6,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.5,"[2719, 2409, 2643, 2711, 2206, 2328]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2734, 2451, 2289, 2150]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2770, 2698, 2462, 2704, 2169]"
@@ -62,7 +62,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 504,2,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.5,"[2163, 2582]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2175, 2169]"
 544,2,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,"[2370, 2650]"
-515,1,Salmonella blockley,Salmonella blockley,Salmonella blockley,Salmonella blockley,2.0,[2109]
 375,1,Leptospira spp.,Leptospira spp.,Leptospira spp.,Leptospira spp.,1.0,[2202]
 36,1,Giardia spp.,Giardia spp.,Giardia spp.,Giardia spp.,1.0,[2239]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.0,[2248]

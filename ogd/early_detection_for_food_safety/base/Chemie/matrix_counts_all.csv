@@ -45,6 +45,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 59,3,"Nicht spezifizierte sowie gemischte Fische, Meeresfrüchte und Amphibien","Poissons, fruits de mer, amphibiens et reptiles non spécifiés ou mélangés","Pesce, crostacei frutti die mare e anfibi non classificati e misti",Unclassified And Combined Fish Products,1.67,"[943, 1030, 1386]"
 118,3,Rind,Boeuf,Manzo,Beef,1.0,"[1482, 1547, 1608]"
 13,3,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.67,"[386, 1672, 1980]"
+138,3,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,"[1510, 898, 2790]"
 55,2,Wild,Gibier,Selvaggina,Game,1.5,"[29, 2558]"
 156,2,Künstliche Süssstoffe,Edulcorants,Edulcoranti artificiali,Artificial Sweeteners,1.0,"[69, 1191]"
 120,2,Schwein,Porc,Maiale,Pork,2.0,"[133, 1369]"
@@ -65,7 +66,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 105,2,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,1.5,"[1369, 1980]"
 25,2,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,1.5,"[1365, 2413]"
 141,2,Andere Süsswaren mit Schokolade,Autres confiserie avec chocolat,Dolciumi al cioccolato,Chocolate Confectionery,1.0,"[1411, 1447]"
-138,2,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,"[1510, 898]"
 10,2,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.5,"[1867, 2366]"
 32,2,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,1.5,"[2440, 921]"
 145,1,Frucht- und Kräutertee (inkl. Pulver),Tisanes aux fruits et aux herbes (poudre incluse),Tè di frutti e di erbe (inclusa polvere),Herbal Tea  (Incl Powdered),2.0,[252]
