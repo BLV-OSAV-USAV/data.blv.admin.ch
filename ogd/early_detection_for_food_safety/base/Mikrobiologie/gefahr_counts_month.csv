@@ -6,7 +6,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2743, 2731]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2763, 2734]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2777, 2769]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2727, 2769]"
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2768]
@@ -25,6 +24,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2771]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[2769]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2769]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[2769]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[2775]
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,2.0,[2788]

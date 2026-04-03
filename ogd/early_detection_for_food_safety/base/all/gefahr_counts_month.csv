@@ -1,17 +1,16 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 528,6,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2742, 2791, 2772, 2773, 2792, 2780]"
-126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2725, 2770, 2726, 2741, 2756]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2770, 2752, 2789, 2737, 2783]"
 86,4,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.5,"[2758, 2777, 2786, 2769]"
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2732, 2762, 2777, 2769]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2743, 2731, 2784, 2749]"
 1,3,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2777, 2740]"
+126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2741, 2756]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2740, 2760]"
 166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2770, 2738]"
 180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[2770, 2738]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2763, 2734]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2777, 2769]"
-19,2,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.5,"[2727, 2769]"
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
@@ -41,6 +40,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[2769]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2757]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2769]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[2769]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[2775]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2778]

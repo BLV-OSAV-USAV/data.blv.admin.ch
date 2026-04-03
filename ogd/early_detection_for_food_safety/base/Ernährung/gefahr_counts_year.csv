@@ -12,9 +12,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,"[2603, 2136]"
 333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,"[2409, 2643]"
-516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2115, 2695]"
 517,1,Omega-6-Fettsäuren,Oméga-6,Omega-6,omega-6 fatty acid,2.0,[2124]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2116]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
@@ -38,13 +36,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2643]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
+516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2407]
 363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2136]
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2118]
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2139]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
