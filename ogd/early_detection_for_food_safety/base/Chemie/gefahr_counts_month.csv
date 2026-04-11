@@ -1,16 +1,14 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2770, 2752, 2789, 2737, 2783]"
+125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[2770, 2752, 2789, 2783]"
 126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2741, 2756]"
 111,3,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.33,"[2743, 2784, 2749]"
-166,2,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2770, 2738]"
-180,2,Phthalate,phtalates,ftalati,phthalates,1.0,"[2770, 2738]"
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
+166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]
+180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2770]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2779]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
-216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
-214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
