@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 86,4,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.5,"[2758, 2777, 2786, 2769]"
-1,3,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2777, 2740]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2740, 2760]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2762, 2777, 2769]"
+1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2777]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2760]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2777, 2769]"
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2768]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]

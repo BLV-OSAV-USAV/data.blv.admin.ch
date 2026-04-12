@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,9,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.22,"[2747, 2748, 2756, 2770, 2771, 2779, 2782, 2783, 2781]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[2740, 2741]"
 48,2,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,"[2743, 2768]"
 7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,"[2749, 2778]"
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2741]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2741]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[2757]
 54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[2760]
