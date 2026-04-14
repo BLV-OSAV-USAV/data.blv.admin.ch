@@ -4191,6 +4191,7 @@ Ereignisdatum,Meldungsdatum,Freigabedatum,Kanton,Tierart,Seuchenname,Serotyp,Sea
 10.09.25,19.09.25,19.09.25,ZG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 10.09.25,19.09.25,19.09.25,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 10.09.25,31.10.25,31.10.25,ZH,Rind,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
+10.09.25,31.03.26,31.03.26,FR,Rind,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
 11.09.25,11.09.25,11.09.25,ZH,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 11.09.25,11.09.25,11.09.25,ZH,Schaf,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 11.09.25,11.09.25,11.09.25,NE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
@@ -5232,6 +5233,7 @@ Ereignisdatum,Meldungsdatum,Freigabedatum,Kanton,Tierart,Seuchenname,Serotyp,Sea
 24.10.25,04.11.25,04.11.25,JU,Rind,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
 24.10.25,07.11.25,07.11.25,ZG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 24.10.25,25.11.25,25.11.25,BE,Schaf,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
+24.10.25,31.03.26,31.03.26,BE,Schaf,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
 25.10.25,29.10.25,29.10.25,SG,Schaf,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 26.10.25,29.10.25,29.10.25,SG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 26.10.25,29.10.25,29.10.25,SG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
@@ -5243,7 +5245,7 @@ Ereignisdatum,Meldungsdatum,Freigabedatum,Kanton,Tierart,Seuchenname,Serotyp,Sea
 27.10.25,30.10.25,30.10.25,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 27.10.25,30.10.25,30.10.25,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 27.10.25,07.11.25,07.11.25,ZG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
-27.10.25,07.11.25,07.11.25,VD,Rind,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
+27.10.25,07.11.25,07.11.25,VD,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 27.10.25,07.11.25,07.11.25,VD,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
 27.10.25,26.11.25,26.11.25,TI,Ziege,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H2-2025
 28.10.25,28.10.25,28.10.25,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H2-2025
@@ -6013,7 +6015,6 @@ Ereignisdatum,Meldungsdatum,Freigabedatum,Kanton,Tierart,Seuchenname,Serotyp,Sea
 02.02.26,11.02.26,11.02.26,VD,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 02.02.26,12.02.26,12.02.26,ZG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 03.02.26,03.02.26,03.02.26,FR,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
-03.02.26,03.02.26,03.02.26,LU,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 03.02.26,05.02.26,05.02.26,UR,Schaf,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 03.02.26,05.02.26,05.02.26,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 03.02.26,06.02.26,06.02.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
@@ -6274,4 +6275,20 @@ Ereignisdatum,Meldungsdatum,Freigabedatum,Kanton,Tierart,Seuchenname,Serotyp,Sea
 30.03.26,31.03.26,31.03.26,LU,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 30.03.26,31.03.26,31.03.26,NE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 30.03.26,02.04.26,02.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+30.03.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+30.03.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
 01.04.26,01.04.26,01.04.26,OW,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+01.04.26,08.04.26,08.04.26,LU,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+01.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+02.04.26,08.04.26,08.04.26,AR,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+02.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+02.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+07.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+07.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+08.04.26,09.04.26,09.04.26,JU,Rind,Blauzungenkrankheit (Bluetongue),BTV-8,mosquitoes-H1-2026
+08.04.26,09.04.26,09.04.26,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+08.04.26,09.04.26,09.04.26,NW,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+08.04.26,10.04.26,10.04.26,BE,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+08.04.26,10.04.26,10.04.26,SG,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+09.04.26,10.04.26,10.04.26,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
+10.04.26,10.04.26,10.04.26,SZ,Rind,Blauzungenkrankheit (Bluetongue),BTV-3,mosquitoes-H1-2026
