@@ -1,12 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 528,5,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2791, 2772, 2773, 2792, 2780]"
 86,4,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.5,"[2758, 2777, 2786, 2769]"
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.25,"[2770, 2752, 2789, 2783]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.33,"[2770, 2789, 2783]"
 26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2762, 2777, 2769]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[2766, 2777]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2756]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2748, 2760]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2784, 2749]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2777, 2769]"
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2768]
@@ -14,16 +12,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2770]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,[2781]
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
-63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2748]
-583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2763]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[2784]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[2776]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2779]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2753]
-143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2760]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2771]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2749]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,2.0,[2769]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2757]
