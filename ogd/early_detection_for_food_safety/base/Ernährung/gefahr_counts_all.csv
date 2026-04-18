@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,19,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.05,"[2223, 2298, 2371, 2545, 2575, 2689, 2742, 2791, 2283, 2772, 2773, 2483, 2792, 2224, 2466, 2445, 2448, 2396, 2780]"
+528,19,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.05,"[2223, 2298, 2371, 2545, 2575, 2689, 2792, 2283, 2773, 2791, 2483, 2224, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
 79,14,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2088, 1907, 2191, 1123, 2015, 2439, 712, 846, 1744, 1892, 2056, 2340, 2716]"
 165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.31,"[1095, 1917, 263, 1290, 2639, 750, 392, 532, 1836, 989, 1689, 1898, 1908]"
 102,12,Blei,Plomb,Piombo,Lead,1.25,"[1917, 2498, 2487, 263, 1290, 2639, 750, 701, 1836, 1689, 1908, 2478]"
@@ -14,7 +14,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 80,5,Salz,sel,sale,salt,1.4,"[1119, 1612, 1367, 1580, 1437]"
 363,5,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.6,"[1321, 1163, 1315, 1408, 2620]"
 111,5,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.2,"[1653, 2282, 2450, 1886, 1923]"
-92,4,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 2787, 4, 122]"
+92,4,Fettleibigkeit,obésité,obesità,obesity,1.0,"[44, 4, 122, 2787]"
 197,4,Nitrite,Nitrite,Nitrito,Nitrite,1.75,"[226, 316, 259, 750]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[458, 1920, 1639, 718]"
 273,4,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374, 1742]"
@@ -35,7 +35,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 297,2,Gluten,gluten,glutine,gluten,1.0,"[2506, 725]"
-189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.0,"[2781, 1270]"
 271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[1290, 2139]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 66,2,Canabidiol (CBD),Canabidiol (CBD),Canabidiolo (CBD),Canabidiol (CBD),1.0,"[353, 32]"
@@ -45,6 +44,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 316,2,Fructose,Fructose,Fruttosio,Fructose,1.0,"[885, 1651]"
 338,2,glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),glycidyl esters (GEs),1.5,"[989, 1598]"
 225,2,Barium,Baryum,Bario,Barium,1.0,"[1689, 1898]"
+189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,1.5,"[1270, 2781]"
 402,2,Thallium,Thallium,Tallio,Thallium,1.0,"[1689, 1898]"
 219,1,Acesulfam-K,Acésulfame K,Acesulfame K,Acesulfame K,1.0,[289]
 236,1,Flüssigstickstoff,Azote liquide,Azoto liquido,Liquid nitrogen,1.0,[413]
@@ -78,7 +78,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
-583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[750]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
@@ -116,3 +115,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2139]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
+583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
