@@ -12,8 +12,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,16,Arsen,Arsenic,Arsenico,Arsenic,1.06,"[2269, 2487, 2639, 2673, 2718, 2547, 2648, 2659, 2254, 2243, 2757, 2180, 2215, 2418, 2517, 2663]"
 19,16,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.56,"[2308, 2584, 2322, 2769, 2812, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2134, 2686]"
 128,14,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.14,"[2269, 2487, 2152, 2188, 2557, 2589, 2351, 2349, 2368, 2268, 2193, 2400, 2476, 2478]"
+165,14,Cadmium,Cadmium,Cadmio,Cadmium,1.14,"[2269, 2503, 2639, 2691, 2718, 2188, 2659, 2819, 2230, 2254, 2368, 2438, 2778, 2418]"
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
-165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.15,"[2269, 2503, 2639, 2691, 2718, 2188, 2659, 2230, 2254, 2368, 2438, 2778, 2418]"
 181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.64,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2159, 2300, 2668, 2678]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.6,"[2693, 2777, 2786, 2769, 2265, 2758, 2550, 2174, 2464, 2621]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2292, 2403, 2719, 2667, 2634, 2769, 2409, 2813, 2711]"
@@ -84,6 +84,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
+29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -200,7 +201,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
 526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
-29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2653]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[2245]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]

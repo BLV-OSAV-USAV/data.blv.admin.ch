@@ -45,6 +45,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2660]"
+29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -112,7 +113,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 266,1,Legionella,Legionella,Legionella,Legionella,1.0,[2163]
 96,1,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.0,[2175]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
-29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2653]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[2245]
 531,1,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,1.0,[2263]
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[2421]
