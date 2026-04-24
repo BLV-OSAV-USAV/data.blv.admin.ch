@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,38,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.16,"[2141, 2137, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2359, 2295, 2282, 2283, 2298, 2304, 2347, 2354, 2409, 2430, 2450, 2396, 2448, 2458, 2540, 2480, 2483, 2545, 2615, 2619, 2596, 2136, 2670, 2716, 2687, 2781, 2782, 2747]"
+18,39,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.15,"[2141, 2137, 2179, 2197, 2199, 2223, 2224, 2260, 2267, 2276, 2359, 2295, 2282, 2283, 2298, 2304, 2347, 2354, 2409, 2430, 2450, 2396, 2448, 2458, 2540, 2480, 2483, 2545, 2615, 2619, 2596, 2136, 2670, 2716, 2687, 2781, 2782, 2747, 2809]"
 1,8,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2294, 2297, 2371, 2435, 2452, 2630, 2603, 2689]"
 80,7,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,"[2191, 2266, 2340, 2439, 2447, 2594, 2814]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2335, 2509, 2639]"
@@ -7,6 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2266, 2326]"
 98,2,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,"[2445, 2478]"
 81,2,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",2.0,"[2432, 2498]"
+58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2632, 2795]"
 14,2,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2635, 2638]"
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2139]
 148,1,Wein,Vin,Vino,Wine,1.0,[2184]
@@ -18,5 +19,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2407]
 100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[2487]
 49,1,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,[2590]
-58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2632]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]

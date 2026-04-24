@@ -1,16 +1,18 @@
-gefahr_id,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt,Wirtschaft
-1,1,0,0,1
-9,1,1,0,1
-19,2,0,0,1
-26,3,0,0,2
-31,0,1,0,0
-86,3,0,0,1
-93,2,0,0,1
-106,1,0,0,0
-125,0,0,1,0
-126,0,0,1,0
-166,0,0,1,0
-176,1,0,0,1
-180,0,0,1,0
-189,0,1,0,0
-401,0,1,0,0
+gefahr_id,Klimawandel,Konsumentenverhalten und Konsumtrends,Mikrobielle Evolution und Antibiotikaresistenz,Umwelt,Wirtschaft
+1,0,1,0,0,0
+9,0,1,1,0,1
+19,0,2,1,0,1
+26,0,3,0,0,2
+28,0,0,0,1,0
+31,0,0,1,0,0
+86,0,3,0,0,1
+93,1,2,0,0,1
+107,0,0,0,1,0
+125,0,0,0,1,0
+126,0,0,0,1,0
+166,0,0,0,1,0
+176,0,1,0,0,1
+180,0,0,0,1,0
+189,0,0,1,0,0
+401,0,0,1,0,0
+587,0,0,1,0,0
