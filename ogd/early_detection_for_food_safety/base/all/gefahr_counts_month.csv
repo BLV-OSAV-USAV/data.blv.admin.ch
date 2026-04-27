@@ -1,16 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.25,"[2825, 2812, 2800, 2824]"
-528,3,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2792, 2791, 2780]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2784, 2794]"
+528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2792, 2791]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2810, 2811]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2789, 2783]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2813, 2824]"
-165,2,Cadmium,Cadmium,Cadmio,Cadmium,1.0,"[2819, 2778]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2808, 2803]"
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,2.0,[2786]
 29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2816]
-102,1,Blei,Plomb,Piombo,Lead,1.0,[2779]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2819]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
 586,1,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,1.0,[2794]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2794]
@@ -22,7 +21,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2824]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2824]
 91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2826]
-189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2781]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
 28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[2820]
 107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2820]
