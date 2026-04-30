@@ -62,6 +62,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 314,4,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.25,"[1570, 2538, 2542, 874]"
 137,4,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.25,"[1927, 2002, 1673, 2154]"
 476,4,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,"[2239, 2423, 1804, 1888]"
+29,4,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.5,"[2816, 2834, 1658, 2653]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.5,"[984, 1783, 1974, 1216]"
 153,4,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 146, 112, 2150]"
 251,4,Trichinella spp.,Trichinella spp.,Trichinella spp.,Trichinella spp.,1.0,"[486, 1398, 1638, 1730]"
@@ -81,7 +82,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 129,3,Affenpocken-Virus (MPXV),variole du singe (MPXV),vaiolo delle scimmie (MXPV),Monkeypox virus (MPXV),1.67,"[191, 271, 1536]"
 320,3,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.67,"[2532, 922, 2187]"
 267,3,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.33,"[558, 1085, 1847]"
-29,3,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.67,"[2816, 1658, 2653]"
 103,3,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.67,"[1720, 31, 441]"
 504,3,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,1.33,"[2029, 2163, 2582]"
 186,3,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,1.33,"[700, 1422, 168]"
@@ -116,6 +116,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 289,2,HT-2,HT-2,HT-2,HT-2,1.5,"[2731, 682]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2660]"
+140,2,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,2.0,"[2834, 456]"
 342,2,Campylobacter lari,Campylobacter lari,Campylobacter lari,Campylobacter lari,1.5,"[992, 1583]"
 131,2,Mikrobielle Toxine,Toxines microbiennes,Tossine microbiche,Bacterial toxins,2.0,"[984, 1174]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -195,7 +196,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 184,1,Morganella morganii,Morganella morganii,Morganella morganii,Morganella morganii,2.0,[143]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[425]
 136,1,Prion,Prion,Prione,Prion,1.0,[431]
-140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,3.0,[456]
 245,1,Streptococcus equi,Streptococcus equi,Streptococcus equi,Streptococcus equi,3.0,[456]
 100,1,Frühsommer-Meningoenzephalitis (FSME),L'encéphalite à tiques,Encefalite trasmessa da zecche,Tick-borne encephalitis (TBE),1.0,[625]
 391,1,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,Elizabethkingia anophelis,3.0,[1258]

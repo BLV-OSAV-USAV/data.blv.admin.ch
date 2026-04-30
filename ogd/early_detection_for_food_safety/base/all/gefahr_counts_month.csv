@@ -2,11 +2,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 19,4,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.25,"[2825, 2812, 2800, 2824]"
 528,2,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,"[2792, 2791]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2810, 2811]"
+29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.5,"[2816, 2834]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2813, 2824]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2808, 2803]"
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,2.0,[2786]
-29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2816]
+140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,1.0,[2834]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2789]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2819]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]

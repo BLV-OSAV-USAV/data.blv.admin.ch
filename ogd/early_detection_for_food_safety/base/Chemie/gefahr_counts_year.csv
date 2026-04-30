@@ -10,7 +10,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 128,12,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.08,"[2269, 2152, 2188, 2557, 2589, 2351, 2349, 2368, 2193, 2400, 2476, 2478]"
 503,8,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.12,"[2282, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
-42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
+42,7,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.29,"[2561, 2544, 2204, 2598, 2681, 2481, 2437]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 127,6,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.17,"[2735, 2151, 2182, 2140, 2241, 2406]"
 450,4,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551]"
@@ -32,7 +32,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 437,3,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.33,"[2222, 2246, 2366]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
-69,2,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,"[2247, 2135]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.5,"[2297, 2782]"
 284,2,MOSH,MOSH,MOSH,MOSH,1.0,"[2730, 2244]"
@@ -50,10 +49,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[2144, 2216]"
 425,2,Kupfer,Cuivre,Rame,Copper,1.0,"[2254, 2418]"
-210,2,Jod,Iode,Iodo,Iodine,1.0,"[2375, 2136]"
 522,2,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,"[2384, 2211]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
+69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[2247]
 225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
 272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
 532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
@@ -95,6 +94,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 323,1,Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),Recycled High-Density Polyethylene (HDPE),1.0,[2162]
+210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.0,[2491]
@@ -103,7 +103,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
-51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2136]
 586,1,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,1.0,[2794]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
