@@ -1,17 +1,19 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,11,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.18,"[2810, 2813, 2819, 2798, 2800, 2803, 2809, 2820, 2826, 2823, 2831]"
 60,4,Fische,Poissons,Pesce,Fish,1.25,"[2811, 2815, 2816, 2834]"
-8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2796, 2827]"
+8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2796, 2827, 2839]"
 42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2812, 2825]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[2794, 2829]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",2.0,"[2797, 2828]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.5,"[2808, 2829]"
 23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[2824, 2829]"
 138,1,Schokoladentafeln,Tablettes de chocolat,Tavoletta di cioccolato,Chocolate Tablet,1.0,[2790]
-118,1,Rind,Boeuf,Manzo,Beef,1.0,[2785]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2814]
 58,1,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,[2795]
 139,1,Schokoriegel,Barres de chocolat,Barrette di cioccolato,Chocolate Candy Bars,1.0,[2802]
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2827]
 133,1,Honig,Miel,Miele,Honey,1.0,[2830]
+7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2821]
+73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2837]
+93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[2842]

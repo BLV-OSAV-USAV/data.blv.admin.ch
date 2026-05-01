@@ -1,10 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 23,2,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.5,"[2824, 2829]"
-18,1,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.0,[2820]
+8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2827, 2839]"
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.0,[2825]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",2.0,[2829]
 54,1,Geflügel,Volailles,Pollame,Poultry,2.0,[2829]
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2827]
-8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2827]
 60,1,Fische,Poissons,Pesce,Fish,1.0,[2834]
