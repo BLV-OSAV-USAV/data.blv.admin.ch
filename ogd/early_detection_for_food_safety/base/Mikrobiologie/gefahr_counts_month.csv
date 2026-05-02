@@ -5,6 +5,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2813, 2824]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[2808, 2803]"
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2841]
+31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2844]
 140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,1.0,[2834]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[2798]
@@ -12,5 +13,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2824]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2824]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2827]
+226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,2.0,[2845]
 28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[2820]
 107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2820]
