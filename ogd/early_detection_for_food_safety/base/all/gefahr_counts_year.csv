@@ -21,10 +21,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.38,"[2669, 2768, 2181, 2643, 2328, 2391, 2824, 2472]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2494, 2455, 2275, 2391, 2523, 2827]"
-119,7,Norovirus,Norovirus,Norovirus,Norovirus,1.29,"[2534, 2763, 2734, 2143, 2198, 2333, 2150]"
 42,7,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.29,"[2561, 2544, 2204, 2598, 2681, 2481, 2437]"
 90,7,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.14,"[2522, 2357, 2338, 2353, 2661, 2339, 2655]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
+119,6,Norovirus,Norovirus,Norovirus,Norovirus,1.33,"[2534, 2763, 2734, 2198, 2333, 2150]"
 333,6,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.5,"[2719, 2409, 2643, 2711, 2206, 2328]"
 238,6,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 2419, 2365, 2798, 2341]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2734, 2451, 2289, 2150]"
@@ -53,7 +53,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 99,4,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.25,"[2609, 2203, 2464, 2290]"
 35,3,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.67,"[2239, 2259, 2460]"
 118,3,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.67,"[2183, 2157, 2213]"
-271,3,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.67,"[2376, 2142, 2216]"
 348,3,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2336, 2776, 2220]"
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.33,"[2278, 2620, 2625]"
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.33,"[2281, 2769, 2661]"
@@ -75,6 +74,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.5,"[2239, 2465]"
 39,2,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,Entamoeba histolytica,1.0,"[2239, 2163]"
 476,2,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,"[2239, 2423]"
+271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,2.0,"[2376, 2216]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.5,"[2297, 2782]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.5,"[2532, 2187]"
@@ -93,8 +93,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 533,2,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,"[2675, 2280]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
-8,2,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,"[2734, 2143]"
-468,2,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,"[2142, 2679]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2362, 2237]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2176, 2821]"
 153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
@@ -103,7 +101,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 277,2,Microcystine,Microcystine,Microcistina,Microcystin,1.0,"[2164, 2280]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
-318,2,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[2144, 2216]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,"[2174, 2514]"
 530,2,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,2.0,"[2259, 2460]"
 425,2,Kupfer,Cuivre,Rame,Copper,1.0,"[2254, 2418]"
@@ -165,6 +162,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[2664]
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
+8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
@@ -195,6 +193,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
+468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 586,1,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,1.0,[2794]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
 52,1,Kochsalz (NaCl),Sel de table (NaCl),Sale da tavola (NaCl),Table salt  (NaCl),1.0,[2809]
@@ -205,6 +204,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
+318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
 526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
 494,1,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,Dibothriocephalus latus,1.0,[2245]
