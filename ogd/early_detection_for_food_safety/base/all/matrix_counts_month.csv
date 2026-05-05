@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,12,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.17,"[2810, 2813, 2819, 2798, 2800, 2803, 2809, 2820, 2826, 2823, 2831, 2844]"
-60,4,Fische,Poissons,Pesce,Fish,1.25,"[2811, 2815, 2816, 2834]"
+18,14,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[2810, 2813, 2819, 2798, 2800, 2803, 2809, 2820, 2826, 2823, 2831, 2844, 2848, 2849]"
+60,5,Fische,Poissons,Pesce,Fish,1.2,"[2811, 2815, 2816, 2834, 2846]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2796, 2827, 2839]"
 42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2812, 2825]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[2794, 2829]"
@@ -18,3 +18,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[2842]
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2838]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2838]
+82,1,Wasser,Eau,Acqua,Waters,2.0,[2847]
