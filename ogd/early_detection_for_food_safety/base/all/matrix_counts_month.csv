@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,14,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.14,"[2810, 2813, 2819, 2798, 2800, 2803, 2809, 2820, 2826, 2823, 2831, 2844, 2848, 2849]"
+18,15,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.2,"[2810, 2813, 2819, 2798, 2800, 2803, 2809, 2820, 2826, 2823, 2831, 2844, 2848, 2849, 2855]"
 60,5,Fische,Poissons,Pesce,Fish,1.2,"[2811, 2815, 2816, 2834, 2846]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2796, 2827, 2839]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[2797, 2828, 2852, 2853]"
@@ -16,6 +16,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,1,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,[2821]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2837]
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[2842]
+82,1,Wasser,Eau,Acqua,Waters,2.0,[2847]
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[2838]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2838]
-82,1,Wasser,Eau,Acqua,Waters,2.0,[2847]

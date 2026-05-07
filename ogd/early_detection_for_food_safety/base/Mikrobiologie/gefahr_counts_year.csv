@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,34,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.47,"[2488, 2177, 2364, 2319, 2403, 2453, 2732, 2719, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2572, 2270, 2410, 2461, 2762, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2190, 2227, 2446, 2652, 2836]"
-93,27,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2336, 2565, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2181, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2149, 2173, 2401, 2577, 2514, 2650]"
+26,35,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.49,"[2488, 2177, 2364, 2319, 2403, 2453, 2732, 2719, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2572, 2270, 2410, 2461, 2762, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2190, 2227, 2446, 2652, 2836]"
+93,26,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.35,"[2336, 2565, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2181, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2173, 2401, 2577, 2514, 2650]"
 244,26,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.15,"[2292, 2604, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2205, 2173, 2341, 2748, 2740]"
 1,21,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.24,"[2248, 2693, 2634, 2777, 2228, 2220, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2153, 2175, 2504, 2514, 2740]"
 19,19,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.42,"[2825, 2308, 2839, 2584, 2322, 2769, 2812, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2686]"
@@ -11,14 +11,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.38,"[2669, 2768, 2181, 2643, 2328, 2391, 2824, 2472]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2494, 2455, 2275, 2391, 2523, 2827]"
 90,7,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.14,"[2522, 2357, 2338, 2353, 2661, 2339, 2655]"
-119,6,Norovirus,Norovirus,Norovirus,Norovirus,1.33,"[2534, 2763, 2734, 2198, 2333, 2150]"
 333,6,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.5,"[2719, 2409, 2643, 2711, 2206, 2328]"
 238,6,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 2419, 2365, 2798, 2341]"
-2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.6,"[2303, 2734, 2451, 2289, 2150]"
+119,5,Norovirus,Norovirus,Norovirus,Norovirus,1.4,"[2534, 2763, 2734, 2198, 2333]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.2,"[2698, 2770, 2462, 2704, 2169]"
 123,5,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.2,"[2309, 2640, 2808, 2173, 2650]"
 94,5,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.4,"[2664, 2475, 2314, 2824, 2650]"
 10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2538, 2542, 2226]"
+2,4,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.75,"[2303, 2734, 2451, 2289]"
 114,4,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.25,"[2412, 2369, 2629, 2153]"
 31,4,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.25,"[2719, 2844, 2771, 2334]"
 261,4,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.25,"[2719, 2220, 2163, 2468]"
@@ -31,7 +31,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.33,"[2281, 2769, 2661]"
 23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.33,"[2344, 2597, 2429]"
 120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2841, 2333]"
-121,3,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.33,"[2775, 2451, 2150]"
 29,3,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.67,"[2816, 2834, 2653]"
 87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,"[2516, 2174, 2233]"
 232,3,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.67,"[2404, 2253, 2205]"
@@ -46,11 +45,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.5,"[2707, 2845]"
+121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2775, 2451]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2660]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
-153,2,Hepatitis,Hépatite,Epatite,Hepatitis,1.5,"[2451, 2150]"
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2409, 2788]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2219]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
@@ -90,6 +89,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2176]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2176]
+153,1,Hepatitis,Hépatite,Epatite,Hepatitis,2.0,[2451]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.0,[2479]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
