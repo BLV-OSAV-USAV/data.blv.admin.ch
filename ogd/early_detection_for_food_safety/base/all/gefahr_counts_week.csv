@@ -1,11 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2852, 2853, 2846, 2850]"
-19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2839]
-120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2841]
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2852, 2853, 2846, 2850, 2860]"
+343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2857]
+86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2857]
+88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[2857]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2844]
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2840]
 589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
-91,1,Pestizide,pesticides,pesticidi,pesticide,1.0,[2838]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2854]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
+528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2859]
 226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,2.0,[2845]

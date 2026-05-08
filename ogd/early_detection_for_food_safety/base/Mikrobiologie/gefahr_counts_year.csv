@@ -6,8 +6,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 19,19,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.42,"[2825, 2308, 2839, 2584, 2322, 2769, 2812, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2686]"
 111,11,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.36,"[2329, 2731, 2176, 2222, 2743, 2397, 2186, 2213, 2401, 2325, 2631]"
 181,11,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.64,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2159, 2300, 2668, 2678]"
+86,11,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.55,"[2857, 2693, 2777, 2786, 2769, 2265, 2758, 2550, 2174, 2464, 2621]"
 9,10,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.3,"[2292, 2403, 2719, 2667, 2634, 2769, 2409, 2813, 2711, 2824]"
-86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.6,"[2693, 2777, 2786, 2769, 2265, 2758, 2550, 2174, 2464, 2621]"
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.38,"[2669, 2768, 2181, 2643, 2328, 2391, 2824, 2472]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2494, 2455, 2275, 2391, 2523, 2827]"
 90,7,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.14,"[2522, 2357, 2338, 2353, 2661, 2339, 2655]"
@@ -20,6 +20,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.5,"[2239, 2538, 2542, 2226]"
 2,4,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.75,"[2303, 2734, 2451, 2289]"
 114,4,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.25,"[2412, 2369, 2629, 2153]"
+87,4,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.75,"[2857, 2516, 2174, 2233]"
 31,4,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.25,"[2719, 2844, 2771, 2334]"
 261,4,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.25,"[2719, 2220, 2163, 2468]"
 99,4,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.25,"[2609, 2203, 2464, 2290]"
@@ -31,8 +32,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.33,"[2281, 2769, 2661]"
 23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.33,"[2344, 2597, 2429]"
 120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,"[2534, 2841, 2333]"
+88,3,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.67,"[2857, 2174, 2514]"
 29,3,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.67,"[2816, 2834, 2653]"
-87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,"[2516, 2174, 2233]"
 232,3,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.67,"[2404, 2253, 2205]"
 202,3,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.67,"[2287, 2524, 2231]"
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
@@ -53,7 +54,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2409, 2788]"
 503,2,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,"[2273, 2219]"
 521,2,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,Bacillus paranthracis,1.5,"[2207, 2328]"
-88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,"[2174, 2514]"
 530,2,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,2.0,"[2259, 2460]"
 162,2,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.5,"[2332, 2526]"
 5,2,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.5,"[2328, 2472]"
@@ -72,6 +72,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 159,1,Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),1.0,[2403]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
+343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]
