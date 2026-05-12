@@ -3,11 +3,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 60,5,Fische,Poissons,Pesce,Fish,1.2,"[2811, 2815, 2816, 2834, 2846]"
 8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2796, 2827, 2839, 2857]"
 9,4,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.5,"[2797, 2828, 2852, 2853]"
-23,3,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.67,"[2824, 2829, 2858]"
-42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.5,"[2812, 2825]"
+23,4,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.75,"[2824, 2829, 2858, 2863]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[2794, 2829]"
 58,2,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.0,"[2795, 2833]"
 54,2,Geflügel,Volailles,Pollame,Poultry,1.5,"[2808, 2829]"
+42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[2812]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2814]
 139,1,Schokoriegel,Barres de chocolat,Barrette di cioccolato,Chocolate Candy Bars,1.0,[2802]
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
