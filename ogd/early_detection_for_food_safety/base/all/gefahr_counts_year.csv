@@ -90,7 +90,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 574,2,Coffein,Caféine,Caffeina,Caffeine,1.0,"[2644, 2814]"
-185,2,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,"[2660, 2166]"
 533,2,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,"[2675, 2280]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2362, 2237]"
@@ -157,6 +156,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2599]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,2.0,[2628]
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
+185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[2664]
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]

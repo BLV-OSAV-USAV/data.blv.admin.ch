@@ -1,13 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,13,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.23,"[2810, 2813, 2819, 2809, 2820, 2826, 2823, 2831, 2844, 2848, 2849, 2855, 2861]"
+18,12,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.25,"[2810, 2813, 2819, 2820, 2826, 2823, 2831, 2844, 2848, 2849, 2855, 2861]"
 60,5,Fische,Poissons,Pesce,Fish,1.2,"[2811, 2815, 2816, 2834, 2846]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2815, 2827, 2839, 2857]"
 23,4,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.75,"[2824, 2829, 2858, 2863]"
 9,3,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.33,"[2828, 2852, 2853]"
-54,2,Geflügel,Volailles,Pollame,Poultry,1.5,"[2808, 2829]"
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[2812]
 80,1,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.0,[2814]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",2.0,[2829]
+54,1,Geflügel,Volailles,Pollame,Poultry,2.0,[2829]
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2827]
 133,1,Honig,Miel,Miele,Honey,1.0,[2830]
