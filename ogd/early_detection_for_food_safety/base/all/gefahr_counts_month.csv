@@ -1,28 +1,29 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2852, 2853, 2846, 2850, 2860]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2810, 2811, 2854, 2836]"
-19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2839, 2812, 2824]"
-29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,1.5,"[2816, 2834]"
-9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2813, 2824]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2826, 2838]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.2,"[2867, 2810, 2811, 2854, 2836]"
+125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2846, 2852, 2853, 2850, 2860]"
+19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2839, 2824, 2812]"
+91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2826]"
+9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2824, 2813]"
 343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2857]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2857]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,[2857]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2863]
+593,1,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.0,[2870]
+594,1,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.0,[2870]
+528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2859]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2844]
-140,1,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,Streptococcus spp.,1.0,[2834]
-120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2841]
-49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2840]
-165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2819]
-589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
-590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2824]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2824]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[2827]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
-528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2859]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2819]
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2840]
+29,1,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,[2816]
+589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
+590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
 226,1,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,2.0,[2845]
+120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.0,[2841]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
 28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[2820]

@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,20,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.05,"[2223, 2298, 2371, 2545, 2575, 2689, 2792, 2283, 2773, 2791, 2483, 2224, 2466, 2445, 2742, 2772, 2780, 2859, 2448, 2396]"
+528,20,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.05,"[2223, 2298, 2371, 2545, 2575, 2689, 2792, 2859, 2283, 2773, 2791, 2483, 2224, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
 79,14,Zucker,sucre,zucchero,sugar,1.0,"[1648, 2088, 1907, 2191, 1123, 2015, 2439, 712, 846, 1744, 1892, 2056, 2340, 2716]"
 165,13,Cadmium,Cadmium,Cadmio,Cadmium,1.31,"[1095, 1917, 263, 1290, 2639, 750, 392, 532, 1836, 989, 1689, 1898, 1908]"
 102,12,Blei,Plomb,Piombo,Lead,1.25,"[1917, 2498, 2487, 263, 1290, 2639, 750, 701, 1836, 1689, 1908, 2478]"
@@ -9,7 +9,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,9,Mikroplastik,microplastiques,microplastica,microplastics,1.22,"[524, 2064, 2116, 1030, 310, 453, 1362, 1235, 1314]"
 128,8,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.25,"[533, 1917, 2487, 263, 392, 783, 1908, 2478]"
 145,8,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.12,"[1208, 1664, 2677, 2607, 76, 2571, 2588, 2622]"
-91,7,Pestizide,pesticides,pesticidi,pesticide,1.29,"[417, 524, 798, 1938, 2660, 1511, 2838]"
+91,7,Pestizide,pesticides,pesticidi,pesticide,1.29,"[417, 524, 798, 1938, 2838, 2660, 1511]"
 126,6,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[908, 552, 2660, 1126, 952, 852]"
 80,6,Salz,sel,sale,salt,1.33,"[1119, 1612, 1367, 1580, 1437, 2809]"
 363,5,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.6,"[1321, 1163, 1315, 1408, 2620]"
@@ -19,7 +19,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[458, 1920, 1639, 718]"
 273,4,Koffein,Caféine,Caffeina,caffein,1.0,"[622, 747, 1374, 1742]"
 234,4,Sucralose,Sucralose,Sucralosio,Sucralose,1.25,"[386, 2111, 2297, 2782]"
-49,4,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 2840, 1273]"
+49,4,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[1522, 1835, 1273, 2840]"
 122,4,Diabetes,diabète,diabete,diabetes,1.25,"[1578, 448, 94, 2619]"
 51,4,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.25,"[210, 54, 2603, 2136]"
 185,3,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.33,"[1094, 2660, 989]"
@@ -90,6 +90,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 260,1,benzaldehyd,benzaldéhyde,Benzaldeide,benzaldehyde,1.0,[537]
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[881]
 301,1,Metalle der Seltenen Erden (REE),Terre rare (REE),Terre rare (REE),rare earth elements (REE),2.0,[749]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
 422,1,Muscimol,MuscimolE,Muscimolo,Muscimol,1.0,[1915]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[38]
@@ -111,7 +112,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 137,1,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.0,[2154]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2136]
 52,1,Kochsalz (NaCl),Sel de table (NaCl),Sale da tavola (NaCl),Table salt  (NaCl),1.0,[2809]
-292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[708]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1794]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
