@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+125,6,Mikroplastik,microplastiques,microplastica,microplastics,1.17,"[2846, 2872, 2852, 2853, 2850, 2860]"
 26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.2,"[2867, 2810, 2811, 2854, 2836]"
-125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2846, 2852, 2853, 2850, 2860]"
 19,3,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2839, 2824, 2812]"
-91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2826]"
+91,3,Pestizide,pesticides,pesticidi,pesticide,1.33,"[2838, 2872, 2826]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[2824, 2813]"
 343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[2857]
@@ -13,6 +13,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 594,1,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.0,[2870]
 528,1,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.0,[2859]
 31,1,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.0,[2844]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,2.0,[2872]
+248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
+293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
+180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2872]
+297,1,Gluten,gluten,glutine,gluten,2.0,[2872]
+2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2871]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[2824]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2824]
