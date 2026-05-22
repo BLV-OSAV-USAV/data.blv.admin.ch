@@ -12,6 +12,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2660]"
 333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,"[2409, 2643]"
+363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2282]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
@@ -36,10 +37,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 507,1,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,[2299]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2407]
-363,1,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,[2620]
 52,1,Kochsalz (NaCl),Sel de table (NaCl),Sale da tavola (NaCl),Table salt  (NaCl),1.0,[2809]
 80,1,Salz,sel,sale,salt,1.0,[2809]
+197,1,Nitrite,Nitrite,Nitrito,Nitrite,2.0,[2876]
+566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,2.0,[2876]
 49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2840]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2876]
+595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
+597,1,Natriumerythorbat,Érythorbate de sodium,Eritorbato di sodio,Sodium Erythorbate,2.0,[2876]
 227,1,Erythrit,Érythritol,Eritritolo,Erythritol,2.0,[2295]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2781]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
