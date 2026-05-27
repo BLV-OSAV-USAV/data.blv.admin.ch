@@ -3,7 +3,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 80,8,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.12,"[2191, 2266, 2340, 2439, 2447, 2594, 2814, 2876]"
 1,8,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2294, 2297, 2371, 2435, 2452, 2630, 2603, 2689]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2335, 2509, 2639]"
-148,2,Wein,Vin,Vino,Wine,1.5,"[2184, 2876]"
 56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2266, 2876]"
 11,2,Fette und Öle,Graisses et huiles,Oli e grassi,Fats And Oils,1.0,"[2266, 2326]"
 98,2,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,"[2445, 2478]"
@@ -21,3 +20,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2639]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2837]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2838]
+148,1,Wein,Vin,Vino,Wine,2.0,[2876]

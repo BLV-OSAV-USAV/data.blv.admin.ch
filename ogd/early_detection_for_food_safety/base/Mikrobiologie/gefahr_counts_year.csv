@@ -4,10 +4,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,24,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2336, 2565, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 1,19,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.26,"[2248, 2693, 2634, 2777, 2228, 2220, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
 19,18,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.44,"[2308, 2839, 2584, 2322, 2769, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
-111,10,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.3,"[2329, 2731, 2222, 2743, 2397, 2186, 2213, 2401, 2325, 2631]"
 9,10,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.3,"[2292, 2403, 2719, 2667, 2634, 2769, 2409, 2711, 2824, 2813]"
 181,10,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.7,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2300, 2668, 2678]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.4,"[2857, 2693, 2777, 2786, 2769, 2265, 2758, 2550, 2464, 2621]"
+111,9,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.22,"[2329, 2731, 2222, 2743, 2397, 2213, 2401, 2325, 2631]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2494, 2455, 2275, 2391, 2523, 2827]"
 90,7,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.14,"[2522, 2357, 2338, 2353, 2661, 2339, 2655]"
 106,7,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.43,"[2669, 2768, 2643, 2328, 2391, 2824, 2472]"
@@ -22,7 +22,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 123,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2309, 2640, 2808, 2650]"
 99,4,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.25,"[2609, 2203, 2464, 2290]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[2660, 2701, 2401, 2325]"
-63,4,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2185, 2524, 2325, 2748]"
 35,3,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.67,"[2239, 2259, 2460]"
 348,3,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2336, 2776, 2220]"
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.33,"[2281, 2769, 2661]"
@@ -34,9 +33,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 232,3,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.67,"[2404, 2253, 2205]"
 202,3,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.67,"[2287, 2524, 2231]"
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
+63,3,Antibiotika,antibiotiques,antibiotici,antibiotics,1.67,"[2524, 2325, 2748]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.5,"[2239, 2208]"
 7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.5,"[2239, 2465]"
-118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2183, 2213]"
 476,2,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,"[2239, 2423]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.5,"[2532, 2187]"
@@ -105,6 +104,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
+118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,2.0,[2213]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,2.0,[2213]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
