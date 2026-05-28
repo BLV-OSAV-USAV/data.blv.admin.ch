@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,35,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.49,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2572, 2270, 2410, 2461, 2762, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2190, 2227, 2446, 2652, 2836]"
+26,34,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.47,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2572, 2270, 2410, 2461, 2762, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2227, 2446, 2652, 2836]"
 244,25,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.12,"[2292, 2604, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2205, 2341, 2748, 2740]"
 93,24,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.33,"[2336, 2565, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 1,19,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.26,"[2248, 2693, 2634, 2777, 2228, 2220, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
@@ -38,7 +38,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.5,"[2239, 2465]"
 476,2,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.0,"[2239, 2423]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
-320,2,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.5,"[2532, 2187]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[2857, 2514]"
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
@@ -66,6 +65,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 547,1,Kolibakterien,Batteri coliformi,Bactéries coliformes,Coliform bacteria,1.0,[2415]
 546,1,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,Corynebacterium pseudotuberculosis,1.0,[2403]
 159,1,Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),Mycobacterium avium ssp. paratuberculosis (MAP),1.0,[2403]
+320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
 343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
@@ -96,7 +96,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 112,1,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,Aeromonas spp.,2.0,[2221]
 355,1,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,Bacillus licheniformis,2.0,[2206]
 211,1,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,Bacillus subtilis,2.0,[2206]
-519,1,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,Citrobacter braakii,2.0,[2187]
 32,1,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,Shewanella haliotis,2.0,[2253]
 334,1,Clostridium spp.,Clostridium spp.,Clostridium spp.,Clostridium spp.,1.0,[2338]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2474]
