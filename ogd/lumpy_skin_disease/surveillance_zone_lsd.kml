@@ -2,7 +2,7 @@
 
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <Document>
-<name>Überwachungszone / Zone de surveillance / Zona sotto controllo</name>
+<name>Impfzone / zone de vaccination / zone di vaccinazione</name>
 <visibility>1</visibility>
 <Schema name="features" id="kml_schema_ft_features">
 <SimpleField type="xsd:string" name="id">
@@ -86,7 +86,7 @@
 <Folder id="kml_ft_features">
 <name>features</name>
 <Placemark id="kml_1">
-<name>Überwachungszone / Zone de surveillance / Zona sotto controllo</name>
+<name>Impfzone / zone de vaccination / zone di vaccinazione</name>
 <snippet> </snippet>
 <description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
 <th>Date</th>
@@ -141,7 +141,7 @@
 </Polygon>
 </Placemark>
 <Placemark id="kml_2">
-<name>Überwachungszone / Zone de surveillance / Zona sotto controllo</name>
+<name>Impfzone / zone de vaccination / zone di vaccinazione</name>
 <snippet> </snippet>
 <description><![CDATA[<center><table><tr><th colspan='2' align='center'><em>Attributes</em></th></tr><tr bgcolor="#E3E3F3">
 <th>Date</th>
