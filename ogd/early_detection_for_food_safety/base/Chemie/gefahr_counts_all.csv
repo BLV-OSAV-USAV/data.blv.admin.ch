@@ -36,6 +36,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 96,6,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.67,"[14, 2086, 2408, 2392, 1465, 2175]"
 344,6,Chrom,Chrome,Cromo,Chromium,1.17,"[1116, 2639, 2718, 1017, 1668, 2254]"
 483,6,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.17,"[2756, 2151, 2140, 1806, 1861, 2406]"
+48,5,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.4,"[96, 941, 89, 2887, 2529]"
 118,5,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.4,"[252, 1653, 2183, 1977, 2213]"
 273,5,Koffein,Caféine,Caffeina,caffein,1.2,"[622, 747, 926, 1574, 1742]"
 306,5,Furan,Furane,Furano,Furan,2.2,"[824, 967, 953, 1411, 1770]"
@@ -48,9 +49,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 43,5,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.4,"[2313, 2214, 848, 2330, 1756]"
 474,5,Enniatin,Ennitatine,Ennitatina,Enniatin,1.2,"[2282, 2176, 2246, 1787, 2821]"
 1,5,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.2,"[1619, 2077, 201, 1718, 2175]"
+46,5,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.8,"[2699, 722, 1326, 2019, 2887]"
 277,5,Microcystine,Microcystine,Microcistina,Microcystin,1.2,"[2026, 643, 1200, 1325, 2280]"
 98,4,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.5,"[19, 2479, 86, 1685]"
-48,4,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.25,"[96, 941, 89, 2529]"
 200,4,6-PPD,6-PPD,6-PPD,6-PPD,2.5,"[229, 735, 1434, 2611]"
 210,4,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577, 2375, 2136]"
 269,4,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.25,"[560, 865, 1988, 2633]"
@@ -67,7 +68,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 289,4,HT-2,HT-2,HT-2,HT-2,1.25,"[2731, 1675, 682, 1998]"
 577,4,Toxische Elemente,Éléments toxiques,Elementi tossici,Toxic elements,1.25,"[2691, 2718, 2703, 2704]"
-46,4,Ciguatera,Ciguatera,Ciguatera,Ciguatera,1.75,"[2699, 722, 1326, 2019]"
 174,4,Fungizid,Fongicide,Fungicida,Fungicide,1.25,"[426, 525, 377, 2473]"
 402,4,Thallium,Thallium,Tallio,Thallium,1.0,"[1352, 1531, 1898, 2100]"
 216,3,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,"[277, 2738, 2327]"
@@ -106,6 +106,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
 164,2,Phytoöstrogene,Phytoestrogène,Fitoestrogeni,Phytoestrogens,1.0,"[1002, 1988]"
 351,2,Brom,brom,bromo,bromine,1.5,"[1086, 1955]"
+376,2,Histamin,Histamine,Istamina,Histamine,1.5,"[1185, 2887]"
 370,2,Polycyclische aromatische Kohlenwasserstoffe,Hydrocarbure aromatique polycyclique,Idrocarburi policiclici aromatici,Polycyclic aromatic hydrocarbon,2.0,"[1159, 1904]"
 371,2,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,2.0,"[1159, 2433]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
@@ -154,7 +155,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
 264,1,sucralose-6-acetate,sucralose-6-acétate,sucralose-6-acetato,sucralose-6-acetate,1.0,[543]
 307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
-376,1,Histamin,Histamine,Istamina,Histamine,1.0,[1185]
 80,1,Salz,sel,sale,salt,2.0,[1119]
 367,1,Mono- und Diglyceride von Speisefettsäuren (E471),Mono et diglycérides d'acides gras (E471),Mono- e digliceridi degli acidi grassi (E471),Mono- and diglycerides of fatty acids (E471),1.0,[1154]
 368,1,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.0,[1154]

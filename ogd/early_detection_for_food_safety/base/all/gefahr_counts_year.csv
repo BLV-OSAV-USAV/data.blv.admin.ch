@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,40,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2249, 2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2214, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2201, 2194, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
+125,39,Mikroplastik,microplastiques,microplastica,microplastics,1.13,"[2249, 2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2214, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2201, 2232, 2284, 2331, 2518, 2476, 2573, 2672]"
 26,37,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.43,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2572, 2270, 2410, 2461, 2886, 2762, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2880, 2227, 2446, 2652, 2836]"
 244,28,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.14,"[2292, 2604, 2882, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2203, 2233, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2205, 2341, 2748, 2740]"
 126,26,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.19,"[2725, 2440, 2616, 2756, 2726, 2770, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2553, 2241, 2549, 2602, 2618, 2243, 2307, 2262, 2406, 2426]"
@@ -84,7 +84,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,2,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,"[2639, 2215]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2775, 2451]"
 483,2,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,"[2756, 2406]"
+46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,"[2699, 2887]"
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
+48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
@@ -143,10 +145,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
-46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[2699]
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
+376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
@@ -224,7 +226,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2468]
-48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.0,[2529]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]
 40,1,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,2.0,[2582]
