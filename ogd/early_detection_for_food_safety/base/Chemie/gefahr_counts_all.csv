@@ -113,6 +113,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
 224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.5,"[1653, 99]"
+490,2,Acrolein,Acroléine,Acroleina,acrolein,1.0,"[1902, 2893]"
 453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
 315,2,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,"[2434, 881]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918]"
@@ -171,7 +172,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
 482,1,4-Hydroxy-2-Hexenal (HHE),4-hydroxy-2-hexénal (HHE),4-idrossi-2-esenale (HHE),4-hydroxy-2-hexenal (HHE),1.0,[1800]
-490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[1902]
 491,1,Anthrachinon,Anthraquinone,Antrachinone,Anthraquinone,1.0,[1904]
 274,1,Baikiain,Baikiain,Baikiain,Baikiain,3.0,[637]
 327,1,SmokEz Enviro-23 (SF-006),SmokEz Enviro-23 (SF-006),SmokEz Enviro-23 (SF-006),SmokEz Enviro-23 (SF-006),2.0,[959]
@@ -208,6 +208,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs), medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
+598,1,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,2.0,[2881]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 263,1,benzol,benzène,benzene,benzene,1.0,[542]

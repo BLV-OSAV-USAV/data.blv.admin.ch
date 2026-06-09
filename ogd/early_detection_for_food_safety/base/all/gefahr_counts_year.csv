@@ -88,6 +88,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
+118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.5,"[2894, 2213]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
@@ -164,6 +165,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[2664]
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
+598,1,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,2.0,[2881]
 153,1,Hepatitis,Hépatite,Epatite,Hepatitis,2.0,[2451]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2479]
@@ -198,12 +200,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
 595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
 597,1,Natriumerythorbat,Érythorbate de sodium,Eritorbato di sodio,Sodium Erythorbate,2.0,[2876]
+490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 169,1,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,[2211]
 523,1,Methylparaben,Methylparaben,Methylparaben,Methylparaben,1.0,[2211]
 524,1,Propoylparaben,Propoylparaben,Propoylparaben,Propoylparaben,1.0,[2211]
 318,1,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),3.0,[2216]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,2.0,[2213]
 332,1,Penicillium spp.,Penicillium spp.,Penicillium spp.,Penicillium spp.,2.0,[2213]
 526,1,DEHA,DEHA,DEHA,DEHA,3.0,[2216]
 527,1,ATBC,ATBC,ATBC,ATBC,3.0,[2216]
