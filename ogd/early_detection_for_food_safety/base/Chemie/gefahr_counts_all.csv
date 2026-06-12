@@ -15,9 +15,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,16,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.5,"[246, 389, 58, 2735, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
 518,16,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2872, 2873, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
 63,14,Antibiotika,antibiotiques,antibiotici,antibiotics,1.64,"[74, 438, 133, 307, 139, 201, 2041, 2685, 73, 203, 67, 2118, 1832, 2325]"
+42,12,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.17,"[1496, 2561, 1854, 2874, 2899, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 230,11,Nitrate,Nitrate,Nitrato,Nitrate,1.36,"[516, 351, 2123, 2888, 750, 394, 2362, 633, 1577, 2237, 1810]"
 298,11,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.36,"[728, 1529, 1979, 2282, 2017, 916, 901, 726, 2246, 2366, 2878]"
-42,11,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.18,"[1496, 2561, 1854, 2874, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 150,10,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.3,"[129, 792, 1548, 2628, 425, 1413, 666, 871, 1407, 1865]"
 503,10,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.1,"[2282, 2017, 2273, 2749, 2891, 2366, 2427, 2593, 2794, 2306]"
 197,9,Nitrite,Nitrite,Nitrito,Nitrite,1.56,"[226, 316, 516, 2888, 259, 750, 394, 633, 1577]"
@@ -81,6 +81,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 137,3,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.33,"[1927, 2002, 1673]"
 225,3,Barium,Baryum,Bario,Barium,1.0,"[2269, 793, 1898]"
 272,3,Mangan,Manganèse,Manganese,Manganese,1.33,"[2269, 618, 1668]"
+465,3,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918, 2900]"
 49,3,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 1273, 2840]"
 115,3,Antimon,Antimoine,Antimonio,Antimony,1.0,"[2657, 130, 1898]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 1747]"
@@ -116,7 +117,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 490,2,Acrolein,Acroléine,Acroleina,acrolein,1.0,"[1902, 2893]"
 453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
 315,2,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,"[2434, 881]"
-465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918]"
+466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 378,2,Siliciumdioxid,Dioxyde de silicium,Silice,silicon dioxide,1.5,"[1163, 1418]"
 390,2,Ethylenoxid,Oxyde d'éthylène,Ossido di etilene,Ethylene oxide,1.0,"[1619, 1250]"
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
@@ -186,7 +187,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
-466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
 282,1,Ketoprofen,Kétoprofène,Ketoprofene,Ketoprofen,1.0,[667]
 281,1,Ethylendioxid,dioxyde d'éthylène,Ossido di etilene,ethylene dioxide,1.0,[663]
 280,1,Ethylendichlord,dichlorure d'éthylène,cloruro di etilene,ethylene dichloride,1.0,[663]

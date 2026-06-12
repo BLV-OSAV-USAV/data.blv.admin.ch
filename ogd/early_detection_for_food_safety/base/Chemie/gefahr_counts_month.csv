@@ -2,13 +2,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2872, 2873]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2872, 2873]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2872, 2875]"
+42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2874, 2899]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2877, 2891]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2878, 2889]"
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
 180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2872]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2872]
-42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2874]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2888]
@@ -24,4 +24,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2891]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,[2878]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
+466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[2887]

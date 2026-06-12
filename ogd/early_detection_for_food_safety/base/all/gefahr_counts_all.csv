@@ -43,11 +43,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 121,12,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.42,"[774, 1032, 1091, 1914, 2775, 42, 2451, 165, 1749, 1976, 112, 2150]"
 45,12,Aspartam,Aspartam,Aspartam,Aspartam,1.25,"[809, 813, 602, 2009, 2297, 2578, 691, 938, 1721, 2480, 2594, 2615]"
 261,12,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.42,"[1354, 540, 2719, 2220, 703, 805, 927, 1084, 989, 595, 2163, 2468]"
+42,12,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.17,"[1496, 2561, 1854, 2874, 2899, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 10,11,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.55,"[144, 52, 753, 2006, 2239, 2538, 2542, 248, 1114, 1332, 2226]"
 298,11,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.36,"[728, 1529, 1979, 2282, 2017, 916, 901, 726, 2246, 2366, 2878]"
 363,11,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.45,"[1138, 1321, 2278, 1163, 1315, 1408, 1467, 1755, 2620, 2876, 2625]"
 333,11,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.27,"[1066, 1268, 2719, 1108, 2409, 2643, 1227, 2711, 1287, 2206, 2328]"
-42,11,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.18,"[1496, 2561, 1854, 2874, 2544, 2204, 2598, 2681, 2129, 2481, 2437]"
 503,11,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.09,"[2282, 2017, 2273, 2749, 2891, 2366, 2427, 2593, 2794, 2219, 2306]"
 150,10,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.3,"[129, 792, 1548, 2628, 425, 1413, 666, 871, 1407, 1865]"
 123,10,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.2,"[45, 676, 2309, 2130, 702, 2640, 294, 2808, 2173, 2650]"
@@ -161,6 +161,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 78,3,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,1.67,"[2084, 2706, 2536]"
 272,3,Mangan,Manganèse,Manganese,Manganese,1.33,"[2269, 618, 1668]"
 320,3,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.67,"[2532, 922, 2187]"
+465,3,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918, 2900]"
 115,3,Antimon,Antimoine,Antimonio,Antimony,1.0,"[2657, 130, 1898]"
 267,3,Cyanobakterien,Cyanobacteriota,Cyanobacteria,Cyanobacteria,1.33,"[558, 1085, 1847]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,2.0,"[735, 2683, 2611]"
@@ -221,7 +222,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 315,2,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,"[2434, 881]"
 566,2,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.5,"[2560, 2876]"
-465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 1918]"
+466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 457,2,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,"[2739, 1635]"
 343,2,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,"[2857, 998]"
 266,2,Legionella,Legionella,Legionella,Legionella,1.5,"[558, 2163]"
@@ -245,6 +246,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 172,2,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.5,"[1591, 2306]"
 442,2,Phytotoxin,Phytotoxine,Fitotossina,Phytotoxin,2.0,"[1558, 2002]"
 507,2,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,Garcinia cambogia,1.0,"[2063, 2299]"
+513,2,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,"[2096, 2901]"
 40,2,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,Coxiella burnetti,1.5,"[146, 2582]"
 146,2,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,Salmonella Thompson,3.0,"[551, 84]"
 73,2,Tierarzneimittel,Produits pharmaceutiques vétérinaires,Farmaci veterinari,Veterinary pharmaceuticals,2.0,"[613, 67]"
@@ -337,7 +339,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
-466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2563]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
 593,1,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.0,[2870]
 594,1,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.0,[2870]
@@ -412,7 +413,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
 512,1,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,Salmonella Wandsworth,1.0,[2096]
-513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2096]
 554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 192,1,2-tert-Butylhydrochinon,tert-Butylhydroquinone,Terz-butil-idrochinone,tert-butylhydroquinone,1.0,[214]
 67,1,Cannabigerol (CBG),Cannabigérol (CBG),Cannabigerolo (CBG),Cannabigerol (CBG),3.0,[199]

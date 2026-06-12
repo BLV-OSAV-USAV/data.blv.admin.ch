@@ -3,11 +3,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2872, 2873]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2872, 2873]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2872, 2875]"
+42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2874, 2899]"
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2877, 2891]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2888, 2876]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2878, 2889]"
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[2863]
 593,1,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.0,[2870]
 594,1,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.0,[2870]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2882]
@@ -15,7 +15,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
 180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2872]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2872]
-42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2874]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2882]
@@ -41,5 +40,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2884]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2884]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
+466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
+513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2901]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[2887]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
