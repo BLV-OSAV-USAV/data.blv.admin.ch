@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,"[2867, 2886, 2879, 2880]"
+26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2906, 2886, 2879, 2880]"
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2872, 2873]"
 518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2872, 2873]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.5,"[2872, 2875]"
@@ -7,6 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,2,Blei,Plomb,Piombo,Lead,1.0,"[2877, 2891]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2888, 2876]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2905]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2878, 2889]"
 593,1,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.0,[2870]
 594,1,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.0,[2870]
@@ -20,7 +21,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2882]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2895]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2897]
 598,1,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,NIAS: non-intentionally added substances,2.0,[2881]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2871]
