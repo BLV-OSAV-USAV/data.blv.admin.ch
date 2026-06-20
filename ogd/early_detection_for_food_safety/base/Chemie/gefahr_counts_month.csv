@@ -1,16 +1,11 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.5,"[2872, 2873]"
-518,2,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.5,"[2872, 2873]"
 42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2874, 2899]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[2877, 2891]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[2888, 2907]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2905]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2889, 2878]"
-248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
-293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
-180,1,Phthalate,phtalates,ftalati,phthalates,2.0,[2872]
-91,1,Pestizide,pesticides,pesticidi,pesticide,2.0,[2872]
-297,1,Gluten,gluten,glutine,gluten,2.0,[2872]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2873]
+518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2873]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]

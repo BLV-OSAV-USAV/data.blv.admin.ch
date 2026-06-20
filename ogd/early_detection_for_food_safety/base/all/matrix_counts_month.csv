@@ -1,6 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,4,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.5,"[2871, 2882, 2885, 2880]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.5,"[2872, 2897]"
+18,3,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.67,"[2882, 2885, 2880]"
 82,2,Wasser,Eau,Acqua,Waters,1.0,"[2873, 2877]"
 27,2,Pilze,Champignons,Funghi,Mushrooms,1.0,"[2879, 2886]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2893, 2909]"
@@ -14,4 +13,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 59,1,"Nicht spezifizierte sowie gemischte Fische, Meeresfrüchte und Amphibien","Poissons, fruits de mer, amphibiens et reptiles non spécifiés ou mélangés","Pesce, crostacei frutti die mare e anfibi non classificati e misti",Unclassified And Combined Fish Products,2.0,[2887]
 55,1,Wild,Gibier,Selvaggina,Game,1.0,[2895]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,[2896]
+1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2897]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.0,[2901]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2911]

@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2906, 2886, 2880, 2879]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2882, 2911]"
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2882]
-244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[2882]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2897]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2880]
@@ -12,7 +12,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[2891]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2891]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,2.0,[2891]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[2871]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2896]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2884]
 162,1,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,[2884]
