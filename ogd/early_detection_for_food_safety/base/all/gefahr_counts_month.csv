@@ -1,20 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2906, 2886, 2880, 2879]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.33,"[2888, 2907, 2876]"
-42,2,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,"[2874, 2899]"
 102,2,Blei,Plomb,Piombo,Lead,1.5,"[2877, 2891]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2882, 2911]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2905]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2889, 2878]"
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2882]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2873]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2873]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2897]
+42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2899]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2880]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,2.0,[2891]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
