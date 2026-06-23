@@ -1,6 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2906, 2886, 2880, 2879]"
-102,2,Blei,Plomb,Piombo,Lead,1.5,"[2877, 2891]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2882, 2911]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[2888, 2907]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2905]"
@@ -19,6 +18,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[2891]
+102,1,Blei,Plomb,Piombo,Lead,2.0,[2891]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,2.0,[2891]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2896]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
