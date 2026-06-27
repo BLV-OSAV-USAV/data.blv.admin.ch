@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2921, 2905]"
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.25,"[2906, 2886, 2880, 2879]"
-126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2905]"
 244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2882, 2911]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[2888, 2907]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[2889, 2878]"
@@ -14,6 +14,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2899]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[2914]
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2916]
+127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2921]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2880]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,2.0,[2891]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
@@ -22,6 +23,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[2891]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2891]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,2.0,[2891]
+602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2896]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,[2878]
