@@ -1,9 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2921, 2905]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[2882, 2911]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[2888, 2907]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2906, 2886]"
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2882]
 48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]
@@ -11,6 +9,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2897]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2899]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2911]
 94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,2.0,[2914]
 10,1,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,[2916]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2921]
