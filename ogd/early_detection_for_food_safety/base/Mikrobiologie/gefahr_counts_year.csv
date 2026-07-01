@@ -3,10 +3,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,25,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.36,"[2336, 2565, 2882, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 244,24,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.08,"[2292, 2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2341, 2748, 2740]"
 19,19,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.42,"[2308, 2839, 2584, 2322, 2769, 2897, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
-1,17,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.29,"[2248, 2693, 2634, 2777, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
+1,16,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.31,"[2693, 2634, 2777, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
 9,10,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.3,"[2292, 2403, 2719, 2667, 2634, 2769, 2409, 2711, 2824, 2813]"
-181,10,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.7,"[2393, 2277, 2484, 2566, 2255, 2250, 2564, 2300, 2668, 2678]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.4,"[2857, 2693, 2777, 2786, 2769, 2265, 2758, 2550, 2464, 2621]"
+181,9,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.67,"[2393, 2277, 2484, 2566, 2255, 2564, 2300, 2668, 2678]"
 90,8,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2522, 2357, 2338, 2353, 2661, 2919, 2339, 2655]"
 106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.38,"[2669, 2768, 2880, 2643, 2328, 2391, 2824, 2472]"
 111,7,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.14,"[2329, 2731, 2743, 2397, 2401, 2325, 2631]"
@@ -18,19 +18,18 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 333,5,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.4,"[2719, 2409, 2643, 2711, 2328]"
 120,4,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.25,"[2534, 2891, 2333, 2841]"
 31,4,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.25,"[2719, 2844, 2771, 2334]"
+10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.25,"[2538, 2916, 2542, 2926]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2770, 2462, 2704]"
 123,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2309, 2640, 2808, 2650]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[2660, 2701, 2401, 2325]"
 176,3,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.33,"[2281, 2769, 2661]"
 23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.33,"[2344, 2597, 2429]"
 114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[2412, 2369, 2629]"
-10,3,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.33,"[2538, 2916, 2542]"
 99,3,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.33,"[2609, 2464, 2290]"
 162,3,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.33,"[2332, 2884, 2526]"
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
 63,3,Antibiotika,antibiotiques,antibiotici,antibiotics,1.67,"[2524, 2325, 2748]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2336, 2776]"
-104,2,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),1.5,"[2248, 2891]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[2857, 2516]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[2857, 2514]"
@@ -81,6 +80,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 144,1,Salmonella Newport,Salmonella Newport,Salmonella Newport,Salmonella Newport,1.0,[2664]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2675]
 8,1,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.0,[2734]
+104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 102,1,Blei,Plomb,Piombo,Lead,2.0,[2891]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,2.0,[2891]
 153,1,Hepatitis,Hépatite,Epatite,Hepatitis,2.0,[2451]
