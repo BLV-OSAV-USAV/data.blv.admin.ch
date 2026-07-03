@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,37,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.46,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2572, 2270, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2446, 2652, 2836]"
-93,25,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.36,"[2336, 2565, 2882, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2265, 2570, 2554, 2257, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
+93,24,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.38,"[2336, 2565, 2882, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2265, 2570, 2554, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 244,24,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.08,"[2292, 2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2310, 2293, 2464, 2508, 2535, 2629, 2684, 2341, 2748, 2740]"
 19,19,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.42,"[2308, 2839, 2584, 2322, 2769, 2897, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
 1,16,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.31,"[2693, 2634, 2777, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
@@ -40,6 +40,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.5,"[2707, 2845]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2775, 2451]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2660]"
+470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,"[2929, 2421]"
 392,2,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,1.5,"[2431, 2264]"
 156,2,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,1.5,"[2270, 2711]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -105,7 +106,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2901]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
 531,1,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,Corynebacterium silvaticum,1.0,[2263]
-470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,[2421]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
