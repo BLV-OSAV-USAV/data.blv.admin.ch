@@ -1,10 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2921, 2905]"
-230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.0,"[2888, 2907]"
+126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2921, 2930, 2905]"
 10,2,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.0,"[2916, 2926]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2923, 2889]"
-197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]
-599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2897]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[2906]
@@ -26,6 +23,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2896]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
+230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2907]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.0,[2908]
 601,1,Blausäure,acide cyanhydrique,acido cianidrico,hydrocyanic acid,1.0,[2909]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
