@@ -1,15 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,5,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2895, 2918, 2921, 2930, 2905]"
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2923, 2889]"
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2899]
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[2921]
-476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,2.0,[2891]
-7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
-104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
-120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[2891]
-102,1,Blei,Plomb,Piombo,Lead,2.0,[2891]
-209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,2.0,[2891]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2923]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,1.0,[2907]
 150,1,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.0,[2908]
