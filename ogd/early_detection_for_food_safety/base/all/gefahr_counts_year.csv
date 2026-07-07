@@ -14,14 +14,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,12,Arsen,Arsenic,Arsenico,Arsenic,1.08,"[2269, 2487, 2639, 2673, 2718, 2547, 2648, 2659, 2757, 2418, 2517, 2663]"
 128,11,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.18,"[2269, 2487, 2557, 2589, 2351, 2349, 2368, 2268, 2400, 2476, 2478]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[2269, 2503, 2639, 2691, 2718, 2659, 2368, 2438, 2778, 2819, 2418]"
+86,11,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.36,"[2857, 2693, 2777, 2786, 2769, 2265, 2758, 2550, 2464, 2621, 2931]"
 9,10,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.3,"[2292, 2403, 2719, 2667, 2634, 2769, 2409, 2711, 2824, 2813]"
-86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.4,"[2857, 2693, 2777, 2786, 2769, 2265, 2758, 2550, 2464, 2621]"
 503,9,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.22,"[2282, 2891, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
+106,9,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.33,"[2669, 2768, 2880, 2643, 2328, 2391, 2824, 2931, 2472]"
 181,8,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.62,"[2393, 2277, 2484, 2566, 2564, 2300, 2668, 2678]"
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.12,"[2561, 2874, 2899, 2544, 2598, 2681, 2481, 2437]"
 90,8,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2522, 2357, 2338, 2353, 2661, 2919, 2339, 2655]"
-106,8,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.38,"[2669, 2768, 2880, 2643, 2328, 2391, 2824, 2472]"
 361,7,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.29,"[2308, 2494, 2455, 2275, 2391, 2523, 2827]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 238,6,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 2419, 2365, 2798, 2341]"
@@ -82,6 +82,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
+118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,"[2928, 2821]"
 470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,"[2929, 2421]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
@@ -142,7 +143,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
-118,1,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,[2894]
 241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[2928]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
