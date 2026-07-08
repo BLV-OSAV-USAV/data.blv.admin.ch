@@ -3,14 +3,14 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.18,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2918, 2921, 2930, 2372, 2605, 2614, 2660, 2741, 2905, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2307, 2406, 2426]"
 91,23,Pestizide,pesticides,pesticidi,pesticide,1.17,"[2279, 2315, 2305, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.26,"[2282, 2329, 2450, 2731, 2784, 2923, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2350, 2306, 2401, 2325, 2631]"
-102,16,Blei,Plomb,Piombo,Lead,1.31,"[2269, 2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
+102,15,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
 518,13,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2872, 2873, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2331, 2518]"
-187,11,Arsen,Arsenic,Arsenico,Arsenic,1.09,"[2269, 2639, 2673, 2718, 2547, 2648, 2659, 2757, 2418, 2517, 2663]"
-165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[2269, 2503, 2639, 2691, 2718, 2659, 2368, 2438, 2778, 2819, 2418]"
-128,9,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.11,"[2269, 2557, 2589, 2351, 2349, 2368, 2400, 2476, 2478]"
+165,10,Cadmium,Cadmium,Cadmio,Cadmium,1.1,"[2503, 2639, 2691, 2718, 2659, 2368, 2438, 2778, 2819, 2418]"
+187,10,Arsen,Arsenic,Arsenico,Arsenic,1.1,"[2639, 2673, 2718, 2547, 2648, 2659, 2757, 2418, 2517, 2663]"
 503,9,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.22,"[2282, 2891, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.12,"[2561, 2874, 2899, 2544, 2598, 2681, 2481, 2437]"
+128,8,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.12,"[2557, 2589, 2351, 2349, 2368, 2400, 2476, 2478]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
 450,4,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551]"
@@ -51,9 +51,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
-225,1,Barium,Baryum,Bario,Barium,1.0,[2269]
-272,1,Mangan,Manganèse,Manganese,Manganese,1.0,[2269]
-532,1,Molybdän,Molybdène,Molibdeno,molybdenum,1.0,[2269]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]

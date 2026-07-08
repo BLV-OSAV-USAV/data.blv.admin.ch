@@ -1,10 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,49,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.27,"[2277, 2265, 2318, 2321, 2320, 2287, 2319, 2328, 2369, 2409, 2411, 2430, 2451, 2464, 2468, 2325, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919]"
+18,48,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.27,"[2277, 2318, 2321, 2320, 2287, 2319, 2328, 2369, 2409, 2411, 2430, 2451, 2464, 2468, 2325, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919]"
 8,23,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.22,"[2334, 2360, 2292, 2309, 2332, 2382, 2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2711, 2733, 2839, 2796, 2827, 2857, 2911]"
 60,15,Fische,Poissons,Pesce,Fish,1.27,"[2271, 2344, 2356, 2290, 2320, 2419, 2429, 2508, 2653, 2459, 2736, 2766, 2811, 2816, 2916]"
 9,13,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.08,"[2365, 2308, 2333, 2341, 2404, 2421, 2534, 2581, 2597, 2654, 2684, 2797, 2929]"
-3,11,Gemüse,Légumes,Ortaggi,Vegetables,1.55,"[2270, 2357, 2293, 2314, 2407, 2424, 2472, 2734, 2722, 2740, 2914]"
 6,11,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.27,"[2273, 2300, 2320, 2403, 2379, 2393, 2399, 2535, 2678, 2827, 2896]"
+3,10,Gemüse,Légumes,Ortaggi,Vegetables,1.6,"[2357, 2293, 2314, 2407, 2424, 2472, 2734, 2722, 2740, 2914]"
 23,10,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.7,"[2332, 2328, 2465, 2763, 2829, 2863, 2858, 2824, 2884, 2931]"
 42,8,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.62,"[2271, 2281, 2364, 2474, 2484, 2582, 2762, 2812]"
 54,8,Geflügel,Volailles,Pollame,Poultry,1.25,"[2455, 2516, 2604, 2650, 2629, 2760, 2829, 2808]"
@@ -20,16 +20,15 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,3,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.33,"[2431, 2731, 2931]"
 27,3,Pilze,Champignons,Funghi,Mushrooms,1.33,"[2471, 2879, 2886]"
 93,3,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.67,"[2401, 2460, 2734]"
-120,2,Schwein,Porc,Maiale,Pork,1.5,"[2263, 2289]"
 35,2,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),1.5,"[2338, 2610]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2328, 2731]"
 30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.5,"[2412, 2920]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[2410, 2829]"
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.5,"[2554, 2915]"
 126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2275]
-21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2270]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2336]
+120,1,Schwein,Porc,Maiale,Pork,2.0,[2289]
 76,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,[2339]
 115,1,"Brot, Brötchen und Gipfel","Pains, petits pains et croissants","Pane, panini e croissant","Bread, Croissants",1.0,[2353]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
