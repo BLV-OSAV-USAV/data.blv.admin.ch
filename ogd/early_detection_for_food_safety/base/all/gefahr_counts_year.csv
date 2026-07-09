@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,36,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.47,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2271, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2446, 2652, 2836]"
+26,35,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.49,"[2488, 2364, 2319, 2403, 2453, 2732, 2719, 2867, 2352, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2446, 2652, 2836]"
 125,35,Mikroplastik,microplastiques,microplastica,microplastics,1.11,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2284, 2331, 2518, 2476, 2573, 2672]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.18,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2918, 2921, 2930, 2372, 2605, 2614, 2660, 2741, 2905, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2307, 2406, 2426]"
 244,26,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.08,"[2292, 2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2275, 2360, 2701, 2705, 2287, 2310, 2293, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2341, 2748, 2740]"
@@ -139,6 +139,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[2928]
+604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),2.0,[2392]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
