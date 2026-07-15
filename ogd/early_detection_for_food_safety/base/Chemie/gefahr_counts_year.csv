@@ -1,32 +1,30 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,33,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2284, 2331, 2518, 2476, 2573, 2672]"
+125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2331, 2518, 2476, 2573, 2672]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.18,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2918, 2921, 2930, 2372, 2605, 2614, 2660, 2741, 2905, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2307, 2406, 2426]"
-111,23,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.26,"[2282, 2329, 2450, 2731, 2784, 2923, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2350, 2306, 2401, 2325, 2631]"
 91,23,Pestizide,pesticides,pesticidi,pesticide,1.22,"[2315, 2305, 2838, 2441, 2645, 2872, 2934, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
+111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[2329, 2450, 2731, 2784, 2923, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2350, 2306, 2401, 2325, 2631]"
 102,15,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
 518,13,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2872, 2873, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2331, 2518]"
 165,10,Cadmium,Cadmium,Cadmio,Cadmium,1.1,"[2503, 2639, 2691, 2718, 2659, 2368, 2438, 2778, 2819, 2418]"
 187,10,Arsen,Arsenic,Arsenico,Arsenic,1.1,"[2639, 2673, 2718, 2547, 2648, 2659, 2757, 2418, 2517, 2663]"
-503,8,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.25,"[2282, 2891, 2749, 2366, 2427, 2593, 2794, 2306]"
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.12,"[2561, 2874, 2899, 2544, 2598, 2681, 2481, 2437]"
 128,8,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.12,"[2557, 2589, 2351, 2349, 2368, 2400, 2476, 2478]"
+503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.29,"[2891, 2749, 2366, 2427, 2593, 2794, 2306]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
-450,4,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2291, 2378, 2509, 2551]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2615]"
-203,4,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.25,"[2282, 2450, 2366, 2306]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[2691, 2690, 2420, 2367]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
-298,3,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.67,"[2282, 2366, 2878]"
+203,3,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.33,"[2450, 2366, 2306]"
+450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 2406]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.33,"[2888, 2362, 2907]"
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[2313, 2627]"
-474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,"[2282, 2821]"
 234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.5,"[2297, 2782]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
@@ -48,6 +46,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2685, 2325]"
 216,2,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,"[2738, 2327]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
+298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,"[2366, 2878]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
@@ -129,4 +128,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2821]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[2821]
