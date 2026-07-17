@@ -13,7 +13,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.29,"[2891, 2749, 2366, 2427, 2593, 2794, 2306]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
-45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2578, 2480, 2615]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.25,"[2691, 2690, 2420, 2367]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
@@ -21,11 +20,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 2406]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.33,"[2888, 2362, 2907]"
+45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2480, 2615]"
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
 43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
 109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[2313, 2627]"
-234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.5,"[2297, 2782]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 2840]"
@@ -40,7 +39,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 297,2,Gluten,gluten,glutine,gluten,2.5,"[2872, 2496]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
-535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
 63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2685, 2325]"
@@ -52,7 +50,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2490]
@@ -119,6 +116,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
+535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
 425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2482]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
@@ -127,5 +125,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
 474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2821]
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[2821]

@@ -67,7 +67,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 202,7,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.86,"[233, 919, 424, 696, 2287, 2524, 2231]"
 209,7,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.14,"[258, 921, 2639, 2891, 1027, 1172, 2215]"
 249,7,Nickel,Nickel,Nichel,Nickel,1.29,"[480, 1116, 2639, 1526, 1412, 1604, 1668]"
-7,7,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.43,"[615, 2239, 2465, 2891, 2937, 2014, 2060]"
+7,7,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.43,"[615, 2239, 2465, 2891, 2014, 2937, 2060]"
 8,7,Sapovirus,Sapovirus,Sapovirus,Sapovirus,1.14,"[774, 1051, 2734, 2143, 1045, 2028, 920]"
 120,7,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.29,"[1042, 2534, 42, 2891, 920, 2333, 2841]"
 80,7,Salz,sel,sale,salt,1.29,"[1119, 1612, 1367, 1580, 1437, 2809, 1825]"
@@ -358,6 +358,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
+605,1,Allergen,Allergène,Allergene,Allergen,2.0,[2940]
 279,1,"Organische Phosphit-Antioxidantien, OPA","Phosphites organiques antioxydants, OPA","Antiossidanti organici al fosfito, OPA","Organic phosphite antioxidants, OPA",1.0,[651]
 265,1,diastatische Hefe,levure diastatique,lievito diastatico,diastatic yeast,2.0,[555]
 294,1,Benzo(a)pyren,Benzopyrène,Benzo[a]pirene,Benzo[a]pyrene,1.0,[714]

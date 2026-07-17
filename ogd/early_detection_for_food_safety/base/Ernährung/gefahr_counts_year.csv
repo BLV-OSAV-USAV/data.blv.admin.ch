@@ -1,10 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 528,17,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.06,"[2298, 2371, 2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
-45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2297, 2480, 2594, 2615]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2639, 2478]"
 79,3,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2340, 2716]"
-234,2,Sucralose,Sucralose,Sucralosio,Sucralose,1.5,"[2297, 2782]"
+45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2480, 2594, 2615]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2478]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
@@ -13,7 +12,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
@@ -48,3 +46,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2781]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
+234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
