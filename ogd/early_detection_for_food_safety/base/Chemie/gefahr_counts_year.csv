@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2331, 2518, 2476, 2573, 2672]"
-126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.18,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2918, 2921, 2930, 2372, 2605, 2614, 2660, 2741, 2905, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2307, 2406, 2426]"
-91,23,Pestizide,pesticides,pesticidi,pesticide,1.22,"[2315, 2305, 2838, 2441, 2645, 2872, 2934, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
-111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[2329, 2450, 2731, 2784, 2923, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2350, 2306, 2401, 2325, 2631]"
+126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2918, 2307, 2406, 2426]"
+111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2306, 2401, 2325, 2631]"
+91,22,Pestizide,pesticides,pesticidi,pesticide,1.18,"[2315, 2305, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 102,15,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
 518,13,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.38,"[2503, 2456, 2872, 2873, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2331, 2518]"
 165,10,Cadmium,Cadmium,Cadmio,Cadmium,1.1,"[2503, 2639, 2691, 2718, 2659, 2368, 2438, 2778, 2819, 2418]"
@@ -19,7 +19,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 203,3,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.33,"[2450, 2366, 2306]"
 450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 2406]"
-230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.33,"[2888, 2362, 2907]"
+230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2888, 2362, 2907]"
 45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2480, 2615]"
 130,3,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[2637, 2384, 2617]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
@@ -38,6 +38,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
 297,2,Gluten,gluten,glutine,gluten,2.5,"[2872, 2496]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
+376,2,Histamin,Histamine,Istamina,Histamine,2.0,"[2887, 2941]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
@@ -67,7 +68,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),2.0,[2872]
-376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2887]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
@@ -105,6 +105,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
 601,1,Blausäure,acide cyanhydrique,acido cianidrico,hydrocyanic acid,1.0,[2909]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
+559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,2.0,[2941]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 537,1,Desinfektionsnebenprodukt (DBP),sous-produit désinfectant (DBP),Sottoprodotto della disinfezione,disinfection by-products (DBPs),1.0,[2301]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]

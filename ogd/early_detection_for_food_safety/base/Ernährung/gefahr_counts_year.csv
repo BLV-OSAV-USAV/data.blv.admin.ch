@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,17,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.06,"[2298, 2371, 2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
+528,16,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.06,"[2371, 2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2639, 2478]"
 79,3,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2340, 2716]"
@@ -20,6 +20,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
+466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
@@ -41,8 +43,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 230,1,Nitrate,Nitrate,Nitrato,Nitrate,2.0,[2876]
 595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
 597,1,Natriumerythorbat,Érythorbate de sodium,Eritorbato di sodio,Sodium Erythorbate,2.0,[2876]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
-466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
+241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[2928]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2928]
+473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2928]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2781]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]

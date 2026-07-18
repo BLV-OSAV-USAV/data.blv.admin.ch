@@ -7,7 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.4,"[2857, 2693, 2777, 2786, 2769, 2758, 2550, 2464, 2621, 2931]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2403, 2719, 2667, 2634, 2769, 2409, 2711, 2824, 2813]"
 106,9,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.33,"[2669, 2768, 2880, 2643, 2328, 2391, 2824, 2931, 2472]"
-90,8,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2522, 2357, 2338, 2353, 2661, 2919, 2339, 2655]"
+90,8,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2522, 2919, 2357, 2338, 2353, 2661, 2339, 2655]"
 111,7,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.14,"[2329, 2731, 2743, 2397, 2401, 2325, 2631]"
 181,7,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.57,"[2393, 2484, 2566, 2564, 2300, 2668, 2678]"
 361,6,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.33,"[2308, 2494, 2455, 2391, 2523, 2827]"
@@ -18,7 +18,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 2,4,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[2303, 2734, 2451, 2871]"
 120,4,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.25,"[2534, 2891, 2333, 2841]"
 31,4,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.25,"[2719, 2844, 2771, 2334]"
-10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.25,"[2538, 2916, 2542, 2926]"
+10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.75,"[2538, 2916, 2542, 2926]"
 125,4,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2770, 2462, 2704]"
 123,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2309, 2640, 2808, 2650]"
 91,4,Pestizide,pesticides,pesticidi,pesticide,1.25,"[2660, 2701, 2401, 2325]"
@@ -40,7 +40,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[2775, 2451]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2770, 2660]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
-470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.0,"[2929, 2421]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 476,2,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,1.5,"[2423, 2891]"
 99,2,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.5,"[2609, 2464]"
@@ -49,6 +48,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 5,2,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,Bacillus thuringiensis,1.5,"[2328, 2472]"
 29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2884, 2927]"
+470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2929, 2421]"
 189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2320, 2781]"
 544,2,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,"[2370, 2650]"
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
@@ -65,9 +65,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2770]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
-241,1,Alternariol,alternariol,alternariolo,alternariol,1.0,[2928]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2928]
-473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.0,[2928]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
 286,1,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,Salmonella Senftenberg,1.0,[2309]
 529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
@@ -89,7 +86,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[2404]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
-602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 156,1,Listeria innocua,Listeria innocua,Listeria innocua,Listeria innocua,2.0,[2711]
 195,1,Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),Escherichia coli (ExPEC),2.0,[2497]
 577,1,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.0,[2704]
@@ -105,6 +101,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2901]
+241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[2928]
+474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,2.0,[2928]
+473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2928]
+602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]

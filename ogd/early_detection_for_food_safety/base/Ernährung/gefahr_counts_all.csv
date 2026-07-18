@@ -33,6 +33,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 243,2,Carboxymethylcellulosen (CMC),Carboxyméthylcellulose (CMC),Carbossimetilcellulosa (CMC),Carboxymethylcellulose (CMC),2.0,"[825, 445]"
 368,2,Carrageen (E407 and E407a),Carraghénanes (E407 and E407a),Carraghenina (E407 and E407a),Carrageenan (E407 and E407a),1.5,"[1154, 1841]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2282, 2450]"
+474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.5,"[2282, 2928]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 297,2,Gluten,gluten,glutine,gluten,1.0,"[2506, 725]"
 271,2,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,"[1290, 2139]"
@@ -73,12 +74,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.0,[2282]
 538,1,Estragol,Estragol,Estragolo,Estragole,2.0,[2302]
 113,1,Alkenylbenzole,Alkenylbenzènes,Alchilbenzeni,Alkenylbenzene,2.0,[2302]
-474,1,Enniatin,Ennitatine,Ennitatina,Enniatin,1.0,[2282]
 536,1,Glycyrrhizin,Glycyrrhizine,Glicirrizina,Glycyrrhizin,1.0,[2297]
 359,1,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,Magnaporthe oryzae,1.0,[1129]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
 209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2639]
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
+465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
+466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[1511]
@@ -116,8 +118,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,2.0,[2876]
 595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
 597,1,Natriumerythorbat,Érythorbate de sodium,Eritorbato di sodio,Sodium Erythorbate,2.0,[2876]
-465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
-466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
+241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[2928]
+473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2928]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[1794]
 115,1,Antimon,Antimoine,Antimonio,Antimony,1.0,[1898]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[2118]
