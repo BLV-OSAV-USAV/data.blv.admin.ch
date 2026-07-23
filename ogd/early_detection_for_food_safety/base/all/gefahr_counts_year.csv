@@ -3,9 +3,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 125,34,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2331, 2518, 2476, 2573, 2672]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2918, 2307, 2406, 2426]"
 93,23,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.39,"[2336, 2565, 2882, 2693, 2634, 2723, 2769, 2777, 2309, 2664, 2570, 2554, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
-111,22,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2306, 2401, 2325, 2631]"
-91,22,Pestizide,pesticides,pesticidi,pesticide,1.18,"[2315, 2305, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 244,22,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.09,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2360, 2701, 2705, 2310, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2341, 2748, 2740]"
+111,21,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2401, 2325, 2631]"
+91,21,Pestizide,pesticides,pesticidi,pesticide,1.19,"[2315, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 19,19,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.42,"[2308, 2839, 2584, 2322, 2769, 2897, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
 102,17,Blei,Plomb,Piombo,Lead,1.35,"[2498, 2487, 2436, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
 1,17,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.29,"[2693, 2634, 2777, 2938, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
@@ -20,18 +20,17 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,8,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2327, 2556, 2569, 2617]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.12,"[2561, 2874, 2899, 2544, 2598, 2681, 2481, 2437]"
 90,8,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.25,"[2522, 2919, 2357, 2338, 2353, 2661, 2339, 2655]"
-503,7,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.29,"[2891, 2749, 2366, 2427, 2593, 2794, 2306]"
 361,6,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.33,"[2308, 2494, 2455, 2391, 2523, 2827]"
 181,6,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2393, 2484, 2566, 2564, 2668, 2678]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2695, 2368]"
 238,6,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 2419, 2365, 2798, 2341]"
 94,6,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.5,"[2914, 2664, 2475, 2314, 2824, 2650]"
+503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2891, 2749, 2366, 2427, 2593, 2794]"
 119,5,Norovirus,Norovirus,Norovirus,Norovirus,1.4,"[2534, 2863, 2763, 2734, 2333]"
 333,5,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.4,"[2719, 2409, 2643, 2711, 2328]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
 23,4,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.25,"[2344, 2597, 2429, 2345]"
-203,4,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.25,"[2450, 2474, 2366, 2306]"
 120,4,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.25,"[2534, 2891, 2333, 2841]"
 297,4,Gluten,gluten,glutine,gluten,1.75,"[2506, 2872, 2496, 2527]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
@@ -43,6 +42,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 123,4,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2309, 2640, 2808, 2650]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2480, 2594, 2615]"
 63,4,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2685, 2524, 2325, 2748]"
+203,3,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.33,"[2450, 2474, 2366]"
 114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[2412, 2369, 2629]"
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639, 2718]"
 450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
@@ -198,9 +198,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
-172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2306]
-525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2306]
-539,1,Citrinin,Citrinine,Citrinina,Citrinin,1.0,[2306]
 337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2342]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
