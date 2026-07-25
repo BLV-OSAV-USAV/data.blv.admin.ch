@@ -4,8 +4,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 126,27,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.22,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2398, 2553, 2549, 2602, 2618, 2918, 2406, 2426]"
 93,22,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.41,"[2336, 2565, 2882, 2693, 2634, 2723, 2769, 2777, 2664, 2570, 2554, 2356, 2314, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 111,21,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2401, 2325, 2631]"
-91,21,Pestizide,pesticides,pesticidi,pesticide,1.19,"[2315, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2311, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 244,21,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.1,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2360, 2701, 2705, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2341, 2748, 2740]"
+91,20,Pestizide,pesticides,pesticidi,pesticide,1.2,"[2315, 2838, 2441, 2645, 2872, 2324, 2316, 2428, 2660, 2662, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
 19,18,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.44,"[2839, 2584, 2322, 2769, 2897, 2610, 2727, 2318, 2554, 2314, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
 102,17,Blei,Plomb,Piombo,Lead,1.35,"[2498, 2487, 2436, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2317, 2351, 2368, 2558, 2400, 2418, 2478]"
 1,17,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.29,"[2693, 2634, 2777, 2938, 2494, 2680, 2766, 2497, 2711, 2314, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
@@ -56,8 +56,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.67,"[2620, 2876, 2625]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2336, 2776]"
-43,2,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.5,"[2313, 2330]"
-109,2,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.5,"[2313, 2627]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 566,2,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.5,"[2560, 2876]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
@@ -115,6 +113,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[2434]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2552]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
+109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
 285,1,MOAH,MOAH,MOAH,MOAH,1.0,[2730]
@@ -155,6 +154,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 232,1,Shewanella spp.,Shewanella spp.,Shewanella spp.,Shewanella spp.,1.0,[2404]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
+43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2330]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
