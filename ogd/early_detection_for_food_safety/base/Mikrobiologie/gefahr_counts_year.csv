@@ -29,6 +29,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 162,3,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.33,"[2332, 2884, 2526]"
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
 63,3,Antibiotika,antibiotiques,antibiotici,antibiotics,1.67,"[2524, 2325, 2748]"
+189,3,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2945, 2320, 2781]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2336, 2776]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 87,2,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,"[2857, 2516]"
@@ -49,7 +50,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2884, 2927]"
 470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2929, 2421]"
-189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2320, 2781]"
 544,2,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,"[2370, 2650]"
 543,1,α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),α-Gal (Galα1-3Galβ1-4GlcNAc-R),2.0,[2344]
 97,1,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,2.0,[2382]
