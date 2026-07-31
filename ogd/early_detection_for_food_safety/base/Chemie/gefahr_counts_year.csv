@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2789, 2685, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2331, 2518, 2476, 2573, 2672]"
+125,33,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2789, 2685, 2955, 2783, 2717, 2543, 2704, 2737, 2389, 2348, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2331, 2518, 2476, 2573, 2672]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.25,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2398, 2553, 2549, 2602, 2618, 2918, 2406, 2426]"
-111,21,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2401, 2325, 2631]"
-91,18,Pestizide,pesticides,pesticidi,pesticide,1.11,"[2838, 2441, 2645, 2872, 2324, 2428, 2660, 2662, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401, 2325]"
+111,20,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2329, 2450, 2731, 2784, 2889, 2715, 2743, 2749, 2363, 2397, 2366, 2349, 2576, 2682, 2794, 2878, 2923, 2350, 2401, 2631]"
+91,16,Pestizide,pesticides,pesticidi,pesticide,1.06,"[2838, 2441, 2645, 2872, 2428, 2660, 2662, 2701, 2574, 2349, 2485, 2600, 2753, 2826, 2473, 2401]"
 102,15,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2351, 2368, 2558, 2400, 2418, 2478]"
 518,14,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.36,"[2503, 2456, 2872, 2873, 2942, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2331, 2518]"
 165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[2503, 2639, 2691, 2718, 2659, 2944, 2368, 2438, 2778, 2819, 2418]"
@@ -42,7 +42,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
-63,2,Antibiotika,antibiotiques,antibiotici,antibiotics,1.5,"[2685, 2325]"
 216,2,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,"[2738, 2327]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,"[2366, 2878]"
@@ -82,6 +81,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2566]
+63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
 43,1,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.0,[2330]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
