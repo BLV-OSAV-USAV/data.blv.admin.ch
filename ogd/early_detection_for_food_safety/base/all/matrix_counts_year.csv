@@ -14,10 +14,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 54,9,Geflügel,Volailles,Pollame,Poultry,1.33,"[2455, 2516, 2604, 2650, 2629, 2760, 2829, 2808, 2951]"
 93,7,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.43,"[2373, 2436, 2400, 2401, 2460, 2734, 2842]"
 48,6,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.17,"[2346, 2453, 2420, 2768, 2743, 2901]"
-80,6,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.17,"[2340, 2439, 2447, 2594, 2814, 2876]"
 42,6,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.83,"[2364, 2474, 2484, 2582, 2762, 2812]"
 98,5,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,"[2445, 2493, 2478, 2625, 2774]"
 38,5,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.4,"[2484, 2725, 2769, 2921, 2956]"
+80,5,"Softdrinks, Sprudelgetränke, Energydrinks und isotonische Getränke","Boissons sucrées, gazeuses, énergétiques et isotoniques","Bevande zuccherate, gasate, energy drink e bevande isotoniche","Carbonated/Soft/Isotonic Drinks, Diluted",1.2,"[2439, 2447, 2594, 2814, 2876]"
 58,5,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.4,"[2632, 2715, 2761, 2795, 2833]"
 24,4,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.0,"[2395, 2423, 2499, 2519]"
 118,4,Rind,Boeuf,Manzo,Beef,1.0,"[2379, 2454, 2446, 2785]"
@@ -40,7 +40,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 12,2,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,"[2583, 2663]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2598, 2731]"
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[2352]
-76,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,[2339]
 144,1,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,[2378]
 84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
 21,1,Kartoffeln,Pommes de terre,Patate,Potatoes,1.0,[2361]
