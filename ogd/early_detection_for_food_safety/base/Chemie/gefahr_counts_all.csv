@@ -137,6 +137,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 228,2,Fipronil,Fipronil,Fipronil,Fipronil,1.5,"[328, 1867]"
 169,2,Endokrine Disruptoren,Perturbateur endocrinien,Interferenti endocrini,Endocrine disruptors,1.0,"[1628, 2211]"
 522,2,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,"[2384, 2211]"
+117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2507, 2960]"
 525,2,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.5,"[2213, 2306]"
 191,1,Solanum sp,Solanum sp,Solanum sp,Solanum sp,2.0,[213]
 108,1,Trimethylaminoxid,Oxyde de triméthylamine,Trimetilammina-N-ossido,Trimethylamine N-oxide,3.0,[55]
@@ -282,7 +283,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
-117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]

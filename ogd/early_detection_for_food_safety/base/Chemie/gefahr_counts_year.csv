@@ -45,6 +45,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,"[2366, 2878]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
+117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2507, 2960]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
@@ -91,7 +92,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
 437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),2.0,[2366]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
-117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2507]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
