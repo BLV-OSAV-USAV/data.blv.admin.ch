@@ -1,5 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[2945, 2959]"
+8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2961, 2963]"
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",1.0,[2938]
 40,1,Joghurt und Sauermilchprodukte,Yogourts et produits à base de lait acidulé,Yogurt e prodotti a base di latte acido,Yoghurt And Sour Milk Products,1.0,[2950]
 54,1,Geflügel,Volailles,Pollame,Poultry,2.0,[2951]
@@ -7,4 +8,3 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[2959]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[2959]
-8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[2961]
