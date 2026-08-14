@@ -1,4 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2947, 2964]"
 7,2,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.5,"[2937, 2959]"
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2962]
@@ -8,7 +9,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2942]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2956]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2947]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),2.0,[2947]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2955]
 576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2961]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2944]
@@ -17,10 +17,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2944]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2950]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.0,[2952]
+246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[2967]
 559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,2.0,[2941]
 376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2941]
 26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2957]
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2963]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2945]
+51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,2.0,[2966]
+607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[2951]
