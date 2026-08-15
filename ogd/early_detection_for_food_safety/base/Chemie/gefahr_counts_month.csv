@@ -1,12 +1,12 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2947, 2964]"
+187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2944, 2970]"
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,[2962]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2942]
 518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[2942]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),2.0,[2947]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2955]
-187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2944]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2944]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[2944]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2944]
@@ -17,3 +17,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,2.0,[2966]
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
+209,1,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.0,[2970]
