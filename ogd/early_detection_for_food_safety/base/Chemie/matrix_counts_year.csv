@@ -4,11 +4,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,10,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2368, 2541, 2482, 2490, 2552, 2531, 2390, 2673, 2852, 2853]"
 7,9,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.11,"[2679, 2682, 2731, 2778, 2749, 2821, 2878, 2942, 2944]"
 1,8,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.12,"[2495, 2476, 2617, 2657, 2730, 2737, 2872, 2952]"
-5,7,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2363, 2427, 2473, 2428, 2794, 2893, 2909]"
 6,7,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2491, 2399, 2469, 2525, 2509, 2593, 2639]"
 34,7,Früchte,Fruits,Frutta,Fruits,1.14,"[2441, 2600, 2662, 2741, 2838, 2874, 2947]"
 3,7,Gemüse,Légumes,Ortaggi,Vegetables,1.14,"[2665, 2690, 2718, 2741, 2838, 2874, 2947]"
 60,6,Fische,Poissons,Pesce,Fish,1.17,"[2398, 2616, 2459, 2647, 2699, 2846]"
+5,6,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2427, 2473, 2428, 2794, 2893, 2909]"
 8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2399, 2457, 2525, 2639]"
 81,3,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.33,"[2397, 2551, 2498]"
 93,3,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,"[2400, 2401, 2968]"
@@ -27,7 +27,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 133,2,Honig,Miel,Miele,Honey,1.0,"[2735, 2830]"
 21,2,Kartoffeln,Pommes de terre,Patate,Potatoes,1.5,"[2960, 2967]"
 144,1,Koffeinhaltiger Tee und Teezubereitungen (inkl. Pulver),Thé contenant de la caféine et préparations à base de thé (poudre incluse),Tè contenente caffeina e preparazioni a base di tè (inclusa polvere),Tea Containing Coffeine And Tea-Based Preparations (Incl. Powdered),1.0,[2378]
-84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,2.0,[2366]
 25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
 49,1,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,[2481]
