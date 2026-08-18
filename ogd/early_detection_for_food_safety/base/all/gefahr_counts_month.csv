@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[2969, 2957]"
+26,3,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.67,"[2969, 2971, 2957]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.5,"[2947, 2964]"
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2944, 2970]"
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
@@ -18,8 +18,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2950]
 293,1,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.0,[2952]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[2967]
-559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,2.0,[2941]
-376,1,Histamin,Histamine,Istamina,Histamine,2.0,[2941]
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.0,[2959]
 401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2963]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2945]
