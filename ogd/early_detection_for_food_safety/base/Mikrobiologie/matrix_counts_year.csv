@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,40,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.23,"[2369, 2409, 2411, 2430, 2451, 2464, 2468, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919]"
-8,20,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.15,"[2382, 2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2961, 2963, 2711]"
-3,10,Gemüse,Légumes,Ortaggi,Vegetables,1.5,"[2407, 2424, 2472, 2734, 2722, 2740, 2936, 2914, 2945, 2959]"
+18,40,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.25,"[2409, 2411, 2430, 2451, 2464, 2468, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919, 2937]"
+8,20,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.15,"[2382, 2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2963, 2711, 2961]"
+3,11,Gemüse,Légumes,Ortaggi,Vegetables,1.55,"[2407, 2424, 2472, 2734, 2722, 2740, 2936, 2914, 2959, 2937, 2945]"
 60,10,Fische,Poissons,Pesce,Fish,1.4,"[2419, 2429, 2508, 2653, 2459, 2736, 2766, 2811, 2816, 2916]"
 54,9,Geflügel,Volailles,Pollame,Poultry,1.33,"[2455, 2516, 2604, 2650, 2629, 2760, 2829, 2808, 2951]"
 9,9,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.22,"[2404, 2421, 2534, 2581, 2597, 2654, 2684, 2797, 2929]"
@@ -20,12 +20,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 82,3,Wasser,Eau,Acqua,Waters,1.33,"[2479, 2847, 2959]"
 58,3,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.33,"[2632, 2795, 2969]"
 30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.5,"[2412, 2920]"
+98,2,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.5,"[2493, 2973]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[2410, 2829]"
 56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2538, 2542]"
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,"[2554, 2915]"
 39,2,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,2.0,"[2711, 2969]"
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
-98,1,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,[2493]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[2397]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,[2610]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
@@ -35,7 +35,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 51,1,"Teige (z.B. Blätter-, Brot-, Mürbe-, Pizzateig)","Pâtes feuilletée, brisée, à pain, à pizza","Paste (per il pane, sfoglia, frolla, per pizza)","Dough And Pastry (Plain Puff, Short-Crust",1.0,[2727]
 37,1,"Nicht spezifizierte sowie gemischte Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait non spécifiés ou mélangés","Latte, latticini e succedanei del latte non specificati e misti",Unclassified And Mixed Dairy Products,1.0,[2733]
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
-16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",1.0,[2938]
 40,1,Joghurt und Sauermilchprodukte,Yogourts et produits à base de lait acidulé,Yogurt e prodotti a base di latte acido,Yoghurt And Sour Milk Products,1.0,[2950]
-44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]
 120,1,Schwein,Porc,Maiale,Pork,2.0,[2971]
+16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2938]
+44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]

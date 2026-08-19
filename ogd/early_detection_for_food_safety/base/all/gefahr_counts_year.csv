@@ -1,44 +1,42 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,35,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.51,"[2488, 2403, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2969, 2971, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2957, 2446, 2652, 2836]"
-125,33,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2685, 2955, 2783, 2717, 2543, 2704, 2737, 2389, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2518, 2476, 2573, 2672]"
+26,36,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.53,"[2488, 2403, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2969, 2971, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
+125,33,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2389, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2518, 2476, 2573, 2672]"
 126,29,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.24,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2372, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2398, 2964, 2553, 2549, 2602, 2618, 2918, 2406, 2426]"
 93,20,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.4,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 2664, 2570, 2554, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
 244,19,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.05,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2701, 2705, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2748, 2740]"
-111,16,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.31,"[2450, 2731, 2784, 2889, 2715, 2743, 2749, 2397, 2366, 2576, 2682, 2794, 2878, 2923, 2401, 2631]"
-102,16,Blei,Plomb,Piombo,Lead,1.31,"[2498, 2487, 2436, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2368, 2558, 2400, 2418, 2478]"
-528,16,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.06,"[2371, 2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
-1,16,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.19,"[2693, 2634, 2777, 2938, 2494, 2680, 2711, 2766, 2497, 2402, 2464, 2454, 2661, 2504, 2514, 2740]"
+1,16,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.25,"[2693, 2634, 2777, 2494, 2680, 2711, 2766, 2497, 2402, 2464, 2454, 2661, 2938, 2504, 2514, 2740]"
+111,15,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.27,"[2450, 2731, 2784, 2889, 2715, 2743, 2749, 2397, 2576, 2682, 2794, 2878, 2923, 2401, 2631]"
+102,15,Blei,Plomb,Piombo,Lead,1.33,"[2498, 2487, 2436, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2558, 2400, 2418, 2478]"
+528,15,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.07,"[2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448, 2396]"
 19,15,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2839, 2584, 2769, 2897, 2610, 2727, 2554, 2391, 2454, 2567, 2661, 2800, 2824, 2812, 2686]"
 91,15,Pestizide,pesticides,pesticidi,pesticide,1.07,"[2838, 2441, 2645, 2872, 2428, 2660, 2662, 2701, 2574, 2485, 2600, 2753, 2826, 2473, 2401]"
 187,13,Arsen,Arsenic,Arsenico,Arsenic,1.08,"[2487, 2639, 2673, 2718, 2547, 2648, 2659, 2944, 2757, 2970, 2418, 2517, 2663]"
 518,12,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2503, 2456, 2872, 2873, 2942, 2392, 2389, 2413, 2495, 2513, 2679, 2518]"
-165,11,Cadmium,Cadmium,Cadmio,Cadmium,1.09,"[2503, 2639, 2691, 2718, 2659, 2944, 2368, 2438, 2778, 2819, 2418]"
 9,10,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.3,"[2403, 2719, 2667, 2634, 2769, 2956, 2409, 2711, 2824, 2813]"
+165,10,Cadmium,Cadmium,Cadmio,Cadmium,1.1,"[2503, 2639, 2691, 2718, 2659, 2944, 2438, 2778, 2819, 2418]"
 86,10,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.4,"[2857, 2693, 2777, 2786, 2769, 2758, 2550, 2464, 2621, 2931]"
 42,9,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.22,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2481, 2437]"
 106,9,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.44,"[2669, 2969, 2768, 2880, 2643, 2391, 2824, 2931, 2472]"
-167,7,Quecksilber,Mercure,Mercurio,Mercury,1.14,"[2492, 2691, 2718, 2659, 2944, 2695, 2368]"
 166,7,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2376, 2486, 2770, 2738, 2556, 2569, 2617]"
-128,7,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2557, 2589, 2368, 2400, 2476, 2478]"
 181,6,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.5,"[2393, 2484, 2566, 2564, 2668, 2678]"
-503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2891, 2749, 2366, 2427, 2593, 2794]"
-246,5,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.4,"[2691, 2690, 2967, 2420, 2367]"
+167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2944, 2695]"
+128,6,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2557, 2589, 2400, 2476, 2478]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
 94,5,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.2,"[2914, 2664, 2475, 2824, 2650]"
 145,5,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2622]"
+503,5,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.2,"[2891, 2749, 2427, 2593, 2794]"
 361,5,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.4,"[2494, 2455, 2391, 2523, 2827]"
 119,4,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2534, 2863, 2763, 2734]"
 297,4,Gluten,gluten,glutine,gluten,1.75,"[2506, 2872, 2496, 2527]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.5,"[2522, 2919, 2661, 2655]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 333,4,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.5,"[2719, 2409, 2643, 2711]"
-7,4,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.75,"[2465, 2891, 2937, 2959]"
+7,4,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.75,"[2465, 2891, 2959, 2937]"
 10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.75,"[2538, 2916, 2542, 2926]"
 238,4,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 2419, 2798]"
+246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2691, 2690, 2967, 2420]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
 45,4,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2480, 2594, 2615]"
-203,3,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.33,"[2450, 2474, 2366]"
-114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.33,"[2412, 2369, 2629]"
 120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.33,"[2534, 2891, 2841]"
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639, 2718]"
 87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.33,"[2857, 2516, 2951]"
@@ -56,8 +54,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 123,3,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2640, 2808, 2650]"
 485,3,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,"[2395, 2424, 2499]"
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.67,"[2620, 2876, 2625]"
+203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2450, 2474]"
+114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.5,"[2412, 2629]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
-565,2,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.0,"[2552, 2962]"
+565,2,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.5,"[2552, 2962]"
 566,2,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.5,"[2560, 2876]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
@@ -75,7 +75,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
 293,2,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.5,"[2872, 2952]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
-376,2,Histamin,Histamine,Istamina,Histamine,2.0,"[2887, 2941]"
+376,2,Histamin,Histamine,Istamina,Histamine,2.5,"[2887, 2941]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
 98,2,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,"[2942, 2479]"
@@ -90,18 +90,16 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 202,2,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.5,"[2950, 2524]"
 79,2,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2716]"
+189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2945, 2781]"
+117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
 89,2,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,"[2896, 2468]"
-298,2,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,"[2366, 2878]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
-117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2507, 2960]"
 29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2884, 2927]"
 162,2,Toxocara spp.,Toxocara spp.,Toxocara spp.,Toxocara spp.,1.0,"[2884, 2526]"
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.5,"[2928, 2821]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2928, 2821]"
 470,2,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,1.5,"[2929, 2421]"
-189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2945, 2781]"
-544,2,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,"[2370, 2650]"
 271,1,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.0,[2376]
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 97,1,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,Salmonella Kentucky,2.0,[2382]
@@ -164,7 +162,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[2936]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 210,1,Jod,Iode,Iodo,Iodine,1.0,[2375]
-437,1,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),2.0,[2366]
 522,1,Bisphenol F,Bisphenol F,Bisphenol F,Bisphenol F,1.0,[2384]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
@@ -183,16 +180,16 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
 595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
 597,1,Natriumerythorbat,Érythorbate de sodium,Eritorbato di sodio,Sodium Erythorbate,2.0,[2876]
+298,1,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),2.0,[2878]
 601,1,Blausäure,acide cyanhydrique,acido cianidrico,hydrocyanic acid,1.0,[2909]
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2901]
-559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,2.0,[2941]
+559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,3.0,[2941]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[2928]
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
-337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
@@ -209,5 +206,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2820]
 269,1,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.0,[2633]
+544,1,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,Salmonella Mbandaka,1.0,[2650]
 584,1,Chloropikrin,Chloropicrine,Cloropicrina,Chloropicrin,1.0,[2755]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
