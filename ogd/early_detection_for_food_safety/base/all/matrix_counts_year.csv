@@ -2,8 +2,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 18,91,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2438, 2444, 2456, 2489, 2409, 2411, 2430, 2451, 2464, 2468, 2437, 2450, 2396, 2448, 2458, 2463, 2507, 2540, 2480, 2492, 2483, 2524, 2526, 2545, 2533, 2522, 2580, 2585, 2613, 2615, 2619, 2624, 2627, 2591, 2596, 2618, 2614, 2670, 2634, 2667, 2685, 2680, 2681, 2655, 2631, 2633, 2716, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2691, 2721, 2704, 2712, 2687, 2748, 2771, 2781, 2782, 2783, 2747, 2756, 2770, 2779, 2810, 2803, 2809, 2820, 2826, 2831, 2844, 2848, 2855, 2798, 2800, 2813, 2861, 2819, 2823, 2849, 2871, 2882, 2885, 2880, 2869, 2919, 2937]"
 8,26,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.19,"[2405, 2382, 2475, 2494, 2442, 2399, 2457, 2525, 2536, 2488, 2497, 2570, 2523, 2661, 2706, 2639, 2733, 2839, 2796, 2827, 2857, 2815, 2911, 2963, 2711, 2961]"
 9,21,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.14,"[2416, 2404, 2421, 2425, 2541, 2482, 2490, 2552, 2534, 2531, 2390, 2581, 2597, 2654, 2684, 2673, 2828, 2852, 2853, 2797, 2929]"
+1,19,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.16,"[2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730, 2737, 2872, 2897, 2925, 2952, 2980]"
 60,18,Fische,Poissons,Pesce,Fish,1.28,"[2398, 2416, 2419, 2429, 2470, 2508, 2616, 2653, 2459, 2647, 2736, 2699, 2766, 2811, 2816, 2846, 2815, 2916]"
-1,18,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.17,"[2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730, 2737, 2872, 2897, 2925, 2952]"
 3,18,Gemüse,Légumes,Ortaggi,Vegetables,1.39,"[2407, 2424, 2472, 2665, 2690, 2734, 2718, 2722, 2740, 2741, 2838, 2874, 2936, 2914, 2947, 2959, 2937, 2945]"
 6,14,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.07,"[2403, 2379, 2393, 2491, 2399, 2469, 2525, 2535, 2509, 2593, 2678, 2639, 2827, 2896]"
 34,13,Früchte,Fruits,Frutta,Fruits,1.23,"[2391, 2441, 2472, 2600, 2662, 2686, 2734, 2741, 2838, 2874, 2931, 2947, 2959]"
@@ -24,10 +24,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 27,4,Pilze,Champignons,Funghi,Mushrooms,1.25,"[2471, 2418, 2879, 2886]"
 81,4,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.5,"[2397, 2432, 2551, 2498]"
 39,4,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.75,"[2433, 2715, 2711, 2969]"
+67,4,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2548, 2642, 2943, 2979]"
 49,3,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,"[2481, 2590, 2870]"
 148,3,Wein,Vin,Vino,Wine,1.67,"[2481, 2876, 2947]"
 56,3,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.67,"[2538, 2542, 2876]"
-67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2548, 2642, 2943]"
 14,3,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2644, 2635, 2638]"
 133,3,Honig,Miel,Miele,Honey,1.33,"[2735, 2830, 2940]"
 30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.5,"[2412, 2920]"
@@ -63,3 +63,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 16,1,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",2.0,[2938]
 44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]
 61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[2962]
+10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2975]
