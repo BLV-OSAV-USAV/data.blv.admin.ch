@@ -16,7 +16,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2691, 2690, 2967, 2420]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
-450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 2977]"
 209,3,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.33,"[2639, 2891, 2970]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 2406]"
@@ -44,6 +43,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 310,2,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.5,"[2392, 2979]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
+450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2509, 2551]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
@@ -82,6 +82,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
 214,1,Dibutylphthalate (DBP),Phtalate de dibutyle (DBP),Dibutilftalato (DBP),Dibutyl phthalate (DBP),1.0,[2738]
+605,1,Allergen,Allergène,Allergene,Allergen,1.0,[2982]
 292,1,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,[2861]
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]

@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,36,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.53,"[2488, 2403, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2969, 2971, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
+26,37,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.51,"[2488, 2403, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 2572, 2410, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2391, 2407, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
 125,34,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2392, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2389, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
 126,29,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2398, 2964, 2553, 2549, 2602, 2618, 2918, 2974, 2406, 2426]"
 93,20,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.4,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 2664, 2570, 2554, 2391, 2464, 2661, 2808, 2803, 2401, 2577, 2514, 2650]"
@@ -41,7 +41,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639, 2718]"
 87,3,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.33,"[2857, 2516, 2951]"
 31,3,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.33,"[2719, 2844, 2771]"
-450,3,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2378, 2509, 2551]"
 576,3,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712, 2961]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 2977]"
 209,3,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.33,"[2639, 2891, 2970]"
@@ -82,6 +81,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 376,2,Histamin,Histamine,Istamina,Histamine,2.5,"[2887, 2941]"
 197,2,Nitrite,Nitrite,Nitrito,Nitrite,1.5,"[2888, 2876]"
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
+605,2,Allergen,Allergène,Allergene,Allergen,1.5,"[2940, 2982]"
 98,2,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,"[2942, 2479]"
 96,2,Polystyrol (PS),Polystyrène (PS),Polistirene (PS) anche Polistirolo (PS),polystyrene (PS),1.5,"[2408, 2392]"
 57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
@@ -92,6 +92,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[2603, 2966]"
 574,2,Coffein,Caféine,Caffeina,Caffeine,1.0,"[2644, 2814]"
 55,2,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.5,"[2683, 2611]"
+450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2509, 2551]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 202,2,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.5,"[2950, 2524]"
 79,2,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2716]"
@@ -131,7 +132,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
-605,1,Allergen,Allergène,Allergene,Allergen,2.0,[2940]
 392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
 529,1,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,Salmonella Dublin,1.0,[2379]
 221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[2548]
