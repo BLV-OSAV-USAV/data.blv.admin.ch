@@ -1,11 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.6,"[2981, 2969, 2971, 2957, 2973]"
+26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2981, 2969, 2971, 2973]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2975, 2976]"
 106,2,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,"[2969, 2983]"
-125,2,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2955, 2979]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2964, 2974]"
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2969]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2956]
 605,1,Allergen,Allergène,Allergene,Allergen,1.0,[2982]
 576,1,Cereulide,Céreulide,Cereulide,Cereulide,1.0,[2961]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
@@ -18,6 +16,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.0,[2979]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.0,[2979]
 557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2979]
+125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[2979]
 565,1,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,2.0,[2962]
 145,1,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,[2984]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[2970]
