@@ -10,8 +10,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,9,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.22,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2481, 2437]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2944, 2695]"
 166,6,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2486, 2770, 2738, 2556, 2569, 2617]"
+503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.17,"[2985, 2891, 2749, 2427, 2593, 2794]"
 180,5,Phthalate,phtalates,ftalati,phthalates,1.4,"[2770, 2872, 2738, 2562, 2426]"
-503,5,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.2,"[2891, 2749, 2427, 2593, 2794]"
 128,5,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2557, 2589, 2400, 2476, 2478]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 246,4,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.5,"[2691, 2690, 2967, 2420]"
@@ -68,6 +68,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
+525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2985]
+172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2985]
+58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2985]
 221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[2548]
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs), medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
