@@ -1,2 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[2989]
+8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2992, 2994]"
+32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,2.0,[2993]
+81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[2996]
+45,1,Speiseeis (inkl. Sorbet und Wasserglace),"Glaces, substituts de glace, sorbets et glaces à l'eau",Gelato (inclusi sorbetti e ghiaccioli),"Ice Cream And Substitutes, Sorbet And Wat",1.0,[2997]
+13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,1.0,[2997]

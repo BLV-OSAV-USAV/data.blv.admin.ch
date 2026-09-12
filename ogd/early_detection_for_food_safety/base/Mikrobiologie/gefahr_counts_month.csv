@@ -2,6 +2,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2981, 2969, 2971, 2973]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2975, 2976]"
 106,2,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,"[2969, 2983]"
+256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991]"
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2969]
+23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2990]
+107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2992]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2986]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2963]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2994]

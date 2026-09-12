@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,41,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2409, 2411, 2430, 2451, 2464, 2468, 2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919, 2937, 2981]"
-8,19,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.11,"[2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2963, 2711, 2961]"
+8,21,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.1,"[2475, 2494, 2442, 2399, 2457, 2488, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2963, 2711, 2961, 2992, 2994]"
 3,11,Gemüse,Légumes,Ortaggi,Vegetables,1.55,"[2407, 2424, 2472, 2734, 2722, 2740, 2936, 2914, 2959, 2937, 2945]"
 60,10,Fische,Poissons,Pesce,Fish,1.4,"[2419, 2429, 2508, 2653, 2459, 2736, 2766, 2811, 2816, 2916]"
 54,9,Geflügel,Volailles,Pollame,Poultry,1.33,"[2455, 2516, 2604, 2650, 2629, 2760, 2829, 2808, 2951]"
@@ -27,7 +27,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,"[2554, 2915]"
 16,2,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",1.5,"[2938, 2981]"
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
-81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[2397]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,[2610]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
 14,1,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,[2638]

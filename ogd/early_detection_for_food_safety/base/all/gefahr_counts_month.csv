@@ -1,21 +1,27 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.75,"[2981, 2969, 2971, 2973]"
-126,3,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2989, 2964, 2974]"
+126,4,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2989, 2996, 2964, 2974]"
 348,2,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,"[2975, 2976]"
 106,2,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),2.0,"[2969, 2983]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2988, 2989]"
+256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991]"
+605,2,Allergen,Allergène,Allergene,Allergen,1.5,"[2993, 2982]"
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2969]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.0,[2985]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2985]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2985]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2985]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2989]
-605,1,Allergen,Allergène,Allergene,Allergen,1.0,[2982]
+23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2990]
+107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2992]
+42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2996]
+610,1,Perfluorbutansäure (PFBA),Acide perfluorobutanoïque (PFBA),Acido perfluorobutanoico (PFBA),Perfluorobutanoic acid (PFBA),1.0,[2996]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[2986]
+292,1,Glycerin,Glycérol,Glicerolo,Glycerol,1.0,[2997]
 246,1,Acrylamid,Acrylamide,Acrilammide,Acrylamide,2.0,[2967]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2963]
 51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,2.0,[2966]
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
+19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.0,[2994]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2977]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.0,[2979]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.0,[2979]
