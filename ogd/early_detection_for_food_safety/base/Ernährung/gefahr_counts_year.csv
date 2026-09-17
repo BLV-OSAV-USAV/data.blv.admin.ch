@@ -7,7 +7,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2660]"
-333,2,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,"[2409, 2643]"
 79,2,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2716]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
@@ -24,14 +23,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
-9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[2409]
-401,1,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.0,[2409]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[2643]
+333,1,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.0,[2643]
 122,1,Diabetes,diabète,diabete,diabetes,1.0,[2619]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[2695]
 516,1,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,[2695]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[2407]
 52,1,Kochsalz (NaCl),Sel de table (NaCl),Sale da tavola (NaCl),Table salt  (NaCl),1.0,[2809]
 80,1,Salz,sel,sale,salt,1.0,[2809]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,2.0,[2876]
