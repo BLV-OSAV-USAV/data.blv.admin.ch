@@ -7,6 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,2,Arsen,Arsenic,Arsenico,Arsenic,1.0,"[2487, 2639]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2660]"
+51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[2603, 2966]"
 79,2,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2716]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
@@ -19,7 +20,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 92,1,Fettleibigkeit,obésité,obesità,obesity,1.0,[2787]
 465,1,Dioxin,Dioxine,Diossina,Dioxin,1.0,[2900]
 466,1,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,[2900]
-51,1,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.0,[2603]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2660]
 185,1,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.0,[2660]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2509]
