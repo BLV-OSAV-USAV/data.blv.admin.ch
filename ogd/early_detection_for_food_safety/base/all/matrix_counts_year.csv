@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,91,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2438, 2444, 2456, 2489, 2411, 2430, 2451, 2464, 2468, 2437, 2450, 2448, 2458, 2463, 2507, 2540, 2480, 2492, 2483, 2524, 2526, 2545, 2533, 2522, 2580, 2585, 2613, 2615, 2619, 2624, 2627, 2591, 2596, 2618, 2614, 2670, 2634, 2667, 2685, 2680, 2681, 2655, 2631, 2633, 2716, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2691, 2721, 2704, 2712, 2687, 2748, 2771, 2781, 2782, 2783, 2747, 2756, 2770, 2779, 2810, 2803, 2809, 2820, 2826, 2831, 2844, 2848, 2855, 2798, 2800, 2813, 2861, 2819, 2823, 2849, 2871, 2882, 2885, 2880, 2869, 2919, 2937, 2988, 2981]"
+18,90,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2438, 2444, 2456, 2489, 2430, 2451, 2464, 2468, 2437, 2450, 2448, 2458, 2463, 2507, 2540, 2480, 2492, 2483, 2524, 2526, 2545, 2533, 2522, 2580, 2585, 2613, 2615, 2619, 2624, 2627, 2591, 2596, 2618, 2614, 2670, 2634, 2667, 2685, 2680, 2681, 2655, 2631, 2633, 2716, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2691, 2721, 2704, 2712, 2687, 2748, 2771, 2781, 2782, 2783, 2747, 2756, 2770, 2779, 2810, 2803, 2809, 2820, 2826, 2831, 2844, 2848, 2855, 2798, 2800, 2813, 2861, 2819, 2823, 2849, 2871, 2882, 2885, 2880, 2869, 2919, 2937, 2988, 2981]"
 8,25,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.2,"[2475, 2494, 2442, 2457, 2525, 2536, 2488, 2497, 2570, 2523, 2661, 2706, 2639, 2733, 2839, 2796, 2827, 2857, 2815, 2911, 2963, 2711, 2961, 2992, 2994]"
-1,20,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.2,"[2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730, 2737, 2872, 2897, 2925, 2952, 2989, 2980]"
+1,21,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.24,"[2435, 2452, 2467, 2495, 2532, 2500, 2476, 2617, 2630, 2603, 2657, 2689, 2730, 2737, 2872, 2897, 2925, 2952, 2989, 2980, 3000]"
 9,19,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.16,"[2416, 2421, 2425, 2541, 2482, 2490, 2552, 2534, 2531, 2581, 2597, 2654, 2684, 2673, 2828, 2852, 2853, 2797, 2929]"
 60,17,Fische,Poissons,Pesce,Fish,1.29,"[2416, 2419, 2429, 2470, 2508, 2616, 2653, 2459, 2647, 2736, 2699, 2766, 2811, 2816, 2846, 2815, 2916]"
 3,17,Gemüse,Légumes,Ortaggi,Vegetables,1.41,"[2424, 2472, 2665, 2690, 2734, 2718, 2722, 2740, 2741, 2838, 2874, 2936, 2914, 2947, 2959, 2937, 2945]"
@@ -30,7 +30,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 56,3,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.67,"[2538, 2542, 2876]"
 14,3,Alkoholfreie Getränke,Boissons sans alcool,Bevande analcoliche,Non Alcoholic Beverages,1.0,"[2644, 2635, 2638]"
 133,3,Honig,Miel,Miele,Honey,1.33,"[2735, 2830, 2940]"
-30,2,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.5,"[2412, 2920]"
 15,2,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,1.0,"[2434, 2623]"
 155,2,Nicht spezifizierte sowie gemischte Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs non spécifiés ou mélangés,Prodotti dietetici e alimenti per sportivi non classificati e misti,Unclassified And Combined Dietetic Produc,1.0,"[2486, 2520]"
 32,2,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,2.0,"[2440, 2993]"
@@ -42,7 +41,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2598, 2731]"
 21,2,Kartoffeln,Pommes de terre,Patate,Potatoes,1.5,"[2967, 2960]"
 16,2,"Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces","Condimenti, spezie, lieviti, erbe e salse","Condiments, Spices, Yeast, Herbs And Sauces",1.5,"[2938, 2981]"
-25,1,Knollen- und Wurzelgemüse,Légumes-racines,Tuberi e radici,Root Vegetables,2.0,[2413]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,[2610]
 157,1,Mahlzeitenersatz und Sportlernahrung,Substituts de repas et aliments pour sportifs,Prodotti sostitutivi dei pasti e alimenti per sportivi,Meal Substitutes,1.0,[2644]
@@ -57,6 +55,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2837]
 59,1,"Nicht spezifizierte sowie gemischte Fische, Meeresfrüchte und Amphibien","Poissons, fruits de mer, amphibiens et reptiles non spécifiés ou mélangés","Pesce, crostacei frutti die mare e anfibi non classificati e misti",Unclassified And Combined Fish Products,2.0,[2887]
+30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.0,[2920]
 40,1,Joghurt und Sauermilchprodukte,Yogourts et produits à base de lait acidulé,Yogurt e prodotti a base di latte acido,Yoghurt And Sour Milk Products,1.0,[2950]
 120,1,Schwein,Porc,Maiale,Pork,2.0,[2971]
 44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]

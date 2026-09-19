@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,33,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.55,"[2488, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 2572, 2461, 2886, 2762, 2880, 2411, 2471, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
+26,32,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.56,"[2488, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 2572, 2461, 2886, 2762, 2880, 2471, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
 125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.09,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
 126,29,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 2996, 2426]"
 244,19,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.05,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2701, 2705, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2748, 2740]"
@@ -12,9 +12,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 91,14,Pestizide,pesticides,pesticidi,pesticide,1.07,"[2838, 2441, 2645, 2872, 2428, 2660, 2662, 2701, 2574, 2485, 2600, 2753, 2826, 2473]"
 187,13,Arsen,Arsenic,Arsenico,Arsenic,1.15,"[2487, 2639, 2673, 2718, 2547, 2648, 2659, 2944, 2757, 2970, 2418, 2517, 2663]"
 86,11,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.36,"[2857, 2693, 2777, 2786, 2769, 2758, 2550, 2464, 2621, 2931, 2986]"
-518,10,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.3,"[2503, 2456, 2872, 2873, 2942, 2413, 2495, 2513, 2679, 2518]"
 165,10,Cadmium,Cadmium,Cadmio,Cadmium,1.1,"[2503, 2639, 2691, 2718, 2659, 2944, 2438, 2778, 2819, 2418]"
 42,10,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.2,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2996, 2481, 2437]"
+518,9,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.22,"[2503, 2456, 2872, 2873, 2942, 2495, 2513, 2679, 2518]"
 106,9,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.44,"[2669, 2969, 2768, 2880, 2643, 2983, 2824, 2931, 2472]"
 9,8,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.38,"[2719, 2667, 2634, 2769, 2956, 2711, 2824, 2813]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2944, 2695]"
@@ -56,7 +56,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 123,3,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2640, 2808, 2650]"
 363,3,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.67,"[2620, 2876, 2625]"
 203,2,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,"[2450, 2474]"
-114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.5,"[2412, 2629]"
 557,2,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,"[2490, 2979]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
 565,2,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.5,"[2552, 2962]"
@@ -90,6 +89,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 574,2,Coffein,Caféine,Caffeina,Caffeine,1.0,"[2644, 2814]"
 450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2509, 2551]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
+241,2,Alternariol,alternariol,alternariolo,alternariol,2.0,"[3000, 2928]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,1.5,"[2861, 2997]"
 202,2,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.5,"[2950, 2524]"
@@ -165,6 +165,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,3.0,[2460]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
+114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2629]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 586,1,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,1.0,[2794]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
@@ -179,7 +180,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 490,1,Acrolein,Acroléine,Acroleina,acrolein,1.0,[2893]
 513,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2901]
 559,1,bongrekic acid,acide bongrekique,bongrekic acid,bongrekic acid,3.0,[2941]
-241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[2928]
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.0,[2979]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.0,[2979]
