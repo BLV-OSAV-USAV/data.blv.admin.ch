@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,32,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.56,"[2488, 2453, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 2572, 2461, 2886, 2762, 2880, 2471, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2446, 2652, 2836]"
-125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.09,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2417, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
+125,31,Mikroplastik,microplastiques,microplastica,microplastics,1.1,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
 126,29,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.21,"[2725, 2440, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 2996, 2426]"
 244,19,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.05,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2701, 2705, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2748, 2740]"
 93,18,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.39,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 2664, 2570, 2554, 2464, 2661, 2808, 2803, 2577, 2514, 2650]"
@@ -107,7 +107,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2963, 2788]"
 379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,"[2989, 2482]"
 371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
-547,1,Kolibakterien,Batteri coliformi,Bactéries coliformes,Coliform bacteria,1.0,[2415]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
@@ -190,7 +189,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
-535,1,Hexan,Hexane,Esano,Hexane,1.0,[2414]
 425,1,Kupfer,Cuivre,Rame,Copper,1.0,[2418]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]
