@@ -8,8 +8,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 19,15,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.33,"[2839, 2584, 2769, 2897, 2610, 2727, 2554, 2454, 2567, 2661, 2800, 2824, 2812, 2994, 2686]"
 1,15,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.27,"[2693, 2634, 2777, 2494, 2680, 2711, 2766, 2497, 2464, 2454, 2661, 2938, 2504, 2514, 2740]"
 528,14,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.07,"[2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2445, 2742, 2772, 2780, 2448]"
-91,14,Pestizide,pesticides,pesticidi,pesticide,1.07,"[2838, 2441, 2645, 2872, 2428, 2660, 2662, 2701, 2574, 2485, 2600, 2753, 2826, 2473]"
 102,13,Blei,Plomb,Piombo,Lead,1.38,"[2498, 2487, 2436, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2558, 2478]"
+91,13,Pestizide,pesticides,pesticidi,pesticide,1.08,"[2838, 2441, 2645, 2872, 2660, 2662, 2701, 2574, 2485, 2600, 2753, 2826, 2473]"
 187,12,Arsen,Arsenic,Arsenico,Arsenic,1.17,"[2487, 2639, 2673, 2718, 2547, 2648, 2659, 2944, 2757, 2970, 2517, 2663]"
 86,12,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.33,"[2857, 2693, 2777, 2786, 2769, 3003, 2758, 2550, 2464, 2621, 2931, 2986]"
 42,10,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.2,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2996, 2481, 2437]"
@@ -38,7 +38,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 361,4,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2494, 2455, 2523, 2827]"
 120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.33,"[2534, 2891, 2841]"
 344,3,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639, 2718]"
-23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[2597, 2990, 2429]"
 548,3,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.33,"[2608, 2479, 2617]"
 333,3,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.67,"[2719, 2643, 2711]"
 31,3,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.33,"[2719, 2844, 2771]"
@@ -65,6 +64,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 2840]"
 78,2,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,"[2706, 2536]"
+23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[2597, 2990]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[2857, 2514]"
 593,2,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.5,"[2870, 2980]"
 594,2,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.5,"[2870, 2980]"
@@ -156,7 +156,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[2936]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
-365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 550,1,Colchizin,Colchicine,Colchicina,Colchicine,1.0,[2469]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,3.0,[2460]

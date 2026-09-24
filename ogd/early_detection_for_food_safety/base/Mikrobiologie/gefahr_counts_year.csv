@@ -18,7 +18,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 256,4,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991, 2884, 2927]"
 361,4,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.25,"[2494, 2455, 2523, 2827]"
 120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.33,"[2534, 2891, 2841]"
-23,3,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[2597, 2990, 2429]"
 333,3,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.67,"[2719, 2643, 2711]"
 31,3,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.33,"[2719, 2844, 2771]"
 576,3,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712, 2961]"
@@ -30,6 +29,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 2,3,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.33,"[2734, 2451, 2871]"
 123,3,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2640, 2808, 2650]"
 540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.0,"[2534, 2734]"
+23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[2597, 2990]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.0,"[2857, 2514]"
 261,2,Pseudomonas,Pseudomonas,Pseudomonas,Pseudomonas,1.5,"[2719, 2468]"
 314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
@@ -81,7 +81,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 577,1,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.0,[2704]
 3,1,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,Yersinia pseudotuberculosis,1.0,[2936]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2474]
-365,1,Anisakidae,Anisakidae,Anisakidae,Anisakidae,1.0,[2429]
 530,1,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,Cryptosporidium parvum,3.0,[2460]
 114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2629]
 589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]

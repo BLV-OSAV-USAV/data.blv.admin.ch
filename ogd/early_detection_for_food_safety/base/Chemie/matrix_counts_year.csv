@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-18,37,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2438, 2456, 2489, 2430, 2437, 2450, 2507, 2480, 2492, 2533, 2615, 2627, 2596, 2618, 2614, 2685, 2681, 2655, 2631, 2633, 2723, 2701, 2691, 2721, 2704, 2712, 2782, 2783, 2747, 2756, 2770, 2779, 2826, 2861, 2819, 2885, 2988]"
+18,36,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.25,"[2438, 2456, 2489, 2437, 2450, 2507, 2480, 2492, 2533, 2615, 2627, 2596, 2618, 2614, 2685, 2681, 2655, 2631, 2633, 2723, 2701, 2691, 2721, 2704, 2712, 2782, 2783, 2747, 2756, 2770, 2779, 2826, 2861, 2819, 2885, 2988]"
 1,10,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.2,"[2495, 2476, 2617, 2657, 2730, 2737, 2872, 2952, 2989, 3000]"
 82,9,Wasser,Eau,Acqua,Waters,1.22,"[2477, 2479, 2533, 2605, 2602, 2757, 2873, 2877, 2947]"
 7,9,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.11,"[2679, 2682, 2731, 2778, 2749, 2821, 2878, 2942, 2944]"
@@ -7,8 +7,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,8,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2541, 2482, 2490, 2552, 2531, 2673, 2852, 2853]"
 6,7,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2491, 2469, 2525, 2509, 2593, 2639, 2998]"
 3,7,Gemüse,Légumes,Ortaggi,Vegetables,1.14,"[2665, 2690, 2718, 2741, 2838, 2874, 2947]"
-5,5,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2473, 2428, 2794, 2893, 2909]"
 60,5,Fische,Poissons,Pesce,Fish,1.2,"[2616, 2459, 2647, 2699, 2846]"
+5,4,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,"[2473, 2794, 2893, 2909]"
 8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[2457, 2525, 2639]"
 98,3,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.0,"[2478, 2625, 2774]"
 67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2548, 2642, 2979]"
