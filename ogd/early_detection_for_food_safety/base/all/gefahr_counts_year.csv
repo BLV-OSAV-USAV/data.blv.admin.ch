@@ -82,7 +82,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 98,2,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,"[2942, 2479]"
 107,2,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,"[2992, 2820]"
 35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,2.0,"[3003, 2460]"
-57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 99,2,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.5,"[2609, 2464]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[2603, 2966]"
@@ -104,11 +103,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2928, 2821]"
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2963, 2788]"
 379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,"[2989, 2482]"
-371,1,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,1.0,[2433]
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
-315,1,Ethylcarbamat (Urethan),Éthylcarbamate (Uréthane),Etilcarbammato (Uretano),Ethyl Carbamate,1.0,[2434]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
@@ -129,7 +126,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2985]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2985]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2985]
-392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
 221,1,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.0,[2548]
 564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs), medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
 549,1,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,1.0,[2442]
@@ -187,6 +183,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 174,1,Fungizid,Fongicide,Fungicida,Fungicide,1.0,[2473]
 551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
+57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]

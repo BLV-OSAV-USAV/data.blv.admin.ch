@@ -38,7 +38,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
 107,2,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,"[2992, 2820]"
 35,2,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,2.0,"[3003, 2460]"
-57,2,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.5,"[2431, 2493]"
 99,2,Vibrio spp.,Vibrio spp.,Vibrio spp.,Vibrio spp.,1.5,"[2609, 2464]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2660, 2701]"
 241,2,Alternariol,alternariol,alternariolo,alternariol,2.0,"[3000, 2928]"
@@ -58,7 +57,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,1,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,[2770]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[2770]
 587,1,covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),covert mortality nodavirus (CMNV),2.0,[2797]
-392,1,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,Burkholderia gladioli,2.0,[2431]
 549,1,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,Empedobacter spp.,1.0,[2442]
 18,1,Escherichia albertii,Escherichia albertii,Escherichia albertii,Escherichia albertii,1.0,[2591]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2599]
@@ -91,6 +89,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 470,1,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,Blastocystis sp.,2.0,[2929]
 602,1,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,Salmonella Bovismorbificans ST377,1.0,[2920]
 592,1,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,Salmonella Stanley,1.0,[2866]
+57,1,Bongkreksäure,Acide bongkrekique,Acido bongkrekico,Bongkrekic acid,1.0,[2493]
 485,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,1.0,[2499]
 504,1,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,Dientamoeba fragilis,2.0,[2582]
 34,1,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,Enterocytozoon bieneusi,2.0,[2582]
