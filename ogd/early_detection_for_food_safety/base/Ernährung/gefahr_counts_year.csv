@@ -8,7 +8,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2487, 2639]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2660]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[2603, 2966]"
-79,2,Zucker,sucre,zucchero,sugar,1.0,"[2439, 2716]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
 203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
@@ -42,5 +41,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 473,1,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,2.0,[2928]
 189,1,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,[2781]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2814]
+79,1,Zucker,sucre,zucchero,sugar,1.0,[2716]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]
 234,1,Sucralose,Sucralose,Sucralosio,Sucralose,2.0,[2782]
