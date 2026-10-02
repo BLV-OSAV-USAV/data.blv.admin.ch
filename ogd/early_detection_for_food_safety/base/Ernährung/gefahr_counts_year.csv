@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-528,13,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2742, 2772, 2780, 2448]"
+528,12,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2742, 2772, 2780]"
 145,6,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2984, 2622]"
 102,4,Blei,Plomb,Piombo,Lead,1.25,"[2498, 2487, 2639, 2478]"
 45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2480, 2594, 2615]"
@@ -9,8 +9,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2838, 2660]"
 51,2,Vitamin D,Vitamine D,Vitamina D,Vitamine D,1.5,"[2603, 2966]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,2.0,"[2620, 2876]"
-111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2450]
-203,1,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.0,[2450]
 297,1,Gluten,gluten,glutine,gluten,1.0,[2506]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[2639]
 56,1,Aluminium,Aluminium,Alluminio,Aluminium,1.0,[2639]
