@@ -1,5 +1,4 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,"[2988, 2989]"
 256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991]"
 605,2,Allergen,Allergène,Allergene,Allergen,2.0,"[2993, 2999]"
 126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[2989, 2996]"
@@ -18,6 +17,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[3002]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2994]
+111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.0,[2989]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2989]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[3008]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[3006]

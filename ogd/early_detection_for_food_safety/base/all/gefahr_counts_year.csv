@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-125,32,Mikroplastik,microplastiques,microplastica,microplastics,1.09,"[2490, 2601, 2456, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
 26,31,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.58,"[2488, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 3003, 2572, 2461, 2886, 2762, 2880, 2471, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2652, 2836]"
+125,31,Mikroplastik,microplastiques,microplastica,microplastics,1.1,"[2490, 2601, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2462, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
 126,27,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.15,"[2725, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 2996]"
 93,19,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.37,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 3003, 2664, 2570, 2554, 2464, 2661, 2808, 2803, 2577, 2514, 2650]"
 244,19,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.05,"[2604, 2882, 2911, 2581, 2462, 2592, 2654, 2760, 2701, 2705, 2464, 2508, 2568, 2535, 2606, 2629, 2684, 2748, 2740]"
@@ -12,7 +12,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 528,12,Hochverarbeitete Lebensmittel (Ultra-processed Food),Aliment ultratransformé (AUT),Cibi ultralavorati,Ultra-processed Food (UPF),1.08,"[2545, 2575, 2689, 2792, 2859, 2773, 2791, 2483, 2466, 2742, 2772, 2780]"
 86,12,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.33,"[2857, 2693, 2777, 2786, 2769, 3003, 2758, 2550, 2464, 2621, 2931, 2986]"
 91,12,Pestizide,pesticides,pesticidi,pesticide,1.08,"[2838, 2645, 2872, 2660, 2662, 2701, 2574, 2485, 2600, 2753, 2826, 2473]"
-518,10,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.2,"[2503, 2456, 2872, 2873, 2942, 3001, 2495, 2513, 2679, 2518]"
+518,9,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.22,"[2503, 2872, 2873, 2942, 3001, 2495, 2513, 2679, 2518]"
 42,9,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.22,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2996, 2481]"
 9,9,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.33,"[2719, 2667, 2634, 2769, 2956, 2711, 2824, 2813, 3008]"
 106,9,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.44,"[2669, 2969, 2768, 2880, 2643, 2983, 2824, 2931, 2472]"
