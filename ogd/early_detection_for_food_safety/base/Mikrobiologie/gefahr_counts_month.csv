@@ -1,6 +1,4 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-256,2,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991]"
-23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2990]
 107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2992]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[3003]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.0,[3003]
@@ -9,6 +7,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[3003]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[3002]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
+256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2991]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2994]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[3008]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[3006]
