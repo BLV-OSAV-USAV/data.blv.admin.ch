@@ -10,7 +10,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,28,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.39,"[346, 782, 820, 1225, 1550, 1917, 1970, 1698, 2376, 263, 2486, 2770, 542, 891, 2738, 1468, 2024, 2327, 444, 680, 796, 953, 1331, 1451, 1988, 2556, 2569, 2617]"
 167,26,Quecksilber,Mercure,Mercurio,Mercury,1.12,"[258, 321, 471, 1095, 1185, 772, 1772, 1917, 1963, 391, 1116, 1538, 2492, 2691, 2718, 130, 750, 273, 532, 2659, 2944, 2695, 1715, 2368, 1913, 1908]"
 109,20,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.25,"[308, 1586, 1951, 81, 2313, 2627, 479, 1670, 85, 2214, 1992, 1558, 2002, 137, 1216, 147, 488, 1703, 1921, 2189]"
-127,18,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.44,"[246, 389, 58, 2735, 2921, 3001, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
+127,18,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.44,"[246, 389, 58, 2735, 2921, 3001, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
 246,18,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.39,"[591, 1480, 1902, 1920, 967, 1639, 2691, 2690, 2967, 718, 962, 1172, 1593, 1770, 1894, 1858, 2420, 2367]"
 518,18,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2503, 2456, 2872, 2873, 2942, 3001, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
 180,16,Phthalate,phtalates,ftalati,phthalates,1.31,"[187, 277, 1365, 295, 1020, 2770, 2872, 542, 2738, 1136, 2562, 779, 1283, 1628, 1755, 2426]"
@@ -22,7 +22,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 503,11,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.18,"[2282, 2017, 2985, 2891, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
 197,9,Nitrite,Nitrite,Nitrito,Nitrite,1.56,"[226, 316, 516, 2888, 259, 750, 394, 633, 1577]"
 130,9,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[1970, 430, 1698, 2637, 953, 1592, 1988, 2384, 2617]"
-203,9,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.44,"[2282, 2450, 1619, 2017, 916, 1591, 236, 2366, 2306]"
+203,9,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.44,"[2282, 2450, 1619, 2017, 916, 1591, 236, 2366, 2306]"
 209,8,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.25,"[258, 921, 2639, 2891, 1027, 1172, 2970, 2215]"
 45,8,Aspartam,Aspartam,Aspartam,Aspartam,1.25,"[809, 813, 602, 2297, 2578, 1721, 2480, 2615]"
 185,8,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.38,"[1138, 1094, 812, 359, 2660, 2166, 156, 989]"
@@ -46,7 +46,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 284,5,MOSH,MOSH,MOSH,MOSH,1.0,"[674, 2730, 1511, 773, 2244]"
 425,5,Kupfer,Cuivre,Rame,Copper,1.0,"[1521, 1487, 2254, 1859, 2418]"
 437,5,Zearalenon,Zéaralénone,Zearalenone,Zearalenone (ZEN),1.2,"[1529, 2017, 2222, 2246, 2366]"
-293,5,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.6,"[1741, 2872, 2952, 711, 865]"
+293,5,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.6,"[1741, 2872, 2952, 711, 865]"
 69,5,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.4,"[656, 2247, 199, 1636, 2135]"
 271,5,Weichmacher,Plastifiant,Plastificante,Plasticiser,1.6,"[2376, 607, 2142, 1980, 2216]"
 43,5,Titandioxid (TiO2),Titandioxide (TiO2),Titandioxide (TiO2),Titandioxid (TiO2),1.4,"[2313, 2214, 848, 2330, 1756]"
@@ -56,7 +56,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 277,5,Microcystine,Microcystine,Microcistina,Microcystin,1.2,"[2026, 643, 1200, 1325, 2280]"
 200,4,6-PPD,6-PPD,6-PPD,6-PPD,2.5,"[229, 735, 1434, 2611]"
 210,4,Jod,Iode,Iodo,Iodine,1.0,"[258, 1577, 2375, 2136]"
-269,4,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.25,"[560, 865, 1988, 2633]"
+269,4,Polybromierte Diphenylether (PBDE),Polybromodiphényléthers (PBDE),Eteri di difenile polibromurati (PBDE),Polybrominated diphenyl ethers (PBDEs),1.25,"[560, 865, 1988, 2633]"
 58,4,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,"[467, 2985, 1993, 2342]"
 234,4,Sucralose,Sucralose,Sucralosio,Sucralose,1.25,"[543, 386, 2297, 2782]"
 310,4,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.5,"[849, 2392, 1465, 2979]"
@@ -66,7 +66,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 468,4,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.5,"[1741, 2142, 1980, 2679]"
 148,4,Radioaktivität,Radioactivité,Radioattività,Radioactivity,1.5,"[255, 658, 2000, 319]"
 297,4,Gluten,gluten,glutine,gluten,1.75,"[1548, 2872, 2496, 725]"
-248,4,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.25,"[2122, 468, 2872, 2491]"
+248,4,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.25,"[2122, 468, 2872, 2491]"
 548,4,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2479, 2617, 2426]"
 56,4,Aluminium,Aluminium,Alluminio,Aluminium,1.25,"[2639, 2691, 1747, 2977]"
 289,4,HT-2,HT-2,HT-2,HT-2,1.25,"[2731, 1675, 682, 1998]"
@@ -157,7 +157,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 142,1,Isoflavone,Isoflavone,Isoflavone,Isoflavones,1.0,[621]
 328,1,Cholesterin-Oxidationsprodukte,Produits d'oxydation du cholestérol,Prodotti di ossidazione del colesterolo,Cholesterol oxidation products,1.0,[961]
 382,1,Tyramin,Tyramine,Tiramina,Tyramine,1.0,[1194]
-353,1,Paralytic shellfish poisoning (PSP),Intoxication paralysante par les mollusques,Intossicazione da molluschi paralizzanti,Paralytic shellfish poisoning (PSP),1.0,[1097]
+353,1,Paralytic shellfish poisoning (PSP),Intoxication paralysante par les mollusques,Intossicazione da molluschi paralizzanti,Paralytic shellfish poisoning (PSP),1.0,[1097]
 362,1,Reinigungsmittel und Desinfektionsmittel,Agents de nettoyage et désinfectants,Detergenti e disinfettanti,Cleaning agents and disinfectants,2.0,[1138]
 264,1,sucralose-6-acetate,sucralose-6-acétate,sucralose-6-acetato,sucralose-6-acetate,1.0,[543]
 307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,2.0,[825]
@@ -172,7 +172,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 440,1,Tellur,Tellure,Tellurio,Tellurium,2.0,[1541]
 445,1,Hämeisen,fer héminique,ferro ematico,Haem iron,2.0,[1575]
 110,1,Chlorkohlenwasserstoffe,Composés organochlorés,Organocloruro,Organochlorine compound,1.0,[1632]
-469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
+469,1,Decabromdiphenylether (DecaBDE),Éther décabromodiphénylique (DécaBDE),Decabromodifeniletere (DecaBDE),Decabromodiphenyl ether (DecaBDE),2.0,[1741]
 479,1,Acrylin,L'acroléine,L'acroleina,Acrolein,1.0,[1800]
 480,1,"2,4-Decadienal","2,4-décadiénal","2,4-decadienale","2,4-decadienal",1.0,[1800]
 481,1,4-Hydroxy-2-Nonenal (HNE),4-hydroxy-2-nonénal (HNE),4-idrossi-2-nonenale (HNE),4-hydroxy-2-nonenal (HNE),1.0,[1800]
@@ -209,7 +209,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 398,1,Butylhydroxyanisol,Hydroxyanisole butylé,Butilidrossianisolo,Butylated hydroxyanisole,1.0,[1319]
 500,1,Polychlorierte Diphenylether (PCDEs),Éthers diphényliques polychlorés (PCDEs),Eteri difenilici policlorurati (PCDEs),Polychlorinated Diphenyl Ethers (PCDEs),1.0,[1982]
 488,1,DDT,DDT,DDT,DDT,1.0,[1862]
-564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs), medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
+564,1,mittelkettige chlorierte Paraffine (MCCPs),paraffines chlorées à chaîne moyenne (MCCPs),paraffine clorurate a catena media (MCCPs),medium-chain chlorinated paraffins (MCCPs),1.0,[2548]
 574,1,Coffein,Caféine,Caffeina,Caffeine,1.0,[2644]
 585,1,Kalziumpropionat,propionate de calcium,propionato di calcio,Calcium propionate,1.0,[2774]
 476,1,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,Trypanosoma cruzi,2.0,[2891]
@@ -217,7 +217,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
-103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
+103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 263,1,benzol,benzène,benzene,benzene,1.0,[542]
 309,1,Hexahydrocannabinol,Hexahydrocannabinol,Esaidrocannabinolo,Hexahydrocannabinol,1.0,[845]
 186,1,Biogene Amine,Amines biogènes,Ammine biogene,Biogenic amines,2.0,[700]
@@ -246,7 +246,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[1974]
 492,1,Ibotensäure,Acide iboténique,Acido ibotenico,Ibotenic acid,1.0,[1915]
 505,1,polymere Flammschutzmittel,retardateurs de flamme polymères,ritardanti di fiamma polimerici,polymeric flame retardants,1.0,[2034]
-554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
+554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 192,1,2-tert-Butylhydrochinon,tert-Butylhydroquinone,Terz-butil-idrochinone,tert-butylhydroquinone,1.0,[214]
 67,1,Cannabigerol (CBG),Cannabigérol (CBG),Cannabigerolo (CBG),Cannabigerol (CBG),3.0,[199]
@@ -279,7 +279,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 400,1,Wasserstoffperoxid,Peroxyde d'hydrogène,Perossido di idrogeno,Hydrogen peroxide,2.0,[1788]
 475,1,Peroxyessigsäure,Acide peracétique,Acido peracetico,Peroxyacetic Acid,2.0,[1788]
 489,1,Nano-Agrochemikalien,Produits nanoagrochimiques,Prodotti nanoagrochimici,Nanoagrochemicals,2.0,[1882]
-487,1,Cl–N–NO2−,Cl–N–NO2−,Cl–N–NO2−,Cl–N–NO2− ,2.0,[1831]
+487,1,Cl–N–NO2−,Cl–N–NO2−,Cl–N–NO2−,Cl–N–NO2−,2.0,[1831]
 20,1,EHEC,EHEC,EHEC,EHEC,1.0,[2005]
 493,1,Chlorodifluormethan,Chlorodifluorométhane,Clorodifluorometano,Chlorodifluoromethane,1.0,[1918]
 499,1,Sulfate,Sulfate,Solfati,Sulfate,1.0,[1975]
@@ -304,7 +304,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 337,1,3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),3-monochloropropanediol esters (3-MCPDEs),1.0,[2367]
 533,1,Mikroalgen,Microalgue,microalghe,Microalgae,1.0,[2280]
 542,1,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,Cryptococcus laurentii,1.0,[2342]
-551,1,Akarizide,Acaricides,Acaricidi,Acaricides ,1.0,[2473]
+551,1,Akarizide,Acaricides,Acaricidi,Acaricides,1.0,[2473]
 552,1,Insektizide,Insektizide,Insetticidi,Insecticides,1.0,[2473]
 553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,2.0,[2655]

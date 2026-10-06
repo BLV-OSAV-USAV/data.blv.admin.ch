@@ -24,7 +24,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,22,Rind,Boeuf,Manzo,Beef,1.14,"[235, 362, 420, 992, 1113, 1269, 1333, 1393, 1479, 1482, 1547, 1561, 1608, 1660, 1785, 1784, 1794, 2257, 2379, 2454, 2446, 2785]"
 22,21,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",1.57,"[90, 194, 229, 354, 449, 935, 960, 799, 1032, 1078, 1084, 1325, 1286, 1627, 1671, 1661, 1814, 2014, 2140, 2554, 2915]"
 98,21,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.19,"[327, 890, 1036, 1294, 1322, 1327, 1331, 1321, 1469, 1445, 1584, 1643, 1644, 1666, 1801, 2445, 2493, 2478, 2625, 2774, 2973]"
-24,19,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti ",Fruiting Vegetables,1.11,"[36, 111, 123, 408, 515, 642, 673, 699, 678, 778, 1032, 1369, 1365, 1559, 1811, 2395, 2423, 2499, 2519]"
+24,19,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,1.11,"[36, 111, 123, 408, 515, 642, 673, 699, 678, 778, 1032, 1369, 1365, 1559, 1811, 2395, 2423, 2499, 2519]"
 133,19,Honig,Miel,Miele,Honey,1.37,"[225, 349, 379, 345, 754, 810, 817, 1506, 1558, 1774, 1971, 1868, 2098, 2158, 2201, 2211, 2735, 2830, 2940]"
 100,17,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.76,"[167, 172, 192, 739, 912, 1032, 1094, 1192, 1257, 1410, 621, 546, 475, 1917, 2013, 2487, 2664]"
 56,17,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.47,"[173, 226, 316, 394, 612, 834, 983, 1197, 1578, 1592, 1899, 2027, 2266, 2271, 2538, 2542, 2876]"
@@ -95,7 +95,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 145,1,Frucht- und Kräutertee (inkl. Pulver),Tisanes aux fruits et aux herbes (poudre incluse),Tè di frutti e di erbe (inclusa polvere),Herbal Tea  (Incl Powdered),2.0,[252]
 137,1,"Nicht spezifizierte Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade (inkl. Saucen)","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat non spécifiés (incl. sauces)","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato non specificati (incluse salse)",Unclassified And Other Chocolate Confectionery (Incl. Sauces),1.0,[277]
 68,1,Butter,Beurre,Burro,Butter,1.0,[359]
-132,1,Konfitüre und Marmelade,Confitures ,Marmellata,"Jam, Jelly, Marmelade",2.0,[417]
+132,1,Konfitüre und Marmelade,Confitures,Marmellata,"Jam, Jelly, Marmelade",2.0,[417]
 87,1,Spirituosen und Branntweine (z.B. Cognac),Spiritueux et eaux-de-vie (p.ex. cognac),Bevande spiritose e acquaviti (p.e. cognac),"Spirits, Brandy",1.0,[504]
 2,1,Kartoffeln und andere stärkehaltige Wurzelknollen,Pommes de terre et autres tubercules féculents,Patate e altri tuberi amidacei,Potatoes And Other Tubers,3.0,[861]
 90,1,"Nicht spezifizierte sowie gemischte Würzmittel, Gewürze, Hefen, Kräuter und Saucen","Assaisonnement, épices, levures, herbes et sauces non spécifiés ou mélangés","Condimenti, spezie, lieviti, erbe e salse non classificati o misti",Unclassified Or Combined Condiments And S,2.0,[983]
@@ -109,7 +109,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
 19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[1649]
 101,1,Nicht spezifizierte sowie gemischte salzige Snacks,Snacks salés non spécifiés ou mélangés,Spuntini salati non classificati o misti,Unclassified Or Combined Snacks,1.0,[1894]
-43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace) ","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
+43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace)","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
 84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
 113,1,Sorbet und Wasserglace,Sorbets et glaces à l'eau,Sorbetto e ghiacciolo,Sorbet/Water Ice,1.0,[2415]
 51,1,"Teige (z.B. Blätter-, Brot-, Mürbe-, Pizzateig)","Pâtes feuilletée, brisée, à pain, à pizza","Paste (per il pane, sfoglia, frolla, per pizza)","Dough And Pastry (Plain Puff, Short-Crust",1.0,[2727]
