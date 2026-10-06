@@ -77,7 +77,12 @@ def html_parser(path):
       encoding="utf-8",
       encoding_errors="replace",
     )
-    csv_file = csv_file.apply(lambda x: BeautifulSoup(x, 'html.parser').text if isinstance(x, str) else x)
+    csv_file = csv_file.apply(
+        lambda column: column.map(
+            lambda value: BeautifulSoup(value, 'html.parser').get_text()
+            if isinstance(value, str) else value
+        )
+    )
     return csv_file
 
 def format_single_line(entry):
