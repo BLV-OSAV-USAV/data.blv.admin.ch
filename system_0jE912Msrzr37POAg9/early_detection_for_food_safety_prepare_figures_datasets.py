@@ -5,6 +5,29 @@ import pandas as pd
 import numpy as np
 from datetime import date
 import os
+import re
+from html import unescape
+
+def remove_html_tags(value):
+    """Clean text while preserving numbers, missing values and ID lists."""
+    if not isinstance(value, str):
+        return value
+    # Keep word boundaries at line breaks and between HTML paragraphs.
+    value = re.sub(r"<\s*(?:br\s*/?|/?(?:p|div|li))\s*>", " ", value, flags=re.IGNORECASE)
+    value = re.sub(r"<!--[\s\S]*?-->|</?[A-Za-z][^>]*>", "", value)
+    return unescape(value).replace("\xa0", " ").strip()
+
+
+def export_csv(df, output_file_path):
+    """Remove HTML from text cells and column names before every CSV export."""
+    cleaned = df.copy()
+    for position, dtype in enumerate(cleaned.dtypes):
+        if pd.api.types.is_object_dtype(dtype) or pd.api.types.is_string_dtype(dtype):
+            # Scalar checks avoid converting non-text values in object columns.
+            cleaned.isetitem(position, cleaned.iloc[:, position].map(remove_html_tags))
+    cleaned.columns = [remove_html_tags(column) for column in cleaned.columns]
+    cleaned.to_csv(output_file_path, index=False)
+
 
 def count_gefahr(timeFilter, bereichName, lg):
     """
@@ -78,12 +101,8 @@ def count_gefahr(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/gefahr_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = gefahr_counts.select_dtypes(include=["object", "string"]).columns
-    gefahr_counts[text_cols] = gefahr_counts[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
 
-    gefahr_counts.to_csv(output_file_path, index=False)
+    export_csv(gefahr_counts, output_file_path)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXgefahr, treiberXmeldung, on='meldung_id')
@@ -101,12 +120,8 @@ def count_gefahr(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/gefahr_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_gefahr.select_dtypes(include=["object", "string"]).columns
-    result_df_gefahr[text_cols] = result_df_gefahr[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
 
-    result_df_gefahr.to_csv(output_file_path, index=False)
+    export_csv(result_df_gefahr, output_file_path)
 
 
 def count_matrix(timeFilter, bereichName, lg):
@@ -181,12 +196,8 @@ def count_matrix(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/matrix_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = matrix_counts.select_dtypes(include=["object", "string"]).columns
-    matrix_counts[text_cols] = matrix_counts[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
     
-    matrix_counts.to_csv(output_file_path, index=False)
+    export_csv(matrix_counts, output_file_path)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXmatrix, treiberXmeldung, on='meldung_id')
@@ -204,12 +215,8 @@ def count_matrix(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/treiber/{bereichName}/matrix_treiber_counts_{lg}_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_matrix.select_dtypes(include=["object", "string"]).columns
-    result_df_matrix[text_cols] = result_df_matrix[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
 
-    result_df_matrix.to_csv(output_file_path, index=False)
+    export_csv(result_df_matrix, output_file_path)
 
 def count_steckbrief(timeFilter, bereichName, lg):
     """
@@ -295,12 +302,8 @@ def count_steckbrief(timeFilter, bereichName, lg):
     output_file_path = f'./ogd/early_detection_for_food_safety/base/{bereichName}/steckbrief_counts_{timeFilter}.csv'
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = steckbrief_counts.select_dtypes(include=["object", "string"]).columns
-    steckbrief_counts[text_cols] = steckbrief_counts[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
 
-    steckbrief_counts.to_csv(output_file_path, index=False)
+    export_csv(steckbrief_counts, output_file_path)
 
     # Merge and count treiber_id occurrences
     merged_df_treiber = pd.merge(meldungXsteckbrief, treiberXmeldung, on='meldung_id')
@@ -320,13 +323,9 @@ def count_steckbrief(timeFilter, bereichName, lg):
     # Create the directory if it doesn't exist
     os.makedirs(os.path.dirname(output_file_path), exist_ok=True)
 
-    text_cols = result_df_steckbrief.select_dtypes(include=["object", "string"]).columns
-    result_df_steckbrief[text_cols] = result_df_steckbrief[text_cols].apply(
-        lambda col: col.str.replace(r"<.*?>", "", regex=True)
-    )
 
     # Save the result to a CSV file
-    result_df_steckbrief.to_csv(output_file_path, index=False)
+    export_csv(result_df_steckbrief, output_file_path)
 
 
 def list_meldung_pro_Gefahr(id):
