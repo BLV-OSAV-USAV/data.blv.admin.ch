@@ -4,7 +4,6 @@ from ftplib import FTP
 from bs4 import BeautifulSoup
 import pandas as pd
 
-
 ############################################################
 #################### DOWNLOAD FTP FILES ####################
 ############################################################
