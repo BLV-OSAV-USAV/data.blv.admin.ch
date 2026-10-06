@@ -1,5 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 605,2,Allergen,Allergène,Allergene,Allergen,2.0,"[2993, 2999]"
+126,2,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,"[3009, 2996]"
 127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[3001]
 107,1,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,[2992]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3001]
@@ -17,7 +18,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[2994]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[3008]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[3006]
-126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[2996]
 42,1,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.0,[2996]
 610,1,Perfluorbutansäure (PFBA),Acide perfluorobutanoïque (PFBA),Acido perfluorobutanoico (PFBA),Perfluorobutanoic acid (PFBA),1.0,[2996]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,[3005]
