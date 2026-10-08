@@ -17,9 +17,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 63,14,Antibiotika,antibiotiques,antibiotici,antibiotics,1.64,"[74, 438, 133, 307, 139, 201, 2041, 2685, 73, 203, 67, 2118, 1832, 2325]"
 42,14,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.21,"[1496, 2561, 1854, 2874, 2899, 2947, 2544, 2204, 2598, 2681, 2996, 2129, 2481, 2437]"
 230,12,Nitrate,Nitrate,Nitrato,Nitrate,1.42,"[516, 351, 2123, 2888, 750, 394, 2362, 633, 1577, 2237, 2907, 1810]"
+503,12,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.25,"[2282, 2017, 2985, 3012, 2891, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
 150,11,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.27,"[129, 792, 1548, 2628, 425, 1413, 666, 871, 1407, 1865, 2908]"
 298,11,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.36,"[728, 1529, 1979, 2282, 2017, 916, 901, 726, 2246, 2366, 2878]"
-503,11,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.18,"[2282, 2017, 2985, 2891, 2273, 2749, 2366, 2427, 2593, 2794, 2306]"
 197,9,Nitrite,Nitrite,Nitrito,Nitrite,1.56,"[226, 316, 516, 2888, 259, 750, 394, 633, 1577]"
 130,9,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[1970, 430, 1698, 2637, 953, 1592, 1988, 2384, 2617]"
 203,9,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.44,"[2282, 2450, 1619, 2017, 916, 1591, 236, 2366, 2306]"
@@ -80,6 +80,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 62,3,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.67,"[524, 1204, 53]"
 376,3,Histamin,Histamine,Istamina,Histamine,2.0,"[1185, 2887, 2941]"
 285,3,MOAH,MOAH,MOAH,MOAH,1.0,"[674, 2730, 1942]"
+224,3,Perchlorat,Perchlorate,Perclorato,perchlorate,1.33,"[1539, 319, 3022]"
 422,3,Muscimol,MuscimolE,Muscimolo,Muscimol,2.0,"[1590, 1915, 1475]"
 461,3,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[1696, 2501, 2623]"
 137,3,Klimawandel,Changement climatique,Cambiamento climatico,Climate change,1.33,"[1927, 2002, 1673]"
@@ -90,6 +91,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 115,3,Antimon,Antimoine,Antimonio,Antimony,1.0,"[2657, 130, 1898]"
 525,3,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.33,"[2985, 2213, 2306]"
 172,3,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.33,"[2985, 1591, 2306]"
+61,3,Atropin,atropine,atropina,atropine,1.67,"[3011, 1284, 1087]"
 318,3,Diethylhexylphthalat (DEHP),phtalate de di-2-éthylhexyle (DEHP),Di-2-etilesilftalato (DEHP),diethylhexyl phthalate (DEHP),2.0,"[891, 2144, 2216]"
 324,3,Polychlorierte Dibenzodioxine und Dibenzofurane (PCDD/PCDF),Polychlorodibenzo-p-dioxine (PCDD/PCDF),policloro-dibenzo-p-diossine (PCDD/PCDF),Polychlorinated dibenzodioxins (PCDD/PCDF),2.0,"[1092, 953, 1668]"
 473,3,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.33,"[2176, 1787, 2821]"
@@ -114,7 +116,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 371,2,Heterozyklische aromatische Amine,Amines aromatiques hétérocycliques,Ammine aromatiche eterocicliche,Heterocyclic Aromatic Amines,2.0,"[1159, 2433]"
 432,2,Zink,Zinc,Zinco,Zinc,1.5,"[1521, 1774]"
 59,2,Tenuazonsäure (TeA),acide ténuazonique (TeA),acido tenuazonico (TeA),tenuazonic acid (TeA),1.0,"[1567, 1890]"
-224,2,Perchlorat,Perchlorate,Perclorato,perchlorate,1.5,"[1539, 319]"
 178,2,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,Fusarium sambucinum,1.5,"[1653, 99]"
 490,2,Acrolein,Acroléine,Acroleina,acrolein,1.0,"[1902, 2893]"
 453,2,Trihalogenmethane,Trihalogénométhane,Trialometano,trihalomethanes,1.0,"[2010, 1616]"
@@ -127,7 +128,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 394,2,Pyrrolizidinalkaloide,Alcaloïde pyrrolizidinique,Alcaloide pirrolizidinico,Pyrrolizidine alkaloids,1.5,"[1619, 1284]"
 454,2,Farbstoffe,Colorant,Colorante,Dye,1.0,"[1619, 2106]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
-61,2,Atropin,atropine,atropina,atropine,2.0,"[1284, 1087]"
+352,2,Scopolamin,scopolamine,scopolamina,scopolamine,1.5,"[3011, 1087]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 313,2,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,"[1160, 871]"
@@ -261,7 +262,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 278,1,Morchella sextelata,Morchella sextelata,Morchella sextelata,Morchella sextelata,2.0,[650]
 311,1,Ätherische Öle,Huile essentielle,Olio essenziale,essential oil,0.0,[853]
 322,1,Dimethylmonothioarsenate ((DMMTA),Dimethylmonothioarsenate (DMMTA),Dimethylmonothioarsenate (DMMTA),Dimethylmonothioarsenate (DMMTA),1.0,[933]
-352,1,Scopolamin,scopolamine,scopolamina,scopolamine,2.0,[1087]
 364,1,Maillard-Reaktion,Réaction de Maillard,Reazione di Maillard,Maillard reaction,2.0,[1140]
 54,1,seltene Metalle,métaux rares,metalli rari,rare metals,2.0,[1216]
 387,1,Xylella,Xylella,Xylella,Xylella,1.0,[1240]
