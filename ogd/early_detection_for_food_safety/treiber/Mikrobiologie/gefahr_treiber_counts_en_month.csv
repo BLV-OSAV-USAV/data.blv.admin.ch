@@ -1,12 +1,14 @@
-gefahr_id,Climate change,New foods and food production systems,Microbial evolution and antibiotic resistance
-9,0,0,1
-19,0,0,1
-26,1,0,0
-35,1,0,0
-86,1,0,0
-87,0,0,1
-88,0,0,1
-93,1,0,0
-121,1,0,0
-241,0,1,0
-244,0,0,1
+gefahr_id,Climate change,Technological innovations and scientific advances,New foods and food production systems,Microbial evolution and antibiotic resistance
+2,0,0,0,1
+9,0,0,0,1
+19,0,0,0,1
+26,1,1,0,0
+35,1,0,0,0
+86,1,1,0,0
+87,0,0,0,1
+88,0,0,0,1
+93,1,0,0,0
+119,0,1,0,0
+121,1,0,0,0
+241,0,0,1,0
+244,0,0,0,1

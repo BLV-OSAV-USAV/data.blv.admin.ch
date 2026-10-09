@@ -21,9 +21,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 150,11,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.27,"[129, 792, 1548, 2628, 425, 1413, 666, 871, 1407, 1865, 2908]"
 298,11,Deoxynivalenol (DON),Déoxynivalénol (DON),Deossinivalenolo (DON),Deoxynivalenol (DON),1.36,"[728, 1529, 1979, 2282, 2017, 916, 901, 726, 2246, 2366, 2878]"
 197,9,Nitrite,Nitrite,Nitrito,Nitrite,1.56,"[226, 316, 516, 2888, 259, 750, 394, 633, 1577]"
+209,9,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.33,"[258, 921, 2639, 2891, 1027, 1172, 2970, 3018, 2215]"
 130,9,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.33,"[1970, 430, 1698, 2637, 953, 1592, 1988, 2384, 2617]"
 203,9,Ochratoxin A (OTA),Ochratoxine A (OTA),Ocratossina A (OTA),Ochratoxin A (OTA),1.44,"[2282, 2450, 1619, 2017, 916, 1591, 236, 2366, 2306]"
-209,8,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.25,"[258, 921, 2639, 2891, 1027, 1172, 2970, 2215]"
 45,8,Aspartam,Aspartam,Aspartam,Aspartam,1.25,"[809, 813, 602, 2297, 2578, 1721, 2480, 2615]"
 185,8,Mineralöl,Huile minérale,Olio minerale,Mineral oil,1.38,"[1138, 1094, 812, 359, 2660, 2166, 156, 989]"
 363,8,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.38,"[1138, 2278, 1163, 1408, 1467, 1755, 2620, 2625]"
@@ -130,6 +130,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 352,2,Scopolamin,scopolamine,scopolamina,scopolamine,1.5,"[3011, 1087]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
+502,2,Glycerin,Glycérine,Glicerina,Glycerin,1.5,"[3021, 2008]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 313,2,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,"[1160, 871]"
 417,2,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.5,"[1465, 2979]"
@@ -217,6 +218,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
+611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
 247,1,Calciumcarbid,Carbure de calcium,Carburo di calcio,Calcium carbide,2.0,[461]
 103,1,GMO (genetisch modifizierter Organismus),OGM (organisme génétiquement modifié),OGM (organismo geneticamente modificato),Genetically modified organism (GMO),1.0,[138]
 263,1,benzol,benzène,benzene,benzene,1.0,[542]
@@ -238,7 +240,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 416,1,Polyethylen niedriger Dichte (LDPE),polyéthylène basse densité (LDPE),polietilene a bassa densità (LDPE),Low density polyethylene (LDPE),2.0,[1465]
 419,1,polyurethane (PUR),polyuréthane (PUR),Poliuretano (PUR),polyurethane (PUR),2.0,[1465]
 420,1,Polyvinylchlorid (PVC),Polychlorure de vinyle (PVC),Polivinilcloruro (PVC),polyvinyl chloride (PVC),2.0,[1465]
-502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]

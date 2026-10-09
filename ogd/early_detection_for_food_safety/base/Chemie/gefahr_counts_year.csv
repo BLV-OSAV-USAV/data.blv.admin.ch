@@ -11,12 +11,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2944, 2695]"
 166,6,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2486, 2770, 2738, 2556, 2569, 2617]"
 503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2985, 3012, 2891, 2749, 2593, 2794]"
+209,4,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.75,"[2639, 2891, 2970, 3018]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
 180,4,Phthalate,phtalates,ftalati,phthalates,1.25,"[2770, 2872, 2738, 2562]"
 128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2557, 2589, 2476, 2478]"
 548,3,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.33,"[2608, 2479, 2617]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 2977]"
-209,3,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.67,"[2639, 2891, 2970]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 3001]"
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.67,"[2691, 2690, 2967]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.33,"[2998, 2683, 2611]"
@@ -78,6 +78,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
+502,1,Glycerin,Glycérine,Glicerina,Glycerin,1.0,[3021]
+611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 181,1,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,2.0,[2566]
 63,1,Antibiotika,antibiotiques,antibiotici,antibiotics,1.0,[2685]
