@@ -1,10 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[3016, 3025]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[3016, 3024]"
-119,1,Norovirus,Norovirus,Norovirus,Norovirus,1.0,[3016]
+2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[3025, 3017]"
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[3016]
 287,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[3019]
+612,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,2.0,[3026]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[3023]
-238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[3013]
+120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[3025]
+540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),2.0,[3025]
+121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,2.0,[3025]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[3015]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[3015]
-2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[3017]

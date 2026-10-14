@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 1,5,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.2,"[3001, 3009, 3021, 3016, 3000]"
 6,3,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.33,"[2998, 3022, 3018]"
+120,3,Schwein,Porc,Maiale,Pork,1.33,"[3008, 3017, 3025]"
 54,2,Geflügel,Volailles,Pollame,Poultry,2.0,"[3002, 3005]"
-120,2,Schwein,Porc,Maiale,Pork,1.0,"[3008, 3017]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.5,"[3019, 3024]"
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[3007]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[3006]
@@ -16,3 +16,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3020]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",2.0,[3018]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[3023]
+24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
