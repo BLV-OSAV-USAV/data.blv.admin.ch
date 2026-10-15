@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,31,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.55,"[2488, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 3003, 3016, 2572, 2886, 2762, 2880, 3024, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2652, 2836]"
-125,30,Mikroplastik,microplastiques,microplastica,microplastics,1.1,"[2490, 2601, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2476, 2573, 2672]"
+26,32,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.56,"[2488, 2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 2906, 2981, 2969, 2971, 3003, 3016, 2572, 2886, 2762, 2880, 3024, 3027, 2711, 2510, 2661, 2854, 2879, 2957, 2973, 2652, 2836]"
+125,29,Mikroplastik,microplastiques,microplastica,microplastics,1.1,"[2490, 2601, 2698, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2573, 2672]"
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2725, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 3009, 2996]"
 93,19,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.37,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 3003, 2664, 3023, 2570, 2554, 2661, 2808, 2803, 2577, 2514, 2650]"
 244,18,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.11,"[2604, 2882, 2911, 2581, 2592, 2654, 2760, 2701, 2705, 2508, 2568, 2535, 2606, 2629, 2684, 3015, 2748, 2740]"
@@ -22,9 +22,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 166,6,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2486, 2770, 2738, 2556, 2569, 2617]"
 503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2985, 3012, 2891, 2749, 2593, 2794]"
 145,6,Mangelernährung,Malnutrition,Malnutrizione,Malnutrition,1.0,"[2677, 2607, 2571, 2588, 2984, 2622]"
-128,5,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2557, 2589, 2476, 2478]"
 181,5,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.4,"[2484, 2566, 2564, 2668, 2678]"
 120,4,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.5,"[2534, 2891, 3025, 2841]"
+128,4,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2487, 2557, 2589, 2478]"
 297,4,Gluten,gluten,glutine,gluten,1.75,"[2506, 2872, 2496, 2527]"
 90,4,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,1.5,"[2522, 2919, 2661, 2655]"
 87,4,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.5,"[2857, 3002, 2516, 2951]"
@@ -54,6 +54,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2888, 2876, 2907]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.33,"[2998, 2683, 2611]"
 7,3,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.67,"[2891, 2959, 2937]"
+114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.67,"[3031, 3030, 2629]"
 361,3,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[2494, 2523, 2827]"
 63,3,Antibiotika,antibiotiques,antibiotici,antibiotics,1.33,"[2685, 2524, 2748]"
 123,3,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2640, 2808, 2650]"
@@ -139,6 +140,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 502,1,Glycerin,Glycérine,Glicerina,Glycerin,1.0,[3021]
 611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
 287,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[3019]
+613,1,"1,2-Cyclohexandicarbonsäurediisononylester","Cyclohexane-1,2-dicarboxylate de diisononyle","cicloesano-1,2-dicarbossilato di diisononile","Di(isononyl) cyclohexane-1,2-dicarboxylate",2.0,[3029]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
 239,1,enteroinvasive Escherichia coli (EIEC),Escherichia coli entéro-invasif (EIEC),Escherichia coli enteroinvasiva (EIEC),enteroinvasive Escherichia coli (EIEC),1.0,[2680]
 216,1,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,[2738]
@@ -157,7 +159,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
-114,1,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.0,[2629]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
 586,1,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,Aspergillus quadrilineatus,1.0,[2794]
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
