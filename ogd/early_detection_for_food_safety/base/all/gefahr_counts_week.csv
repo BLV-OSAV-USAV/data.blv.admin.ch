@@ -1,11 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,"[3024, 3027]"
 114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,"[3031, 3030]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[3023, 3036]"
 613,1,"1,2-Cyclohexandicarbonsäurediisononylester","Cyclohexane-1,2-dicarboxylate de diisononyle","cicloesano-1,2-dicarbossilato di diisononile","Di(isononyl) cyclohexane-1,2-dicarboxylate",2.0,[3029]
 612,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,2.0,[3026]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,[3023]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),2.0,[3025]
 119,1,Norovirus,Norovirus,Norovirus,Norovirus,2.0,[3025]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[3025]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),2.0,[3025]
 121,1,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,2.0,[3025]
+94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[3036]
+9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[3034]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[3034]
+614,1,Fettsäurechlorhydrine,Chlorohydrines d'acides gras,Cloroidrine degli acidi grassi,Fatty acid chlorohydrins,2.0,[3035]
