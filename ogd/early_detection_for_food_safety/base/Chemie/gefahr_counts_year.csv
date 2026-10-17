@@ -6,26 +6,25 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,11,Arsen,Arsenic,Arsenico,Arsenic,1.18,"[2639, 2673, 2718, 2547, 2648, 2659, 2944, 2757, 2970, 2517, 2663]"
 102,10,Blei,Plomb,Piombo,Lead,1.4,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2558]"
 518,9,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.22,"[2503, 2872, 2873, 2942, 3001, 2495, 2513, 2679, 2518]"
-42,9,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.22,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2996, 2481]"
 165,8,Cadmium,Cadmium,Cadmio,Cadmium,1.12,"[2503, 2639, 2691, 2718, 2659, 2944, 2778, 2819]"
+42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2874, 2899, 2947, 2544, 2598, 2681, 2996]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2492, 2691, 2718, 2659, 2944, 2695]"
 166,6,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2486, 2770, 2738, 2556, 2569, 2617]"
 503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2985, 3012, 2891, 2749, 2593, 2794]"
+180,5,Phthalate,phtalates,ftalati,phthalates,1.2,"[2770, 2872, 3039, 2738, 2562]"
 209,4,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.75,"[2639, 2891, 2970, 3018]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
-180,4,Phthalate,phtalates,ftalati,phthalates,1.25,"[2770, 2872, 2738, 2562]"
-548,3,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.33,"[2608, 2479, 2617]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 2977]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 3001]"
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.67,"[2691, 2690, 2967]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.33,"[2998, 2683, 2611]"
-45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2480, 2615]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
 557,2,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,"[2490, 2979]"
 565,2,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.5,"[2552, 2962]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 2840]"
+548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2718]"
 46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,"[2699, 2887]"
@@ -35,17 +34,16 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 376,2,Histamin,Histamine,Istamina,Histamine,2.5,"[2887, 2941]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2888, 2907]"
-98,2,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,"[2942, 2479]"
-292,2,Glycerin,Glycérol,Glicerolo,Glycerol,1.5,"[2997, 2861]"
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
+45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2615]"
 450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2509, 2551]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2557, 2589]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
+292,2,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,"[2861, 2997]"
 117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
-379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,"[2989, 2482]"
 555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
@@ -64,6 +62,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
 606,1,Capsaicin,Capsaïcine,Capsaicina,Capsaicin,1.0,[2948]
+98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[2942]
 525,1,Cyclopiazonsäure,Acide cyclopiazonique,Acido ciclopiazònico,cyclopiazonic acid,1.0,[2985]
 172,1,Sterigmatocystin,stérigmatocystine,Sterigmatocistina,Sterigmatocystin,1.0,[2985]
 58,1,Melatonin,Mélatonine,Melatonina,Melatonin,1.0,[2985]
@@ -78,7 +77,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 7,1,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,2.0,[2891]
 104,1,Enteroaggregative Escherichia coli (EAEC),Escherichia coli entéro-agrégatif,Escherichia coli enteroaggregativo,Enteroaggregative Escherichia coli (EAEC),2.0,[2891]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[2891]
-502,1,Glycerin,Glycérine,Glicerina,Glycerin,1.0,[3021]
 611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
 613,1,"1,2-Cyclohexandicarbonsäurediisononylester","Cyclohexane-1,2-dicarboxylate de diisononyle","cicloesano-1,2-dicarbossilato di diisononile","Di(isononyl) cyclohexane-1,2-dicarboxylate",2.0,[3029]
 563,1,Diazepam,Diazépam,Diazepam,Diazepam,1.0,[2541]
@@ -105,11 +103,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.0,[2979]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.0,[2979]
+379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[2989]
 224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[3022]
 614,1,Fettsäurechlorhydrine,Chlorohydrines d'acides gras,Cloroidrine degli acidi grassi,Fatty acid chlorohydrins,2.0,[3035]
 610,1,Perfluorbutansäure (PFBA),Acide perfluorobutanoïque (PFBA),Acido perfluorobutanoico (PFBA),Perfluorobutanoic acid (PFBA),1.0,[2996]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]
-553,1,Phthalsäureester (PAEs),Esters de l’acide phtalique (PAEs),Esteri dell’acido ftalico (PAEs),phthalic acid esters (PAEs),1.0,[2482]
 90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,2.0,[2655]
 276,1,Phytohämagglutinin,Phytohémagglutinine,Fitoemoagglutinina,Phytohaemagglutinin,1.0,[2665]
 583,1,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,Crataegus mexicana,1.0,[2747]

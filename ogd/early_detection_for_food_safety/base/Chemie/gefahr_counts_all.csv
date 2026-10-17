@@ -13,7 +13,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 127,18,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.44,"[246, 389, 58, 2735, 2921, 3001, 931, 1713, 2151, 377, 296, 1668, 2182, 2140, 2241, 1861, 1878, 2406]"
 246,18,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.39,"[591, 1480, 1902, 1920, 967, 1639, 2691, 2690, 2967, 718, 962, 1172, 1593, 1770, 1894, 1858, 2420, 2367]"
 518,18,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.33,"[2503, 2456, 2872, 2873, 2942, 3001, 2392, 2389, 2358, 2413, 2495, 2513, 2679, 2193, 2175, 2169, 2331, 2518]"
-180,16,Phthalate,phtalates,ftalati,phthalates,1.31,"[187, 277, 1365, 295, 1020, 2770, 2872, 542, 2738, 1136, 2562, 779, 1283, 1628, 1755, 2426]"
+180,17,Phthalate,phtalates,ftalati,phthalates,1.29,"[187, 277, 1365, 295, 1020, 2770, 2872, 3039, 542, 2738, 1136, 2562, 779, 1283, 1628, 1755, 2426]"
 63,14,Antibiotika,antibiotiques,antibiotici,antibiotics,1.64,"[74, 438, 133, 307, 139, 201, 2041, 2685, 73, 203, 67, 2118, 1832, 2325]"
 42,14,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.21,"[1496, 2561, 1854, 2874, 2899, 2947, 2544, 2204, 2598, 2681, 2996, 2129, 2481, 2437]"
 230,12,Nitrate,Nitrate,Nitrato,Nitrate,1.42,"[516, 351, 2123, 2888, 750, 394, 2362, 633, 1577, 2237, 2907, 1810]"
@@ -72,9 +72,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 289,4,HT-2,HT-2,HT-2,HT-2,1.25,"[2731, 1675, 682, 1998]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
 55,4,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.75,"[2998, 735, 2683, 2611]"
-292,4,Glycerin,Glycérol,Glicerolo,Glycerol,1.25,"[2997, 2861, 708, 2057]"
 174,4,Fungizid,Fongicide,Fungicida,Fungicide,1.25,"[426, 525, 377, 2473]"
 402,4,Thallium,Thallium,Tallio,Thallium,1.0,"[1352, 1531, 1898, 2100]"
+292,4,Glycerin,Glycérol,Glicerolo,Glycerol,1.5,"[2861, 708, 2997, 2057]"
 216,3,Bis(2-ethylhexyl) phthalate (DEHP),Phtalate de bis(2-éthylhexyle) (DEHP),Di-2-etilesilftalato (DEHP),Bis(2-ethylhexyl) phthalate (DEHP),1.0,"[277, 2738, 2327]"
 221,3,kurzkettige Chlorparaffine (SCCP),paraffines chlorées à chaîne courte (PCCC),paraffine clorurate a catena corta (PCCC),short-chain chlorinated paraffins (SCCP),1.33,"[300, 534, 2548]"
 62,3,Tierarzneimittel,les médicaments pour animaux,farmaci per animali,animal drugs,1.67,"[524, 1204, 53]"
@@ -130,7 +130,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 352,2,Scopolamin,scopolamine,scopolamina,scopolamine,1.5,"[3011, 1087]"
 535,2,Hexan,Hexane,Esano,Hexane,1.0,"[2296, 2414]"
-502,2,Glycerin,Glycérine,Glicerina,Glycerin,1.5,"[3021, 2008]"
 262,2,formaldehyd,formaldéhyde,formaldeide,formaldehyde,1.0,"[542, 1518]"
 313,2,"2,4-Dichlorphenoxyessigsäure","Acide 2,4-dichlorophénoxyacétique","Acido 2,4-diclorofenossiacetico","2,4-dichlorophenoxyacetic acid",1.0,"[1160, 871]"
 417,2,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.5,"[1465, 2979]"
@@ -241,6 +240,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 416,1,Polyethylen niedriger Dichte (LDPE),polyéthylène basse densité (LDPE),polietilene a bassa densità (LDPE),Low density polyethylene (LDPE),2.0,[1465]
 419,1,polyurethane (PUR),polyuréthane (PUR),Poliuretano (PUR),polyurethane (PUR),2.0,[1465]
 420,1,Polyvinylchlorid (PVC),Polychlorure de vinyle (PVC),Polivinilcloruro (PVC),polyvinyl chloride (PVC),2.0,[1465]
+502,1,Glycerin,Glycérine,Glicerina,Glycerin,2.0,[2008]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 449,1,Patulin,Patuline,Patulina,Patulin,2.0,[1591]
 443,1,5-hydroxymethylfurfural,5-hydroxyméthylfurfurale,5-Idrossimetilfurfurale,5-hydroxymethylfurfural,2.0,[1558]

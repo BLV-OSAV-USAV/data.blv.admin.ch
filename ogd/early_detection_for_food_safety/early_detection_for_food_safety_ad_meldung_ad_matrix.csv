@@ -36,7 +36,6 @@
 252#44#18#aliments sucrés
 254#30#1#ultraprocessed food
 255#39#1#ultraprocessed foods
-257#60#1#ultraprocessed food
 258#53#9#
 259#21#34#Bananen
 261#43#39#
@@ -1478,7 +1477,6 @@
 4543#2139#42#plant based cheese alternatives
 4546#2166#67#Olive oil
 4547#2172#18#
-4553#2174#54#Chicken meat 
 4559#2179#18#
 4561#2180#48#
 4569#2184#148#
@@ -2060,7 +2058,6 @@
 6418#2876#56#
 6419#2876#80#
 6420#2876#148#
-6422#2797#9#
 6435#2882#18#
 6436#2878#7#Wheat
 6437#2879#27#Enoki
@@ -2150,22 +2147,16 @@
 6705#2996#81#Tea (fresh leaves, Camellia sinensis)
 6706#2980#1#Reused liquid frying batter; battered non-seafood : chicken, mushroom, zucchini
 6712#3002#54#
-6714#3005#54#
 6719#3007#93#
 6721#3001#1#Biodegradable plastic
-6722#3008#120#
 6725#3006#5#Pumpkin seeds
-6726#2997#45#Slush ice drinks
-6727#2997#13#packaged cakes and pastries
 6732#3009#1#Insects
-6735#3013#9#Blue mussles
 6736#3012#46#Maize
 6737#3011#32#Soybeans
 6738#3010#23#Chlorella vulgaris
 6739#3010#100#
 6749#3022#6#Follow-on formula
 6750#3015#47#
-6751#3021#1#
 6754#3019#8#Poulet
 6755#3020#105#Goat milk
 6756#3020#42#Goat cheese
@@ -2188,5 +2179,16 @@
 6796#3034#54#
 6798#3035#5#
 6799#3036#8#
-6801#3038#1#
 6802#3037#1#Fertilizer
+6804#2797#9#
+6805#3005#54#
+6806#3008#120#
+6809#3013#9#Blue mussles
+6810#3021#1#
+6816#60#1#ultraprocessed food
+6817#2997#45#Slush ice drinks
+6818#2997#13#packaged cakes and pastries
+6820#2174#54#Chicken meat 
+6821#3040#120#
+6822#3038#1#
+6823#3039#1#Food-contact materials
