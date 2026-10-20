@@ -1,24 +1,24 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[3016, 3024, 3003, 3027]"
-93,3,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[3003, 3023, 3036]"
-244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.67,"[3040, 3034, 3015]"
+93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[3003, 3043, 3023, 3036]"
+244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.5,"[3040, 3043, 3034, 3015]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[3016, 3025]"
 86,2,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,"[3016, 3003]"
 114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,"[3031, 3030]"
 121,2,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.5,"[3003, 3025]"
+94,2,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,"[3043, 3036]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[3025, 3017]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,"[3008, 3034]"
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[3002]
 287,1,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,[3019]
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[3003]
-238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[3013]
 15,1,ESKAPE,ESKAPE,ESKAPE,ESKAPE,2.0,[3040]
 1,1,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,2.0,[3040]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[3038]
 612,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,2.0,[3026]
+238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[3013]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[3025]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),2.0,[3025]
 348,1,Salmonella enterica,Salmonella enterica,Salmonella enterica,Salmonella enterica,1.0,[3006]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[3036]
 19,1,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,2.0,[3015]
 88,1,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,2.0,[3005]

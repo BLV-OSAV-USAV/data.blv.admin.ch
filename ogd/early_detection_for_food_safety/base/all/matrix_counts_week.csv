@@ -1,9 +1,9 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.75,"[3024, 3030, 3031, 3036]"
 1,4,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.25,"[3029, 3032, 3038, 3039]"
-120,2,Schwein,Porc,Maiale,Pork,2.0,"[3025, 3040]"
+120,3,Schwein,Porc,Maiale,Pork,1.67,"[3025, 3040, 3043]"
+8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.67,"[3030, 3031, 3036]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042]"
+54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[3034, 3041]"
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]
-3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[3033]
-54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[3034]
 5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",2.0,[3035]

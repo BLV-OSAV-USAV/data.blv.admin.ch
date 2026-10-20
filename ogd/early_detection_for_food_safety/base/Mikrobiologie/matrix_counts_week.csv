@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-8,4,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.75,"[3024, 3030, 3031, 3036]"
-120,2,Schwein,Porc,Maiale,Pork,2.0,"[3025, 3040]"
+120,3,Schwein,Porc,Maiale,Pork,1.67,"[3025, 3040, 3043]"
+8,3,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.67,"[3030, 3031, 3036]"
 1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[3032, 3038]"
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]

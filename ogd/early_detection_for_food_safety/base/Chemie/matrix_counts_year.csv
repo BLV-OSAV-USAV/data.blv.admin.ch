@@ -3,10 +3,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,13,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.23,"[2495, 2617, 2657, 2730, 2737, 2872, 2952, 2989, 3001, 3009, 3000, 3029, 3039]"
 7,9,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.11,"[2679, 2682, 2731, 2778, 2749, 2821, 2878, 2942, 2944]"
 6,8,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.12,"[2491, 2525, 2509, 2593, 2639, 2998, 3022, 3018]"
+3,8,Gemüse,Légumes,Ortaggi,Vegetables,1.12,"[2665, 2690, 2718, 2741, 2838, 2874, 2947, 3042]"
 9,7,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[2541, 2490, 2552, 2531, 2673, 2852, 2853]"
 82,7,Wasser,Eau,Acqua,Waters,1.29,"[2533, 2605, 2602, 2757, 2873, 2877, 2947]"
 34,7,Früchte,Fruits,Frutta,Fruits,1.14,"[2600, 2662, 2741, 2838, 2874, 2947, 2985]"
-3,7,Gemüse,Légumes,Ortaggi,Vegetables,1.14,"[2665, 2690, 2718, 2741, 2838, 2874, 2947]"
 60,4,Fische,Poissons,Pesce,Fish,1.25,"[2616, 2647, 2699, 2846]"
 5,4,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.25,"[2794, 2893, 2909, 3035]"
 67,3,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2548, 2642, 2979]"
@@ -40,3 +40,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3020]
 45,1,Speiseeis (inkl. Sorbet und Wasserglace),"Glaces, substituts de glace, sorbets et glaces à l'eau",Gelato (inclusi sorbetti e ghiaccioli),"Ice Cream And Substitutes, Sorbet And Wat",2.0,[2997]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[2997]
+54,1,Geflügel,Volailles,Pollame,Poultry,1.0,[3041]
