@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.14,"[3001, 3009, 3016, 3029, 3032, 3038, 3039]"
-8,5,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.6,"[3019, 3024, 3030, 3031, 3036]"
-120,5,Schwein,Porc,Maiale,Pork,1.4,"[3017, 3025, 3008, 3040, 3043]"
-54,4,Geflügel,Volailles,Pollame,Poultry,1.5,"[3002, 3034, 3005, 3041]"
+8,6,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.5,"[3019, 3024, 3030, 3031, 3036, 3047]"
+120,6,Schwein,Porc,Maiale,Pork,1.33,"[3017, 3025, 3008, 3040, 3043, 3044]"
+54,5,Geflügel,Volailles,Pollame,Poultry,1.4,"[3002, 3034, 3005, 3041, 3044]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[3006, 3035]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[3022, 3018]"
 3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042]"
@@ -19,3 +19,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[3013]
+56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[3045]
+79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,1.0,[3046]
+61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]

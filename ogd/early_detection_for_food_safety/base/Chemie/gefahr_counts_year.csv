@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2725, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2996, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 3009]"
-125,28,Mikroplastik,microplastiques,microplastica,microplastics,1.11,"[2490, 2601, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2573, 2672]"
+125,27,Mikroplastik,microplastiques,microplastica,microplastics,1.11,"[2601, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2789, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2513, 2495, 2533, 2752, 2850, 2860, 2979, 2518, 2573, 2672]"
 111,14,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2731, 2784, 2988, 2889, 2715, 2743, 2749, 2576, 2682, 2794, 2878, 2989, 2923, 2631]"
 187,11,Arsen,Arsenic,Arsenico,Arsenic,1.18,"[2639, 2673, 2718, 2547, 2648, 2659, 2944, 2757, 2970, 2517, 2663]"
 102,10,Blei,Plomb,Piombo,Lead,1.4,"[2498, 2691, 2639, 2718, 2877, 2779, 2891, 2659, 2944, 2558]"
@@ -19,7 +19,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.67,"[2691, 2690, 2967]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.33,"[2998, 2683, 2611]"
 244,3,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[2701, 2568, 2606]"
-557,2,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,"[2490, 2979]"
 565,2,Tetrodotoxine,Tétrodotoxines,Tetrodotossine,Tetrodotoxins,1.5,"[2552, 2962]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
@@ -28,7 +27,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2718]"
 46,2,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,"[2699, 2887]"
-248,2,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),1.5,"[2872, 2491]"
 293,2,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.5,"[2872, 2952]"
 297,2,Gluten,gluten,glutine,gluten,2.5,"[2872, 2496]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
@@ -46,7 +44,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
 461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
-555,1,Polyethylen,Polyéthylène,Polietilene,Polypropylene,1.0,[2490]
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
@@ -60,6 +57,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
 93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
+248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
@@ -89,9 +87,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
-554,1,Chinolizidinalkaloiden (QA),alcaloïdes de quinolizidine (QA),alcaloidi della chinolizidina (QA),Quinolizidine alkaloid  (QA),2.0,[2489]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
-558,1,Polychlorierte Biphenyle,Polychlorobiphényles,Policlorobifenili,Polychlorinated Biphenyls (PCB),1.0,[2491]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
@@ -105,6 +101,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 607,1,Toluol,Toluène,Toluene,Toluene,1.0,[2968]
 310,1,Polyethylenterephthalat (PET),Polytéréphtalate d'éthylène (PET),Polietilene tereftalato (PET),Polyethylene terephthalate (PET),1.0,[2979]
 417,1,polypropylen (PP),polypropylène (PP),polipropilene (pp),polypropylene (PP),1.0,[2979]
+557,1,Polyethylen,Polyethylen,Polietilene,Polyethylene,1.0,[2979]
 224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[3022]
 614,1,Fettsäurechlorhydrine,Chlorohydrines d'acides gras,Cloroidrine degli acidi grassi,Fatty acid chlorohydrins,2.0,[3035]
 74,1,3-Nitrooxypropanol (3-NOP),3-Nitrooxypropanol (3-NOP),3-Nitroossipropanolo (3-NOP),3-Nitrooxypropanol (3-NOP),1.0,[2646]

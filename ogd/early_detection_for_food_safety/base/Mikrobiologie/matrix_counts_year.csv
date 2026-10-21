@@ -1,22 +1,22 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,35,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.26,"[2524, 2526, 2522, 2591, 2634, 2667, 2680, 2655, 2631, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2704, 2712, 2748, 2771, 2781, 2770, 2810, 2803, 2820, 2844, 2798, 2800, 2813, 2871, 2882, 2880, 2919, 2937, 2981]"
-8,21,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.29,"[2494, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2963, 2711, 2961, 2992, 2994, 3019, 3024, 3030, 3031, 3036]"
-54,11,Geflügel,Volailles,Pollame,Poultry,1.36,"[2516, 2604, 2650, 2629, 2760, 2829, 2808, 2951, 3002, 3034, 3005]"
+8,22,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.27,"[2494, 2497, 2570, 2523, 2661, 2733, 2839, 2796, 2827, 2857, 2911, 2963, 2711, 2961, 2992, 2994, 3019, 3024, 3030, 3031, 3036, 3047]"
+54,12,Geflügel,Volailles,Pollame,Poultry,1.33,"[2516, 2604, 2650, 2629, 2760, 2829, 2808, 2951, 3002, 3034, 3005, 3044]"
 3,9,Gemüse,Légumes,Ortaggi,Vegetables,1.56,"[2734, 2722, 2740, 2936, 2914, 2959, 2937, 2945, 3033]"
 9,8,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.25,"[2534, 2581, 2597, 2654, 2684, 2929, 2797, 3013]"
 60,7,Fische,Poissons,Pesce,Fish,1.57,"[2508, 2653, 2736, 2766, 2811, 2816, 2916]"
 23,7,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.71,"[2763, 2829, 2863, 2858, 2824, 2884, 2931]"
+120,7,Schwein,Porc,Maiale,Pork,1.43,"[2971, 3017, 3025, 3008, 3040, 3043, 3044]"
 1,6,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[2532, 2500, 2897, 3016, 3032, 3038]"
-120,6,Schwein,Porc,Maiale,Pork,1.5,"[2971, 3017, 3025, 3008, 3040, 3043]"
 34,5,Früchte,Fruits,Frutta,Fruits,1.0,"[2686, 2734, 2931, 2959, 3023]"
 6,4,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.0,"[2535, 2678, 2827, 2896]"
+56,3,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.33,"[2538, 2542, 3045]"
 42,3,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.33,"[2582, 2762, 2812]"
 58,3,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.33,"[2632, 2795, 2969]"
 48,3,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.33,"[2768, 2743, 2901]"
 39,3,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,2.0,"[2711, 2969, 2983]"
 98,2,Nicht spezifizierte sowie gemischte diverse Lebensmittel,Aliments divers non spécifiés ou mélangés,Vari alimenti non classificati o misti,Unclassified Or Combined Miscellaneous Foods,1.5,"[2493, 2973]"
 24,2,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,1.5,"[2499, 3026]"
-56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2538, 2542]"
 22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,"[2554, 2915]"
 7,2,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.0,"[2731, 2931]"
 38,2,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.5,"[2769, 2956]"
@@ -40,3 +40,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 10,1,Eier und Eiprodukte,Oeufs et dérivés,Uova e prodotti di uova,Eggs And Egg Products,1.0,[2975]
 47,1,"Flocken, Griess, Keime, Mehl, Schrot und Stärke (inkl. Pulver für Desserts)","Farine, fécule, gruau, germes, flocons, semoule utilisée comme farine (incl. poudre pour desserts)","Farina, fiocchi, germi, faricello, semola e amidi (incluse polveri per dessert)","Flours, Starches, Flakes, Semolina Used A",2.0,[3015]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]
+61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
