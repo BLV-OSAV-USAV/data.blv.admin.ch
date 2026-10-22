@@ -1,11 +1,12 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.14,"[3001, 3009, 3016, 3029, 3032, 3038, 3039]"
+1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.14,"[3009, 3016, 3029, 3032, 3038, 3039, 3049]"
+54,6,Geflügel,Volailles,Pollame,Poultry,1.33,"[3002, 3034, 3005, 3041, 3044, 3050]"
 8,6,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.5,"[3019, 3024, 3030, 3031, 3036, 3047]"
-120,6,Schwein,Porc,Maiale,Pork,1.33,"[3017, 3025, 3008, 3040, 3043, 3044]"
-54,5,Geflügel,Volailles,Pollame,Poultry,1.4,"[3002, 3034, 3005, 3041, 3044]"
+120,6,Schwein,Porc,Maiale,Pork,1.33,"[3017, 3025, 3008, 3040, 3044, 3043]"
+3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042, 3051]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[3006, 3035]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[3022, 3018]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042]"
+34,2,Früchte,Fruits,Frutta,Fruits,1.0,"[3023, 3051]"
 93,1,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,[3007]
 46,1,"Nicht spezifizierte sowie gemischte Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers non spécifiés ou mélangés,Cereali e prodotti cereali non specificati e misti,Unclassified And Combined Cereal Products,2.0,[3012]
 32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,1.0,[3011]
@@ -15,7 +16,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,2.0,[3020]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3020]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",2.0,[3018]
-34,1,Früchte,Fruits,Frutta,Fruits,1.0,[3023]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]
 9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[3013]

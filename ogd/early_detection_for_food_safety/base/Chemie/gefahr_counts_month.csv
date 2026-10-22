@@ -1,7 +1,4 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-127,1,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,[3001]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3001]
-518,1,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.0,[3001]
 61,1,Atropin,atropine,atropina,atropine,1.0,[3011]
 352,1,Scopolamin,scopolamine,scopolamina,scopolamine,1.0,[3011]
 503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[3012]
@@ -9,6 +6,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 613,1,"1,2-Cyclohexandicarbonsäurediisononylester","Cyclohexane-1,2-dicarboxylate de diisononyle","cicloesano-1,2-dicarbossilato di diisononile","Di(isononyl) cyclohexane-1,2-dicarboxylate",2.0,[3029]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[3039]
 379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[3041]
+102,1,Blei,Plomb,Piombo,Lead,1.0,[3049]
+167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[3049]
+187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[3049]
+165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[3049]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[3042]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[3009]
 224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[3022]

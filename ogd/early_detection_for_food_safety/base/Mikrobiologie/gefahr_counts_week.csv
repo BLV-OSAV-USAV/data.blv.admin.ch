@@ -1,13 +1,13 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.25,"[3040, 3043, 3034, 3044]"
+244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.2,"[3040, 3043, 3052, 3034, 3044]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[3047, 3040]"
-114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,"[3031, 3030]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[3043, 3036]"
 94,2,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,"[3043, 3036]"
 615,1,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,2.0,[3048]
 15,1,ESKAPE,ESKAPE,ESKAPE,ESKAPE,2.0,[3040]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[3038]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[3027]
+617,1,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,1.0,[3050]
 28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[3045]
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.0,[3051]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.0,[3034]
 87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[3044]

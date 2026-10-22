@@ -1,6 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-244,5,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.4,"[3040, 3043, 3034, 3015, 3044]"
-26,4,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[3016, 3024, 3003, 3027]"
+244,6,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.33,"[3040, 3043, 3052, 3034, 3015, 3044]"
+26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.4,"[3016, 3024, 3003, 3027, 3051]"
 93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.0,"[3003, 3043, 3023, 3036]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.5,"[3047, 3040]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[3016, 3025]"
@@ -16,6 +16,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 35,1,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,Cryptosporidium spp.,1.0,[3003]
 15,1,ESKAPE,ESKAPE,ESKAPE,ESKAPE,2.0,[3040]
 106,1,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.0,[3038]
+617,1,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,1.0,[3050]
 612,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,2.0,[3026]
 28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[3045]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[3013]
