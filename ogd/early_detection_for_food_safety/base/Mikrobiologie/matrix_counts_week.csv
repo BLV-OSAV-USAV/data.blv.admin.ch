@@ -1,9 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-54,3,Geflügel,Volailles,Pollame,Poultry,1.0,"[3034, 3044, 3050]"
-120,3,Schwein,Porc,Maiale,Pork,1.33,"[3040, 3044, 3043]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3051]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[3036, 3047]"
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[3038]
+120,4,Schwein,Porc,Maiale,Pork,1.25,"[3040, 3044, 3043, 3053]"
+54,2,Geflügel,Volailles,Pollame,Poultry,1.0,"[3044, 3050]"
 56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[3045]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[3047]
 61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
+3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[3051]
 34,1,Früchte,Fruits,Frutta,Fruits,1.0,[3051]
