@@ -1,12 +1,14 @@
-matrix_id,Technologische Innovationen und wissenschaftliche Fortschritte,Neue Lebensmittel und Lebensmittelproduktionssysteme,Mikrobielle Evolution und Antibiotikaresistenz,Technologie,Umwelt,Wirtschaft
-1,1,0,0,1,1,0
-3,1,0,0,0,1,0
-8,0,0,1,0,2,1
-24,0,0,0,0,1,0
-34,0,0,1,0,1,0
-47,0,0,1,0,0,0
-54,0,0,2,0,2,0
-56,0,0,1,0,0,0
-61,0,0,0,0,1,0
-62,0,1,0,0,0,0
-120,0,0,2,0,3,0
+matrix_id,Klimawandel,Technologische Innovationen und wissenschaftliche Fortschritte,Neue Lebensmittel und Lebensmittelproduktionssysteme,Mikrobielle Evolution und Antibiotikaresistenz,Technologie,Umwelt,Wirtschaft
+1,0,1,0,0,1,1,0
+3,0,1,0,0,0,1,0
+8,0,0,0,1,0,2,1
+24,0,0,0,0,0,1,0
+34,0,0,0,1,0,2,0
+47,0,0,0,1,0,0,0
+54,1,0,0,2,0,4,0
+56,0,0,0,1,0,0,0
+61,0,0,0,0,0,1,0
+62,0,0,1,0,0,0,0
+82,0,0,0,0,0,1,0
+118,1,0,0,0,0,2,0
+120,1,0,0,2,0,5,0
