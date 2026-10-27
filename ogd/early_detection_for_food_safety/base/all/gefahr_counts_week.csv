@@ -1,19 +1,15 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[3043, 3052, 3057, 3044]"
 1,2,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.0,"[3047, 3053]"
 26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[3058, 3051]"
-93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.5,"[3043, 3059]"
-28,2,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,"[3045, 3056]"
+244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[3052, 3057]"
 615,1,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,2.0,[3048]
-379,1,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,[3041]
 102,1,Blei,Plomb,Piombo,Lead,1.0,[3049]
-94,1,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,[3043]
 167,1,Quecksilber,Mercure,Mercurio,Mercury,1.0,[3049]
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[3049]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[3049]
 617,1,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,1.0,[3050]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3057]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[3059]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[3055]
-98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[3042]
-87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.0,[3044]
+28,1,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,[3056]
 361,1,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,[3053]
