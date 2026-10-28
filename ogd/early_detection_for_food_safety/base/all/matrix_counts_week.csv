@@ -1,12 +1,10 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 54,3,Geflügel,Volailles,Pollame,Poultry,1.33,"[3050, 3056, 3059]"
 120,3,Schwein,Porc,Maiale,Pork,1.33,"[3053, 3056, 3059]"
-8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[3047, 3054]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[3051, 3058]"
 118,2,Rind,Boeuf,Manzo,Beef,1.5,"[3056, 3059]"
-79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,1.0,[3046]
-61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
-1,1,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,[3049]
 3,1,Gemüse,Légumes,Ortaggi,Vegetables,1.0,[3051]
 60,1,Fische,Poissons,Pesce,Fish,2.0,[3055]
+8,1,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,[3054]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[3057]
+9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[3060]

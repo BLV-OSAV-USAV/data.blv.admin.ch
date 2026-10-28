@@ -5,9 +5,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,12,Arsen,Arsenic,Arsenico,Arsenic,1.17,"[2639, 2673, 2718, 2547, 3049, 2648, 2659, 2944, 2757, 2970, 2517, 2663]"
 91,10,Pestizide,pesticides,pesticidi,pesticide,1.1,"[2838, 2645, 2872, 2660, 2662, 2701, 2574, 2600, 2753, 2826]"
 102,10,Blei,Plomb,Piombo,Lead,1.3,"[2691, 2639, 2718, 2877, 2779, 2891, 3049, 2659, 2944, 2558]"
-165,9,Cadmium,Cadmium,Cadmio,Cadmium,1.11,"[2503, 2639, 2691, 2718, 3049, 2659, 2944, 2778, 2819]"
-518,8,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.25,"[2503, 2872, 2873, 2942, 3001, 2513, 2679, 2518]"
 42,8,Trifluoracetat (TFA),Trifluoracétate (TFA),Trifluoracetato (TFA),Trifluoracetate (TFA),1.25,"[2561, 2874, 2899, 2947, 2996, 2544, 2598, 2681]"
+165,8,Cadmium,Cadmium,Cadmio,Cadmium,1.12,"[2639, 2691, 2718, 3049, 2659, 2944, 2778, 2819]"
+518,7,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.29,"[2872, 2873, 2942, 3001, 2513, 2679, 2518]"
 167,6,Quecksilber,Mercure,Mercurio,Mercury,1.17,"[2691, 2718, 3049, 2659, 2944, 2695]"
 503,6,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,1.33,"[2985, 3012, 2891, 2749, 2593, 2794]"
 166,5,Bisphenol A (BPA),Bisphénol A (BPA),Bisfenolo A (BPA),Bisphenol A (BPA),1.0,"[2770, 2738, 2556, 2569, 2617]"
@@ -41,7 +41,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,"[2861, 2997]"
 117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
-461,2,Ethanol,Éthanol,Etanolo,Ethanol,1.0,"[2501, 2623]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
@@ -89,6 +88,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
+461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2623]
 200,1,6-PPD,6-PPD,6-PPD,6-PPD,2.0,[2611]
 572,1,Benzothiazol (BTH),Benzothiazole (BTH),Benzotiazolo (BTH),Benzothiazole (BTH),2.0,[2611]
 468,1,Organophosphor Flammschutzmittel (OPFM),retardateurs de flamme organophosphorés (OPFRs),ritardanti di fiamma organofosfati (OPFR),organophosphate flame retardants (OPFRs),1.0,[2679]
