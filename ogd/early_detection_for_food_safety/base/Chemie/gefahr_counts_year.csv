@@ -40,7 +40,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,"[2861, 2997]"
-117,2,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,"[2960, 2507]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
 116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
@@ -86,6 +85,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
+117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
 461,1,Ethanol,Éthanol,Etanolo,Ethanol,1.0,[2623]

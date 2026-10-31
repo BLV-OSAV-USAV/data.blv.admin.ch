@@ -1,8 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 605,4,Allergen,Allergène,Allergene,Allergen,1.75,"[2940, 2993, 2982, 2999]"
-297,2,Gluten,gluten,glutine,gluten,1.0,"[2506, 2527]"
 78,2,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,"[2706, 2536]"
 593,2,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.5,"[2870, 2980]"
 594,2,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.5,"[2870, 2980]"
 23,1,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,[2597]
 256,1,Parasiten,Parasites,Parassiti,Parasites,1.0,[2991]
+297,1,Gluten,gluten,glutine,gluten,1.0,[2527]
