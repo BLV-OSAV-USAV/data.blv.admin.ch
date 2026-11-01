@@ -35,7 +35,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 150,2,Glyphosat,Glyphosate,Glifosato,Glyphosate,1.5,"[2628, 2908]"
 45,2,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2615]"
 379,2,Polycyclische aromatische Kohlenwasserstoffe (PAK),Hydrocarbure aromatique polycyclique (HAP),"Idrocarburi policiclici aromatici (IPA, PAHs)",polycyclic aromatic hydrocarbons (PAHs),1.0,"[3041, 2989]"
-450,2,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,"[2509, 2551]"
 128,2,Schwermetalle,métaux lourds,metalli pesanti,heavy metals,1.0,"[2557, 2589]"
 130,2,Bisphenol S,Bisphénol S,Bisfenolo S,Bisphenol S,1.5,"[2637, 2617]"
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
@@ -85,6 +84,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 241,1,Alternariol,alternariol,alternariolo,alternariol,2.0,[3000]
+450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2551]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
 600,1,Ethanol,éthanol,Etanolo,Ethanol,2.0,[2903]
 561,1,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,Cascabela thevetia,1.0,[2520]
