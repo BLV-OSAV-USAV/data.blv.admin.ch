@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 120,8,Schwein,Porc,Maiale,Pork,1.38,"[3017, 3025, 3040, 3044, 3043, 3053, 3056, 3059]"
-1,7,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.14,"[3009, 3016, 3029, 3032, 3038, 3039, 3049]"
 8,7,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.43,"[3019, 3024, 3030, 3031, 3036, 3047, 3054]"
+1,6,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.17,"[3016, 3029, 3032, 3038, 3039, 3049]"
 54,6,Geflügel,Volailles,Pollame,Poultry,1.17,"[3034, 3041, 3044, 3050, 3056, 3059]"
 34,3,Früchte,Fruits,Frutta,Fruits,1.33,"[3023, 3051, 3058]"
 3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042, 3051]"
@@ -10,8 +10,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,2,Rind,Boeuf,Manzo,Beef,1.5,"[3056, 3059]"
 46,1,"Nicht spezifizierte sowie gemischte Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers non spécifiés ou mélangés,Cereali e prodotti cereali non specificati e misti,Unclassified And Combined Cereal Products,2.0,[3012]
 32,1,Hülsenfrüchte,Légumes secs,Leguminose,Legumes,1.0,[3011]
-23,1,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.0,[3010]
-100,1,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,[3010]
 47,1,"Flocken, Griess, Keime, Mehl, Schrot und Stärke (inkl. Pulver für Desserts)","Farine, fécule, gruau, germes, flocons, semoule utilisée comme farine (incl. poudre pour desserts)","Farina, fiocchi, germi, faricello, semola e amidi (incluse polveri per dessert)","Flours, Starches, Flakes, Semolina Used A",2.0,[3015]
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,2.0,[3020]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3020]
