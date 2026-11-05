@@ -14,9 +14,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 23,9,"Blattgemüse (ohne Kohlgemüse), Blattsalate und Algen","Légumes-feuilles (excl. chou), mescluns et algues","Verdure a foglie (esclusi cavoli), insalate a foglie e alghe",Leafy Vegetables (Except Cabbages),1.56,"[2600, 2763, 2829, 2863, 2858, 2824, 2884, 2931, 3010]"
 5,7,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.29,"[2829, 2794, 2893, 2909, 3006, 3035, 3063]"
 58,6,Fleischersatz,Substituts de viande,Sostituti della carne,Meat Substitutes,1.5,"[2632, 2715, 2761, 2795, 2833, 2969]"
+42,5,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.2,"[2582, 2762, 2812, 3020, 3067]"
 56,4,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2538, 2542, 2876, 3045]"
 67,4,Pflanzliche Öle,Huiles végétales,Oli vegetali,Vegetable Oils,1.0,"[2548, 2642, 2943, 2979]"
-42,4,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.25,"[2582, 2762, 2812, 3020]"
 93,4,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.0,"[2734, 2842, 2968, 3007]"
 39,4,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,2.0,"[2715, 2711, 2969, 2983]"
 38,4,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.25,"[2725, 2769, 2921, 2956]"
@@ -67,3 +67,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 45,1,Speiseeis (inkl. Sorbet und Wasserglace),"Glaces, substituts de glace, sorbets et glaces à l'eau",Gelato (inclusi sorbetti e ghiaccioli),"Ice Cream And Substitutes, Sorbet And Wat",2.0,[2997]
 13,1,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie und Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours","Cake, torte, prodotti di confetteria e panetteria fine",Cakes And Sweet Biscuits,2.0,[2997]
 79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,1.0,[3046]
+71,1,"Nicht spezifizierte sowie gemischte Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie non spécifiés ou mélangés","Zucchero, cioccolato e dolciumi non classificati e misti",Unclassified Or Combined Confectionery It,1.0,[3066]
+19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[3068]

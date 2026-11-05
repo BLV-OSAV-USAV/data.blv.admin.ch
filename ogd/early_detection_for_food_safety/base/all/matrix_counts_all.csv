@@ -16,7 +16,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 39,32,Milchersatz und Milchersatzprodukte,Substituts de lait et produits à base de substitut de lait,Succedanei del latte e prodotti a base di succedanei del latte,Milk Substitutes And Milk Substitute Products,1.44,"[43, 119, 76, 88, 186, 253, 501, 530, 660, 769, 109, 910, 151, 1029, 1108, 1331, 1312, 1412, 621, 1528, 1556, 1485, 1886, 1997, 1920, 2229, 2433, 2715, 2711, 2969, 2983, 1929]"
 120,31,Schwein,Porc,Maiale,Pork,1.45,"[22, 84, 133, 278, 411, 484, 486, 703, 1006, 1247, 1269, 1369, 1282, 1333, 1376, 1573, 1679, 1784, 2138, 2263, 2289, 2971, 3017, 3025, 3008, 3040, 3044, 3043, 3053, 3056, 3059]"
 5,31,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.19,"[41, 97, 185, 220, 52, 907, 937, 1099, 1132, 1240, 1186, 1908, 1884, 1993, 2044, 2081, 2219, 2261, 2363, 2427, 2473, 2410, 2428, 2829, 2794, 2893, 2909, 3006, 3035, 2026, 3063]"
-42,28,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.54,"[50, 74, 173, 420, 456, 892, 1032, 1052, 1194, 1393, 1592, 1733, 1842, 1949, 1984, 1944, 2139, 2187, 1495, 2271, 2281, 2364, 2474, 2484, 2582, 2762, 2812, 3020]"
+42,29,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),1.55,"[50, 74, 173, 420, 456, 892, 1032, 1052, 1194, 1393, 1592, 1733, 1842, 1949, 1984, 1944, 2139, 2187, 1495, 2271, 2281, 2364, 2474, 2484, 2582, 2762, 2812, 3020, 3067]"
 48,28,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",1.43,"[158, 219, 297, 331, 550, 550, 812, 1171, 1265, 1482, 1473, 1538, 1626, 1720, 178, 1866, 2180, 2207, 2249, 2346, 2311, 2453, 2420, 1682, 2768, 2743, 2901, 3018]"
 38,28,"Milch, Milchgetränke und fermentierte Milchgetränke","Laits, boissons à base de lait ou de lait fermenté","Latte, bevande a base di latte e di latte fermentato","Milk, Milk Beverages And Fermented Milk Beverages",1.43,"[406, 1038, 1227, 1226, 1258, 1323, 1284, 1334, 1406, 1471, 1667, 1703, 1709, 1726, 1823, 1874, 2006, 2030, 2015, 2116, 2322, 2484, 1834, 1832, 2725, 2769, 2921, 2956]"
 93,27,"Gewürze, Kräuter und Aromastoffe","Epices, herbes et aromates","Spezie, erbe e aromi","Spices, Herbs And Flavourings",1.33,"[24, 130, 161, 179, 240, 349, 603, 1042, 1110, 1513, 1633, 1619, 996, 1812, 1707, 1884, 1964, 1990, 2373, 2436, 2400, 2401, 2460, 2734, 2842, 2968, 3007]"
@@ -90,6 +90,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 111,2,Speiseeis (auf Milchbasis),Glaces (à base de lait),Gelato (a base di latte),Ice Cream (Milk Based),2.0,"[1032, 1667]"
 36,2,Oliven,Olives,Olive,Olives,1.0,"[1240, 2645]"
 31,2,Nicht spezifizierte sowie gemischte Hülsenfrüchte,Légumes secs non spécifiés et mélangés,Leguminose non specificate e miste,Unclassified,2.0,"[1368, 1455]"
+19,2,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,"[1649, 3068]"
 76,2,"Cakes, Kuchen, Torten, süsse Wähen, Patisserie sowie weiches oder gefülltes Feingebäck","Cakes, gâteaux, tartes sucrées, pâtisseries et petits fours mollets ou fourrés","Cake, torte, prodotti di confetteria e panetteria fine, molli o farciti","Cakes, Pies, Pastries, Puddings (Non Milk",1.0,"[1750, 2339]"
 146,1,Kaffeeersatz (z.B. aus Zichorie),Substituts de café (p.ex. chicorée),Surrogati del caffè (p.e. cicoria),"Chicory, Substitutes",1.0,[115]
 145,1,Frucht- und Kräutertee (inkl. Pulver),Tisanes aux fruits et aux herbes (poudre incluse),Tè di frutti e di erbe (inclusa polvere),Herbal Tea  (Incl Powdered),2.0,[252]
@@ -107,7 +108,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 102,1,Apérogebäck und Chips,Biscuits pour l'apéritif et chips,"Spuntini, biscotti salati e chips per aperitivo","Savoury Snacks, Biscuits And Crisps",1.0,[1432]
 103,1,"Salzige belegte oder gefüllte Brötchen, Gipfel, Törtchen und Wähen","Ballons et croissants tartinés ou fourrés, tartes salées","Tartine e panini farciti salati, croissant salati, torte salate","Savoury Filled Buns, Croissants",1.0,[1449]
 92,1,Hefe,Levures,Lievito,Yeast,3.0,[1697]
-19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[1649]
 101,1,Nicht spezifizierte sowie gemischte salzige Snacks,Snacks salés non spécifiés ou mélangés,Spuntini salati non classificati o misti,Unclassified Or Combined Snacks,1.0,[1894]
 43,1,"Desserts auf Milchbasis (z.B. Crème, Mousse, Pudding; ohne Speiseeis)","Desserts lactés (p.ex. crème, mousse, pudding; sans glace)","Dessert a base di latte (p.e. crema, mousse, budini; esclusi gelati)","Cream Desserts, Puddings (Milk Based)",1.0,[2080]
 84,1,"Wein, Apfelwein und andere Fruchtweine","Vin, cidre et autres vins de fruits","Vino, sidro e altri vini di frutti","Wine, Cider, Fruit Wines",1.0,[2363]
@@ -116,3 +116,4 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 107,1,"Nicht spezifizierter sowie gemischter Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café non spécifiés ou mélangés","Panna, succedanei della panna e panna da caffè non specificati e misti",Unclassified Creams,1.0,[2767]
 40,1,Joghurt und Sauermilchprodukte,Yogourts et produits à base de lait acidulé,Yogurt e prodotti a base di latte acido,Yoghurt And Sour Milk Products,1.0,[2950]
 44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]
+71,1,"Nicht spezifizierte sowie gemischte Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie non spécifiés ou mélangés","Zucchero, cioccolato e dolciumi non classificati e misti",Unclassified Or Combined Confectionery It,1.0,[3066]

@@ -6,13 +6,13 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 34,3,Früchte,Fruits,Frutta,Fruits,1.33,"[3023, 3051, 3058]"
 3,3,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3033, 3042, 3051]"
 6,2,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,1.5,"[3022, 3018]"
+42,2,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,"[3020, 3067]"
 5,2,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.5,"[3035, 3063]"
 9,2,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,"[3013, 3060]"
 118,2,Rind,Boeuf,Manzo,Beef,1.5,"[3056, 3059]"
 46,1,"Nicht spezifizierte sowie gemischte Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers non spécifiés ou mélangés,Cereali e prodotti cereali non specificati e misti,Unclassified And Combined Cereal Products,2.0,[3012]
 47,1,"Flocken, Griess, Keime, Mehl, Schrot und Stärke (inkl. Pulver für Desserts)","Farine, fécule, gruau, germes, flocons, semoule utilisée comme farine (incl. poudre pour desserts)","Farina, fiocchi, germi, faricello, semola e amidi (incluse polveri per dessert)","Flours, Starches, Flakes, Semolina Used A",2.0,[3015]
 105,1,Nicht fermentierte Milch und Milchgetränke,Laits non fermentés et boissons à base de lait non fermenté,Latte non fermentato e bevande a base di latte non fermentato,Non Fermented Milk And Milk Beverages,2.0,[3020]
-42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3020]
 48,1,"Teigwaren, Reis, andere Getreide und Körner","Pâtes alimentaires, riz, autres céréales et graines","Pasta, riso, altri cereali e grani","Pasta, Rice, Other Grain",2.0,[3018]
 24,1,Blüten- und Fruchtgemüse,Légumes-fruits,"Ortaggi da fiore, verdura a frutti",Fruiting Vegetables,2.0,[3026]
 62,1,Fischprodukte und panierter Fisch,Produits à base de poissons et poissons panés,Prodotti della pesca e pesce impanato,"Fish Products, Fish In Crumbs",2.0,[3027]
@@ -21,3 +21,5 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
 60,1,Fische,Poissons,Pesce,Fish,2.0,[3055]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[3057]
+71,1,"Nicht spezifizierte sowie gemischte Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie non spécifiés ou mélangés","Zucchero, cioccolato e dolciumi non classificati e misti",Unclassified Or Combined Confectionery It,1.0,[3066]
+19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[3068]
