@@ -1,7 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 126,28,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.14,"[2725, 2616, 2756, 2726, 2770, 2895, 2930, 2921, 2905, 2964, 2605, 2614, 2660, 2741, 2647, 2586, 2685, 2710, 2947, 2996, 2974, 2553, 2549, 2602, 2618, 2918, 2989, 3009]"
-125,26,Mikroplastik,microplastiques,microplastica,microplastics,1.12,"[2601, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 2546, 2789, 3057, 2685, 2783, 2717, 2543, 2955, 2704, 2737, 2533, 2752, 2850, 2860, 2979, 2518, 2573, 2672]"
-111,14,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.29,"[2731, 2784, 2988, 2889, 2715, 2743, 2749, 2576, 2682, 2794, 2878, 2989, 2923, 2631]"
+125,28,Mikroplastik,microplastiques,microplastica,microplastics,1.18,"[2601, 2770, 2846, 2872, 2852, 2853, 2873, 3001, 3071, 2546, 2789, 3057, 2685, 2783, 2717, 3069, 2543, 2955, 2704, 2737, 2533, 2752, 2850, 2860, 2979, 2518, 2573, 2672]"
+111,16,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.31,"[2731, 2784, 2988, 2889, 3072, 2715, 2743, 2749, 3070, 2576, 2682, 2794, 2878, 2989, 2923, 2631]"
 187,12,Arsen,Arsenic,Arsenico,Arsenic,1.17,"[2639, 2673, 2718, 2547, 3049, 2648, 2659, 2944, 2757, 2970, 2517, 2663]"
 91,10,Pestizide,pesticides,pesticidi,pesticide,1.1,"[2838, 2645, 2872, 2660, 2662, 2701, 2574, 2600, 2753, 2826]"
 102,10,Blei,Plomb,Piombo,Lead,1.3,"[2691, 2639, 2718, 2877, 2779, 2891, 3049, 2659, 2944, 2558]"
@@ -15,6 +15,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 209,4,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.75,"[2639, 2891, 2970, 3018]"
 577,4,chemische Elemente,Éléments chimiques,Elementi chimici,chemical elements,1.25,"[2691, 2718, 2703, 2704]"
 244,4,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[3057, 2701, 2568, 2606]"
+548,3,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.67,"[2608, 3069, 2617]"
 56,3,Aluminium,Aluminium,Alluminio,Aluminium,1.33,"[2639, 2691, 2977]"
 127,3,Perfluoroctansulfonsäure (PFOS),acide perfluorooctanesulfonique (PFOS),acido perfluoroottansolfonico,Perfluorooctanesulfonic acid (PFOS),1.0,"[2735, 2921, 3001]"
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.67,"[2691, 2690, 2967]"
@@ -24,9 +25,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
 49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 2840]"
-548,2,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,1.5,"[2608, 2617]"
 576,2,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2718]"
+93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,"[2723, 3072]"
 293,2,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.5,"[2872, 2952]"
 48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 376,2,Histamin,Histamine,Istamina,Histamine,2.5,"[2887, 2941]"
@@ -51,7 +52,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 249,1,Nickel,Nickel,Nichel,Nickel,1.0,[2639]
 288,1,T-2,T-2,T-2,T-2,1.0,[2731]
 289,1,HT-2,HT-2,HT-2,HT-2,1.0,[2731]
-93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[2723]
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2872]

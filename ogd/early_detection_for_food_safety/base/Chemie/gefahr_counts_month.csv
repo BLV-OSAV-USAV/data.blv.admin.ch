@@ -1,6 +1,7 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.67,"[3071, 3057, 3069]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[3072, 3070]"
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[3068]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[3012]
 611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
 613,1,"1,2-Cyclohexandicarbonsäurediisononylester","Cyclohexane-1,2-dicarboxylate de diisononyle","cicloesano-1,2-dicarbossilato di diisononile","Di(isononyl) cyclohexane-1,2-dicarboxylate",2.0,[3029]
 180,1,Phthalate,phtalates,ftalati,phthalates,1.0,[3039]
@@ -10,7 +11,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[3049]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[3049]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[3057]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3057]
+93,1,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,[3072]
+548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,2.0,[3069]
 46,1,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,[3055]
 98,1,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,[3042]
 224,1,Perchlorat,Perchlorate,Perclorato,perchlorate,1.0,[3022]

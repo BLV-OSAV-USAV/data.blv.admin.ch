@@ -1,17 +1,18 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 244,7,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.29,"[3040, 3043, 3052, 3057, 3034, 3015, 3044]"
 26,5,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.6,"[3058, 3016, 3024, 3027, 3051]"
-93,4,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.25,"[3043, 3023, 3059, 3036]"
+93,5,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.4,"[3043, 3072, 3023, 3059, 3036]"
 1,3,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.33,"[3047, 3040, 3053]"
+125,3,Mikroplastik,microplastiques,microplastica,microplastics,1.67,"[3071, 3057, 3069]"
 119,2,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[3016, 3025]"
 114,2,Klebsiella,Klebsiella,Klebsiella,Klebsiella,2.0,"[3031, 3030]"
 94,2,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.0,"[3043, 3036]"
 9,2,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.5,"[3067, 3034]"
+111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[3072, 3070]"
 28,2,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,"[3045, 3056]"
 2,2,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.5,"[3025, 3017]"
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[3066]
 402,1,Thallium,Thallium,Tallio,Thallium,1.0,[3068]
-503,1,Aflatoxin,Aflatoxine,Aflatossina,Aflatoxin,2.0,[3012]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[3016]
 615,1,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,Salmonella Telelkebir,2.0,[3048]
 611,1,Brackenfarn-Toxine,Toxines de la fougère aigle,Tossine della felce aquilina,Bracken fern toxins,2.0,[3020]
@@ -26,8 +27,8 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 187,1,Arsen,Arsenic,Arsenico,Arsenic,1.0,[3049]
 165,1,Cadmium,Cadmium,Cadmio,Cadmium,1.0,[3049]
 617,1,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,1.0,[3050]
-125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3057]
 612,1,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,Salmonella Strathcona,2.0,[3026]
+548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,2.0,[3069]
 238,1,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,[3013]
 120,1,Rotavirus,Rotavirus,Rotavirus,Rotavirus,2.0,[3025]
 540,1,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),2.0,[3025]
