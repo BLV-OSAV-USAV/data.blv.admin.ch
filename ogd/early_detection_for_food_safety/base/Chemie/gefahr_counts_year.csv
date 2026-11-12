@@ -29,7 +29,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2718]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,"[2723, 3072]"
 293,2,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.5,"[2872, 2952]"
-48,2,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,1.5,"[2887, 2529]"
 376,2,Histamin,Histamine,Istamina,Histamine,2.5,"[2887, 2941]"
 230,2,Nitrate,Nitrate,Nitrato,Nitrate,1.5,"[2888, 2907]"
 98,2,Organophosphatester,esters d'organophosphate,esteri di organofosfati,organophosphate ester,1.0,"[2942, 3042]"
@@ -41,7 +40,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 516,2,Methylquecksilber,Méthylmercure,Metilmercurio,Methylmercury,1.0,"[2659, 2695]"
 292,2,Glycerin,Glycérol,Glicerolo,Glycerol,2.0,"[2861, 2997]"
 363,2,Lebensmittelzusatzstoff,additif alimentaire,additivo alimentare,food additive,1.5,"[2620, 2625]"
-116,1,Bromoform,Bromoforme,Bromoformio,Bromoform,1.0,[2525]
 562,1,Tralopyril,Tralopyril,Tralopyril,Tralopyril,1.0,[2531]
 566,1,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.0,[2560]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
@@ -55,6 +53,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 483,1,Perfluoroctanoat (PFOA),perfluorooctanoate (PFOA),perfluorottanoato (PFOA),perfluorooctanoate (PFOA),1.0,[2756]
 248,1,Persistente organische Schadstoffe (POP),polluants organiques persistants (POP),inquinanti organici persistenti (POP),persistent organic pollutants (POPs),2.0,[2872]
 297,1,Gluten,gluten,glutine,gluten,2.0,[2872]
+48,1,marine Biotoxine,biotoxines marines,biotossine marine,marine biotoxines,2.0,[2887]
 197,1,Nitrite,Nitrite,Nitrito,Nitrite,1.0,[2888]
 599,1,Nitrosamine,Nitrosamine,Nitrosamine,Nitrosamine,1.0,[2888]
 604,1,Biozidprodukte,produits biocides,prodotti biocidi,biocidal products,1.0,[2932]
