@@ -7,10 +7,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 1,12,Escherichia coli,Escherichia coli,Escherichia coli,Escherichia coli,1.33,"[2693, 3047, 2634, 2777, 3040, 2680, 2711, 2766, 2661, 2938, 3053, 2740]"
 9,11,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.36,"[2719, 2667, 2634, 2769, 2956, 3067, 2711, 2824, 2813, 3008, 3034]"
 106,10,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.3,"[2669, 2969, 2768, 2880, 3038, 3075, 2643, 2983, 2824, 2931]"
-119,6,Norovirus,Norovirus,Norovirus,Norovirus,1.5,"[2534, 2863, 3016, 2763, 2734, 3025]"
 94,6,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.17,"[2914, 2664, 3043, 2824, 3036, 2650]"
+119,5,Norovirus,Norovirus,Norovirus,Norovirus,1.6,"[2863, 3016, 2763, 2734, 3025]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2770, 3057, 2955, 2704]"
-120,4,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.5,"[2534, 2891, 3025, 2841]"
 87,4,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.5,"[2857, 3002, 2951, 3044]"
 10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.75,"[2538, 2916, 2542, 2926]"
 238,4,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 3013, 2798]"
@@ -21,12 +20,12 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 256,4,Parasiten,Parasites,Parassiti,Parasites,1.0,"[2990, 2991, 2884, 2927]"
 2,4,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.25,"[2734, 2871, 3025, 3017]"
 181,4,hochpathogene Aviären Influenza (HPAI),virus de l'influenza aviaire hautement pathogène (IAHP),virus ad alta patogenicità (HPAI) di influenza aviaria,highly pathogenic avian influenza (HPAI) virus,1.25,"[2566, 2564, 2668, 2678]"
-540,3,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.33,"[2534, 2734, 3025]"
 333,3,Bacillus spp.,Bacillus spp.,Bacillus spp.,Bacillus spp.,1.67,"[2719, 2643, 2711]"
 31,3,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,Acinetobacter spp.,1.33,"[2719, 2844, 2771]"
 576,3,Cereulide,Céreulide,Cereulide,Cereulide,1.0,"[2669, 2712, 2961]"
 121,3,Hepatitis A virus,Virus de l'hépatite A,Virus dell'epatite A,Hepatitis A virus,1.33,"[2775, 3003, 3025]"
 7,3,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.67,"[2891, 2959, 2937]"
+120,3,Rotavirus,Rotavirus,Rotavirus,Rotavirus,1.67,"[2891, 3025, 2841]"
 114,3,Klebsiella,Klebsiella,Klebsiella,Klebsiella,1.67,"[3031, 3030, 2629]"
 28,3,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,Clostridioides difficile,1.0,"[3045, 3056, 2820]"
 123,3,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,Salmonella Infantis,1.0,"[2640, 2808, 2650]"
@@ -38,11 +37,11 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 118,2,Aspergillus,Aspergillus,Aspergillus,Aspergillus,1.0,"[2894, 2931]"
 107,2,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,Clostridium perfringens,1.0,"[2992, 2820]"
 91,2,Pestizide,pesticides,pesticidi,pesticide,1.0,"[2660, 2701]"
+540,2,Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),Astroviruses (HAstV),1.5,"[2734, 3025]"
 189,2,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,Helicobacter pylori,2.0,"[2945, 2781]"
 361,2,Extended-Spectrum-Betalaktamasen (ESBL),Bactéries productrices de béta-lactamases à spectre élargi (ESBL),Le beta-lattamasi a spettro esteso (ESBL),Extended Spectrum β-Lactamase (ESBL),1.0,"[2827, 3053]"
 29,2,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,Streptococcus agalactiae,2.0,"[2816, 2653]"
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2963, 2788]"
-320,1,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,Citrobacter spp.,1.0,[2532]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 580,1,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,Kudoa septempunctata,1.0,[2736]
 343,1,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,Campylobacter concisus,1.0,[2857]
