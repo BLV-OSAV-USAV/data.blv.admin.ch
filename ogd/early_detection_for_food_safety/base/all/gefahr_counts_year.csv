@@ -58,8 +58,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 566,2,Kaliumsorbat,Sorbate de potassium,Sorbato di potassio,Potassium sorbate,1.5,"[2560, 2876]"
 465,2,Dioxin,Dioxine,Diossina,Dioxin,1.0,"[2563, 2900]"
 466,2,Polychlorierte Biphenyle (PCB),Polychlorobiphényle (PCB),Policlorobifenili (PCB),Polychlorinated biphenyl (PCB),1.0,"[2563, 2900]"
-49,2,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,"[2537, 2840]"
-78,2,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,"[2706, 2536]"
 23,2,Anisakis spp.,Anisakis spp.,Anisakis spp.,Anisakis spp.,1.0,"[2597, 2990]"
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.5,"[2857, 3005]"
 593,2,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.5,"[2870, 2980]"
@@ -90,6 +88,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 474,2,Enniatin,Ennitatine,Ennitatina,Enniatin,1.5,"[2928, 2821]"
 473,2,Beauvericin,Beauvéricine,Beauvericina,Beauvericin,1.5,"[2928, 2821]"
 401,2,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,Enterococcus spp.,1.5,"[2963, 2788]"
+78,1,Zeckenbedingte Fleischallergie,allergie à la viande transmise par les tiques,allergia alla carne causata da zecche,tick-borne meat allergy,2.0,[2706]
 109,1,Nanopartikeln,Nanoparticules,Nanoparticole,Nanoparticles,1.0,[2627]
 457,1,Adenoviren (HAdV),adénovirus,adenovirus,Adenovirus (HAdV),1.0,[2739]
 284,1,MOSH,MOSH,MOSH,MOSH,1.0,[2730]
@@ -159,6 +158,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 448,1,psychoaktive Droge,drogue psychoactive,farmaco psicoattivo,psychoactive drug,1.0,[2802]
 52,1,Kochsalz (NaCl),Sel de table (NaCl),Sale da tavola (NaCl),Table salt  (NaCl),1.0,[2809]
 80,1,Salz,sel,sale,salt,1.0,[2809]
+49,1,künstlicher Süßstoff,édulcorant artificiel,dolcificante artificiale,artificial sweetener,1.0,[2840]
 589,1,Amöben,amibes,amebe,amoebae,2.0,[2847]
 590,1,Freilebende Amöben,Amibes libres,Amebe libere,Free-living amoebae,2.0,[2847]
 595,1,Zitronensäure,Acide citrique,Acido citrico,Citrict Acid,2.0,[2876]
