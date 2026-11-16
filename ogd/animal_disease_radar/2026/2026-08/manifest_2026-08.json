@@ -1,7 +1,7 @@
 {
   "month": "2026-08",
-  "generated_at": "2026-11-13 12:50:32",
-  "pipeline_version": "0.8.0",
+  "generated_at": "2026-11-14 18:28:13",
+  "pipeline_version": "0.9.0",
   "debug": false,
   "languages": [
     "de",
@@ -56,8 +56,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_SCHWEIN_reiter_de.png",
       "path": "out/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_de.png",
-      "bytes": 287371,
-      "sha256": "64f639157a04b69be43ac47f71d60786293b3df8f07b0c20b337ade7886c1bc0",
+      "bytes": 272145,
+      "sha256": "935f7bb421c67bf3f0742349006b87de53bb40a34d6280d11e58837840cb0318",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_de.png"
       }
@@ -71,8 +71,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_SCHWEIN_reiter_fr.png",
       "path": "out/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_fr.png",
-      "bytes": 287610,
-      "sha256": "bd2f2695073848600c5555da889788e6177db3f0e676aba1b5d3254ccba89777",
+      "bytes": 272282,
+      "sha256": "97d4b972a4b97c9b8258843a632562d99658eab218e7c1ddd20387242cfc69a3",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_fr.png"
       }
@@ -86,8 +86,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_SCHWEIN_reiter_it.png",
       "path": "out/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_it.png",
-      "bytes": 286734,
-      "sha256": "2345dedb103396b22286c90c39a425a50840e86feaa465eb39d79f1abfa61a99",
+      "bytes": 271743,
+      "sha256": "417659dbb7932bf53f6667f7e3b7e1190d30807026347bc39d8407d33df902ba",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_it.png"
       }
@@ -101,8 +101,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_SCHWEIN_reiter_en.png",
       "path": "out/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_en.png",
-      "bytes": 286365,
-      "sha256": "4395cef2f4c27f6c10c373f993998ccc2a6c731d9c62641aa3ded635bf5f557f",
+      "bytes": 271547,
+      "sha256": "31136559dffcd52864c873783c5e499177214891a5547f5097d5119904379f3b",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/SCHWEIN/maps/disease_map_ASP_SCHWEIN_reiter_en.png"
       }
@@ -116,8 +116,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_WILDSCHWEIN_reiter_de.png",
       "path": "out/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_de.png",
-      "bytes": 325899,
-      "sha256": "722edc682c68a6c71c8a19f7004aa721b201aa3a76c033602dbfc5e858ca1237",
+      "bytes": 317053,
+      "sha256": "8ee8e4457de73dfc76d4f180c6d15a0f8fc0d38bd2291d7da0b7d0f3b9edcbf4",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_de.png"
       }
@@ -131,8 +131,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_WILDSCHWEIN_reiter_fr.png",
       "path": "out/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_fr.png",
-      "bytes": 326126,
-      "sha256": "58b434e33951c224b7945ae4031e383b1fee2f7cfad305183003b76c58605e7e",
+      "bytes": 317221,
+      "sha256": "77a0d19bdd14b14e15702b731ed84ad7cd2f5cde721c781b41f06b91b45d7523",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_fr.png"
       }
@@ -146,8 +146,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_WILDSCHWEIN_reiter_it.png",
       "path": "out/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_it.png",
-      "bytes": 325306,
-      "sha256": "95c91646cf03fe455f0e750d241294fced6d2a84732fdc4c599f80bcdb15e737",
+      "bytes": 316639,
+      "sha256": "1f59aa173c0f2d72fe35e1c22f208fc616ab69b70eb0fcdd90ec09433d0ae36e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_it.png"
       }
@@ -161,8 +161,8 @@
       "variant": "reiter",
       "name": "disease_map_ASP_WILDSCHWEIN_reiter_en.png",
       "path": "out/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_en.png",
-      "bytes": 324930,
-      "sha256": "bffd2e242554e31a2a153a01b0fd582eb4886c5c40fb59f5cdc0ebdb941408cd",
+      "bytes": 316441,
+      "sha256": "ae86e1262b8396021749f0e353bfe20400cf7df37497c09264b4fa215a1055ec",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ASP/WILDSCHWEIN/maps/disease_map_ASP_WILDSCHWEIN_reiter_en.png"
       }
@@ -176,8 +176,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_RIND_reiter_de.png",
       "path": "out/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_de.png",
-      "bytes": 269731,
-      "sha256": "33c70c7187ce95395f6afe8bc41cdcd6cb2dcff93106b1d72b0e1a807e162e8c",
+      "bytes": 248983,
+      "sha256": "9fb615f69a0dba3084013f37281b24ca7ba8e536f72768dcecb2c76ff302a1de",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_de.png"
       }
@@ -191,8 +191,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_RIND_reiter_fr.png",
       "path": "out/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_fr.png",
-      "bytes": 269958,
-      "sha256": "98c0c88646bec970ecdc617a988cb48a0150f2b2d4160946813c02e66d9d17ff",
+      "bytes": 249140,
+      "sha256": "34e786ea20142b24bf1205b0dce446a81950f7bfe5631ba6a6e5bf4b3b5c22f6",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_fr.png"
       }
@@ -206,8 +206,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_RIND_reiter_it.png",
       "path": "out/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_it.png",
-      "bytes": 269121,
-      "sha256": "6cd89016ff7ab0ac619f207f754b7ffc87c3b01affd062f7111b0e06e5a48eb7",
+      "bytes": 248563,
+      "sha256": "816e1d6929f23c9ee294fd86609a297ae25c0007c110b4e57d6778b20f5e5c49",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_it.png"
       }
@@ -221,8 +221,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_RIND_reiter_en.png",
       "path": "out/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_en.png",
-      "bytes": 268769,
-      "sha256": "a18e6c386f4d38cc9d0b9e50b659725b399a304533bc8ecf7e9615187948bf26",
+      "bytes": 248363,
+      "sha256": "80aa3c1d40bdafee11a59987d81b9378b12d8d9d14f301a9f958988362f592b2",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/RIND/maps/disease_map_BT_RIND_reiter_en.png"
       }
@@ -236,8 +236,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_SCHAF_reiter_de.png",
       "path": "out/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_de.png",
-      "bytes": 268219,
-      "sha256": "5f93f339aafec3f116f377f3ff73ddc15be060087698c447181ef65176af0b97",
+      "bytes": 246071,
+      "sha256": "ceadc7c4a67a708a26542dd36f744d1d177cd7940e9df55b60fa36f188348d4c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_de.png"
       }
@@ -251,8 +251,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_SCHAF_reiter_fr.png",
       "path": "out/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_fr.png",
-      "bytes": 268413,
-      "sha256": "4dfc55c63e03d4fb2fc9e0fc2dc9485d8c61dfe52e89084a1a8cb0aa66506c25",
+      "bytes": 246216,
+      "sha256": "4763be36740cd16d3d6cf2fedc8ad79f06c2d50369ae3ce442dbe3506ffc9ff7",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_fr.png"
       }
@@ -266,8 +266,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_SCHAF_reiter_it.png",
       "path": "out/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_it.png",
-      "bytes": 267571,
-      "sha256": "39944fc642abc986e340989a6442b8026008dcc28b461f792eabb6b3fdf7dca2",
+      "bytes": 245659,
+      "sha256": "cb02d80dd71db56be1a42e466a1959770e559f770daffcb6f731deb2f2475be4",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_it.png"
       }
@@ -281,8 +281,8 @@
       "variant": "reiter",
       "name": "disease_map_BT_SCHAF_reiter_en.png",
       "path": "out/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_en.png",
-      "bytes": 267207,
-      "sha256": "f8ff4595c5b80f0e0f9bb8dd510c303b3923af5a53b5e5f0d2817cce787f2cc7",
+      "bytes": 245456,
+      "sha256": "719aa49e1e4b2c93f8c95e40214ec3e15fdceff6dfab75b7de8dcf8bfc2319f9",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/BT/SCHAF/maps/disease_map_BT_SCHAF_reiter_en.png"
       }
@@ -296,8 +296,8 @@
       "variant": "reiter",
       "name": "disease_map_EBL_RIND_reiter_de.png",
       "path": "out/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_de.png",
-      "bytes": 260475,
-      "sha256": "9a032fc1d8f50369d0d9916e5f422bf894746f70f720ce53deaa697a0b1fce95",
+      "bytes": 237859,
+      "sha256": "23a0118e49d97037ab1075edbac602f79d196104bccb0c5f4770f46c665538a2",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_de.png"
       }
@@ -311,8 +311,8 @@
       "variant": "reiter",
       "name": "disease_map_EBL_RIND_reiter_fr.png",
       "path": "out/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_fr.png",
-      "bytes": 260717,
-      "sha256": "c0f70a3f9c89d37947a356432da1b9104141e02039e49758c99a27c85f5e8351",
+      "bytes": 237989,
+      "sha256": "802f74b0877fd422f0e2e37acc73bde1dfb3b22e90514708bed8f6d6525f338c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_fr.png"
       }
@@ -326,8 +326,8 @@
       "variant": "reiter",
       "name": "disease_map_EBL_RIND_reiter_it.png",
       "path": "out/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_it.png",
-      "bytes": 259837,
-      "sha256": "10ce4b49092a132d7e55e9cca9c54ff6110aa22ff182d4d10aa170bf43bcc64d",
+      "bytes": 237447,
+      "sha256": "5a0ab4526d2631610619f5db94a19bad885acb18f7d4cfdea54d3e745127ccbd",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_it.png"
       }
@@ -341,8 +341,8 @@
       "variant": "reiter",
       "name": "disease_map_EBL_RIND_reiter_en.png",
       "path": "out/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_en.png",
-      "bytes": 259441,
-      "sha256": "fab451b1c96e44302ec782c29d2b94784f185b2cc27639e95511c2fc51f1db96",
+      "bytes": 237232,
+      "sha256": "c818da11559511a80fd6710c9e231c84cdc154bdbced0cf4ad9c4fdd88b8c7ad",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EBL/RIND/maps/disease_map_EBL_RIND_reiter_en.png"
       }
@@ -356,8 +356,8 @@
       "variant": "reiter",
       "name": "disease_map_EIA_EQUIDAE_reiter_de.png",
       "path": "out/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_de.png",
-      "bytes": 260215,
-      "sha256": "61fdcd50daddf51715576f1a062b8fedba7bf53fb3b048b292ae5f20d20c8898",
+      "bytes": 237751,
+      "sha256": "b95a38cb21850b7e5898826ca84f161eb4c4111ff5acbcb7879faa9f426afa14",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_de.png"
       }
@@ -371,8 +371,8 @@
       "variant": "reiter",
       "name": "disease_map_EIA_EQUIDAE_reiter_fr.png",
       "path": "out/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_fr.png",
-      "bytes": 260458,
-      "sha256": "5d4f754251f80632b67e89a536e3c780efae1da5d40f9c92063f695e70edd5dd",
+      "bytes": 237892,
+      "sha256": "2a9391ef48f59dd163d1c0cfee4ecd6ce23ab7208395e38dd5aa94dfdd5e6491",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_fr.png"
       }
@@ -386,8 +386,8 @@
       "variant": "reiter",
       "name": "disease_map_EIA_EQUIDAE_reiter_it.png",
       "path": "out/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_it.png",
-      "bytes": 259574,
-      "sha256": "668ebb8b318f2e86c60b351a5291a34b9eac8e4685b184fe6eac54b08e434827",
+      "bytes": 237351,
+      "sha256": "0615ec4c5badfa06705b7933f1064be95f0bf668061313f0dc81ebd591e6efbd",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_it.png"
       }
@@ -401,8 +401,8 @@
       "variant": "reiter",
       "name": "disease_map_EIA_EQUIDAE_reiter_en.png",
       "path": "out/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_en.png",
-      "bytes": 259181,
-      "sha256": "8ba5c9ff4d9a3b53d4bcd19ab9d04c791bd77d02402326ef12fe33053a82222e",
+      "bytes": 237130,
+      "sha256": "61153593ac19ae7ff32e0435b2d5da67e3357778c67f3aefa7fc2809fa32acc8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/EIA/EQUIDAE/maps/disease_map_EIA_EQUIDAE_reiter_en.png"
       }
@@ -416,8 +416,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_GEFLUEGEL_reiter_de.png",
       "path": "out/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_de.png",
-      "bytes": 259644,
-      "sha256": "85a8123ca1a15b17e4267ee69044b6a8f6c091e87b4274542868383a8ebad16a",
+      "bytes": 237427,
+      "sha256": "78ea03dd34e0958d7a7338c5fb0f6233149db905e5b3976d9f6526da6cab1af8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_de.png"
       }
@@ -431,8 +431,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_GEFLUEGEL_reiter_fr.png",
       "path": "out/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_fr.png",
-      "bytes": 259877,
-      "sha256": "526698f0a7c31f71a3cc5e3b4d21c76e34f0131130cf994d430b679d123b0f7f",
+      "bytes": 237575,
+      "sha256": "f9e26b962b433bad10a2d1f308ac1f6d43bc0484c5fdde5525ff0dc89ab7e234",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_fr.png"
       }
@@ -446,8 +446,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_GEFLUEGEL_reiter_it.png",
       "path": "out/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_it.png",
-      "bytes": 259000,
-      "sha256": "733164dd1e85785c177098e927330d25e95b040d50b560019fe2725a8df0cf1f",
+      "bytes": 237029,
+      "sha256": "dee64765b8ad3c1e907fb1b0fcb9e20b9ea1f275906722e7d028d1c9ba01d262",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_it.png"
       }
@@ -461,8 +461,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_GEFLUEGEL_reiter_en.png",
       "path": "out/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_en.png",
-      "bytes": 258638,
-      "sha256": "b854ac6df4cf89fbd4afd117e09842044185be441daa1b92bb1edc1bd834c9a9",
+      "bytes": 236835,
+      "sha256": "8f8f59dc389f7fa80da7245543ea51603b2c692870bd213ed2bca4ebd3f4d749",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/GEFLUEGEL/maps/disease_map_HPAI_GEFLUEGEL_reiter_en.png"
       }
@@ -476,8 +476,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_VOGEL_GEFANGEN_reiter_de.png",
       "path": "out/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_de.png",
-      "bytes": 260872,
-      "sha256": "b213682e7502bac0f292a6aa147f170211545017539db1a5751748f3652787d7",
+      "bytes": 238839,
+      "sha256": "ad6641161eded641498da061ac943149f07e0dd544d48de650c9324701c5f29e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_de.png"
       }
@@ -491,8 +491,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_VOGEL_GEFANGEN_reiter_fr.png",
       "path": "out/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_fr.png",
-      "bytes": 261112,
-      "sha256": "c8822e560abb053830cea01fabf2528da5ca18b19923065d5e932e7a9502fd85",
+      "bytes": 238971,
+      "sha256": "eafd10e46a49add991b3d1f273c45e96fe107ab30f5a74f4a6e594630348f5d4",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_fr.png"
       }
@@ -506,8 +506,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_VOGEL_GEFANGEN_reiter_it.png",
       "path": "out/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_it.png",
-      "bytes": 260234,
-      "sha256": "9a606aba65493b42a7cda0eb4907eb809af7febfb3f489fcbf16d40ccb9e9d51",
+      "bytes": 238429,
+      "sha256": "70ea929b8b06d51621f23142a7752a50b0f66269831ef0681c9d97084169a592",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_it.png"
       }
@@ -521,8 +521,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_VOGEL_GEFANGEN_reiter_en.png",
       "path": "out/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_en.png",
-      "bytes": 259866,
-      "sha256": "cebba807983bf3214b9609142752fde179724696a1403f0d965947806cccdda2",
+      "bytes": 238235,
+      "sha256": "33931523911b6b3dc11563c454fd10dac0d263313f8f46edcf62804e8bd5dfc1",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/VOGEL_GEFANGEN/maps/disease_map_HPAI_VOGEL_GEFANGEN_reiter_en.png"
       }
@@ -536,8 +536,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_WILDVOGEL_reiter_de.png",
       "path": "out/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_de.png",
-      "bytes": 276464,
-      "sha256": "0dd7f9895a277607eb2b8785e83571c9724ee7dbfb9194f8ff766835ac2bf90d",
+      "bytes": 256318,
+      "sha256": "0ccb9649f82f77a64fff2d5fd36ed627a97c48a23f506b534ba72079af2e244f",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_de.png"
       }
@@ -551,8 +551,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_WILDVOGEL_reiter_fr.png",
       "path": "out/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_fr.png",
-      "bytes": 276712,
-      "sha256": "5fec748441fbbfd74e75534c88fdc05cb694e338c7263e29bac409b712cc609f",
+      "bytes": 256450,
+      "sha256": "392da53a92f6e449ee1ecf5c939a357869b175846e6a04c9597724cf4d2513b0",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_fr.png"
       }
@@ -566,8 +566,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_WILDVOGEL_reiter_it.png",
       "path": "out/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_it.png",
-      "bytes": 275842,
-      "sha256": "3e4764a9da88a474c500727d0cb14adb590260512fdddab456b400d906270610",
+      "bytes": 255919,
+      "sha256": "ac5c016abb714f94ed0ba3d5d54b09d11d397ef9f1cae89be3e14ce2719cc6d7",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_it.png"
       }
@@ -581,8 +581,8 @@
       "variant": "reiter",
       "name": "disease_map_HPAI_WILDVOGEL_reiter_en.png",
       "path": "out/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_en.png",
-      "bytes": 275487,
-      "sha256": "9c3a0da5752b7ccd19185a8b8353ffd8035b1cbb7344f8069cb47fe767cf1dbf",
+      "bytes": 255717,
+      "sha256": "32ae5f623630e49f166c35d9bd281952c35cef5dc863d07b1068452da5518e12",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/HPAI/WILDVOGEL/maps/disease_map_HPAI_WILDVOGEL_reiter_en.png"
       }
@@ -596,8 +596,8 @@
       "variant": "reiter",
       "name": "disease_map_LSD_RIND_reiter_de.png",
       "path": "out/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_de.png",
-      "bytes": 259377,
-      "sha256": "540b0fc2ae53f34d4800a5dc7e71c7a0d66fcc9d9feff0f60c7c0eadc2f8fe0f",
+      "bytes": 236441,
+      "sha256": "53c5a1b0e7adee154324ab67051035d28faa0c8c0309895cbe23d3c0a205c45f",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_de.png"
       }
@@ -611,8 +611,8 @@
       "variant": "reiter",
       "name": "disease_map_LSD_RIND_reiter_fr.png",
       "path": "out/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_fr.png",
-      "bytes": 259606,
-      "sha256": "1571fa3d2f0e002ea544e54d404b786d18bb49515a5b3a3c53a1623d337d5e61",
+      "bytes": 236585,
+      "sha256": "7f93a32e3b53fbaaafd7589d516ec7a3f6881d6fd6bb3532229a1c96ac7df103",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_fr.png"
       }
@@ -626,8 +626,8 @@
       "variant": "reiter",
       "name": "disease_map_LSD_RIND_reiter_it.png",
       "path": "out/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_it.png",
-      "bytes": 258737,
-      "sha256": "aea14d8f6123ede3d2eef9f83c94a39c70675931598adc3485a3824c013cc751",
+      "bytes": 236114,
+      "sha256": "5a90b4ae960999220f9855bbdea7a9883d45d17dadb81317ef90211c025fd4aa",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_it.png"
       }
@@ -641,8 +641,8 @@
       "variant": "reiter",
       "name": "disease_map_LSD_RIND_reiter_en.png",
       "path": "out/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_en.png",
-      "bytes": 258374,
-      "sha256": "d411d84cecb3aec0f1fd601ca1e7580c7b6959dba9fd18da3aeb4ecc70ffd648",
+      "bytes": 235935,
+      "sha256": "c49edc49f1dba6af34b09822e54189dfff5881120b367d444c01e854ab85ff4e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/LSD/RIND/maps/disease_map_LSD_RIND_reiter_en.png"
       }
@@ -656,8 +656,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_RIND_reiter_de.png",
       "path": "out/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_de.png",
-      "bytes": 259113,
-      "sha256": "6578c37960095a4e389ec2daaf9bfc446975acdce0c724b685df8f06f9a29e3c",
+      "bytes": 236379,
+      "sha256": "4b3e7b5c2af71835d16f3e59bf992da62b6c9c0e8d7642bb234ddc2317d4835a",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_de.png"
       }
@@ -671,8 +671,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_RIND_reiter_fr.png",
       "path": "out/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_fr.png",
-      "bytes": 259347,
-      "sha256": "eaf3b61d8f7d3096fd9739b8ebff4324acb89c6ede298ea46114d421caa7aecd",
+      "bytes": 236517,
+      "sha256": "51acc7be8ae90bc0c29285ddd0375598397949a3d7f06f2e18bfd8bf6666dcbb",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_fr.png"
       }
@@ -686,8 +686,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_RIND_reiter_it.png",
       "path": "out/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_it.png",
-      "bytes": 258475,
-      "sha256": "4a24991b07d1a39a420439ce0857dc0392583595bdc637c5dbb35fa84297b210",
+      "bytes": 236013,
+      "sha256": "27ef5f9c9f948586136cbba6bad2d14390949853179cd4c9690db7d45bf325da",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_it.png"
       }
@@ -701,8 +701,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_RIND_reiter_en.png",
       "path": "out/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_en.png",
-      "bytes": 258117,
-      "sha256": "f2be0280eea487941361b5432a765f853fcce7a2d1855bb2c4eb573c0e3f5955",
+      "bytes": 235863,
+      "sha256": "777e36148bdefc384d4e6442d4804f0e433afde35ca3539a4cd20564836bc9de",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/RIND/maps/disease_map_MKS_RIND_reiter_en.png"
       }
@@ -716,8 +716,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_reiter_de.png",
       "path": "out/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_de.png",
-      "bytes": 259987,
-      "sha256": "4c5b96372e15e1b15d70cc7ed6884a3ac2c9446b90f7297e68576e79ed5f045e",
+      "bytes": 237368,
+      "sha256": "8ed3adab87a576f8a8f8f6f5ffc26737e2da8047e5c3a0fc40ee04a6bb97d63f",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_de.png"
       }
@@ -731,8 +731,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_reiter_fr.png",
       "path": "out/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_fr.png",
-      "bytes": 260224,
-      "sha256": "2c8e520eb4a9d15d5023cfe62e6323df3781832fc2e1e420f188f97080e10ad8",
+      "bytes": 237515,
+      "sha256": "f1aae2d6d3a674aba995df1c6fb6f8339f596a5a745e6d65814592fa60b9f423",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_fr.png"
       }
@@ -746,8 +746,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_reiter_it.png",
       "path": "out/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_it.png",
-      "bytes": 259351,
-      "sha256": "ab1b6355dbeb9f9ae4e5b1d81e89769f7a3a5fcf32f3a6d9978a0fbbd6834aec",
+      "bytes": 236967,
+      "sha256": "b27bfa01cea0d12fa01782c0f103c04bc5b2dc775c2091015561b3abd07c3db0",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_it.png"
       }
@@ -761,8 +761,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_reiter_en.png",
       "path": "out/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_en.png",
-      "bytes": 258991,
-      "sha256": "a33d05ac4a693af3d90fdddf93a97e02b3e589c81c8b2e67b05f575bb267c7b5",
+      "bytes": 236776,
+      "sha256": "ac91249c53c6287a9c1e606ead0cc83662eb2208b875003be4d398c503935f0c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF/maps/disease_map_MKS_SCHAF_reiter_en.png"
       }
@@ -776,8 +776,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_ZIEGE_reiter_de.png",
       "path": "out/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_de.png",
-      "bytes": 259797,
-      "sha256": "1640a23b7883b8049d626f2799ff10c120b37aa40e65cb3b80d2f02cfb5a6bc7",
+      "bytes": 237033,
+      "sha256": "5304ad6c248c14013d7b2a4f0d2b97e40584ae86b255cf23b445e752a6a7c308",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_de.png"
       }
@@ -791,8 +791,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_fr.png",
-      "bytes": 260032,
-      "sha256": "1906e947f630991a447813ba793b38462319488cc8b32670945e460107d28483",
+      "bytes": 237174,
+      "sha256": "3e1ea730a07f6b7e3069c7fe4c520a2e7e6fda642c0da7349d97929da63bf036",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_fr.png"
       }
@@ -806,8 +806,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_ZIEGE_reiter_it.png",
       "path": "out/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_it.png",
-      "bytes": 259156,
-      "sha256": "dc913be0b06a2df12c0ed74af7543f43e76a0cc7191aa80fb60f3395312237e4",
+      "bytes": 236617,
+      "sha256": "e471d6f46f5e6a0773551521f2261489dc6a2eb85da4dac001f1c89f70fd8c89",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_it.png"
       }
@@ -821,8 +821,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHAF_ZIEGE_reiter_en.png",
       "path": "out/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_en.png",
-      "bytes": 258797,
-      "sha256": "93ddcf90c5cb78cf91be4321489700749c366a294804d1e91191d1b9f09dc24b",
+      "bytes": 236415,
+      "sha256": "96e12e36787ef6dbc5712d44b8f3d5fd5bee79b535b6b0e0c500d9a32f4e8157",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHAF_ZIEGE/maps/disease_map_MKS_SCHAF_ZIEGE_reiter_en.png"
       }
@@ -836,8 +836,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHWEIN_reiter_de.png",
       "path": "out/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_de.png",
-      "bytes": 258700,
-      "sha256": "50bfee1a74ff2768d61c6c199818c04f5d7e94fd801e91525f8a5b565478a895",
+      "bytes": 235920,
+      "sha256": "62a15908bd1c6afdebe5b013f46da96722151fdbf056500a673ba65e8ec793f3",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_de.png"
       }
@@ -851,8 +851,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHWEIN_reiter_fr.png",
       "path": "out/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_fr.png",
-      "bytes": 258931,
-      "sha256": "bb032c4e8c3fc458c374961455e6575d1f0606c18a5e1abc646f4dcb830102f5",
+      "bytes": 236064,
+      "sha256": "a0a3c33359f61470886e7c30169adc11b8de58ddec2c0a565e23922cd9483f33",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_fr.png"
       }
@@ -866,8 +866,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHWEIN_reiter_it.png",
       "path": "out/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_it.png",
-      "bytes": 258063,
-      "sha256": "67c255d614ad8597490ec1375fae6bbaa85da41151678e4bfc8a5efd99403a2f",
+      "bytes": 235512,
+      "sha256": "104e8c1f407afc35fdfc45c6cfc54b9b4bf9431c25735117d53cc5b9516381fa",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_it.png"
       }
@@ -881,8 +881,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_SCHWEIN_reiter_en.png",
       "path": "out/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_en.png",
-      "bytes": 257709,
-      "sha256": "0016abe3d666544e8608c5b5598bc5cc05d2291468ecd1f74e1ee9c093be89a7",
+      "bytes": 235321,
+      "sha256": "8108f9f66d44a6e8720f17846451eb7888fb535df42ae48ad0eb0bf8b90850f8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/SCHWEIN/maps/disease_map_MKS_SCHWEIN_reiter_en.png"
       }
@@ -896,8 +896,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_ZIEGE_reiter_de.png",
       "path": "out/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_de.png",
-      "bytes": 258880,
-      "sha256": "61991653d6487a629b9bb9b4ee61573a9c44219c0f8be933d8770592f4d5e81c",
+      "bytes": 236135,
+      "sha256": "61915bd5efbd85fed872ccdaac86a8941b47db8ca36a33d95ef4908477c86e2a",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_de.png"
       }
@@ -911,8 +911,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_fr.png",
-      "bytes": 259112,
-      "sha256": "a869f32b56cbe7191fdd6ad1edf38526ca1c0761fbf22a2bc0c191a986676d7a",
+      "bytes": 236270,
+      "sha256": "bfdaa3b1dbf0f5291f651c4120c9bafa1be8b15a7006d35a0e72a40f08dbf07d",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_fr.png"
       }
@@ -926,8 +926,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_ZIEGE_reiter_it.png",
       "path": "out/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_it.png",
-      "bytes": 258241,
-      "sha256": "92fcfb9d10243ae05c833ed05376e0ce8f35934b8a6d6712d539a265b2dbd733",
+      "bytes": 235726,
+      "sha256": "a50e48601eb170dd7175c735bae1fdf0866fb5de88724ae9a06feca05c4b3176",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_it.png"
       }
@@ -941,8 +941,8 @@
       "variant": "reiter",
       "name": "disease_map_MKS_ZIEGE_reiter_en.png",
       "path": "out/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_en.png",
-      "bytes": 257887,
-      "sha256": "aa84f02827f7e9317db034e82166b413c59d53bff26479d7068f7b0a014a3be4",
+      "bytes": 235536,
+      "sha256": "809e20766cf8ad674e869e34944045a1638c53926b378522ceb21c2739295f00",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/MKS/ZIEGE/maps/disease_map_MKS_ZIEGE_reiter_en.png"
       }
@@ -956,8 +956,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_GEFLUEGEL_reiter_de.png",
       "path": "out/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_de.png",
-      "bytes": 262118,
-      "sha256": "9abf7cfb62331cfb2bdc941a0b0d98b25e3f18ece869905ae7bc5e029dc2cdb0",
+      "bytes": 239711,
+      "sha256": "6d212935cf1b5b3220bf3a1b2195feb0a1e3d587492eb92abac39e7ccd986127",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_de.png"
       }
@@ -971,8 +971,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_GEFLUEGEL_reiter_fr.png",
       "path": "out/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_fr.png",
-      "bytes": 262374,
-      "sha256": "560dc5873c37569414be785bdceef9b045f109ebd841dd482474570b83dd1bdf",
+      "bytes": 239864,
+      "sha256": "1bdd103a9607970e505f90e454a7af64a4a41a51957da2d085c408f5b5b45c6a",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_fr.png"
       }
@@ -986,8 +986,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_GEFLUEGEL_reiter_it.png",
       "path": "out/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_it.png",
-      "bytes": 261481,
-      "sha256": "2e49c54a04745b438dfaf1b9985d0971e84c1a33f1e2c71df45b8df2de709b86",
+      "bytes": 239336,
+      "sha256": "90c62c85d33c93db2ea332bf70c4fd7e33b06d5867dd709a6efd4a0959aa017a",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_it.png"
       }
@@ -1001,8 +1001,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_GEFLUEGEL_reiter_en.png",
       "path": "out/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_en.png",
-      "bytes": 261083,
-      "sha256": "c949da6253dd7b8fcd1d7d5e7d63b963bb1fd2e8604fc9256fa082fb8342c416",
+      "bytes": 239145,
+      "sha256": "7a36290c41f1696deb6862dacfbea4d59c82e895784134c3e81178019d304893",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/GEFLUEGEL/maps/disease_map_ND_GEFLUEGEL_reiter_en.png"
       }
@@ -1016,8 +1016,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_VOGEL_GEFANGEN_reiter_de.png",
       "path": "out/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_de.png",
-      "bytes": 266095,
-      "sha256": "a1536743d24a741ed949913a22e30ac3c37e65c189a3eea1e90d9d942ab2c68a",
+      "bytes": 243811,
+      "sha256": "2ad264496fb84cfbe28f4565941facd6fd74f1ddd90f088e742274c4108a0bcd",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_de.png"
       }
@@ -1031,8 +1031,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_VOGEL_GEFANGEN_reiter_fr.png",
       "path": "out/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_fr.png",
-      "bytes": 266333,
-      "sha256": "58bf184cce47d76e7ee0feb92e68bbe2af1ef43e7c821b2893e8bb09d45e53db",
+      "bytes": 244009,
+      "sha256": "cc137227efd5d5bc1d3fa53bed58fdc3cb221ec0cc647faedba4917b3237a723",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_fr.png"
       }
@@ -1046,8 +1046,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_VOGEL_GEFANGEN_reiter_it.png",
       "path": "out/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_it.png",
-      "bytes": 265453,
-      "sha256": "372d599b9d146ec76138067bf743282c535e111ec10423ae4c73a8d3c7cd28c1",
+      "bytes": 243457,
+      "sha256": "ebe02e3dcccdbb0650a6bbf0446df72f5a57fa01d8e4630cb81e45d3d7bea679",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_it.png"
       }
@@ -1061,8 +1061,8 @@
       "variant": "reiter",
       "name": "disease_map_ND_VOGEL_GEFANGEN_reiter_en.png",
       "path": "out/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_en.png",
-      "bytes": 265044,
-      "sha256": "341f2cdba4332dbfee5476e81c2a1f55d5f98d7e732f7cfc77b1ad4ccc6fba45",
+      "bytes": 243242,
+      "sha256": "fce47a9964ed554bd47c9c027251e75100bf6967d520a7fe5c7e8d012f4f9128",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/ND/VOGEL_GEFANGEN/maps/disease_map_ND_VOGEL_GEFANGEN_reiter_en.png"
       }
@@ -1076,8 +1076,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_SCHAF_reiter_de.png",
       "path": "out/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_de.png",
-      "bytes": 261933,
-      "sha256": "75c0868edbdf478f808ab8021af337d4e63467b8cb034e445e09a1c36c1a25bd",
+      "bytes": 239143,
+      "sha256": "a6793ab1a0492c067c4e294cb355c7ef8679ebf89cbc7c97cc07fc300420c2a0",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_de.png"
       }
@@ -1091,8 +1091,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_SCHAF_reiter_fr.png",
       "path": "out/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_fr.png",
-      "bytes": 262175,
-      "sha256": "1702dad596caae468043444b3c4593911d7f460d8feae8892e7564f0deccf8db",
+      "bytes": 239306,
+      "sha256": "795670f37f15739baa598be4f2e4991f423d2097093fa5b0cda6d88ca825264c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_fr.png"
       }
@@ -1106,8 +1106,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_SCHAF_reiter_it.png",
       "path": "out/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_it.png",
-      "bytes": 261289,
-      "sha256": "cd1de7052112b896cf2111939e1da6509c7ea7b8b57ad33a2133b3b4c6a242e7",
+      "bytes": 238745,
+      "sha256": "c865e5eed5d5eab2d2ff97d55b8ac43f3f1a4e8945d18b1e7c02171f52a472a0",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_it.png"
       }
@@ -1121,8 +1121,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_SCHAF_reiter_en.png",
       "path": "out/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_en.png",
-      "bytes": 260925,
-      "sha256": "ccfa4b4a0ab6387ba1aa7855b7295a7af7c3740cb209bdcfcb0c102c10ea97cd",
+      "bytes": 238547,
+      "sha256": "3c4f44f326f71ca20e1d5bc2f899b8700bb80c78258e9f4e6120c6301cce8103",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/SCHAF/maps/disease_map_PPR_SCHAF_reiter_en.png"
       }
@@ -1136,8 +1136,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_ZIEGE_reiter_de.png",
       "path": "out/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_de.png",
-      "bytes": 259302,
-      "sha256": "050040b3638b416243a98d2d2b977a965dfb20e31c2e7f5fbe91473bb27d305f",
+      "bytes": 236389,
+      "sha256": "c6fd661061908642bf031e6a595add693af346d3bea574e46e38ccb87a5b9733",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_de.png"
       }
@@ -1151,8 +1151,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_fr.png",
-      "bytes": 259538,
-      "sha256": "9eb24fe24293b3ef9d4b4891acf6eb2eccae4cba8c516874656ee993f854e4ae",
+      "bytes": 236534,
+      "sha256": "a8f6ebeb2ca372f2336b2b7eefb5d76768bda48b54f796dde019f47a123396f9",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_fr.png"
       }
@@ -1166,8 +1166,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_ZIEGE_reiter_it.png",
       "path": "out/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_it.png",
-      "bytes": 258662,
-      "sha256": "1a9439c5ab78215300510dd21c146e344f1be4335056dd930512de8c08acf091",
+      "bytes": 236050,
+      "sha256": "2ffd003e07dda5c997b247df42c154d0ba36d161fd18d44fd7cd59d398745d91",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_it.png"
       }
@@ -1181,8 +1181,8 @@
       "variant": "reiter",
       "name": "disease_map_PPR_ZIEGE_reiter_en.png",
       "path": "out/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_en.png",
-      "bytes": 258303,
-      "sha256": "638aa26c7dcf1baa06bb29cd7e09a06a441e00d3821039103d4121892f22427b",
+      "bytes": 235850,
+      "sha256": "0c5bfd8c7eb0cf2c017ce86e968f6d8fd4492bfbd97e664792b28c7a427b3be7",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/PPR/ZIEGE/maps/disease_map_PPR_ZIEGE_reiter_en.png"
       }
@@ -1196,8 +1196,8 @@
       "variant": "reiter",
       "name": "disease_map_SHB_BIENE_reiter_de.png",
       "path": "out/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_de.png",
-      "bytes": 259312,
-      "sha256": "65cf4257f941086066aac2eb53f8dfa19ffd4009f3a010fbf7bab12aaac6afc5",
+      "bytes": 236481,
+      "sha256": "47da1ecf1b893895d75428206aeb36d2c3dd53536c8bee814ee0364d65ba59a8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_de.png"
       }
@@ -1211,8 +1211,8 @@
       "variant": "reiter",
       "name": "disease_map_SHB_BIENE_reiter_fr.png",
       "path": "out/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_fr.png",
-      "bytes": 259546,
-      "sha256": "4b56ddeb8816c33da631fb201ecc6a4a0583074fa41257abee06d25e252b8633",
+      "bytes": 236629,
+      "sha256": "aebfd1b57d5c3d89b7d7a7ba0617447907eec9b4bf2bfe549f8437cd4b62ad4c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_fr.png"
       }
@@ -1226,8 +1226,8 @@
       "variant": "reiter",
       "name": "disease_map_SHB_BIENE_reiter_it.png",
       "path": "out/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_it.png",
-      "bytes": 258671,
-      "sha256": "5c2c3b44f80b2212ae3353a63a1d20e7fca44920c502ae57ba214881163c91cf",
+      "bytes": 236143,
+      "sha256": "0b1fbbf8a951e039ba22218e8e22fe25d2bbe1b10be5823198af28f6a31a9db5",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_it.png"
       }
@@ -1241,8 +1241,8 @@
       "variant": "reiter",
       "name": "disease_map_SHB_BIENE_reiter_en.png",
       "path": "out/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_en.png",
-      "bytes": 258315,
-      "sha256": "7da61334bf5abd1e237351ac9b988d1d79c8226263677be7c0d5b6b29fa4ce06",
+      "bytes": 235985,
+      "sha256": "8133232889c6b16627d457a3e9b05b80e45a658661f315cd4bdafcf118e69386",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SHB/BIENE/maps/disease_map_SHB_BIENE_reiter_en.png"
       }
@@ -1256,8 +1256,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_reiter_de.png",
       "path": "out/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_de.png",
-      "bytes": 277558,
-      "sha256": "540b77bf6ccac94675656fb81dc76055ef941c1b4bd1c94ee9814906667141fc",
+      "bytes": 257847,
+      "sha256": "5c7763cbe3a0f70f46198674ec74008b66e66f356065784b50d6a90028ac55ed",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_de.png"
       }
@@ -1271,8 +1271,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_reiter_fr.png",
       "path": "out/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_fr.png",
-      "bytes": 277800,
-      "sha256": "4fce822c555f6da96ca799cc625c8f8bfe979b7ce8f8f45d9ec61da157047244",
+      "bytes": 257995,
+      "sha256": "03b37dbdf83fd36685da0be26fae76ed0ddaad2fad02975aedecbdc76a6dd2be",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_fr.png"
       }
@@ -1286,8 +1286,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_reiter_it.png",
       "path": "out/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_it.png",
-      "bytes": 276928,
-      "sha256": "08d4e02127977d85339ce25ad8e157f5467efadd47f9a0eee4aa4e92c02ffe3a",
+      "bytes": 257444,
+      "sha256": "be1beb73c53d2e6733292548002e75831966c6b98d0ee100be4659a2638566ef",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_it.png"
       }
@@ -1301,8 +1301,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_reiter_en.png",
       "path": "out/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_en.png",
-      "bytes": 276576,
-      "sha256": "11f89a7beedc5c8fbed171c489dcce570edb9b65a0d5890f3268542cde258400",
+      "bytes": 257248,
+      "sha256": "80d6e52ef84edc896faa5e8b5f7e04e2fa003e77764ba10318ee6052f00381d0",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF/maps/disease_map_SZP_SCHAF_reiter_en.png"
       }
@@ -1316,8 +1316,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_ZIEGE_reiter_de.png",
       "path": "out/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_de.png",
-      "bytes": 267160,
-      "sha256": "4904c8bfea83fae50de8412a72688080fcfec6ead1583c8b4b44c84899b2cf3c",
+      "bytes": 244637,
+      "sha256": "3938f835b34d807d9cd681812ab4e1235017e41c3053c7e24f89e9ecbdf1ad41",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_de.png"
       }
@@ -1331,8 +1331,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_fr.png",
-      "bytes": 267372,
-      "sha256": "c37b2f65032c4e57c3f0317cc62240e9320e37e3efdc7482311011d5f52dd341",
+      "bytes": 244820,
+      "sha256": "db478d4a9c79ff3da6253a309ccb5b19c2039a4a24143c590612e60a129bfcb2",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_fr.png"
       }
@@ -1346,8 +1346,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_ZIEGE_reiter_it.png",
       "path": "out/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_it.png",
-      "bytes": 266522,
-      "sha256": "2e31753b86e12b3cec944dc37056bca45c8ea6fdfd8a7f56cb43b5fea565f3a8",
+      "bytes": 244245,
+      "sha256": "f040b187c64c1aeeef3e412937a0f3eb230dc8d66779ea04a8b2f31c12966940",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_it.png"
       }
@@ -1361,8 +1361,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_SCHAF_ZIEGE_reiter_en.png",
       "path": "out/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_en.png",
-      "bytes": 266162,
-      "sha256": "8a11ca4cd7c71aaa12978dca1e892c1c094ded1f2e57ab16195d41bf9153ca67",
+      "bytes": 244042,
+      "sha256": "9fe7a0580c42504eec366a18413861c900cf3159cf4dc20e3e5ec520a2dc4856",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/SCHAF_ZIEGE/maps/disease_map_SZP_SCHAF_ZIEGE_reiter_en.png"
       }
@@ -1376,8 +1376,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_ZIEGE_reiter_de.png",
       "path": "out/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_de.png",
-      "bytes": 260114,
-      "sha256": "a4a15270b6606beb6d786bbb5eb7794203a0511023fc4d3bcb427870b381ec0b",
+      "bytes": 237598,
+      "sha256": "832c850e9a3aa8abb951cfa48ed633d69bc549730cdc11e4d54f6e00fe35a264",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_de.png"
       }
@@ -1391,8 +1391,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_fr.png",
-      "bytes": 260348,
-      "sha256": "3902e29da8ce890dd8fd766e455b787bc269ce0d3035d88bba4b19157af49a54",
+      "bytes": 237742,
+      "sha256": "ded8a85956011a1f147847a204399b8d0b1d4a82b2c430dae18c9c23990a1412",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_fr.png"
       }
@@ -1406,8 +1406,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_ZIEGE_reiter_it.png",
       "path": "out/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_it.png",
-      "bytes": 259471,
-      "sha256": "35ceadcb2a5ec0a2f08c060e9553632c4245e4f292059e093437f2119770a3ad",
+      "bytes": 237192,
+      "sha256": "58ecb870a970ed4d122a85cab23d364ae2c9a90721295bf32a5cf283aba73b93",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_it.png"
       }
@@ -1421,8 +1421,8 @@
       "variant": "reiter",
       "name": "disease_map_SZP_ZIEGE_reiter_en.png",
       "path": "out/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_en.png",
-      "bytes": 259109,
-      "sha256": "f05335da049dc12fd753a333ab4942d2c458ed33f918e840b617154d2aa37b7a",
+      "bytes": 236995,
+      "sha256": "9b7d73e5ecf7451e04d03902d90a3f3e25a68f39280b2266258c38c6a488b1fe",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/SZP/ZIEGE/maps/disease_map_SZP_ZIEGE_reiter_en.png"
       }
@@ -1436,8 +1436,8 @@
       "variant": "reiter",
       "name": "disease_map_TB_RIND_reiter_de.png",
       "path": "out/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_de.png",
-      "bytes": 266944,
-      "sha256": "e63528428eb187e307c24d9feceb0384738ec77ec35df64bd2a6f971ffbc3954",
+      "bytes": 245201,
+      "sha256": "86dd2a32aebb0b644c5b6097e1575f2db47ad048c227f9440a5961cd50bb5c32",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_de.png"
       }
@@ -1451,8 +1451,8 @@
       "variant": "reiter",
       "name": "disease_map_TB_RIND_reiter_fr.png",
       "path": "out/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_fr.png",
-      "bytes": 267191,
-      "sha256": "a8abf23e51090d3fc43c37ecb4621ce886a29e2b160ec4b713218143e7d2a99a",
+      "bytes": 245384,
+      "sha256": "fc071b3d7fe7e641e7f1d0b9459beaaa04a12e1a9cdec3f86decfb7cf1940b83",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_fr.png"
       }
@@ -1466,8 +1466,8 @@
       "variant": "reiter",
       "name": "disease_map_TB_RIND_reiter_it.png",
       "path": "out/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_it.png",
-      "bytes": 266331,
-      "sha256": "ebcfadf60da13f8ad790546fe95cca9654aba5d30a2fc28d097163824bb501e5",
+      "bytes": 244811,
+      "sha256": "36b40a6359535ce30c981ab0ce9284fc65982c557b982e47451b2785e9cd9955",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_it.png"
       }
@@ -1481,8 +1481,8 @@
       "variant": "reiter",
       "name": "disease_map_TB_RIND_reiter_en.png",
       "path": "out/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_en.png",
-      "bytes": 265923,
-      "sha256": "0a9c8847e9c05099485dff75428e6399647d9e465de1cd5c57a500ff09a6a45d",
+      "bytes": 244586,
+      "sha256": "73ed50a3a9313644e471b1ae7c7d467f51651249fdad2fe892c2c6bdc97dcf33",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TB/RIND/maps/disease_map_TB_RIND_reiter_en.png"
       }
@@ -1496,8 +1496,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_HUND_reiter_de.png",
       "path": "out/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_de.png",
-      "bytes": 265892,
-      "sha256": "1962b20d2462ce7beec2d9cd14d2078ae510ad95d9ec20a8884e27f7eef4161d",
+      "bytes": 243102,
+      "sha256": "e3020037ae2e6e594a40cb96ad28481cc2f7c022d37c811240dda25eafab6e66",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_de.png"
       }
@@ -1511,8 +1511,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_HUND_reiter_fr.png",
       "path": "out/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_fr.png",
-      "bytes": 266135,
-      "sha256": "4dd9e81fe5c54f84ea1588c67cf7f62f896388cdc774408233fa3e8f9dde3e19",
+      "bytes": 243289,
+      "sha256": "26069c00fe4589719f14b132968d829acd44240b07126814f22dd6dfa58466b8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_fr.png"
       }
@@ -1526,8 +1526,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_HUND_reiter_it.png",
       "path": "out/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_it.png",
-      "bytes": 265258,
-      "sha256": "ea1bea23ce5e564f07ee0a1e4f8c3852b08c287f44d3c97b0dff4f703367da57",
+      "bytes": 242736,
+      "sha256": "816ea7431be5f2d888399731dd5eb3126b561cd2ad54097ae6c2428a018797b7",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_it.png"
       }
@@ -1541,8 +1541,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_HUND_reiter_en.png",
       "path": "out/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_en.png",
-      "bytes": 264877,
-      "sha256": "9c0372a946a974833298e7c1eabc241ce8e92e5b3fde84928ae7f3f9a03026a0",
+      "bytes": 242534,
+      "sha256": "cee047fdf2f8875efe4756a89e1d8a73352458a52dd9dbec2b3b2523767e9923",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/HUND/maps/disease_map_TW_HUND_reiter_en.png"
       }
@@ -1556,8 +1556,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_KATZE_reiter_de.png",
       "path": "out/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_de.png",
-      "bytes": 262941,
-      "sha256": "017122e28f827388df6e6765338e22f27457b3a8cfcbe5df7afd3205f495184f",
+      "bytes": 240712,
+      "sha256": "8b58c5118b3f71916fa623a8f09bd1289758872482da9123b4c71511bb2f2185",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_de.png"
       }
@@ -1571,8 +1571,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_KATZE_reiter_fr.png",
       "path": "out/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_fr.png",
-      "bytes": 263110,
-      "sha256": "5dddcb45bb5cb2af26b263a0dbc971fc431a03ef5b610ecc9a8ca4455650e883",
+      "bytes": 240873,
+      "sha256": "1c2cc3b0f6012dc6ea793c350f328a5b9fd5856fa6f5c5ab42dec9f93038cb6e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_fr.png"
       }
@@ -1586,8 +1586,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_KATZE_reiter_it.png",
       "path": "out/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_it.png",
-      "bytes": 262307,
-      "sha256": "c3543bf770c8511b68d401c2261df11e6095ff6db24f03ceb0f853b9fc1244c1",
+      "bytes": 240342,
+      "sha256": "ffbfd1c348bf3806861670ed0e3bafe4779b50af3683282f49fa02ffd613d6ce",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_it.png"
       }
@@ -1601,8 +1601,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_KATZE_reiter_en.png",
       "path": "out/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_en.png",
-      "bytes": 261934,
-      "sha256": "26fe946c63754fabfc07b50075605d520e5657655360ea750014b9163c96f05f",
+      "bytes": 240139,
+      "sha256": "c44b071e2495f9f92390e93cf5da3a183ffdc1ad747de1342bfe8b769be1f16d",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/KATZE/maps/disease_map_TW_KATZE_reiter_en.png"
       }
@@ -1616,8 +1616,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_RIND_reiter_de.png",
       "path": "out/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_de.png",
-      "bytes": 262421,
-      "sha256": "062b557a8e8852f2008d3468353233669318f9aefa069a61c3d49a26fcd36ac5",
+      "bytes": 239986,
+      "sha256": "072d7a451e5563decb075069cf0f4b50c108396135c7d09207b7aec60518ee35",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_de.png"
       }
@@ -1631,8 +1631,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_RIND_reiter_fr.png",
       "path": "out/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_fr.png",
-      "bytes": 262662,
-      "sha256": "af83a2ff45da0cf1067e51c651f116280a1cc0bb54f95369d8c27a0ced4d34fe",
+      "bytes": 240139,
+      "sha256": "898ee8f7c80c116295d38081f9dba5ecb7d4dd43aae43d022593c9db2fb14a4d",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_fr.png"
       }
@@ -1646,8 +1646,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_RIND_reiter_it.png",
       "path": "out/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_it.png",
-      "bytes": 261772,
-      "sha256": "9871ebf4d6814652747f2ae0a4686647086896932bc5a017cb82444ff54f06eb",
+      "bytes": 239597,
+      "sha256": "25a0ce17a451ea7390be2ca216b51390b9c7dfa52747a130c7860ae491776c1c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_it.png"
       }
@@ -1661,8 +1661,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_RIND_reiter_en.png",
       "path": "out/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_en.png",
-      "bytes": 261400,
-      "sha256": "b046d2bf05dcda364824013eaa8723ccfe14c7265e3a11d06b1be456849eca11",
+      "bytes": 239399,
+      "sha256": "73554e2a550731d2520bb93268924593aa4ba3474e1a6666dd39268204f8b799",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/RIND/maps/disease_map_TW_RIND_reiter_en.png"
       }
@@ -1676,8 +1676,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_WILDTIER_reiter_de.png",
       "path": "out/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_de.png",
-      "bytes": 261758,
-      "sha256": "253700d221c8afd7159bb5989ac11cfa011511c745f673a5a0324bd526cc1db8",
+      "bytes": 239413,
+      "sha256": "db511949569c27f0541899fd2de5addcc2b642f22ab5199ca78bbb9626fb6ebd",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_de.png"
       }
@@ -1691,8 +1691,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_WILDTIER_reiter_fr.png",
       "path": "out/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_fr.png",
-      "bytes": 262000,
-      "sha256": "b2ef77c7abdbe869605e0c26a9a1b6a8ec2cb4608ed93760189dc27bf321848c",
+      "bytes": 239573,
+      "sha256": "e8a09f7d30ea7229d524cced4cc125000cc38e7717310c8356f3c482b4427a5f",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_fr.png"
       }
@@ -1706,8 +1706,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_WILDTIER_reiter_it.png",
       "path": "out/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_it.png",
-      "bytes": 261119,
-      "sha256": "944e9f9f3292642464331a632e48d967500ce2a8fc8e586e58f5ee15e96eec5c",
+      "bytes": 239024,
+      "sha256": "f66c2201fbea117f2f4456f0321b124f537975e271c9eb5ee00c243edd232d0e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_it.png"
       }
@@ -1721,8 +1721,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_WILDTIER_reiter_en.png",
       "path": "out/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_en.png",
-      "bytes": 260751,
-      "sha256": "b4aa25eca494f3739abecbd6855eebea9963c9af35d377171344f5a18efb2aa6",
+      "bytes": 238828,
+      "sha256": "e29593a9464ee844e5f550e26f2eb3735cade66b9b793d9622e36592d921fc49",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/WILDTIER/maps/disease_map_TW_WILDTIER_reiter_en.png"
       }
@@ -1736,8 +1736,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_ZIEGE_reiter_de.png",
       "path": "out/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_de.png",
-      "bytes": 259315,
-      "sha256": "53c66aa056d6513176a772519d1cf90535309c3317d45b090c95b355df1673f5",
+      "bytes": 236720,
+      "sha256": "8b30f0aa687fe7c0b4fdec07ae8946576e06443a4c1ad43a4311ee5dcf9f8fef",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_de.png"
       }
@@ -1751,8 +1751,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_ZIEGE_reiter_fr.png",
       "path": "out/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_fr.png",
-      "bytes": 259550,
-      "sha256": "fff708db66439a55ff90efd253b3c1461e2b5bce47d5634fda74d2f10a777058",
+      "bytes": 236870,
+      "sha256": "3827051d390700b5bc140655f5fcf9e7c5b3ee24f737854c264927e1bdfbfc02",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_fr.png"
       }
@@ -1766,8 +1766,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_ZIEGE_reiter_it.png",
       "path": "out/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_it.png",
-      "bytes": 258676,
-      "sha256": "046740b033820b2ac2124c85f0a3849834c27fd01d945f15c5fe793d3b023e5c",
+      "bytes": 236322,
+      "sha256": "6150db6291d15b99a8c8101704fa5c7cf073c344dcce693a87ef98d8d3a469f4",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_it.png"
       }
@@ -1781,8 +1781,8 @@
       "variant": "reiter",
       "name": "disease_map_TW_ZIEGE_reiter_en.png",
       "path": "out/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_en.png",
-      "bytes": 258313,
-      "sha256": "ccec53eb4e00b46203910f1b23d75d5bc81561b24cf678007b19406ba4e55664",
+      "bytes": 236130,
+      "sha256": "0548fb871e08ce2d7cd88d235d0b51f435107eac58409ced69a0d92998878738",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/TW/ZIEGE/maps/disease_map_TW_ZIEGE_reiter_en.png"
       }
@@ -1796,8 +1796,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_EQUIDAE_reiter_de.png",
       "path": "out/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_de.png",
-      "bytes": 291420,
-      "sha256": "90623b64a248a4543b415cb5e03f8a417b6be0e576b20286515c86d818db923e",
+      "bytes": 274472,
+      "sha256": "6a822283a7a8ef16ba0d1faacd872118f56db81718168d7ef79177250f8804e2",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_de.png"
       }
@@ -1811,8 +1811,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_EQUIDAE_reiter_fr.png",
       "path": "out/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_fr.png",
-      "bytes": 291675,
-      "sha256": "7ca0645e209cc4b4bde99dc8e0d6332b58f2d13a9e7d1b5d5ab32ae5d48a0c34",
+      "bytes": 274621,
+      "sha256": "fac4aa7dc14a849992c0607d40ddf2f5f14bcdeabeadd0fe54fb6546d60803f8",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_fr.png"
       }
@@ -1826,8 +1826,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_EQUIDAE_reiter_it.png",
       "path": "out/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_it.png",
-      "bytes": 290772,
-      "sha256": "89e0502472166927ccd4f6c147d6c1e15cdd0c02ea03393873cfd55bdf1130ac",
+      "bytes": 274089,
+      "sha256": "11d8b332b68a6ae9f9a4116011a8d210dd016713fad9d333c36a4565f14eaaa7",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_it.png"
       }
@@ -1841,8 +1841,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_EQUIDAE_reiter_en.png",
       "path": "out/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_en.png",
-      "bytes": 290356,
-      "sha256": "ce1b5ae30c9b7a6cd3fad253d027537f6b3c2b256b9f3d2016b7b37146744dec",
+      "bytes": 273847,
+      "sha256": "e102582b022b270a729550a03a68bfd5dbd044b248bbb92ea9894d4420eff2d4",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/EQUIDAE/maps/disease_map_WNF_EQUIDAE_reiter_en.png"
       }
@@ -1856,8 +1856,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_VOGEL_GEFANGEN_reiter_de.png",
       "path": "out/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_de.png",
-      "bytes": 260815,
-      "sha256": "7298970f35f90ca4c1004342b6f6ab36916da52e0f1220fcdadbdb0235452897",
+      "bytes": 238689,
+      "sha256": "b0ed75c7540205a5c64a5545e71359af91230800fe2a0ff6fc15a0f77cfdf37e",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_de.png"
       }
@@ -1871,8 +1871,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_VOGEL_GEFANGEN_reiter_fr.png",
       "path": "out/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_fr.png",
-      "bytes": 261059,
-      "sha256": "80347570291a6e3e7f16539f7c5f97ce8849bc2abc341d2dbfa0088f0fc5490d",
+      "bytes": 238846,
+      "sha256": "7754adcbd3573ec24292245c73efec6d2ee0a1dcbcd0a49dbf3a1740a3a42cd1",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_fr.png"
       }
@@ -1886,8 +1886,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_VOGEL_GEFANGEN_reiter_it.png",
       "path": "out/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_it.png",
-      "bytes": 260178,
-      "sha256": "cdf80bb7ad93045c268bdc857ea112a1af72a707be270deafd19cbe98e9102e4",
+      "bytes": 238284,
+      "sha256": "a8bf87b4ddb70f40b5ad6fd55820c057618814df9cdf3d9b0d924cae89750e6c",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_it.png"
       }
@@ -1901,8 +1901,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_VOGEL_GEFANGEN_reiter_en.png",
       "path": "out/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_en.png",
-      "bytes": 259783,
-      "sha256": "c67b3447af9d2148bf8be3478f3af19e4779e604382848d69f3c9a7dc1430687",
+      "bytes": 238077,
+      "sha256": "b4b4a77a8beb05551e0e7d35583db8b923db688e82284603192053a1bc51e6f5",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/VOGEL_GEFANGEN/maps/disease_map_WNF_VOGEL_GEFANGEN_reiter_en.png"
       }
@@ -1916,8 +1916,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_WILDVOGEL_reiter_de.png",
       "path": "out/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_de.png",
-      "bytes": 286756,
-      "sha256": "92ed326f6ab53231090f5b4304b6137bf1fd83d013e1555e987a4955e6dd7ef1",
+      "bytes": 267492,
+      "sha256": "44befa05d28b29ed8b6ed989f9a05685079814e6bfd126ed3d936466d60be9e5",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_de.png"
       }
@@ -1931,8 +1931,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_WILDVOGEL_reiter_fr.png",
       "path": "out/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_fr.png",
-      "bytes": 286998,
-      "sha256": "1618cb7f9dc4a5eedcdeb2cf523bdf9fe56896350ecc0e1d63fbcfa168ffa68a",
+      "bytes": 267633,
+      "sha256": "ee5764bd56275e38c279540d54b4ca7782538fae3b0cd0f04724490a9d5ac876",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_fr.png"
       }
@@ -1946,8 +1946,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_WILDVOGEL_reiter_it.png",
       "path": "out/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_it.png",
-      "bytes": 286117,
-      "sha256": "54e282316617922e545160e1662a44ed91d7918fac22f243a30ed49c09ad50c5",
+      "bytes": 267081,
+      "sha256": "c431b5a9bda4a7e4f3a39be3f893b8b0ee98bdba90523071da20fcd61d7b18d1",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_it.png"
       }
@@ -1961,8 +1961,8 @@
       "variant": "reiter",
       "name": "disease_map_WNF_WILDVOGEL_reiter_en.png",
       "path": "out/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_en.png",
-      "bytes": 285723,
-      "sha256": "d6588ebeb3a90b781618882b4efb0e0b035b017c6249867d364585e3e4797551",
+      "bytes": 266871,
+      "sha256": "a90f2ac42e336d3d9f8aeec324173823e65a9323321e2159df87707fd58dbb55",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/WNF/WILDVOGEL/maps/disease_map_WNF_WILDVOGEL_reiter_en.png"
       }
@@ -1976,8 +1976,8 @@
       "variant": "reiter",
       "name": "eu_hotspot_reiter_de.png",
       "path": "out/2026-08/eu_hotspot_reiter_de.png",
-      "bytes": 340559,
-      "sha256": "80e2dee729149ca4ec4514503a4b608591cd3afbd25c76b21880646d78fb2847",
+      "bytes": 338654,
+      "sha256": "83fc7aec11fec5e189fbad179bb3beacd89fb115cd17c4ab06c39063c175ce02",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/eu_hotspot_reiter_de.png"
       }
@@ -1991,8 +1991,8 @@
       "variant": "reiter",
       "name": "eu_hotspot_reiter_fr.png",
       "path": "out/2026-08/eu_hotspot_reiter_fr.png",
-      "bytes": 337612,
-      "sha256": "9e63b95f6aaea0100c276926625d71b5032b66cf2eb48d6d49e19a10dd208ee5",
+      "bytes": 336652,
+      "sha256": "e60034ca1ca32273b8ef418dce222b9dffea1313254f49d6b31ba69ea982d0e6",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/eu_hotspot_reiter_fr.png"
       }
@@ -2006,8 +2006,8 @@
       "variant": "reiter",
       "name": "eu_hotspot_reiter_it.png",
       "path": "out/2026-08/eu_hotspot_reiter_it.png",
-      "bytes": 336063,
-      "sha256": "23f6c4c0b57fc44b8ed18e6779c279c1aba1d5e8f55d1bb15f504812f8ae5ba7",
+      "bytes": 335613,
+      "sha256": "2563fc423bd568bce4967838c58af1f20e1e68dae368ec30a49d788f3f14b821",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/eu_hotspot_reiter_it.png"
       }
@@ -2021,8 +2021,8 @@
       "variant": "reiter",
       "name": "eu_hotspot_reiter_en.png",
       "path": "out/2026-08/eu_hotspot_reiter_en.png",
-      "bytes": 337790,
-      "sha256": "301974fe5557ea7026e087f34087d6e1cd013ddd10f20d32f88d57d2983d4b07",
+      "bytes": 336746,
+      "sha256": "aea896c3844951553661c10cf85d36e834fe519009d6bd1a26a312926bc78644",
       "url_data_blv": {
         "latest": "https://www.data.blv.admin.ch/ogd/animal_disease_radar/2026/2026-08/eu_hotspot_reiter_en.png"
       }
