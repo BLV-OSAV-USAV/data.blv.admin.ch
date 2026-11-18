@@ -26,7 +26,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 518,5,Nanoplastik,nanoplastique,nanoplastica,Nanoplastic,1.2,"[2872, 2873, 2942, 3001, 2679]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.2,"[2734, 2871, 3025, 3078, 3017]"
 87,4,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.5,"[2857, 3002, 2951, 3044]"
-10,4,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.75,"[2538, 2916, 2542, 2926]"
 56,4,Aluminium,Aluminium,Alluminio,Aluminium,1.25,"[2639, 2691, 3077, 2977]"
 238,4,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 3013, 2798]"
 209,4,Anorganische Arsen,Arsenic inorganique,Arsenico inorganica,Inorganic arsenic,1.75,"[2639, 2891, 2970, 3018]"
@@ -46,6 +45,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 246,3,Acrylamid,Acrylamide,Acrilammide,Acrylamide,1.67,"[2691, 2690, 2967]"
 46,3,Ciguatera,Ciguatera,Ciguatera,Ciguatera,2.0,"[2699, 3055, 2887]"
 230,3,Nitrate,Nitrate,Nitrato,Nitrate,1.67,"[2888, 2876, 2907]"
+10,3,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,Toxoplasma gondii,1.67,"[2916, 2542, 2926]"
 55,3,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,6-PPD-Chinon,1.33,"[2998, 2683, 2611]"
 45,3,Aspartam,Aspartam,Aspartam,Aspartam,1.0,"[2578, 2594, 2615]"
 7,3,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,Cyclospora spp.,1.67,"[2891, 2959, 2937]"
@@ -62,7 +62,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 88,2,Campylobacter coli,Campylobacter coli,Campylobacter coli,Campylobacter coli,1.5,"[2857, 3005]"
 593,2,Tropomyosin,Tropomyosine,Tropomiosina,Tropomyosin,1.5,"[2870, 2980]"
 594,2,Parvalbumin,Parvalbumine,Parvalbumina,Parvalbumin,1.5,"[2870, 2980]"
-314,2,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.5,"[2538, 2542]"
 226,2,Shigella spp.,Shigella spp.,Shigella spp.,Shigella spp.,1.5,"[2707, 2845]"
 344,2,Chrom,Chrome,Cromo,Chromium,1.0,"[2639, 2718]"
 293,2,Bromierte Flammschutzmittel (BFR),Agent ignifuge bromé (BFR),Ritardante di fiamma bromurato (BFR),Brominated flame retardants (BFRs),1.5,"[2872, 2952]"
@@ -143,6 +142,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 143,1,Menschliche Arzneimittelrückstände,Résidus de produits pharmacieutiques humains,Residui di farmaci umani,Human drug residues,1.0,[2750]
 581,1,Ustiloxin A,Ustiloxin A,Ustiloxin A,Ustiloxin A,1.0,[2743]
 202,1,Antibiotikaresistente Milchsäurebakterien,Bactéries lactiques résistantes aux antibiotiques,Batteri lattici resistenti agli antibiotici,Antibiotic-resistant lactic acid bacteria,1.0,[2950]
+314,1,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,Sarcocystis spp.,1.0,[2542]
 450,1,Fluoride,Fluorure,Fluoruro,Fluoride,1.0,[2551]
 117,1,Alkaloide,alcaloides,Alcaloidi,alkaloids,1.0,[2960]
 89,1,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,Cronobacter sakazakii,1.0,[2896]
