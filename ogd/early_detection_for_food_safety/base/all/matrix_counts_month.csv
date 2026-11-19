@@ -1,20 +1,20 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-120,6,Schwein,Porc,Maiale,Pork,1.17,"[3044, 3043, 3053, 3056, 3059, 3078]"
-54,5,Geflügel,Volailles,Pollame,Poultry,1.2,"[3041, 3044, 3050, 3056, 3059]"
-3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3042, 3051]"
+120,6,Schwein,Porc,Maiale,Pork,1.17,"[3044, 3053, 3056, 3078, 3059, 3043]"
+54,5,Geflügel,Volailles,Pollame,Poultry,1.2,"[3044, 3050, 3056, 3059, 3041]"
 8,2,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.0,"[3047, 3054]"
-1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[3049, 3079]"
+3,2,Gemüse,Légumes,Ortaggi,Vegetables,1.0,"[3051, 3042]"
 34,2,Früchte,Fruits,Frutta,Fruits,1.5,"[3051, 3058]"
 118,2,Rind,Boeuf,Manzo,Beef,1.5,"[3056, 3059]"
-56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[3045]
+1,2,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.0,"[3079, 3049]"
 79,1,Frucht- und Gemüsesäfte,Jus de fruits et de légumes,Succhi di frutta e di verdura,Fruit And Vegetable Juices,1.0,[3046]
-61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
 60,1,Fische,Poissons,Pesce,Fish,2.0,[3055]
 82,1,Wasser,Eau,Acqua,Waters,1.0,[3057]
-9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[3060]
-5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",1.0,[3063]
 71,1,"Nicht spezifizierte sowie gemischte Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie non spécifiés ou mélangés","Zucchero, cioccolato e dolciumi non classificati e misti",Unclassified Or Combined Confectionery It,1.0,[3066]
 42,1,Käse,Fromages,Formaggi,Cheeses (Including Spread Cheeses),2.0,[3067]
 6,1,"Milch, Milchprodukte und Milchersatzprodukte","Laits, produits laitiers et substituts de lait","Latte, latticini e succedanei del latte",Dairy Products And Substitutes,2.0,[3073]
 81,1,"Kaffee, Tee, Frucht- und Kräutertee","Café, thé, tisane aux fruits et aux herbes","Caffè, tè, tè di frutti e di erbe","Coffee, Tea And Herbal Teas",1.0,[3077]
-19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,1.0,[3068]
+61,1,Schalen- und Weichtiere,Crustacés et mollusques,Crostacei e molluschi,"Crustaceans, Molluscs",2.0,[3048]
+56,1,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.0,[3045]
+5,1,"Früchte, Nüsse und Samen","Fruits, fruits oléagineux et graines","Frutta, frutta oleaginosa e semi","Fruits, Nuts And Seeds",2.0,[3063]
+19,1,Salzige Snacks,Snacks salés,Spuntini salati,Salty Snacks,2.0,[3068]
+9,1,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.0,[3060]
