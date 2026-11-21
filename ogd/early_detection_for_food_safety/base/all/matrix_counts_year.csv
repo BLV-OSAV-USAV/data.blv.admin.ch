@@ -31,6 +31,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 12,2,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,"[2583, 2663]"
 49,2,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,"[2590, 2870]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2598, 2731]"
+126,2,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,"[2658, 3080]"
 100,2,Diätprodukte und Sportlernahrung,Produits diététiques et aliments pour sportifs,Prodotti dietetici e alimenti per sportivi,Dietetic Products,1.0,"[2664, 3010]"
 56,2,Fleisch- und Wurstwaren (verarbeitetes Fleisch),Charcuterie,Prodotti di carne e insaccati (carne trasformata),Processed Meat,1.5,"[2876, 3045]"
 148,2,Wein,Vin,Vino,Wine,2.0,"[2876, 2947]"
@@ -42,7 +43,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 35,1,Nüsse und Samen (inkl. Aufstriche und Pasten),Fruits oléagineux et graines (incl. beurre),Frutta oleaginosa e semi (inclusi prodotti da spalmare e paste),Nuts And Seeds (+ Nut Spread),2.0,[2610]
 15,1,Alkoholische Getränke,Boissons avec alcool,Bevande alcoliche,Alcoholic Beverages,1.0,[2623]
 157,1,Mahlzeitenersatz und Sportlernahrung,Substituts de repas et aliments pour sportifs,Prodotti sostitutivi dei pasti e alimenti per sportivi,Meal Substitutes,1.0,[2644]
-126,1,Huhn und Hähnchen,"Poule, poulet","Pollo, gallina","Chicken, Hen",1.0,[2658]
 99,1,Vegetarische Produkte und Gerichte,Produits et plats végétariens,Prodotti/piatti vegetariani,Vegetarian Products/Dishes,1.0,[2643]
 36,1,Oliven,Olives,Olive,Olives,1.0,[2645]
 51,1,"Teige (z.B. Blätter-, Brot-, Mürbe-, Pizzateig)","Pâtes feuilletée, brisée, à pain, à pizza","Paste (per il pane, sfoglia, frolla, per pizza)","Dough And Pastry (Plain Puff, Short-Crust",1.0,[2727]
