@@ -1,9 +1,8 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.5,"[3058, 3051]"
 93,2,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,2.0,"[3059, 3072]"
-244,2,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,"[3052, 3057]"
+26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[3058]
 95,1,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,3.0,[3065]
-617,1,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,Salmonella Schwarzengrund,1.0,[3050]
+244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.0,[3057]
 125,1,Mikroplastik,microplastiques,microplastica,microplastics,1.0,[3057]
 9,1,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,2.0,[3067]
 111,1,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,2.0,[3072]
