@@ -1,12 +1,12 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 18,67,Diverse Lebensmittel,Aliments divers,Diverse derrate alimentari,Miscellaneous,1.24,"[2580, 2585, 2613, 2615, 2619, 2624, 2627, 2591, 2596, 2618, 2614, 2670, 2634, 2667, 2685, 2680, 2681, 2655, 2631, 2633, 2716, 2739, 2723, 2732, 2698, 2701, 2705, 2707, 2691, 2721, 2704, 2712, 2687, 2748, 2771, 2781, 2782, 2783, 2747, 2756, 2770, 2779, 2810, 2803, 2809, 2820, 2826, 2831, 2844, 2848, 2855, 2798, 2800, 2813, 2861, 2819, 2823, 2849, 2871, 2882, 2885, 2880, 2869, 2919, 2937, 2988, 2981]"
-8,23,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.3,"[2570, 2661, 2706, 2639, 2733, 2839, 2796, 2827, 2857, 2815, 2911, 2963, 2711, 2961, 2992, 2994, 3019, 3036, 3047, 3054, 3024, 3030, 3031]"
+8,23,"Fleisch, Fleischprodukte und Fleischersatz","Viandes, produits à base de viande et substituts de viande","Carne, prodotti di carne e sostituti della carne","Meat, Meat Products And Substitutes",1.3,"[2570, 2661, 2706, 2639, 2733, 2839, 2796, 2827, 2857, 2815, 2911, 2963, 2711, 2961, 2992, 2994, 3019, 3036, 3047, 3024, 3030, 3031, 3054]"
 1,23,Nicht spezifiziert,Non spécifié,Non specificato,Unclassified,1.17,"[2617, 2630, 2603, 2657, 2689, 2730, 2737, 2872, 2897, 2925, 2952, 2989, 2980, 3001, 3009, 3016, 3000, 3038, 3039, 3079, 3029, 3032, 3049]"
 3,18,Gemüse,Légumes,Ortaggi,Vegetables,1.33,"[2665, 2690, 2734, 2718, 2722, 2740, 2741, 2838, 2874, 2936, 2914, 2947, 2959, 2937, 2945, 3033, 3051, 3042]"
 54,15,Geflügel,Volailles,Pollame,Poultry,1.33,"[2604, 2650, 2629, 2760, 2829, 2808, 2951, 3002, 3005, 3044, 3050, 3056, 3059, 3034, 3041]"
 34,14,Früchte,Fruits,Frutta,Fruits,1.14,"[2600, 2662, 2686, 2734, 2741, 2838, 2874, 2931, 2947, 2959, 2985, 3023, 3051, 3058]"
-9,13,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.23,"[2552, 2581, 2597, 2654, 2684, 2673, 2828, 2852, 2853, 2929, 2797, 3013, 3060]"
 60,13,Fische,Poissons,Pesce,Fish,1.54,"[2616, 2653, 2647, 2736, 2699, 2766, 2811, 2816, 2846, 2815, 2916, 3055, 3081]"
+9,12,"Fische, Meeresfrüchte, Amphibien und Reptilien","Poissons, fruits de mer, amphibiens et reptiles","Pesce, crostacei, frutti di mare e anfibi","Fish, Shellfish And Amphibians",1.25,"[2581, 2597, 2654, 2684, 2673, 2828, 2852, 2853, 2929, 2797, 3013, 3060]"
 120,11,Schwein,Porc,Maiale,Pork,1.36,"[2971, 3017, 3025, 3008, 3040, 3044, 3053, 3056, 3078, 3059, 3043]"
 7,10,"Getreide, Getreideprodukte und Körner",Céréales et produits céréaliers,Cereali e prodotti cereali,Cereals And Cereal Products,1.1,"[2679, 2682, 2731, 2778, 2749, 2821, 2878, 2931, 2942, 2944]"
 82,9,Wasser,Eau,Acqua,Waters,1.33,"[2605, 2602, 2757, 2847, 2873, 2877, 2947, 2959, 3057]"
@@ -26,7 +26,6 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 133,3,Honig,Miel,Miele,Honey,1.33,"[2735, 2830, 2940]"
 118,3,Rind,Boeuf,Manzo,Beef,1.33,"[2785, 3056, 3059]"
 55,2,Wild,Gibier,Selvaggina,Game,1.5,"[2558, 2895]"
-22,2,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,"[2554, 2915]"
 12,2,"Zucker, Schokolade und Süsswaren","Sucre, chocolat et confiserie","Zucchero, cioccolato e dolciumi",Sugar And Confectionery,1.0,"[2583, 2663]"
 49,2,Brot und Dauerbackwaren,Pains et biscottes,Pane e articoli di biscotteria,"Bread, Crispbread, Rusks",1.0,"[2590, 2870]"
 50,2,Frühstückscerealien,Céréales du petit-déjeuner,Cereali per la colazione,Breakfast Cereals,1.0,"[2598, 2731]"
@@ -53,6 +52,7 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 65,1,Eier,Oeufs,Uova,Egg,2.0,[2829]
 73,1,"Schokolade, Schokoriegel, Aufstriche, Pulver und Süsswaren mit Schokolade","Chocolat, barre, pâte à tartiner, poudre et confiserie avec chocolat","Cioccolato, barrette di cioccolato, prodotti da spalmare, polvere e dolciumi al cioccolato","Chocolate, Candy Bars, Paste, Confetti/Fl",1.0,[2837]
 59,1,"Nicht spezifizierte sowie gemischte Fische, Meeresfrüchte und Amphibien","Poissons, fruits de mer, amphibiens et reptiles non spécifiés ou mélangés","Pesce, crostacei frutti die mare e anfibi non classificati e misti",Unclassified And Combined Fish Products,2.0,[2887]
+22,1,Nicht spezifizierte sowie gemischte Gemüse und Salate,Légumes et salades non spécifiés ou mélangés,Insalate e ortaggi misti non specificati,"Unclassified, Mixed Salad/Vegetables",2.0,[2915]
 30,1,Blattstiel- und Stängelgemüse sowie Keimlinge und Sprossen,"Légumes-tiges, germes et pousses",Ortaggi a stelo e germogli,"Stalk Vegetables, Sprouts",1.0,[2920]
 40,1,Joghurt und Sauermilchprodukte,Yogourts et produits à base de lait acidulé,Yogurt e prodotti a base di latte acido,Yoghurt And Sour Milk Products,1.0,[2950]
 44,1,"Rahm, Rahmersatz und Kaffeerahm","Crèmes, substituts de crème et crème à café","Panna, succedanei della panna e panna da caffè","Dairy And Non Dairy Creams, Creamers",1.0,[2957]
