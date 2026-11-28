@@ -1,5 +1,6 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
 125,2,Mikroplastik,microplastiques,microplastica,microplastics,2.0,"[3071, 3069]"
+26,2,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,"[3083, 3081]"
 111,2,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.5,"[3072, 3070]"
 69,1,Tetrahydrocannabinol (THC),Tétrahydrocannabinol (THC),Tetraidrocannabinolo (THC),Tetrahydrocannabinol (THC),1.0,[3066]
 95,1,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,Arcobacter spp.,3.0,[3065]
@@ -12,9 +13,9 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 90,1,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,Clostridium botulinum,2.0,[3063]
 176,1,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.0,[3064]
 2,1,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.0,[3078]
+87,1,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,2.0,[3084]
 126,1,Per- und polyfluorierte Alkylverbindungen (PFAS),Substances per- et polyfluoroalkylées (PFAS),Sostanze per- e polifluoroalchiliche (PFAS),Per- and polyfluoroalkyl substances (PFAS),1.0,[3079]
 244,1,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,2.0,[3081]
 548,1,Bisphenole,Bisphénols,Bisfenoli,Bisphenols,2.0,[3069]
-26,1,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,2.0,[3081]
 307,1,Natriumphosphat,Phosphate de sodium,Fosfato di sodio,Trisodium phosphate,1.0,[3082]
 86,1,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,Campylobacter spp.,1.0,[3080]

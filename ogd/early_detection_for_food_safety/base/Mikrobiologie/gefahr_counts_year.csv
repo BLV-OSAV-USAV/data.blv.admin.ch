@@ -1,5 +1,5 @@
 id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne,meldung_ids
-26,33,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.58,"[2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 3058, 2906, 2981, 2969, 2971, 3016, 2572, 2886, 2762, 2880, 3024, 3003, 3027, 2711, 3051, 2661, 2854, 2879, 2957, 2973, 3081, 2652, 2836]"
+26,34,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,Listeria monocytogenes,1.59,"[2732, 2719, 2867, 2688, 2634, 2722, 2777, 2810, 2769, 2811, 3058, 2906, 2981, 2969, 2971, 3016, 2572, 2886, 2762, 2880, 3024, 3003, 3083, 3027, 2711, 3051, 2661, 2854, 2879, 2957, 2973, 3081, 2652, 2836]"
 93,21,Salmonella spp.,Salmonella spp.,Salmonella spp.,Salmonella spp.,1.38,"[2565, 2882, 2693, 2634, 2723, 2769, 2777, 2969, 3043, 3059, 2664, 3072, 3003, 3023, 2570, 2661, 2808, 2803, 3036, 2577, 2650]"
 244,21,Antibiotikaresistenzen,Antibiorésistance,Antibiotico-resistenza,Antibiotic resistance,1.19,"[2604, 2882, 2911, 3043, 2581, 2592, 2654, 3040, 3052, 3057, 2760, 2701, 2705, 2629, 2684, 3034, 3015, 3081, 3044, 2748, 2740]"
 19,14,STEC/VTEC,STEC/VTEC,STEC/VTEC,STEC/VTEC,1.36,"[2839, 2584, 2769, 2897, 2610, 2727, 2567, 2661, 2800, 2824, 2812, 2994, 3015, 2686]"
@@ -8,10 +8,10 @@ id,count,bezeichnung_de,bezeichnung_fr,bezeichnung_it,bezeichnung_en,mean_sterne
 9,11,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,Staphylococcus aureus,1.36,"[2719, 2667, 2634, 2769, 2956, 3067, 2711, 2824, 2813, 3008, 3034]"
 106,10,Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),Bacillus cereus (sensu lato),1.3,"[2669, 2969, 2768, 2880, 3038, 3075, 2643, 2983, 2824, 2931]"
 94,6,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,Salmonella Typhimurium,1.17,"[2914, 3043, 2664, 2824, 3036, 2650]"
+87,5,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.6,"[2857, 3002, 2951, 3084, 3044]"
 119,5,Norovirus,Norovirus,Norovirus,Norovirus,1.6,"[2863, 3016, 2763, 2734, 3025]"
 125,5,Mikroplastik,microplastiques,microplastica,microplastics,1.0,"[2698, 2770, 3057, 2955, 2704]"
 2,5,Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),Hepatitis E Virus (HEV),1.2,"[2734, 2871, 3025, 3078, 3017]"
-87,4,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,Campylobacter jejuni,1.5,"[2857, 3002, 2951, 3044]"
 238,4,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,Vibrio parahaemolyticus,1.0,"[2634, 2581, 3013, 2798]"
 111,4,Mykotoxine,Mycotoxine,Micotossine,Mycotoxin,1.25,"[2731, 3072, 2743, 2631]"
 176,4,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,Yersinia enterocolitica,1.25,"[2769, 3064, 2936, 2661]"
